@@ -1,7 +1,21 @@
-from replaceExpand import replaceEmoticons, replaceRepetition, replaceNegation, removeStopWords, replaceUrl, replaceHashtag,  replaceTarget
+from replaceExpand import *
 from featureExtractor import findCapitalised
 import sys
 from collections import defaultdict
+
+def preprocesingTweet(tweet, token, stopWords, emoticonsDict):
+
+    tweet, token = removeNonEnglishWords(tweet, token)
+    print tweet
+    tweet, token = removeStopWords(tweet, token, stopWords)
+    tweet = replaceEmoticons(emoticonsDict, tweet)
+    tweet = replaceRepetition(tweet)
+    tweet = replaceNegation(tweet)
+    tweet = replaceUrl (tweet, token)
+    tweet = replaceHashtag (tweet, token)
+    tweet = replaceTarget (tweet, token)
+
+    return tweet,token
 
 if __name__ == '__main__':
     # write this in main file
@@ -18,7 +32,8 @@ if __name__ == '__main__':
     stopWords=defaultdict(int)
     f=open("stopWords.txt", "r")
     for line in f:
-        stopWords[line[:-1]]=1
+        if line:
+            stopWords[line[:-1]]=1
 
     f=open(sys.argv[1],'r')
     for line in f:
@@ -27,13 +42,8 @@ if __name__ == '__main__':
             tweet = temp[0].split(' ')
             print tweet
             token = temp[1].split(' ')
-            tweet, token = removeStopWords(tweet, token, stopWords)
-            tweet = replaceEmoticons(emoticonsDict,tweet)
-            tweet = replaceRepetition(tweet)
-            tweet = replaceNegation(tweet)
-            tweet = replaceUrl (tweet, token)
-            tweet = replaceHashtag (tweet, token)
-            tweet = replaceTarget (tweet, token)
+
+            tweet, token = preprocesingTweet(tweet, token, stopWords, emoticonsDict)
             print tweet
             percentageCapitalised = findCapitalised(tweet)
             print percentageCapitalised

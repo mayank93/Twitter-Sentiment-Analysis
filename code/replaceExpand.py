@@ -1,4 +1,28 @@
+import re
+
+def removeNonEnglishWords(tweet,token):
+    """remove the non-english or better non-ascii characters
+    takes as input a list of words in tweet and a list of corresponding tokens, 
+    not using tokens now but may use in future
+    and return the modified list of token and words"""
+
+    newTweet=[]
+    newToken=[]
+    for i in range(len(tweet)):
+        chk=re.match(r'([a-zA-z0-9 \+\?\.\*\^\$\(\)\[\]\{\}\|\\/:;\'\"><,.#@!~`%&-_=])+$',tweet[i])
+        if chk:
+            newTweet.append(tweet[i])
+            newToken.append(token[i])
+    return newTweet, newToken
+
+
+
+
 def removeStopWords(tweet, token, stopWordsDict):    
+    """remove the stop words ,
+    takes as input a list of words in tweet ,a list of corresponding tokens and a stopWords Dictonary, 
+    and return the modified list of token and words"""
+
     newTweet=[]
     newToken=[]
     for i in range(len(tweet)):
@@ -6,6 +30,9 @@ def removeStopWords(tweet, token, stopWordsDict):
             newTweet.append(tweet[i])
             newToken.append(token[i])
     return newTweet, newToken
+
+
+
 
 def replaceEmoticons(emoticonsDict,tweet):
     """replaces the emoticons present in tweet with its polarity
@@ -28,6 +55,9 @@ def replaceUrl(tweet, token):
             tweet[i]='U'
     return tweet
 
+
+
+
 def replaceHashtag(tweet, token):
     """takes as input a list which contains words in tweet and return list of words in tweet after replacement 
     #*** - > # """
@@ -35,6 +65,9 @@ def replaceHashtag(tweet, token):
         if token[i]=='#':
             tweet[i]='#'
     return tweet
+
+
+
 
 def replaceTarget(tweet, token):
     """takes as input a list which contains words in tweet and return list of words in tweet after replacement 
@@ -73,14 +106,3 @@ def replaceNegation(tweet):
             tweet[i]='negation'
 
     return tweet
-
-
-
-
-
-
-
-
-
-
-

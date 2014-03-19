@@ -19,10 +19,14 @@ def removeNonEnglishWords(tweet,token):
 
 
 def removeStopWords(tweet, token, stopWordsDict):    
+<<<<<<< HEAD
     """remove the stop words ,
     takes as input a list of words in tweet ,a list of corresponding tokens and a stopWords Dictonary, 
     and return the modified list of token and words"""
 
+=======
+    ''' removes stop words in the tweet from the given stop word list'''
+>>>>>>> c29854e665ce00d637876943da66708c0735cc5e
     newTweet=[]
     newToken=[]
     for i in range(len(tweet)):

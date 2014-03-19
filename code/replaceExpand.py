@@ -1,4 +1,5 @@
 def removeStopWords(tweet, token, stopWordsDict):    
+    ''' removes stop words in the tweet from the given stop word list'''
     newTweet=[]
     newToken=[]
     for i in range(len(tweet)):

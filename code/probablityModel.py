@@ -3,8 +3,9 @@ from senti_classifier import senti_classifier
 
 def probTraining(trainFile, stopWords, emoticonsDict):
     """trainFile is a file which contain the traind data is following format
-    tokenizedTweet\tpos\tlabel\n"""
-    wordCount={}
+    tokenizedTweet\tpos\tlabel\n it return the dictonary comtaining the prob of word being positive, negative, neutral"""
+
+    wordProb={}
     tweetCount=[0,0,0,0]
     f=open(trainFile,'r') 
     for i in f:
@@ -15,19 +16,35 @@ def probTraining(trainFile, stopWords, emoticonsDict):
             label=i[3].strip()
             tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict)
             for i in tweet:
-                if i not in wordCount:
-                    wordCount[i]=[0,0,0]
+                if i not in wordProb:
+                    wordProb[i]=[0.0,0.0,0.0]
 
-                wordCount[i][eval(label)]+=1
-                wordCount[i][total]+=1
+                wordProb[i][eval(label)]+=1.0
+                wordProb[i][total]+=1.0
                 tweetCount[eval(label)]+=1
                 tweetCount[total]+=1
     
-    for i in wordCount.keys():
-        wordCount[i][positive]=(wordCount[i][positive]*1.0)/wordCount[i][total]
-        wordCount[i][negative]=(wordCount[i][negative]*1.0)/wordCount[i][total]
-        wordCount[i][neutral]=(wordCount[i][neutral]*1.0)/wordCount[i][total]
+    for i in wordProb.keys():
+        posScore, negScore = senti_classifier.polarity_scores([i])
+        print posScore,negScore
+        wordProb[i][positive]=( ( ( wordProb[i][positive]*1.0 ) / wordProb[i][total] ) + posScore ) / 2.0
+        wordProb[i][negative]=( ( ( wordProb[i][negative]*1.0 ) / wordProb[i][total] ) + negScore ) / 2.0
+        wordProb[i][neutral]=(wordProb[i][neutral]*1.0)/wordProb[i][total]
+
+    return wordProb
     
 
-def probTesting():
-    pass
+def probTesting(tweet,wordProb):
+    """calculate the prob of each word in tweet and its features """
+    feature=[]
+    tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict,feature)
+    probDict={}
+    for i in tweet:
+        posScore, negScore = senti_classifier.polarity_scores([i])
+        print posScore,negScore
+        if i not in wordProb:
+            probDict[i]=[posScore,negScore,0.0]
+        else:
+            probDict[i]=wordProb[i]
+
+    return feature,probDict

@@ -21,8 +21,8 @@ for i in page:
         size=len(abr)
         for i in range(size):
             try:
-                print str(acr[i])+','+str(abr[i])
-                f.write(str(acr[i])+','+str(abr[i])+'\n');
+                print str(acr[i])+'\t'+str(abr[i])
+                f.write(str(acr[i])+'\t'+str(abr[i])+'\n');
             except:
                 print str(acr[i])
                 e.write(str(acr[i])+'\n');
@@ -32,8 +32,8 @@ for i in page:
         comb=[ (str(i.string),str(i['title'])) for i in comb ]
         for i in comb:
             try:
-                print str(i[0])+','+str(i[0])
-                f.write(str(i[0])+','+str(i[0])+'\n');
+                print str(i[0])+'\t'+str(i[0])
+                f.write(str(i[0])+'\t'+str(i[0])+'\n');
             except:
                 print str(i[0])
                 e.write(str(i[0])+'\n');

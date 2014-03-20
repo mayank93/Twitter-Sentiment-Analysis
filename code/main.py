@@ -14,6 +14,7 @@ if __name__ == '__main__':
             key=i[:-1]
             for j in key:
                 emoticonsDict[j]=value
+    acronymDict={}
 
     stopWords=defaultdict(int)
     f=open("stopWords.txt", "r")

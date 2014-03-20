@@ -1,6 +1,9 @@
 from replaceExpand import *
 from senti_classifier import senti_classifier
 
+
+
+
 def probTraining(trainFile, stopWords, emoticonsDict, acronymDict):
     """trainFile is a file which contain the traind data is following format
     tokenizedTweet\tpos\tlabel\n it return the dictonary comtaining the prob of word being positive, negative, neutral"""
@@ -32,21 +35,3 @@ def probTraining(trainFile, stopWords, emoticonsDict, acronymDict):
         wordProb[i][neutral]=(wordProb[i][neutral]*1.0)/wordProb[i][total]
 
     return wordProb
-    
-
-def probTesting(tweet,wordProb):
-    """calculate the prob of each word in tweet and its features """
-    feature=[]
-    tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict,feature)
-    probDict={}
-    for i in tweet:
-        posScore, negScore = senti_classifier.polarity_scores([i])
-        print posScore,negScore
-        if i not in wordProb:
-            probDict[i]=[posScore,negScore,0.0,0.0]
-        else:
-            probDict[i]=wordProb[i]
-
-    return feature,probDict
-
-

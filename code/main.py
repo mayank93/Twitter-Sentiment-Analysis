@@ -3,6 +3,7 @@ from featureExtractor import *
 from probablityModel import *
 import sys
 from collections import defaultdict
+trainFile="finalTrainingInput.txt"
 
 if __name__ == '__main__':
     # write this in main file
@@ -24,19 +25,41 @@ if __name__ == '__main__':
     for i in f:
         if i:
             i=i.split('\t')
-            key=i[0]
-            value=i[1]
+            key=i[0].lower()
+            value=i[1].lower()
             acronymDict[key]=value
 
     stopWords=defaultdict(int)
     f=open("stopWords.txt", "r")
     for line in f:
         if line:
-            stopWords[line[:-1]]=1
+            line=line.strip('\n \t\r').lower()
+            stopWords[line]=1
 
-    print "Hello"
-    polarityDictionary = probTraining(sys.argv[1], stopWords, emoticonsDict, acronymDict)
+    print "Creating Unigram Model......."
+    polarityDictionary = probTraining(trainFile, stopWords, emoticonsDict, acronymDict)
     print "Unigram Model Created"
+    
+    """Create a feature vector of training set """
+    print "Creating Feature Vectors....."
+    f=open(trainFile,'r')
+    featureVectors=[]
+    for i in f:
+        if i:
+            i=i.split('\t')
+            tweet=i[1].split()
+            token=i[2].split()
+            label=i[3].strip()
+            tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+            if tweet:
+                featureVectors+=list(findFeatures(tweet, token, polarityDictionary))
+
+    print "Feature Vectors Created....."
+
+    """Feed the feature vector to svm to create model"""
+    
+    """for each new tweet create a feature vector and feed it to above model to get label"""
+
     f=open(sys.argv[1],'r')
     for line in f:
         temp = line.split('\t')
@@ -45,6 +68,7 @@ if __name__ == '__main__':
         token = temp[1].split(' ')
         tweet, token = preprocesingTweet(tweet, token, stopWords, emoticonsDict,acronymDict)
         print tweet
-        #featureVector = featureExtractor(tweet, token, polarityDictionary)
+        featureVector = findFeatures(tweet, token, polarityDictionary)
+        print featureVector
         break
 #    print probTraining("finalTrainingInput.txt", stopWords, emoticonsDict)

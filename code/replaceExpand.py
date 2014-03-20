@@ -5,6 +5,9 @@ negative=1
 neutral=2
 total=3
 
+
+
+
 def removeNonEnglishWords(tweet,token):
     """remove the non-english or better non-ascii characters
     takes as input a list of words in tweet and a list of corresponding tokens, 
@@ -31,7 +34,7 @@ def removeStopWords(tweet, token, stopWordsDict):
     newTweet=[]
     newToken=[]
     for i in range(len(tweet)):
-        if stopWordsDict[tweet[i]] == 0:
+        if stopWordsDict[tweet[i].lower()] == 0:
             newTweet.append(tweet[i])
             newToken.append(token[i])
     return newTweet, newToken
@@ -39,7 +42,7 @@ def removeStopWords(tweet, token, stopWordsDict):
 
 
 
-def replaceEmoticons(emoticonsDict,tweet):
+def replaceEmoticons(emoticonsDict,tweet,token):
     """replaces the emoticons present in tweet with its polarity
     takes as input a emoticons dict which has emoticons as key and polarity as value
     and a list which contains words in tweet and return list of words in tweet after replacement"""
@@ -47,7 +50,8 @@ def replaceEmoticons(emoticonsDict,tweet):
     for i in range(len(tweet)):
         if tweet[i] in emoticonsDict:
             tweet[i]=emoticonsDict[tweet[i]]
-    return tweet
+            token[i]='E'
+    return tweet,token
 
 
 
@@ -60,9 +64,10 @@ def expandAcronym(acronymDict,tweet,token):
     newTweet=[]
     newToken=[]
     for i in range(len(tweet)):
-        if tweet[i] in acronymDict:
-            newTweet+=acronymDict[tweet[i]].split()
-            newToken+=[token[i]]*len(acronymDict[tweet[i]].split())
+        word=tweet[i].lower()
+        if word in acronymDict:
+            newTweet+=acronymDict[word].split()
+            newToken+=[token[i]]*len(acronymDict[word].split())
         else:
             newTweet+=[tweet[i]]
             newToken+=[token[i]]
@@ -87,8 +92,9 @@ def replaceHashtag(tweet, token):
     #*** - > # """
     for i in range(len(tweet)):
         if token[i]=='#' or tweet[i].startswith('#'):
-            tweet[i]='#'
-    return tweet
+            token[i]='#'
+            tweet[i]=tweet[i][1:]
+    return tweet,token
 
 
 
@@ -98,8 +104,9 @@ def replaceTarget(tweet, token):
     @**** -> @ """
     for i in range(len(tweet)):
         if token[i]=='@' or tweet[i].startswith('@'):
-            tweet[i]='@'
-    return tweet
+            token[i]='@'
+            tweet[i]=tweet[i][1:]
+    return tweet,token
 
 
 
@@ -126,7 +133,7 @@ def replaceNegation(tweet):
     
    
     for i in range(len(tweet)):
-        if(tweet[i].lower()=="no" or tweet[i].lower()=="not" or tweet[i][0].lower()=="~" or tweet[i][-3:].lower()=="n't"):
+        if(tweet[i].lower()=="no" or tweet[i].lower()=="not" or tweet[i][0].lower()=="~" or tweet[i].lower().count("n't")>0):
             tweet[i]='negation'
 
     return tweet
@@ -140,10 +147,10 @@ def preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict):
     tweet, token = expandAcronym(acronymDict,tweet,token)
     tweet = replaceNegation(tweet)
     tweet, token = removeStopWords(tweet, token, stopWords)
-    tweet = replaceEmoticons(emoticonsDict, tweet)
+    tweet,token = replaceEmoticons(emoticonsDict, tweet,token)
     tweet = replaceRepetition(tweet)
     tweet = replaceUrl (tweet, token)
-    tweet = replaceHashtag (tweet, token)
-    tweet = replaceTarget (tweet, token)
+    tweet,token = replaceHashtag (tweet, token)
+    tweet,token = replaceTarget (tweet, token)
 
     return tweet,token

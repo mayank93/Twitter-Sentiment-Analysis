@@ -35,6 +35,4 @@ if __name__ == '__main__':
             percentageCapitalised = findCapitalised(tweet)
             print percentageCapitalised
 
-
-    #print replaceRepetition("Renewed fighting rooooocks  Syria : An early morning explosion rocked flashpoint city Deir Ezzor Saturday ... http://t.co/zf7AKZMr   V V V ^ , D A N N V N N ^ ^ ^ ~ U")
-    #print replaceNegation("Renewed fighting isn't isn't rocks Syria : An early morning explosion rocked flashpoint city Deir Ezzor Saturday ... http://t.co/zf7AKZMr    V V V ^ , D A N N V N N ^ ^ ^ ~ U")
+    probTraining("finalTrainingInput.txt", stopWords, emoticonsDict)

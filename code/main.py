@@ -3,20 +3,6 @@ from featureExtractor import findCapitalised
 import sys
 from collections import defaultdict
 
-def preprocesingTweet(tweet, token, stopWords, emoticonsDict):
-
-    tweet, token = removeNonEnglishWords(tweet, token)
-    print tweet
-    tweet, token = removeStopWords(tweet, token, stopWords)
-    tweet = replaceEmoticons(emoticonsDict, tweet)
-    tweet = replaceRepetition(tweet)
-    tweet = replaceNegation(tweet)
-    tweet = replaceUrl (tweet, token)
-    tweet = replaceHashtag (tweet, token)
-    tweet = replaceTarget (tweet, token)
-
-    return tweet,token
-
 if __name__ == '__main__':
     # write this in main file
     f=open("emoticonsWithPolarity.txt",'r').read().split('\n')

@@ -106,3 +106,20 @@ def replaceNegation(tweet):
             tweet[i]='negation'
 
     return tweet
+
+
+
+
+def preprocesingTweet(tweet, token, stopWords, emoticonsDict,feature):
+    """preprocess the tweet """
+    tweet, token = removeNonEnglishWords(tweet, token)
+    print tweet
+    tweet, token = removeStopWords(tweet, token, stopWords)
+    tweet = replaceEmoticons(emoticonsDict, tweet)
+    tweet = replaceRepetition(tweet)
+    tweet = replaceNegation(tweet)
+    tweet = replaceUrl (tweet, token)
+    tweet = replaceHashtag (tweet, token)
+    tweet = replaceTarget (tweet, token)
+
+    return tweet,token

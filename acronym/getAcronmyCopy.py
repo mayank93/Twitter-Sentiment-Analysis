@@ -5,6 +5,7 @@ import requests
 baseUrl="http://www.noslang.com/dictionary/"
 page=list(map(chr, range(97, 123)))
 completeList=[]
+page='l'
 f=open("acronyn.txt",'w')
 e=open("error.txt",'w')
 for i in page:
@@ -17,6 +18,8 @@ for i in page:
         acr = soup.findAll('strong')
         acr=[i.string for i in acr]
         abr = soup.findAll('dd')
+        print abr
+        print acr
         abr=[i.string for i in abr]
         size=len(abr)
         for i in range(size):

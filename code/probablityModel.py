@@ -1,7 +1,7 @@
 from replaceExpand import *
 from senti_classifier import senti_classifier
 
-def probTraining(trainFile, stopWords, emoticonsDict):
+def probTraining(trainFile, stopWords, emoticonsDict, acronymDict):
     """trainFile is a file which contain the traind data is following format
     tokenizedTweet\tpos\tlabel\n it return the dictonary comtaining the prob of word being positive, negative, neutral"""
 
@@ -14,7 +14,7 @@ def probTraining(trainFile, stopWords, emoticonsDict):
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict)
+            tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
             for i in tweet:
                 i=i.lower()
                 if i not in wordProb:
@@ -23,9 +23,9 @@ def probTraining(trainFile, stopWords, emoticonsDict):
                 wordProb[i][total]=wordProb[i][total]+1.0
                 tweetCount[eval(label)]=tweetCount[eval(label)]+1
                 tweetCount[total]=tweetCount[total]+1
-    print len(wordProb) 
+
     for i in wordProb.keys():
-        print i
+        
         posScore, negScore = senti_classifier.polarity_scores([i])
         wordProb[i][positive]=( ( ( wordProb[i][positive]*1.0 ) / wordProb[i][total] ) + posScore ) / 2.0
         wordProb[i][negative]=( ( ( wordProb[i][negative]*1.0 ) / wordProb[i][total] ) + negScore ) / 2.0

@@ -134,10 +134,9 @@ def replaceNegation(tweet):
 
 
 
-def preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict, feature=[]):
+def preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict):
     """preprocess the tweet """
     tweet, token = removeNonEnglishWords(tweet, token)
-    print tweet
     tweet, token = expandAcronym(acronymDict,tweet,token)
     tweet = replaceNegation(tweet)
     tweet, token = removeStopWords(tweet, token, stopWords)

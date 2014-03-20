@@ -43,7 +43,7 @@ def probTesting(tweet,wordProb):
         posScore, negScore = senti_classifier.polarity_scores([i])
         print posScore,negScore
         if i not in wordProb:
-            probDict[i]=[posScore,negScore,0.0]
+            probDict[i]=[posScore,negScore,0.0,0.0]
         else:
             probDict[i]=wordProb[i]
 

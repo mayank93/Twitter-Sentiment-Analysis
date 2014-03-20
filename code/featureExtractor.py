@@ -26,7 +26,7 @@ def findCapitalised(tweet, score,token):
 	countCapNeg = 0
 	isCapitalised = 0
 	for i in range(len(tweet)):
-		if token[i]!='$'
+		if token[i]!='$':
 			if tweet[i].isupper():
 				countCap += 1
 				if score[tweet[i]][0]!=0.0:

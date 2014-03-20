@@ -1,3 +1,4 @@
 Twitter-sentiment-analysis
 
-to be updated
+
+pip install sentiment_classifier

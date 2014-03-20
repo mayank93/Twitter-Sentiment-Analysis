@@ -1,5 +1,10 @@
 import re
 
+positive=0
+negative=1
+neutral=2
+total=3
+
 def removeNonEnglishWords(tweet,token):
     """remove the non-english or better non-ascii characters
     takes as input a list of words in tweet and a list of corresponding tokens, 
@@ -110,7 +115,7 @@ def replaceNegation(tweet):
 
 
 
-def preprocesingTweet(tweet, token, stopWords, emoticonsDict,feature):
+def preprocesingTweet(tweet, token, stopWords, emoticonsDict,feature=[]):
     """preprocess the tweet """
     tweet, token = removeNonEnglishWords(tweet, token)
     print tweet

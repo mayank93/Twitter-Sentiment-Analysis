@@ -16,7 +16,7 @@ if __name__ == '__main__':
             for j in key:
                 emoticonsDict[j]=value
 
-    f=open("acronyn.txt",'r').read().split('\n')
+    f=open("acronym.txt",'r').read().split('\n')
     acronymDict={}
     for i in f:
         if i:

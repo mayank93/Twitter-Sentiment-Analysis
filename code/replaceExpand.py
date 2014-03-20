@@ -52,6 +52,25 @@ def replaceEmoticons(emoticonsDict,tweet):
 
 
 
+def expandAcronym(acronymDict,tweet,token):
+    """expand the Acronym present in tweet 
+    takes as input a acronym dict which has acronym as key and abbreviation as value,
+    a list which contains words in tweet and a list of token and return list of words in tweet after expansion and tokens"""
+    
+    newTweet=[]
+    newToken=[]
+    for i in range(len(tweet)):
+        if tweet[i] in acronymDict:
+            newTweet+=acronymDict[tweet[i]].split()
+            newToken+=[token[i]]*len(acronymDict[tweet[i]].split())
+        else:
+            newTweet+=[tweet[i]]
+            newToken+=[token[i]]
+    return newTweet, newToken
+
+
+
+
 def replaceUrl(tweet, token):
     """takes as input a list which contains words in tweet and return list of words in tweet after replacement 
     www.*.* ->'URL' """
@@ -67,7 +86,7 @@ def replaceHashtag(tweet, token):
     """takes as input a list which contains words in tweet and return list of words in tweet after replacement 
     #*** - > # """
     for i in range(len(tweet)):
-        if token[i]=='#':
+        if token[i]=='#' or tweet[i].startswith('#'):
             tweet[i]='#'
     return tweet
 
@@ -78,7 +97,7 @@ def replaceTarget(tweet, token):
     """takes as input a list which contains words in tweet and return list of words in tweet after replacement 
     @**** -> @ """
     for i in range(len(tweet)):
-        if token[i]=='@':
+        if token[i]=='@' or tweet[i].startswith('@'):
             tweet[i]='@'
     return tweet
 
@@ -115,14 +134,15 @@ def replaceNegation(tweet):
 
 
 
-def preprocesingTweet(tweet, token, stopWords, emoticonsDict,feature=[]):
+def preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict, feature=[]):
     """preprocess the tweet """
     tweet, token = removeNonEnglishWords(tweet, token)
     print tweet
+    tweet, token = expandAcronym(acronymDict,tweet,token)
+    tweet = replaceNegation(tweet)
     tweet, token = removeStopWords(tweet, token, stopWords)
     tweet = replaceEmoticons(emoticonsDict, tweet)
     tweet = replaceRepetition(tweet)
-    tweet = replaceNegation(tweet)
     tweet = replaceUrl (tweet, token)
     tweet = replaceHashtag (tweet, token)
     tweet = replaceTarget (tweet, token)

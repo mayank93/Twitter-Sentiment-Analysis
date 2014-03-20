@@ -147,6 +147,83 @@ bbtn	be back tonite
 bbvl	Be Back Very Later
 bbw	be back whenever
 bbwb	best buddy with boobs
+c	see
+c 2 c	cam to cam (webcams)
+c&c	Command and Conquer
+c'mon	Come On
+c-p	sleepy
+c.y.a	cover your a**
+c/b	comment back
+c/t	can't talk
+c14n	canonicalization
+c2	come to
+c2c	care to chat?
+c2tc	cut to the chase
+c4ashg	care for a shag
+c@	cat
+cam	camera
+cancer stick	cigarette
+catwot	complete and total waste of time
+cawk	c**k
+cayc	call at your convenience
+cb	come back
+cba	can't be arsed
+cbb	can't be bothered
+cbf	cant be f**ked
+cbfa	can't be f**king arsed
+cbfed	can't be f**ked
+cbi	can't believe it
+ccl	Couldn't Care Less
+ccna	Cisco Certified Network Associate
+cd9	Code 9 (other people nearby)
+celly	cell phone
+cex	sex
+cexy	sexy
+cfas	care for a secret?
+cfid	check for identification
+cfm	come f**k me
+cg	Congratulations
+cgad	couldn't give a d**n
+cgaf	couldn't give a f**k
+cgf	cute guy friend
+ch@	chat
+champs	champions
+char	character
+cheezburger	cheeseburger
+chik	chick
+chilax	chill and relax in one word
+chillax	chill and relax
+chillin	relaxing
+chk	check
+chohw	Come Hell or high water
+chr	character
+chronic	marijuana
+chswm	come have sex with me
+chswmrn	come have sex with me right now
+chu	you
+chut	p***y
+cid	consider it done
+cig	cigarette
+cigs	cigarettes
+cihswu	can i have sex with you
+cihyn	can i have your number
+cilf	child i'd like to f**k
+cing	seeing
+cis	computer information science
+ciwwaf	cute is what we aim for
+cless	clanless
+clm	Cool Like Me
+clt	Cool Like That
+cluebie	clueless newbie
+cm	call me
+cma	Cover My a**
+cmao	Crying My a** Off
+cmar	cry me a river
+cmb	comment me back
+cmbo	combo
+cmcp	call my cell phone
+cmeo	crying my eyes out
+cmh	Call My House
 d&c	divide and conquer
 d&df	drug & disease free
 d.t.f	down to f**k
@@ -561,8 +638,7 @@ ians	I am Not Sure
 ianyl	I am not your lawyer
 iap	I Am Pissed
 iasb	i am so bored
-iaspfm	i am sorry please forgive
-me
+iaspfm	i am sorry please forgive me
 iatb	I am the best
 iateu	i hate you
 iavb	i am very bored
@@ -615,84 +691,84 @@ idgac	i don't give a crap
 idgad	I don't give a d**n
 idgaf	i don't give a f**k
 idgaff	I don't give a flying f**k
-j-c	j-c
-j/a	j/a
-j/c	j/c
-j/j	j/j
-j/k	j/k
-j/o	j/o
-j/p	j/p
-j/s	j/s
-j/t	j/t
-j/w	j/w
-j00	j00
-j00r	j00r
-j2bs	j2bs
-j2c	j2c
-j2f	j2f
-j2luk	j2luk
-j2lyk	j2lyk
-j4f	j4f
-j4g	j4g
-j4l	j4l
-j4u	j4u
-jalaudlm	jalaudlm
-jas	jas
-jb	jb
-jbu	jbu
-jc	jc
-jcam	jcam
-jcath	jcath
-jdfi	jdfi
-jebus	jebus
-jeomk	jeomk
-jf	jf
-jfc	jfc
-jfdi	jfdi
-jff	jff
-jfg	jfg
-jfgi	jfgi
-jfi	jfi
-jfj	jfj
-jfk	jfk
-jfl	jfl
-jflts	jflts
-jfn	jfn
-jfo	jfo
-jfr	jfr
-jftr	jftr
-jfu	jfu
-jfwy	jfwy
-jg2h	jg2h
-jgiyn	jgiyn
-jgtfooh	jgtfooh
-jh	jh
-jhm	jhm
-jho	jho
-jic	jic
-jit	jit
-jizz	jizz
-jj	jj
-jj/k	jj/k
-jja	jja
-jk	jk
-jka	jka
-jking	jking
-jkl	jkl
-jklol	jklol
-jkn	jkn
-jks	jks
-jkz	jkz
-jlma	jlma
-jlt	jlt
-jm	jm
-jma	jma
-jml	jml
-jmo	jmo
-jms	jms
-jom	jom
-joo	joo
-jooc	jooc
+j-c	just chilling
+j/a	Just Asking
+j/c	just curious
+j/j	just joking
+j/k	just kidding
+j/o	jackoff
+j/p	just playing
+j/s	just saying
+j/t	just talking
+j/w	just wondering
+j00	you
+j00r	your
+j2bs	just to be sure
+j2c	just too cute
+j2f	just too funny
+j2luk	just to let you know
+j2lyk	just to let you know
+j4f	just for fun
+j4g	just for grins
+j4l	just for laughs
+j4u	just for you
+jalaudlm	just as long as you don't leave me
+jas	just a second
+jb	jailbait
+jbu	just between us
+jc	just curious
+jcam	just checking away message
+jcath	Just chilling at the house
+jdfi	Just f**king do it
+jebus	Jesus
+jeomk	Just ejaculated on my keyboard
+jf	just fooling
+jfc	Jesus f**king Christ
+jfdi	Just f**king Do It!
+jff	just for fun
+jfg	just for giggles
+jfgi	just f**king google it
+jfi	just forget it
+jfj	jump for joy
+jfk	Just f**king kidding
+jfl	just for laughs
+jflts	just felt like typing something
+jfn	just for now
+jfo	just f**k off
+jfr	Just for reference
+jftr	just for the record
+jfu	just for you
+jfwy	just f**king with you
+jg2h	just go to hell
+jgiyn	Just google it you noob
+jgtfooh	just get the f**k out of here
+jh	Just hanging
+jhm	just hold me
+jho	just hanging out
+jic	just in case
+jit	just in time
+jizz	semen
+jj	just joking
+jj/k	just joking
+jja	just joking around
+jk	just kidding
+jka	just kidding around
+jking	joking
+jkl	just kidding loser
+jklol	Just Kidding Laughing Out Loud
+jkn	joking
+jks	jokes
+jkz	jokes
+jlma	just leave me alone
+jlt	just like that
+jm	Just Messing
+jma	just messing around
+jml	just my luck
+jmo	just my opinion
+jms	just making sure
+jom	just one minuite
+joo	you
+jooc	just out of curiosity
 k	ok
 k3wl	cool
 ka	Kick a**
@@ -1336,81 +1412,81 @@ sgtm	slightly gigling to myself
 sh	s**t happens
 shag	f**k
 shawty	girl
-t#3	t#3
-t,ftfy	t,ftfy
-t.t.y.l	t.t.y.l
-t/a	t/a
-t2b	t2b
-t2m	t2m
-t2u	t2u
-t2ul	t2ul
-t2ul8r	t2ul8r
-t3h	t3h
-t4a	t4a
-t4m	t4m
-t8st	t8st
-ta	ta
-taci	taci
-tafn	tafn
-taht	taht
-tai	tai
-taig	taig
-tal	tal
-tanq	tanq
-tanstaafl	tanstaafl
-tard	tard
-tarfu	tarfu
-tat	tat
-tat2	tat2
-tau	tau
-taunch	taunch
-taw	taw
-tay	tay
-tb	tb
-tb4u	tb4u
-tba	tba
-tbc	tbc
-tbd	tbd
-tbf	tbf
-tbfh	tbfh
-tbfu	tbfu
-tbh	tbh
-tbhimo	tbhimo
-tbnt	tbnt
-tbp	tbp
-tbpfh	tbpfh
-tbph	tbph
-tbqf	tbqf
-tbqh	tbqh
-tbss	tbss
-tbtfh	tbtfh
-tbvh	tbvh
-tc	tc
-tcfc	tcfc
-tcfm	tcfm
-tcg	tcg
-tchbo	tchbo
-tcial	tcial
-tcoy	tcoy
-tcp	tcp
-tcp/ip	tcp/ip
-td2m	td2m
-tddup	tddup
-tdf	tdf
-tdl	tdl
-tdtm	tdtm
-tdwdtg	tdwdtg
-te	te
-teh	teh
-teotwawki	teotwawki
-terd	terd
-tf2	tf2
-tfa	tfa
-tfb	tfb
-tfbundy	tfbundy
-tfc	tfc
-tfd	tfd
-tff	tff
+t#3	the
+t,ftfy	there, fixed that for you
+t.t.y.l	Talk To You Later
+t/a	Try again
+t2b	time to blunt
+t2m	talk to me
+t2u	talking to you
+t2ul	talk to you later
+t2ul8r	talk to you later
+t3h	the
+t4a	thanks for asking
+t4m	Transgender for Male
+t8st	taste
+ta	thanks again
+taci	that's a crappy idea
+tafn	That's all for now
+taht	that
+tai	think about it
+taig	That's all I got. 
+tal	thanks a lot
+tanq	thank you
+tanstaafl	there ain't no such thing as a free lunch
+tard	retard
+tarfu	things are really f**ked up
+tat	that
+tat2	tattoo
+tau	thinking about you
+taunch	te amo un chingo
+taw	Teachers are Watching
+tay	thinking about you
+tb	text back
+tb4u	too bad for you
+tba	to be anounced
+tbc	To be continued
+tbd	to be decided
+tbf	to be fair
+tbfh	to be f**king honest
+tbfu	too bad for you
+tbh	to be honest
+tbhimo	to be honest in my opinion
+tbnt	thanks but no thanks
+tbp	The Pirate Bay
+tbpfh	To be perfectly f**king honest
+tbph	To be perfectly honest
+tbqf	to be quite frank
+tbqh	to be quite honest
+tbss	too bad so sad
+tbtfh	to be totally freaking honest
+tbvh	to be very honest
+tc	take care
+tcfc	Too Close For Comfort
+tcfm	too cool for me
+tcg	Trading Card Game
+tchbo	Topic creater has been owned
+tcial	The cake is a lie
+tcoy	take care of yourself
+tcp	transmission control protocol
+tcp/ip	transmission control protocol/internet protocol
+td2m	talk dirty to me
+tddup	till death do us part
+tdf	To Die For
+tdl	Too d**n Lazy
+tdtm	Talk Dirty To Me
+tdwdtg	The Devil Went Down To Georgia
+te	Team effort
+teh	the
+teotwawki	the end of the world as we know it
+terd	s**t
+tf2	Team Fortress 2
+tfa	the f**king article
+tfb	time for bed
+tfbundy	totaly f**ked but unfortunatly not dead yet
+tfc	Team Fortress Classic
+tfd	total f**king disaster
+tff	That's f**king Funny
 u	you
 u iz a 304	you is a hoe
 u'd	you would

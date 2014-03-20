@@ -16,17 +16,17 @@ def probTraining(trainFile, stopWords, emoticonsDict):
             label=i[3].strip()
             tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict)
             for i in tweet:
+                i=i.lower()
                 if i not in wordProb:
-                    wordProb[i]=[0.0,0.0,0.0]
-
-                wordProb[i][eval(label)]+=1.0
-                wordProb[i][total]+=1.0
-                tweetCount[eval(label)]+=1
-                tweetCount[total]+=1
-    
+                    wordProb[i]=[0.0,0.0,0.0,0]
+                wordProb[i][eval(label)]=wordProb[i][eval(label)]+1.0
+                wordProb[i][total]=wordProb[i][total]+1.0
+                tweetCount[eval(label)]=tweetCount[eval(label)]+1
+                tweetCount[total]=tweetCount[total]+1
+    print len(wordProb) 
     for i in wordProb.keys():
+        print i
         posScore, negScore = senti_classifier.polarity_scores([i])
-        print posScore,negScore
         wordProb[i][positive]=( ( ( wordProb[i][positive]*1.0 ) / wordProb[i][total] ) + posScore ) / 2.0
         wordProb[i][negative]=( ( ( wordProb[i][negative]*1.0 ) / wordProb[i][total] ) + negScore ) / 2.0
         wordProb[i][neutral]=(wordProb[i][neutral]*1.0)/wordProb[i][total]

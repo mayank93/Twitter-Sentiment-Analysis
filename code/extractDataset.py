@@ -18,8 +18,9 @@ def main():
         if words[3]!="Not Available\n":
 
            #use appropriate lines comment either of the lines
-    	   #data.append(words[0]+'\t'+words[2]+'\t'+words[3]) #with labels
-           data.append(words[0]+'\t'+words[3])                #without labels
+    	   #data.append(line) #with labels
+           data.append(" ".join(words[3:]))
+           #data.append(words[0]+'\t'+words[3])                #without labels
     f.close()
 
     f=open(sys.argv[2],'w')

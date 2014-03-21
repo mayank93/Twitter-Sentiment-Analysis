@@ -1,3 +1,4 @@
+"""This code extracts the features and returns the features"""
 from replaceExpand import *
 from featureExtractor import *
 from probablityModel import *
@@ -41,18 +42,26 @@ if __name__ == '__main__':
             line=line.strip('\n \t\r').lower()
             stopWords[line]=1
     f.close()
+
     """create Unigram Model"""
     print "Creating Unigram Model......."
     polarityDictionary = probTraining(sys.argv[1], stopWords, emoticonsDict, acronymDict)
     print "Unigram Model Created"
     
     """write the polarityDictionary"""
+    data=[]
+    for key in polarityDictionary:
+        data.append(key+'\t'+str(polarityDictionary[key][positive])+'\t'+str(polarityDictionary[key][negative])+'\t'+str(polarityDictionary[key][neutral]))
+    f=open('polarityDictionary.txt','w')
+    f.write('\n'.join(data))
+    f.close()
     
+
     
-    encode={'positive': 1,'negative': -1,'neutral':0}
-    trainingLabel=[]
     """Create a feature vector of training set """
     print "Creating Feature Vectors....."
+    encode={'positive': 1,'negative': -1,'neutral':0}
+    trainingLabel=[]
     f=open(sys.argv[1],'r')
     featureVectors=[]
     for i in f:
@@ -65,8 +74,7 @@ if __name__ == '__main__':
             if tweet:
                 trainingLabel.append(encode[label])
                 featureVectors.append(findFeatures(tweet, token, polarityDictionary))
-
-    #print featureVectors
+    f.close()
     print "Feature Vectors Created....."
 
     """Feed the feature vector to svm to create model"""
@@ -93,7 +101,7 @@ if __name__ == '__main__':
             if tweet:
                 testingLabel.append(encode[label])
                 featureVectors.append(findFeatures(tweet, token, polarityDictionary))
-
+    f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
     predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectors, model)
     print "Finished. The accuracy is:"

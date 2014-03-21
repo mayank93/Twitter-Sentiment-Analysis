@@ -1,12 +1,20 @@
+"""This code combines the output of the tokeniser and the input tweet set and returns the final input file in the following format"""
+"""tweet Id, Tweet tokens, POS tokens,label """
+
+
 import sys
 from itertools import izip
 
+
 def main():    
-    if len(sys.argv)!= 4:                                                                               #check arguments
+
+    """check arguments"""
+    if len(sys.argv)!= 4:                                                                               
         print "Usage :: python combine.py ../documents-export-2014-03-19/trainingDatasetProcessed.txt ../documents-export-2014-03-19/trainingTokenised.txt ../documents-export-2014-03-19/finalTrainingInput.txt"
         #print "Usage :: python combine.py ../documents-export-2014-03-19/testingDatasetProcessed.txt ../documents-export-2014-03-19/testingTokenised.txt ../documents-export-2014-03-19/finalTestingInput.txt"
         sys.exit(0)
 
+    """Parallely combine both the files"""
     data=[]
     f1=open(sys.argv[1],'r')
     f2=open(sys.argv[2],'r')
@@ -18,7 +26,7 @@ def main():
     f1.close()
     f2.close()
 
-
+    """write into file"""
     f=open(sys.argv[3],'w')
     f.write("".join(data))
     f.close()

@@ -7,8 +7,6 @@ total=3
 listSpecialTag = ['#','U','@',',','E','~','$','G']
 
 
-
-
 def calculateScore(tweet, polarityDictionary):
     score = {}
     for i in range(len(tweet)):
@@ -33,10 +31,6 @@ def findCapitalised(tweet, token, score):
     countCapPos = 0
     countCapNeg = 0
     isCapitalised = 0
-    print len(tweet)
-    print len(token)
-    print token
-    print tweet
     for i in range(len(tweet)):
         if token[i]!='$':
             if tweet[i].isupper():

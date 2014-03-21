@@ -2,8 +2,6 @@ from replaceExpand import *
 from senti_classifier import senti_classifier
 
 
-
-
 def probTraining(trainFile, stopWords, emoticonsDict, acronymDict):
     """trainFile is a file which contain the traind data is following format
     tokenizedTweet\tpos\tlabel\n it return the dictonary comtaining the prob of word being positive, negative, neutral"""

@@ -3,13 +3,16 @@ from featureExtractor import *
 from probablityModel import *
 import sys
 from collections import defaultdict
-trainFile="finalTrainingInput.txt"
+from svmutil import *
 
 if __name__ == '__main__':
-    # write this in main file
-    if len(sys.argv)!= 2:                                                                               #check arguments
-        print "Usage :: python main.py ../dataset/finalTrainingInput.txt"
+    
+    """check arguments"""
+    if len(sys.argv)!= 3:                                                   
+        print "Usage :: python main.py ../dataset/finalTrainingInput.txt ../dataset/finalTestingInput"
+        sys.exit(0)
 
+    """create emoticons dictionary"""
     f=open("emoticonsWithPolarity.txt",'r').read().split('\n')
     emoticonsDict={}
     for i in f:
@@ -20,6 +23,7 @@ if __name__ == '__main__':
             for j in key:
                 emoticonsDict[j]=value
 
+    """create acronym dictionary"""
     f=open("acronym.txt",'r').read().split('\n')
     acronymDict={}
     for i in f:
@@ -29,20 +33,27 @@ if __name__ == '__main__':
             value=i[1].lower()
             acronymDict[key]=value
 
+    """create stopWords dictionary"""
     stopWords=defaultdict(int)
     f=open("stopWords.txt", "r")
     for line in f:
         if line:
             line=line.strip('\n \t\r').lower()
             stopWords[line]=1
-
+    f.close()
+    """create Unigram Model"""
     print "Creating Unigram Model......."
-    polarityDictionary = probTraining(trainFile, stopWords, emoticonsDict, acronymDict)
+    polarityDictionary = probTraining(sys.argv[1], stopWords, emoticonsDict, acronymDict)
     print "Unigram Model Created"
     
+    """write the polarityDictionary"""
+    
+    
+    encode={'positive': 1,'negative': -1,'neutral':0}
+    trainingLabel=[]
     """Create a feature vector of training set """
     print "Creating Feature Vectors....."
-    f=open(trainFile,'r')
+    f=open(sys.argv[1],'r')
     featureVectors=[]
     for i in f:
         if i:
@@ -52,24 +63,39 @@ if __name__ == '__main__':
             label=i[3].strip()
             tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
             if tweet:
-                featureVectors+=[findFeatures(tweet, token, polarityDictionary)]
-                print featureVectors[-1]
+                trainingLabel.append(encode[label])
+                featureVectors.append(findFeatures(tweet, token, polarityDictionary))
 
+    #print featureVectors
     print "Feature Vectors Created....."
 
     """Feed the feature vector to svm to create model"""
-    
-    """for each new tweet create a feature vector and feed it to above model to get label"""
+    print "Creating SVM Model"
+    model= svm_train(trainingLabel,featureVectors)
+    print "Model created. Saving..."
 
-    f=open(sys.argv[1],'r')
-    for line in f:
-        temp = line.split('\t')
-        tweet = temp[0].split(' ')
-        print tweet
-        token = temp[1].split(' ')
-        tweet, token = preprocesingTweet(tweet, token, stopWords, emoticonsDict,acronymDict)
-        print tweet
-        featureVector = findFeatures(tweet, token, polarityDictionary)
-        print featureVector
-        break
-#    print probTraining("finalTrainingInput.txt", stopWords, emoticonsDict)
+    """Save model"""
+    svm_save_model('sentimentAnalysis.model', model)
+    print "Model Saved. Proceed to test..."
+
+
+    """for each new tweet create a feature vector and feed it to above model to get label"""
+    testingLabel=[]
+    f=open(sys.argv[2],'r')
+    featureVectors=[]
+    for i in f:
+        if i:
+            i=i.split('\t')
+            tweet=i[1].split()
+            token=i[2].split()
+            label=i[3].strip()
+            tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+            if tweet:
+                testingLabel.append(encode[label])
+                featureVectors.append(findFeatures(tweet, token, polarityDictionary))
+
+    print "Feature Vectors of test input created. Calculating Accuracy..."
+    predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectors, model)
+    print "Finished. The accuracy is:"
+    print predictedAcc[0]
+

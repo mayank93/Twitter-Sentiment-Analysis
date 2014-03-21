@@ -52,7 +52,8 @@ if __name__ == '__main__':
             label=i[3].strip()
             tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
             if tweet:
-                featureVectors+=list(findFeatures(tweet, token, polarityDictionary))
+                featureVectors+=[findFeatures(tweet, token, polarityDictionary)]
+                print featureVectors[-1]
 
     print "Feature Vectors Created....."
 

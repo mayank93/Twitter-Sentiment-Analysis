@@ -23,6 +23,7 @@ if __name__ == '__main__':
             key=i[:-1]
             for j in key:
                 emoticonsDict[j]=value
+    f.close()
 
     """create acronym dictionary"""
     f=open("acronym.txt",'r').read().split('\n')
@@ -33,6 +34,7 @@ if __name__ == '__main__':
             key=i[0].lower()
             value=i[1].lower()
             acronymDict[key]=value
+    f.close()
 
     """create stopWords dictionary"""
     stopWords=defaultdict(int)

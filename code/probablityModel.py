@@ -24,7 +24,7 @@ def probTraining(trainFile, stopWords, emoticonsDict, acronymDict):
                 wordProb[i][total]=wordProb[i][total]+1.0
                 tweetCount[eval(label)]=tweetCount[eval(label)]+1
                 tweetCount[total]=tweetCount[total]+1
-
+    f.close()
     for i in wordProb.keys():
         
         posScore, negScore = senti_classifier.polarity_scores([i])

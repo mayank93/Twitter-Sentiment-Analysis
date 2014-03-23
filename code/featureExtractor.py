@@ -114,16 +114,28 @@ def findHashtag( tweet, token, score):
 		
 
 		
+def countSpecialChar(tweet):
+    count={'?':0,'!':0,'*':0}
+    for i in range(len(tweet)):
+        word=tweet[i].lower()
+        if word:
+            count['?']+=word.count('?')
+            count['!']+=word.count('!')
+            count['*']+=word.count('*')
+
+    return [count['?'],count['!'],count['*']]
+
+
+
 
 def findFeatures(tweet, token, polarityDictionary):
-	"""takes as input the tweet and token and returns the feature vector"""
+    """takes as input the tweet and token and returns the feature vector"""
     
-	score =calculateScore(tweet, polarityDictionary)
-	featureVector=[]
-	featureVector.extend(findCapitalised( tweet, token, score))
-	featureVector.extend(findHashtag( tweet, token, score))
-	featureVector.extend(findEmoticons(tweet, token))
-	featureVector.extend(findNegation(tweet))
-	featureVector.extend(findPositiveNegativeWords(tweet,token, score))
-
-	return featureVector
+    score =calculateScore(tweet, polarityDictionary)
+    featureVector=[]
+    featureVector.extend(findCapitalised( tweet, token, score))
+    featureVector.extend(findHashtag( tweet, token, score))
+    featureVector.extend(findEmoticons(tweet, token))
+    featureVector.extend(findNegation(tweet))
+    featureVector.extend(findPositiveNegativeWords(tweet,token, score))
+    return featureVector

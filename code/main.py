@@ -14,9 +14,10 @@ if __name__ == '__main__':
         sys.exit(0)
 
     """create emoticons dictionary"""
-    f=open("emoticonsWithPolarity.txt",'r').read().split('\n')
+    f=open("emoticonsWithPolarity.txt",'r')
+    data=f.read().split('\n')
     emoticonsDict={}
-    for i in f:
+    for i in data:
         if i:
             i=i.split()
             value=i[-1]
@@ -26,9 +27,10 @@ if __name__ == '__main__':
     f.close()
 
     """create acronym dictionary"""
-    f=open("acronym.txt",'r').read().split('\n')
+    f=open("acronym.txt",'r')
+    data=f.read().split('\n')
     acronymDict={}
-    for i in f:
+    for i in data:
         if i:
             i=i.split('\t')
             key=i[0].lower()

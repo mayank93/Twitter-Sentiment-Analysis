@@ -93,7 +93,6 @@ if __name__ == '__main__':
     """Save model"""
     svm_save_model('sentimentAnalysis.model', model)
     print "Model Saved. Proceed to test..."
-
     """for each new tweet create a feature vector and feed it to above model to get label"""
     testingLabel=[]
     f=open(sys.argv[2],'r')
@@ -105,6 +104,7 @@ if __name__ == '__main__':
             token=i[2].split()
             label=i[3].strip()
             tweet,token,count=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+#            print tweet
             if tweet:
                 testingLabel.append(encode[label])
                 featureVectors.append(findFeatures(tweet, token, polarityDictionary, count))

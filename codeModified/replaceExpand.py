@@ -4,7 +4,7 @@ positive=0
 negative=1
 neutral=2
 total=3
-specialChar='!@#%^&*()_=`{}:"|[]\;\',./\n\t\r '
+specialChar='1234567890@#%^&()_=`{}:"|[]\;\',./\n\t\r '
 listSpecialTag = ['#','U','@',',','E','~','$','G']
 
 
@@ -65,13 +65,14 @@ def expandAcronym(acronymDict,tweet,token):
     newToken=[]
     for i in range(len(tweet)):
         word=tweet[i].lower().strip(specialChar)
-        if word in acronymDict:
-            newTweet+=acronymDict[word][0]
-            newToken+=acronymDict[word][1]
+        if word:
+            if word in acronymDict:
+                newTweet+=acronymDict[word][0]
+                newToken+=acronymDict[word][1]
 
-        else:
-            newTweet+=[tweet[i]]
-            newToken+=[token[i]]
+            else:
+                newTweet+=[tweet[i]]
+                newToken+=[token[i]]
     return newTweet, newToken
 
 

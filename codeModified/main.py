@@ -14,9 +14,10 @@ if __name__ == '__main__':
         sys.exit(0)
 
     """create emoticons dictionary"""
-    f=open("emoticonsWithPolarity.txt",'r').read().split('\n')
+    f=open("emoticonsWithPolarity.txt",'r')
+    data=f.read().split('\n')
     emoticonsDict={}
-    for i in f:
+    for i in data:
         if i:
             i=i.split()
             value=i[-1]
@@ -26,22 +27,27 @@ if __name__ == '__main__':
     f.close()
 
     """create acronym dictionary"""
-    f=open("acronym.txt",'r').read().split('\n')
+    f=open("acronym_tokenised.txt",'r')
+    data=f.read().split('\n')
     acronymDict={}
-    for i in f:
+    for i in data:
         if i:
             i=i.split('\t')
-            key=i[0].lower()
-            value=i[1].lower()
-            acronymDict[key]=value
+            word=i[0].split()
+            token=i[1].split()[1:]
+            key=word[0].lower().strip(specialChar)
+            value=[j.lower().strip(specialChar) for j in word[1:]]
+#            print len(value)-len(token)
+            acronymDict[key]=[value,token]
     f.close()
-
+#    for i in acronymDict.keys():
+#        print i,acronymDict[i]
     """create stopWords dictionary"""
     stopWords=defaultdict(int)
     f=open("stopWords.txt", "r")
     for line in f:
         if line:
-            line=line.strip('\n \t\r').lower()
+            line=line.strip(specialChar).lower()
             stopWords[line]=1
     f.close()
 
@@ -72,10 +78,11 @@ if __name__ == '__main__':
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+            tweet,token,count=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+            print tweet
             if tweet:
                 trainingLabel.append(encode[label])
-                featureVectors.append(findFeatures(tweet, token, polarityDictionary))
+                featureVectors.append(findFeatures(tweet, token, polarityDictionary, count))
     f.close()
     print "Feature Vectors Created....."
 
@@ -83,11 +90,9 @@ if __name__ == '__main__':
     print "Creating SVM Model"
     model= svm_train(trainingLabel,featureVectors)
     print "Model created. Saving..."
-
     """Save model"""
     svm_save_model('sentimentAnalysis.model', model)
     print "Model Saved. Proceed to test..."
-
 
     """for each new tweet create a feature vector and feed it to above model to get label"""
     testingLabel=[]
@@ -99,13 +104,12 @@ if __name__ == '__main__':
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+            tweet,token,count=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
             if tweet:
                 testingLabel.append(encode[label])
-                featureVectors.append(findFeatures(tweet, token, polarityDictionary))
+                featureVectors.append(findFeatures(tweet, token, polarityDictionary, count))
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
     predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectors, model)
     print "Finished. The accuracy is:"
     print predictedAcc[0]
-

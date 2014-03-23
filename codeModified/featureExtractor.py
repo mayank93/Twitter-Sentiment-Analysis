@@ -1,17 +1,14 @@
 from senti_classifier import senti_classifier
+from replaceExpand import *
 
-positive=0
-negative=1
-neutral = 2
-total=3
-listSpecialTag = ['#','U','@',',','E','~','$','G']
+
 
 
 def calculateScore(tweet, polarityDictionary):
     score = {}
     for i in range(len(tweet)):
         neutralScore=0.0
-        word=tweet[i].lower()
+        word=tweet[i].lower().strip(specialChar)
         if word in polarityDictionary:
 		    posScore = polarityDictionary[word][positive]
 		    negScore = polarityDictionary[word][negative]
@@ -34,7 +31,7 @@ def findCapitalised(tweet, token, score):
     for i in range(len(tweet)):
         if token[i]!='$':
             if tweet[i].isupper():
-                word=tweet[i].lower()
+                word=tweet[i].lower().strip(specialChar)
                 countCap += 1
                 if score[word][positive]!=0.0:
                     countCapPos +=1
@@ -66,7 +63,7 @@ def findPositiveNegativeWords(tweet, token, score):
     totalScore = 0
     for i in range(len(tweet)):
         if token[i] not in listSpecialTag:
-            word=tweet[i].lower()
+            word=tweet[i].lower().strip(specialChar)
             if score[word][positive]!=0.0:
 	            countPos+=1
             if score[word][negative]!=0.0:
@@ -105,7 +102,7 @@ def findHashtag( tweet, token, score):
     countHashNeg=0
     for i in range(len(tweet)):
         if token[i]=='#' :
-            word=tweet[i].lower()
+            word=tweet[i].lower().strip(specialChar)
             if score[word][positive]!=0.0:
                 countHashPos+=1
             if score[word][negative]!=0.0:
@@ -115,7 +112,7 @@ def findHashtag( tweet, token, score):
 
 		
 
-def findFeatures(tweet, token, polarityDictionary):
+def findFeatures(tweet, token, polarityDictionary, count):
 	"""takes as input the tweet and token and returns the feature vector"""
     
 	score =calculateScore(tweet, polarityDictionary)
@@ -125,5 +122,6 @@ def findFeatures(tweet, token, polarityDictionary):
 	featureVector.extend(findEmoticons(tweet, token))
 	featureVector.extend(findNegation(tweet))
 	featureVector.extend(findPositiveNegativeWords(tweet,token, score))
+	featureVector.extend([count])  # number of words which had repetion
 
 	return featureVector

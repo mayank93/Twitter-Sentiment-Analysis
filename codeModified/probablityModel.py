@@ -15,9 +15,9 @@ def probTraining(trainFile, stopWords, emoticonsDict, acronymDict):
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            tweet,token=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+            tweet,token,count=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
             for i in tweet:
-                i=i.lower()
+                i=i.lower().strip(specialChar)
                 if i not in wordProb:
                     wordProb[i]=[0.0,0.0,0.0,0]
                 wordProb[i][eval(label)]=wordProb[i][eval(label)]+1.0

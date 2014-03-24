@@ -15,7 +15,7 @@ def probTraining(trainFile, stopWords, emoticonsDict, acronymDict):
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            tweet,token,count=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+            tweet, token, count1, count2=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
             for i in tweet:
                 i=i.lower().strip(specialChar)
                 if i:

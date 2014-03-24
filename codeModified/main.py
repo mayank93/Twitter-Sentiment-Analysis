@@ -78,11 +78,11 @@ if __name__ == '__main__':
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            tweet,token,count=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
-            print tweet
+            tweet,token,count1,count2=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+#            print tweet
             if tweet:
                 trainingLabel.append(encode[label])
-                featureVectors.append(findFeatures(tweet, token, polarityDictionary, count))
+                featureVectors.append(findFeatures(tweet, token, polarityDictionary, count1, count2))
     f.close()
     print "Feature Vectors Created....."
 
@@ -103,11 +103,11 @@ if __name__ == '__main__':
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            tweet,token,count=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
+            tweet,token,count1,count2=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
 #            print tweet
             if tweet:
                 testingLabel.append(encode[label])
-                featureVectors.append(findFeatures(tweet, token, polarityDictionary, count))
+                featureVectors.append(findFeatures(tweet, token, polarityDictionary, count1, count2))
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
     predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectors, model)

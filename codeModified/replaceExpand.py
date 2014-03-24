@@ -60,12 +60,13 @@ def expandAcronym(acronymDict,tweet,token):
     """expand the Acronym present in tweet 
     takes as input a acronym dict which has acronym as key and abbreviation as value,
     a list which contains words in tweet and a list of token and return list of words in tweet after expansion and tokens"""
-    
+    count=0
     newTweet=[]
     newToken=[]
     for i in range(len(tweet)):
         word=tweet[i].lower().strip(specialChar)
         if word:
+            count+=1
             if word in acronymDict:
                 newTweet+=acronymDict[word][0]
                 newToken+=acronymDict[word][1]
@@ -73,7 +74,7 @@ def expandAcronym(acronymDict,tweet,token):
             else:
                 newTweet+=[tweet[i]]
                 newToken+=[token[i]]
-    return newTweet, newToken
+    return newTweet, newToken, count
 
 
 
@@ -153,13 +154,13 @@ def preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict):
     """preprocess the tweet """
     tweet, token = removeNonEnglishWords(tweet, token)
     tweet,token = replaceEmoticons(emoticonsDict, tweet,token)
-    tweet, token = expandAcronym(acronymDict,tweet,token)
+    tweet, token, count1 = expandAcronym(acronymDict,tweet,token)
     tweet = replaceNegation(tweet)
     tweet, token = removeStopWords(tweet, token, stopWords)
-    tweet,count = replaceRepetition(tweet)
+    tweet,count2 = replaceRepetition(tweet)
     tweet = replaceUrl (tweet, token)
     tweet,token = replaceHashtag (tweet, token)
     tweet,token = replaceTarget (tweet, token)
 #    print tweet
 
-    return tweet,token,count
+    return tweet, token, count1, count2

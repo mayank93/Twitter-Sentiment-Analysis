@@ -51,24 +51,30 @@ if __name__ == '__main__':
             stopWords[line]=1
     f.close()
 
+    priorScore=dict(map(lambda (k,v): (frozenset(k.split()),int(v)),[ line.split('\t') for line in open("AFINN-111.txt") ]))
+    encode={'positive': 1,'negative': -1,'neutral':0}
+
+    polarityDictionary = {}
+
     """create Unigram Model"""
+    
     print "Creating Unigram Model......."
-    polarityDictionary = probTraining(sys.argv[1], stopWords, emoticonsDict, acronymDict)
+    polarityDictionary = probTraining(priorScore)
     print "Unigram Model Created"
     
+
     """write the polarityDictionary"""
+    """
     data=[]
     for key in polarityDictionary:
         data.append(key+'\t'+str(polarityDictionary[key][positive])+'\t'+str(polarityDictionary[key][negative])+'\t'+str(polarityDictionary[key][neutral]))
     f=open('polarityDictionary.txt','w')
     f.write('\n'.join(data))
     f.close()
-    
-
+    """
     
     """Create a feature vector of training set """
     print "Creating Feature Vectors....."
-    encode={'positive': 1,'negative': -1,'neutral':0}
     trainingLabel=[]
     f=open(sys.argv[1],'r')
     featureVectors=[]
@@ -78,14 +84,13 @@ if __name__ == '__main__':
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            tweet,token,count1,count2=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
-#            print tweet
             if tweet:
+                print 1
                 trainingLabel.append(encode[label])
-                featureVectors.append(findFeatures(tweet, token, polarityDictionary, count1, count2))
+                vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
+                featureVectors.append(vector)
     f.close()
     print "Feature Vectors Created....."
-
     """Feed the feature vector to svm to create model"""
     print "Creating SVM Model"
     model= svm_train(trainingLabel,featureVectors)
@@ -103,11 +108,11 @@ if __name__ == '__main__':
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            tweet,token,count1,count2=preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict)
-#            print tweet
             if tweet:
+                print 1
                 testingLabel.append(encode[label])
-                featureVectors.append(findFeatures(tweet, token, polarityDictionary, count1, count2))
+                vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
+                featureVectors.append(vector)
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
     predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectors, model)

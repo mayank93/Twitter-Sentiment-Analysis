@@ -108,7 +108,8 @@ def replaceTarget(tweet, token):
     for i in range(len(tweet)):
         if token[i]=='@' or tweet[i].startswith('@'):
             token[i]='@'
-            tweet[i]=tweet[i][1:].strip(specialChar)
+#            tweet[i]=tweet[i][1:].strip(specialChar)
+            tweet[i]=''
     return tweet,token
 
 
@@ -149,18 +150,61 @@ def replaceNegation(tweet):
 
 
 
+def expandNegation(tweet,token):
+    """takes as input a list which contains words in tweet and return list of words in tweet after expanding of "n't" to "not"
+       eg isn't -> is not """
+    
+    newTweet=[]
+    newToken=[]
+   
+    for i in range(len(tweet)):
+        word=tweet[i].lower().strip(specialChar)
+        if(word[-3:]=="n't"):
+            newTweet.append(word[:-3])
+            newTweet.append('not')
+            newToken.append('V')
+            newToken.append('R')
+        else:
+            newTweet.append(tweet[i])
+            newToken.append(token[i])
+    return newTweet,newToken
 
-def preprocesingTweet(tweet, token, stopWords, emoticonsDict, acronymDict):
+
+
+
+
+def preprocesingTweet1(tweet, token, emoticonsDict, acronymDict):
     """preprocess the tweet """
+    print tweet
     tweet, token = removeNonEnglishWords(tweet, token)
+    print tweet
     tweet,token = replaceEmoticons(emoticonsDict, tweet,token)
+    print tweet
     tweet, token, count1 = expandAcronym(acronymDict,tweet,token)
-    tweet = replaceNegation(tweet)
-    tweet, token = removeStopWords(tweet, token, stopWords)
+    print tweet
     tweet,count2 = replaceRepetition(tweet)
+    print tweet
     tweet = replaceUrl (tweet, token)
+    print tweet
     tweet,token = replaceHashtag (tweet, token)
+    print tweet
     tweet,token = replaceTarget (tweet, token)
+    print tweet
+    tweet,token = expandNegation (tweet, token)
+    print tweet
 #    print tweet
 
     return tweet, token, count1, count2
+
+
+
+
+def preprocesingTweet2(tweet, token, stopWords):
+    """preprocess the tweet """
+    tweet = replaceNegation(tweet)
+    print tweet
+    tweet, token = removeStopWords(tweet, token, stopWords)
+    print tweet
+#    print tweet
+
+    return tweet, token

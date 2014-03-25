@@ -85,7 +85,6 @@ if __name__ == '__main__':
             token=i[2].split()
             label=i[3].strip()
             if tweet:
-                print 1
                 trainingLabel.append(encode[label])
                 vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
                 featureVectors.append(vector)
@@ -109,7 +108,6 @@ if __name__ == '__main__':
             token=i[2].split()
             label=i[3].strip()
             if tweet:
-                print 1
                 testingLabel.append(encode[label])
                 vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
                 featureVectors.append(vector)

@@ -175,23 +175,14 @@ def expandNegation(tweet,token):
 
 def preprocesingTweet1(tweet, token, emoticonsDict, acronymDict):
     """preprocess the tweet """
-    print tweet
     tweet, token = removeNonEnglishWords(tweet, token)
-    print tweet
     tweet,token = replaceEmoticons(emoticonsDict, tweet,token)
-    print tweet
     tweet, token, count1 = expandAcronym(acronymDict,tweet,token)
-    print tweet
     tweet,count2 = replaceRepetition(tweet)
-    print tweet
     tweet = replaceUrl (tweet, token)
-    print tweet
     tweet,token = replaceHashtag (tweet, token)
-    print tweet
     tweet,token = replaceTarget (tweet, token)
-    print tweet
     tweet,token = expandNegation (tweet, token)
-    print tweet
 #    print tweet
 
     return tweet, token, count1, count2
@@ -202,9 +193,7 @@ def preprocesingTweet1(tweet, token, emoticonsDict, acronymDict):
 def preprocesingTweet2(tweet, token, stopWords):
     """preprocess the tweet """
     tweet = replaceNegation(tweet)
-    print tweet
     tweet, token = removeStopWords(tweet, token, stopWords)
-    print tweet
 #    print tweet
 
     return tweet, token

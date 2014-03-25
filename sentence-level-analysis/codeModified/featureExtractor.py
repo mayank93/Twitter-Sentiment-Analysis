@@ -154,28 +154,60 @@ def findHashtag( tweet, token, score):
 
 
 
-def countSpecialChar(tweet):
+def countSpecialChar(tweet,score):
     count={'?':0,'!':0,'*':0}
+#    count={'?':[0,0],'!':[0,0],'*':[0,0]}
     for i in range(len(tweet)):
         word=tweet[i].lower().strip(specialChar)
+#        word=frozenset([tweet[i].lower().strip(specialChar)])
         if word:
             count['?']+=word.count('?')
             count['!']+=word.count('!')
             count['*']+=word.count('*')
-
+            """
+            for phrase in score.keys():
+                if word.issubset(phrase):
+                    word=''.join(list(word))
+                    if score[phrase][positive]!=0.0:
+                        count['?'][positive]+=word.count('?')
+                        count['!'][positive]+=word.count('!')
+                        count['*'][positive]+=word.count('*')
+                    if score[phrase][negative]!=0.0:
+                        count['?'][negative]+=word.count('?')
+                        count['!'][negative]+=word.count('!')
+                        count['*'][negative]+=word.count('*')
+                    break
+            """
     return [ count['?'], count['!'], count['*'] ]
+#    return [ count['?'][positive], count['!'][positive], count['*'][positive], count['?'][negative], count['!'][negative], count['*'][negative] ]
 
 
 
 
-def countPosTag(tweet,token):
+def countPosTag(tweet,token,score):
     count={'N':0,'V':0,'R':0,'P':0,'O':0,'A':0}
+#    count={'N':[0,0],'V':[0,0],'R':[0,0],'P':[0,0],'O':[0,0],'A':[0,0]}
     for i in range(len(tweet)):
         word=tweet[i].lower().strip(specialChar)
+#        word=frozenset([tweet[i].lower().strip(specialChar)])
         if word:
             if token[i] in count:
                 count[token[i]]+=1
+            """           
+            for phrase in score.keys():
+                if word.issubset(phrase):
+                    word=''.join(list(word))
+                    if score[phrase][positive]!=0.0:
+                        if token[i] in count:
+                            count[token[i]][positive]+=1
+                    if score[phrase][negative]!=0.0:
+                        if token[i] in count:
+                            count[token[i]][negative]+=1
+                    break
+            """
+
     return [ count['N'], count['V'], count['R'], count['P'], count['O'], count['A'] ]
+#    return [ count['N'][positive], count['V'][positive], count['R'][positive], count['P'][positive], count['O'][positive], count['A'][positive], count['N'][negative], count['V'][negative], count['R'][negative], count['P'][negative], count['O'][negative], count['A'][negative] ]
 
 
 
@@ -193,8 +225,8 @@ def findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acr
     featureVector.extend(findEmoticons(tweet, token))
     featureVector.extend(findNegation(tweet))
     featureVector.extend(findPositiveNegativeWords(tweet,token, score))
-    featureVector.extend([count1])  # number of words which had repetion
-    featureVector.extend([count2])  # number of words which had repetion
-    featureVector.extend(countSpecialChar(tweet))  # number of  special char
-    featureVector.extend(countPosTag(tweet,token))
+#    featureVector.extend([count1])  # number of words which had repetion
+#    featureVector.extend([count2])  # number of words which had repetion
+    featureVector.extend(countSpecialChar(tweet,score))  # number of  special char
+    featureVector.extend(countPosTag(tweet,token,score))
     return featureVector, polarityDictionary

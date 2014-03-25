@@ -225,7 +225,7 @@ def findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acr
     featureVector.extend(findEmoticons(tweet, token))
     featureVector.extend(findNegation(tweet))
     featureVector.extend(findPositiveNegativeWords(tweet,token, score))
-#    featureVector.extend([count1])  # number of words which had repetion
+#    featureVector.extend([count1])  # number of acronym
 #    featureVector.extend([count2])  # number of words which had repetion
     featureVector.extend(countSpecialChar(tweet,score))  # number of  special char
     featureVector.extend(countPosTag(tweet,token,score))

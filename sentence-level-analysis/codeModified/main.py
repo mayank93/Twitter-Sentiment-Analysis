@@ -51,17 +51,16 @@ if __name__ == '__main__':
             stopWords[line]=1
     f.close()
 
-    priorScore=dict(map(lambda (k,v): (frozenset(k.split()),int(v)),[ line.split('\t') for line in open("AFINN-111.txt") ]))
+    priorScore=dict(map(lambda (k,v): (frozenset(reduce( lambda x,y:x+y,[[i] if i not in acronymDict else acronymDict[i][0] for i in k.split()])),int(v)),[ line.split('\t') for line in open("AFINN-111.txt") ]))
+#    print priorScore
     encode={'positive': 1,'negative': -1,'neutral':0}
 
     polarityDictionary = {}
 
     """create Unigram Model"""
-    
     print "Creating Unigram Model......."
     polarityDictionary = probTraining(priorScore)
     print "Unigram Model Created"
-    
 
     """write the polarityDictionary"""
     """

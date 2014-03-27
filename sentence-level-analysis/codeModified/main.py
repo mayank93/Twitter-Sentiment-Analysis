@@ -37,11 +37,9 @@ if __name__ == '__main__':
             token=i[1].split()[1:]
             key=word[0].lower().strip(specialChar)
             value=[j.lower().strip(specialChar) for j in word[1:]]
-#            print len(value)-len(token)
             acronymDict[key]=[value,token]
     f.close()
-#    for i in acronymDict.keys():
-#        print i,acronymDict[i]
+
     """create stopWords dictionary"""
     stopWords=defaultdict(int)
     f=open("stopWords.txt", "r")
@@ -52,7 +50,7 @@ if __name__ == '__main__':
     f.close()
 
     priorScore=dict(map(lambda (k,v): (frozenset(reduce( lambda x,y:x+y,[[i] if i not in acronymDict else acronymDict[i][0] for i in k.split()])),int(v)),[ line.split('\t') for line in open("AFINN-111.txt") ]))
-#    print priorScore
+
     encode={'positive': 1,'negative': -1,'neutral':0}
 
     polarityDictionary = {}

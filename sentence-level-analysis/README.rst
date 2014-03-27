@@ -1,0 +1,18 @@
+Features Used
+
+Number of positive words (N)
+Number of negative words (N)
+Number of negation words (N)
+Number of Extremely Positive Emoticon (N)
+Number of Extremely Negative Emoticon (N)
+Number of Positive Emoticon (N)
+Number of Negative Emoticon (N)
+Number of Positive Capitalised Words (N)
+Number of Negative Capitalised Words (N)
+Number of Positive Hashtag (N)
+Number of Negative Hashtag (N)
+Number of Exclamation Marks (N)
+Percentage of Capitalisation (R)
+Prior Polarity Scores of all words (R)
+Exclamation Present/Absent (B)
+Capitalisation Present/Absent (B)

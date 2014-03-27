@@ -1,4 +1,6 @@
-Twitter-sentiment-analysis
+This project aims sentiment analysis at two levels:
 
+Sentence Level Sentiment Analysis
+Phrase Level Sentiment Analysis
 
-pip install sentiment_classifier
+Look into the ReadMe files of the respective folder to learn more

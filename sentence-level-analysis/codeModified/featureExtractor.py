@@ -209,6 +209,12 @@ def countPosTag(tweet,token,score):
     return [ count['N'], count['V'], count['R'], count['P'], count['O'], count['A'] ]
 #    return [ count['N'][positive], count['V'][positive], count['R'][positive], count['P'][positive], count['O'][positive], count['A'][positive], count['N'][negative], count['V'][negative], count['R'][negative], count['P'][negative], count['O'][negative], count['A'][negative] ]
 
+def findUrl(tweet,token):
+    count = 0
+    for i in range(len(tweet)):
+        if token[i] ==  'U':
+            count+=1
+    return [count]
 
 
 
@@ -225,6 +231,7 @@ def findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acr
     featureVector.extend(findEmoticons(tweet, token))
     featureVector.extend(findNegation(tweet))
     featureVector.extend(findPositiveNegativeWords(tweet,token, score))
+    featureVector.extend(findUrl(tweet,token))
 #    featureVector.extend([count1])  # number of acronym
 #    featureVector.extend([count2])  # number of words which had repetion
     featureVector.extend(countSpecialChar(tweet,score))  # number of  special char

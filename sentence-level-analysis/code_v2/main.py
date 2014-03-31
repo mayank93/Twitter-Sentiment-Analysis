@@ -129,8 +129,8 @@ if __name__ == '__main__':
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
-            data.append(label)
             if tweet:
+                data.append(label)
                 testingLabel.append(encode[label])
                 vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
                 uniVector=[0]*len(uniModel)

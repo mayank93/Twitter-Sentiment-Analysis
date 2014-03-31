@@ -22,5 +22,5 @@ def probTraining(priorScore):
             else:
                 wordProb[i][positive]=posScore
                 wordProb[i][negative]=negScore
-
+                
     return wordProb

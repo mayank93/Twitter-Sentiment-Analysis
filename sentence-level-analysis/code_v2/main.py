@@ -1,8 +1,11 @@
 """This code extracts the features and returns the features"""
-from replaceExpand import *
 from featureExtractor import *
 from probablityModel import *
 import sys
+<<<<<<< HEAD
+from classifier import *
+from prepare import *
+=======
 from collections import defaultdict
 from svmutil import *
 #from sklearn import naive_bayes
@@ -37,6 +40,7 @@ def naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureV
     #model_clone = joblib.load('sentimentAnalysisNaiveBayes.pkl')
     print mnb.score(featureVectorsTest,testingLabel)
 
+>>>>>>> a52eccea863e71be7996a2060c85110b54b9a42c
 if __name__ == '__main__':
     
     """check arguments"""
@@ -44,54 +48,11 @@ if __name__ == '__main__':
         print "Usage :: python main.py ../dataset/finalTrainingInput.txt ../dataset/finalTestingInput"
         sys.exit(0)
 
-    """create emoticons dictionary"""
-    f=open("emoticonsWithPolarity.txt",'r')
-    data=f.read().split('\n')
-    emoticonsDict={}
-    for i in data:
-        if i:
-            i=i.split()
-            value=i[-1]
-            key=i[:-1]
-            for j in key:
-                emoticonsDict[j]=value
-    f.close()
-
-    #print emoticonsDict
-
-    """create acronym dictionary"""
-    f=open("acronym_tokenised.txt",'r')
-    data=f.read().split('\n')
-    acronymDict={}
-    for i in data:
-        if i:
-            i=i.split('\t')
-            word=i[0].split()
-            token=i[1].split()[1:]
-            key=word[0].lower().strip(specialChar)
-            value=[j.lower().strip(specialChar) for j in word[1:]]
-            acronymDict[key]=[value,token]
-    f.close()
-
-    #print acronymDict
-
-    """create stopWords dictionary"""
-    stopWords=defaultdict(int)
-    f=open("stopWords.txt", "r")
-    for line in f:
-        if line:
-            line=line.strip(specialChar).lower()
-            stopWords[line]=1
-    f.close()
+    acronymDict,stopWords,emoticonsDict = loadDictionary()
 
     priorScore=dict(map(lambda (k,v): (frozenset(reduce( lambda x,y:x+y,[[i] if i not in acronymDict else acronymDict[i][0] for i in k.split()])),int(v)),[ line.split('\t') for line in open("AFINN-111.txt") ]))
 
-    #print priorScore
-
-    encode={'positive': 1,'negative': 2,'neutral':3}
-
-    polarityDictionary = {}
-
+    
     """create Unigram Model"""
     print "Creating Unigram Model......."
     uniModel=[]
@@ -103,6 +64,7 @@ if __name__ == '__main__':
     uniModel.sort()
 
     print "Unigram Model Created"
+<<<<<<< HEAD
 
     print "Creating Bigram Model......."
     biModel=[]
@@ -126,7 +88,11 @@ if __name__ == '__main__':
     
     """ polarity dictionary combines prior score """
     polarityDictionary = probTraining(priorScore)
+=======
+>>>>>>> c4d54321b9feb981bb423849ff3815b9e150b9e9
 
+
+    """ polarity dictionary combines prior score """
     """write the polarityDictionary"""
     """
     data=[]
@@ -139,6 +105,8 @@ if __name__ == '__main__':
     
     """Create a feature vector of training set """
     print "Creating Feature Vectors....."
+
+    encode={'positive': 1.0,'negative': 2.0,'neutral':3.0}
     trainingLabel=[]
     f=open(sys.argv[1],'r')
     featureVectorsTrain=[]
@@ -187,6 +155,8 @@ if __name__ == '__main__':
     
     """for each new tweet create a feature vector and feed it to above model to get label"""
     testingLabel=[]
+    data=[]
+    data1=[]
     f=open(sys.argv[2],'r')
     featureVectorsTest=[]
     for i in f:
@@ -195,6 +165,7 @@ if __name__ == '__main__':
             tweet=i[1].split()
             token=i[2].split()
             label=i[3].strip()
+            data.append(label)
             if tweet:
                 testingLabel.append(encode[label])
                 vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
@@ -221,5 +192,24 @@ if __name__ == '__main__':
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
 
+<<<<<<< HEAD
+    predictedLabel = svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+
+    for i in range(len(predictedLabel)):
+        givenLabel = predictedLabel[i]
+        label = encode.keys()[encode.values().index(givenLabel)]
+        data1.append(label)
+
+    f=open('taskB.gs','w')
+    f.write('\n'.join(data))
+    f.close()
+
+    f=open('taskB.pred','w')
+    f.write('\n'.join(data1))
+    f.close()
+
+    naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+=======
     svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
     #naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+>>>>>>> a52eccea863e71be7996a2060c85110b54b9a42c

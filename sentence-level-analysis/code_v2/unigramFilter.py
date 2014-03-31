@@ -58,13 +58,22 @@ if __name__ == '__main__':
                 for i in tweet:
                     word=i.strip(specialChar).lower()
                     if word:
-                        if word in uniDict:
-                            uniDict[line][eval(label)]+=1
-                        else:
-                            uniDict[line]=[0,0,0]
-                tweet, token = preprocesingTweet2(tweet, token, stopWords)
+                        if word not in uniDict:
+                            uniDict[word]=[0,0,0]
+                        uniDict[word][eval(label)]+=1
     f.close()
-
+    uniModel=[]
     for i in uniDict.keys():
-        print i,uniDict[i]
+        count=reduce(lambda x,y:x+y,uniDict[i])
+        if count>=15:
+            count=count*1.0
+            pos=uniDict[i][positive]/count
+            neg=uniDict[i][negative]/count
+            neu=uniDict[i][neutral]/count
+            if pos>0.5 or neg>0.5 or neu > 0.5:
+                l=[i,pos,neg,neu,count]
+                uniModel.append(l)
 
+    uniModel=sorted(uniModel,key=lambda x:x[4],reverse=True) 
+    for i in uniModel:
+        print i[0]

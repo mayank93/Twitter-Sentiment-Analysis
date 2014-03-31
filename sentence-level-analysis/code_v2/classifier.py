@@ -1,6 +1,6 @@
 from svmutil import *
-from sklearn import naive_bayes
-from sklearn.externals import joblib
+#from sklearn import naive_bayes
+#from sklearn.externals import joblib
 
 def svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest):
     

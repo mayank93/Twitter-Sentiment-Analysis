@@ -2,45 +2,13 @@
 from featureExtractor import *
 from probablityModel import *
 import sys
-<<<<<<< HEAD
 from classifier import *
 from prepare import *
-=======
 from collections import defaultdict
 from svmutil import *
 #from sklearn import naive_bayes
 #from sklearn.externals import joblib
 
-def svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest):
-    
-    """Feed the feature vector to svm to create model"""
-    print "Creating SVM Model"
-    model= svm_train(trainingLabel,featureVectorsTrain)
-    print "Model created. Saving..."
-
-    """Save model"""
-    svm_save_model('sentimentAnalysisSVM.model', model)
-    print "Model Saved. Proceed to test..."
-
-    predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectorsTest, model)
-    print "Finished. The accuracy is:"
-    print predictedAcc[0]
-
-def naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest):
-    """Feed the feature vector to svm to create model"""
-    print "Creating Naive Bayes Model"
-    #mnb = naive_bayes.MultinomialNB() #Does not work as features can be negative
-    mnb = naive_bayes.GaussianNB()
-    mnb.fit(featureVectorsTrain,trainingLabel)
-    print "Model created. Saving..."
-
-    """Save model"""
-    joblib.dump(mnb, 'sentimentAnalysisNaiveBayes.pkl', compress=9)
-    ## To load
-    #model_clone = joblib.load('sentimentAnalysisNaiveBayes.pkl')
-    print mnb.score(featureVectorsTest,testingLabel)
-
->>>>>>> a52eccea863e71be7996a2060c85110b54b9a42c
 if __name__ == '__main__':
     
     """check arguments"""
@@ -64,7 +32,6 @@ if __name__ == '__main__':
     uniModel.sort()
 
     print "Unigram Model Created"
-<<<<<<< HEAD
 
     print "Creating Bigram Model......."
     biModel=[]
@@ -88,11 +55,8 @@ if __name__ == '__main__':
     
     """ polarity dictionary combines prior score """
     polarityDictionary = probTraining(priorScore)
-=======
->>>>>>> c4d54321b9feb981bb423849ff3815b9e150b9e9
 
 
-    """ polarity dictionary combines prior score """
     """write the polarityDictionary"""
     """
     data=[]
@@ -192,7 +156,6 @@ if __name__ == '__main__':
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
 
-<<<<<<< HEAD
     predictedLabel = svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
 
     for i in range(len(predictedLabel)):
@@ -208,8 +171,5 @@ if __name__ == '__main__':
     f.write('\n'.join(data1))
     f.close()
 
-    naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
-=======
     svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
     #naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
->>>>>>> a52eccea863e71be7996a2060c85110b54b9a42c

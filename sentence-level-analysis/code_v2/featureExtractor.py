@@ -1,6 +1,9 @@
 from senti_classifier import senti_classifier
 from replaceExpand import *
 
+
+
+
 def calculateScore(tweet, polarityDictionary):
     score = {}
     tweet=[i.lower().strip(specialChar) for i in tweet]
@@ -28,6 +31,9 @@ def calculateScore(tweet, polarityDictionary):
                 score[frozenset([tweet[i]])]=[posScore, negScore, neutralScore]
                 polarityDictionary[frozenset([tweet[i]])]=[posScore, negScore, neutralScore]
     return score,polarityDictionary
+
+
+
 
 def findCapitalised(tweet, token, score):
     count=0
@@ -215,17 +221,17 @@ def findUrl(tweet,token):
 def findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict):
     """takes as input the tweet and token and returns the feature vector"""
 
-    tweet,token= preprocesingTweet1(tweet, token, emoticonsDict, acronymDict) 
+    tweet,token,count1,count2 = preprocesingTweet1(tweet, token, emoticonsDict, acronymDict) 
     score,polarityDictionary = calculateScore(tweet, polarityDictionary)
     featureVector=[]
     featureVector.extend(findTotalScore(score))
     tweet,token=preprocesingTweet2(tweet, token, stopWords)
     featureVector.extend(findCapitalised( tweet, token, score))
-    #featureVector.extend(findHashtag( tweet, token, score))
+    featureVector.extend(findHashtag( tweet, token, score))
     featureVector.extend(findEmoticons(tweet, token))
     featureVector.extend(findNegation(tweet))
     featureVector.extend(findPositiveNegativeWords(tweet,token, score))
-   # featureVector.extend(findUrl(tweet,token))
+    featureVector.extend(findUrl(tweet,token))
 #    featureVector.extend([count1])  # number of acronym
 #    featureVector.extend([count2])  # number of words which had repetion
     featureVector.extend(countSpecialChar(tweet,score))  # number of  special char

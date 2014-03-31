@@ -5,8 +5,8 @@ from probablityModel import *
 import sys
 from collections import defaultdict
 from svmutil import *
-from sklearn import naive_bayes
-from sklearn.externals import joblib
+#from sklearn import naive_bayes
+#from sklearn.externals import joblib
 
 def svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest):
     
@@ -19,7 +19,7 @@ def svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsT
     svm_save_model('sentimentAnalysisSVM.model', model)
     print "Model Saved. Proceed to test..."
 
-    predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectors, model)
+    predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectorsTest, model)
     print "Finished. The accuracy is:"
     print predictedAcc[0]
 
@@ -143,5 +143,5 @@ if __name__ == '__main__':
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
 
-    #svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
-    naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+    svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+    #naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)

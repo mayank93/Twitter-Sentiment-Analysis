@@ -94,6 +94,14 @@ if __name__ == '__main__':
 
     """create Unigram Model"""
     print "Creating Unigram Model......."
+    uniModel=[]
+    f=open('unigram.txt','r')
+    for line in f:
+        if line:
+            line=line.strip('\r\t\n ')
+            uniModel.append(line)
+    uniModel.sort()
+
     polarityDictionary = probTraining(priorScore)
     print "Unigram Model Created"
     """ polarity dictionary combines prior score """
@@ -122,6 +130,15 @@ if __name__ == '__main__':
             if tweet:
                 trainingLabel.append(encode[label])
                 vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
+                uniVector=[0]*len(uniModel)
+                for i in tweet:
+                    word=i.strip(specialChar).lower()
+                    if word:
+                        if word in uniModel:
+                            ind=uniModel.index(word)
+                            uniVector[ind]=1
+                vector=vector+uniVector
+#                print vector
                 featureVectorsTrain.append(vector)
     f.close()
     print "Feature Vectors Train Created....."
@@ -139,6 +156,14 @@ if __name__ == '__main__':
             if tweet:
                 testingLabel.append(encode[label])
                 vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
+                uniVector=[0]*len(uniModel)
+                for i in tweet:
+                    word=i.strip(specialChar).lower()
+                    if word:
+                        if word in uniModel:
+                            ind=uniModel.index(word)
+                            uniVector[ind]=1
+                vector=vector+uniVector
                 featureVectorsTest.append(vector)
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."

@@ -55,7 +55,6 @@ if __name__ == '__main__':
             label=i[3].strip()
             if tweet:
                 tweet, token, count1, count2 = preprocesingTweet1(tweet, token, emoticonsDict, acronymDict)
-                tweet,token=preprocesingTweet2(tweet, token, stopWords)
                 for i in tweet:
                     word=i.strip(specialChar).lower()
                     if word:
@@ -66,12 +65,12 @@ if __name__ == '__main__':
     uniModel=[]
     for i in uniDict.keys():
         count=reduce(lambda x,y:x+y,uniDict[i])
-        if count>=20:
+        if count>=15:
             count=count*1.0
             pos=uniDict[i][positive]/count
             neg=uniDict[i][negative]/count
             neu=uniDict[i][neutral]/count
-            if pos>0.80 or neg>0.80 or neu > 0.80:
+            if pos>0.5 or neg>0.5 or neu > 0.5:
                 l=[i,pos,neg,neu,count]
                 uniModel.append(l)
 

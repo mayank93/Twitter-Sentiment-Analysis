@@ -65,25 +65,22 @@ def expandAcronym(acronymDict,tweet,token):
     a list which contains words in tweet and a list of token and return list of words in tweet after expansion and tokens"""
     newTweet=[]
     newToken=[]
-    count=0
     for i in range(len(tweet)):
         word=tweet[i].lower().strip(specialChar)
         if word:
             if word in acronymDict:
-                count+=1
                 newTweet+=acronymDict[word][0]
                 newToken+=acronymDict[word][1]
 
             else:
                 newTweet+=[tweet[i]]
                 newToken+=[token[i]]
-    return newTweet, newToken,count
+    return newTweet, newToken
 
 
 def replaceRepetition(tweet):
     """takes as input a list which contains words in tweet and return list of words in tweet after replacement and numner of repetion
        eg coooooooool -> coool """
-    count=0
     for i in range(len(tweet)):
         x=list(tweet[i])
         if len(x)>3:
@@ -91,13 +88,11 @@ def replaceRepetition(tweet):
             for j in range(3,len(x)):
                 if(x[j-3].lower()==x[j-2].lower()==x[j-1].lower()==x[j].lower()):
                     x[j-3]=''
-
                     if flag==0:
-                        count+=1
                         flag=1
             tweet[i]=''.join(x).strip(specialChar)
 
-    return tweet,count
+    return tweet
 
 
 def replaceNegation(tweet):
@@ -163,13 +158,13 @@ def preprocesingTweet1(tweet, token, emoticonsDict, acronymDict):
     """preprocess the tweet """
     tweet,token = replaceEmoticons(emoticonsDict,tweet,token)
     tweet, token = removeNonEnglishWords(tweet, token)
-    tweet, token, count1 = expandAcronym(acronymDict,tweet,token)
-    tweet, count2 = replaceRepetition(tweet)
+    tweet, token = expandAcronym(acronymDict,tweet,token)
+    tweet = replaceRepetition(tweet)
     tweet,token = replaceHashtag (tweet, token)
     tweet,token = removeUrl(tweet, token)
     tweet, token = removeTarget(tweet, token)
     tweet,token = expandNegation (tweet, token)
-    return tweet, token, count1, count2
+    return tweet, token
 
 
 def preprocesingTweet2(tweet, token, stopWords):

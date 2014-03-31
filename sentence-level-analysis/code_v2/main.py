@@ -171,5 +171,5 @@ if __name__ == '__main__':
     f.write('\n'.join(data1))
     f.close()
 
-    svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+    #svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
     #naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)

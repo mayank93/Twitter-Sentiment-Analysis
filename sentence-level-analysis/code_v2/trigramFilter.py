@@ -44,7 +44,7 @@ if __name__ == '__main__':
             stopWords[line]=1
     f.close()
 
-    biDict={}
+    triDict={}
  
     f=open(sys.argv[1],'r')
     for i in f:
@@ -58,24 +58,24 @@ if __name__ == '__main__':
                 tweet,token=preprocesingTweet2(tweet, token, stopWords)
                 tweet=[i.strip(specialChar).lower() for i in tweet]
                 tweet=[i for i in tweet if i]
-                for i in range(len(tweet)-1):
-                    phrase=tweet[i]+' '+tweet[i+1]
-                    if phrase not in biDict:
-                        biDict[phrase]=[0,0,0]
-                    biDict[phrase][eval(label)]+=1
+                for i in range(len(tweet)-2):
+                    phrase=tweet[i]+' '+tweet[i+1]+' '+tweet[i+2]
+                    if phrase not in triDict:
+                        triDict[phrase]=[0,0,0]
+                    triDict[phrase][eval(label)]+=1
     f.close()
-    biModel=[]
-    for i in biDict.keys():
-        count=reduce(lambda x,y:x+y,biDict[i])
+    triModel=[]
+    for i in triDict.keys():
+        count=reduce(lambda x,y:x+y,triDict[i])
         if count>=10:
             count=count*1.0
-            pos=biDict[i][positive]/count
-            neg=biDict[i][negative]/count
-            neu=biDict[i][neutral]/count
+            pos=triDict[i][positive]/count
+            neg=triDict[i][negative]/count
+            neu=triDict[i][neutral]/count
             if pos>0.75 or neg>0.75 or neu > 0.75:
                 l=[i,pos,neg,neu,count]
-                biModel.append(l)
+                triModel.append(l)
 
-    biModel=sorted(biModel,key=lambda x:x[4],reverse=True) 
-    for i in biModel:
+    triModel=sorted(triModel,key=lambda x:x[4],reverse=True) 
+    for i in triModel:
         print i[0]

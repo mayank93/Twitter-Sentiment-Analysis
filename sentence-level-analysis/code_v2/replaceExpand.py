@@ -160,7 +160,10 @@ def expandNegation(tweet,token):
     for i in range(len(tweet)):
         word=tweet[i].lower().strip(specialChar)
         if(word[-3:]=="n't"):
-            newTweet.append(word[:-3])
+            if word[-5:]=="can't" :
+                newTweet.append('can')
+            else:
+                newTweet.append(word[:-3])
             newTweet.append('not')
             newToken.append('V')
             newToken.append('R')

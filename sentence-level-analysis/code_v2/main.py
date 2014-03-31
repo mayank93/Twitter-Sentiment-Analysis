@@ -102,9 +102,30 @@ if __name__ == '__main__':
             uniModel.append(line)
     uniModel.sort()
 
-    polarityDictionary = probTraining(priorScore)
     print "Unigram Model Created"
+
+    print "Creating Bigram Model......."
+    biModel=[]
+    f=open('bigram.txt','r')
+    for line in f:
+        if line:
+            line=line.strip('\r\t\n ')
+            biModel.append(line)
+    biModel.sort()
+    print "Bigram Model Created"
+
+    print "Creating Trigram Model......."
+    triModel=[]
+    f=open('trigram.txt','r')
+    for line in f:
+        if line:
+            line=line.strip('\r\t\n ')
+            triModel.append(line)
+    triModel.sort()
+    print "Trigram Model Created"
+    
     """ polarity dictionary combines prior score """
+    polarityDictionary = probTraining(priorScore)
 
     """write the polarityDictionary"""
     """
@@ -138,6 +159,27 @@ if __name__ == '__main__':
                             ind=uniModel.index(word)
                             uniVector[ind]=1
                 vector=vector+uniVector
+
+                biVector=[0]*len(biModel)
+                tweet=[i.strip(specialChar).lower() for i in tweet]
+                tweet=[i for i in tweet if i]
+                for i in range(len(tweet)-1):
+                    phrase=tweet[i]+' '+tweet[i+1]
+                    if word in biModel:
+                        ind=biModel.index(phrase)
+                        biVector[ind]=1
+                vector=vector+biVector
+
+                triVector=[0]*len(triModel)
+                tweet=[i.strip(specialChar).lower() for i in tweet]
+                tweet=[i for i in tweet if i]
+                for i in range(len(tweet)-2):
+                    phrase=tweet[i]+' '+tweet[i+1]+' '+tweet[i+2]
+                    if word in triModel:
+                        ind=triModel.index(phrase)
+                        triVector[ind]=1
+                vector=vector+triVector
+
 #                print vector
                 featureVectorsTrain.append(vector)
     f.close()
@@ -164,6 +206,17 @@ if __name__ == '__main__':
                             ind=uniModel.index(word)
                             uniVector[ind]=1
                 vector=vector+uniVector
+
+                biVector=[0]*len(biModel)
+                tweet=[i.strip(specialChar).lower() for i in tweet]
+                tweet=[i for i in tweet if i]
+                for i in range(len(tweet)-1):
+                    phrase=tweet[i]+' '+tweet[i+1]
+                    if word in biModel:
+                        ind=biModel.index(phrase)
+                        biVector[ind]=1
+                vector=vector+biVector
+
                 featureVectorsTest.append(vector)
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."

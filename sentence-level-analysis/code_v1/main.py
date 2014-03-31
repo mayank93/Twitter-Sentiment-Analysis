@@ -5,6 +5,37 @@ from probablityModel import *
 import sys
 from collections import defaultdict
 from svmutil import *
+from sklearn import naive_bayes
+from sklearn.externals import joblib
+
+def svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest):
+    
+    """Feed the feature vector to svm to create model"""
+    print "Creating SVM Model"
+    model= svm_train(trainingLabel,featureVectorsTrain)
+    print "Model created. Saving..."
+
+    """Save model"""
+    svm_save_model('sentimentAnalysisSVM.model', model)
+    print "Model Saved. Proceed to test..."
+
+    predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectorsTest, model)
+    print "Finished. The accuracy is:"
+    print predictedAcc[0]
+
+def naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest):
+    """Feed the feature vector to svm to create model"""
+    print "Creating Naive Bayes Model"
+    #mnb = naive_bayes.MultinomialNB() #Does not work as features can be negative
+    mnb = naive_bayes.GaussianNB()
+    mnb.fit(featureVectorsTrain,trainingLabel)
+    print "Model created. Saving..."
+
+    """Save model"""
+    joblib.dump(mnb, 'sentimentAnalysisNaiveBayes.pkl', compress=9)
+    ## To load
+    #model_clone = joblib.load('sentimentAnalysisNaiveBayes.pkl')
+    print mnb.score(featureVectorsTest,testingLabel)
 
 if __name__ == '__main__':
     
@@ -26,6 +57,8 @@ if __name__ == '__main__':
                 emoticonsDict[j]=value
     f.close()
 
+    #print emoticonsDict
+
     """create acronym dictionary"""
     f=open("acronym_tokenised.txt",'r')
     data=f.read().split('\n')
@@ -40,6 +73,8 @@ if __name__ == '__main__':
             acronymDict[key]=[value,token]
     f.close()
 
+    #print acronymDict
+
     """create stopWords dictionary"""
     stopWords=defaultdict(int)
     f=open("stopWords.txt", "r")
@@ -51,7 +86,9 @@ if __name__ == '__main__':
 
     priorScore=dict(map(lambda (k,v): (frozenset(reduce( lambda x,y:x+y,[[i] if i not in acronymDict else acronymDict[i][0] for i in k.split()])),int(v)),[ line.split('\t') for line in open("AFINN-111.txt") ]))
 
-    encode={'positive': 1,'negative': -1,'neutral':0}
+    #print priorScore
+
+    encode={'positive': 1,'negative': 2,'neutral':3}
 
     polarityDictionary = {}
 
@@ -59,6 +96,7 @@ if __name__ == '__main__':
     print "Creating Unigram Model......."
     polarityDictionary = probTraining(priorScore)
     print "Unigram Model Created"
+    """ polarity dictionary combines prior score """
 
     """write the polarityDictionary"""
     """
@@ -74,7 +112,7 @@ if __name__ == '__main__':
     print "Creating Feature Vectors....."
     trainingLabel=[]
     f=open(sys.argv[1],'r')
-    featureVectors=[]
+    featureVectorsTrain=[]
     for i in f:
         if i:
             i=i.split('\t')
@@ -84,20 +122,14 @@ if __name__ == '__main__':
             if tweet:
                 trainingLabel.append(encode[label])
                 vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
-                featureVectors.append(vector)
+                featureVectorsTrain.append(vector)
     f.close()
-    print "Feature Vectors Created....."
-    """Feed the feature vector to svm to create model"""
-    print "Creating SVM Model"
-    model= svm_train(trainingLabel,featureVectors)
-    print "Model created. Saving..."
-    """Save model"""
-    svm_save_model('sentimentAnalysis.model', model)
-    print "Model Saved. Proceed to test..."
+    print "Feature Vectors Train Created....."
+    
     """for each new tweet create a feature vector and feed it to above model to get label"""
     testingLabel=[]
     f=open(sys.argv[2],'r')
-    featureVectors=[]
+    featureVectorsTest=[]
     for i in f:
         if i:
             i=i.split('\t')
@@ -107,9 +139,9 @@ if __name__ == '__main__':
             if tweet:
                 testingLabel.append(encode[label])
                 vector,polarityDictionary=findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acronymDict)
-                featureVectors.append(vector)
+                featureVectorsTest.append(vector)
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
-    predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectors, model)
-    print "Finished. The accuracy is:"
-    print predictedAcc[0]
+
+    svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+    naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)

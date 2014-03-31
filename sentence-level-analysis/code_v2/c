@@ -1,0 +1,27 @@
+Creating Unigram Model.......
+Unigram Model Created
+Creating Feature Vectors.....
+Feature Vectors Created.....
+Creating SVM Model
+....*...*
+optimization finished, #iter = 7931
+nu = 0.565019
+obj = -2318.873714, rho = -0.646315
+nSV = 2760, nBSV = 2128
+......*...*
+optimization finished, #iter = 9360
+nu = 0.732580
+obj = -4893.215172, rho = 0.254872
+nSV = 5420, nBSV = 4861
+........*.......*
+optimization finished, #iter = 15497
+nu = 0.467574
+obj = -2340.580444, rho = 0.693767
+nSV = 2897, nBSV = 2041
+Total nSV = 6976
+Model created. Saving...
+Model Saved. Proceed to test...
+Feature Vectors of test input created. Calculating Accuracy...
+Accuracy = 50.3551% (1489/2957) (classification)
+Finished. The accuracy is:
+50.3550896179

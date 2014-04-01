@@ -1,8 +1,9 @@
 from senti_classifier import senti_classifier
 from replaceExpand import *
+from nltk.corpus import wordnet
 
-
-
+#syns = wordnet.synsets('car')
+#synonyms = [l.name for s in syns for l in s.lemmas]
 
 def calculateScore(tweet, polarityDictionary):
     score = {}

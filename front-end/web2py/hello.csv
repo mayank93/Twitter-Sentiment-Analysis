@@ -1,0 +1,169 @@
+TABLE auth_user
+
+
+TABLE auth_group
+
+
+TABLE auth_membership
+
+
+TABLE auth_permission
+
+
+TABLE auth_event
+
+
+TABLE auth_cas
+
+
+TABLE Program
+Program.id,Program.pname
+1,ug1
+2,ug2
+3,ug3
+4,ug4
+5,pg1
+6,pg2
+
+
+TABLE Semester
+Semester.id,Semester.semname
+1,1
+2,2
+3,3
+4,4
+5,5
+6,6
+7,7
+8,8
+
+
+TABLE Faculty
+Faculty.id,Faculty.fname,Faculty.femail_id
+1,mayank,mayank.g@students.iiit.ac.in
+3,deepesh ,deepesh.jain@students.iiit.ac.in
+7,vansh,vanshdeep.singh@students.iiit.ac.in
+8,ram,ram@iiit.ac.in
+9,shyam,shyam@students.iiit.ac.in
+
+
+TABLE Course
+Course.id,Course.cid,Course.cname,Course.cdts,Course.no_of_ta,Course.no_of_qta,Course.no_of_hta,Course.no_of_fta,Course.hours_per_week,Course.sem_id,Course.coursetype,Course.no_of_faculty
+3,2,Algo,4,<NULL>,10,0,0,20,4,Full,<NULL>
+4,3,DS,4,<NULL>,1,0,0,15,2,Full,<NULL>
+5,4,C pro,4,<NULL>,1,0,0,18,1,Full,<NULL>
+6,1,ITWS 1,2,<NULL>,1,0,0,10,1,Full,<NULL>
+7,39,Faltu,44,<NULL>,0,0,0,500,7,Full,<NULL>
+8,9,science-1,4,<NULL>,0,0,0,3,3,Full,<NULL>
+9,10,os,2,<NULL>,1,0,0,3,3,Half,<NULL>
+
+
+TABLE Admin
+Admin.id,Admin.adname,Admin.ademail_id
+5,mayank,mayank.g@students.iiit.ac.in
+7,demo,demo@iiit.ac.in
+8,vansh,vanshdeep.singh@students.iiit.ac.in
+9,mayank,mayankrocks.1993@gmail.com
+
+
+TABLE Applicant
+Applicant.id,Applicant.apname,Applicant.apemail_id,Applicant.aprollno,Applicant.apcgpa,Applicant.phoneno,Applicant.prev_exp,Applicant.program_id
+2,kshitij,kshitij.kansal@students.iiit.ac.in,201101031,8.0,9052483180,True,2
+5,Nehal,nehal.wani@students.iiit.ac.in,201125005,9.0,9052480529,False,2
+12,Gaurav,gaurav.gupta@students.iiit.ac.in,201102120,8.0,9087654345,False,2
+13,Sai Praneeth,suggusai.praneeth@students.iiit.ac.in,201125083,7.5,9441262578,False,2
+15,Raveesh Motlani,raveesh.motlani@students.iiit.ac.in,201125035,8.56,9703248989,True,4
+16,Ankush,ankush.jain@students.iiit.ac.in,201101010,9.0,9877546557,True,2
+17,Kapil,kapil.kumar@students.iiit.ac.in,201101112,9.6,9087654567,False,2
+23,anirudh goyal,anirudh.goyal@students.iiit.ac.in,201101206,8.0,8679748789,True,6
+
+
+TABLE Teach
+Teach.id,Teach.faculty_id,Teach.course_id
+1,1,3
+2,1,4
+4,3,5
+7,7,8
+8,1,9
+9,1,6
+
+
+TABLE AppliedFor
+AppliedFor.id,AppliedFor.appid,AppliedFor.cid,AppliedFor.noflag,AppliedFor.grade,AppliedFor.timestamp,AppliedFor.preference,AppliedFor.status
+30,5,5,0,A-,2012-10-14 00:00:00,1,None
+31,5,4,0,A,2012-10-14 00:00:00,2,None
+32,5,7,0,A,2012-10-14 00:00:00,3,None
+33,5,6,0,A,2012-10-14 00:00:00,4,None
+36,5,3,0,A,2012-10-14 00:00:00,5,None
+40,12,4,0,A-,2012-10-14 00:00:00,3,None
+42,12,6,0,A,2012-10-14 00:00:00,5,None
+44,13,3,0,A,2012-10-14 00:00:00,1,None
+45,13,5,0,A,2012-10-14 00:00:00,2,None
+46,13,6,0,A-,2012-10-14 00:00:00,3,None
+47,13,4,0,A,2012-10-14 00:00:00,5,None
+51,2,3,0,A,2012-10-14 00:00:00,1,None
+52,2,5,0,A-,2012-10-14 00:00:00,2,None
+53,2,4,0,B,2012-10-14 00:00:00,3,None
+54,2,7,0,C,2012-10-14 00:00:00,4,None
+55,2,8,0,A,2012-10-14 00:00:00,5,None
+57,15,3,0,A-,2012-10-14 00:00:00,4,None
+58,15,5,0,B,2012-10-14 00:00:00,2,None
+59,15,6,0,A,2012-10-14 00:00:00,3,None
+60,15,7,0,C,2012-10-14 00:00:00,1,None
+61,15,9,0,A-,2012-10-14 00:00:00,7,None
+73,12,9,0,A-,2012-10-16 00:00:00,1,None
+74,12,3,0,A-,2012-10-16 00:00:00,6,None
+76,16,3,0,A-,2012-10-17 00:00:00,1,None
+77,16,5,0,A,2012-10-17 00:00:00,2,None
+78,16,4,0,A-,2012-10-17 00:00:00,3,None
+79,16,7,0,A,2012-10-17 00:00:00,4,None
+80,16,6,0,A,2012-10-17 00:00:00,5,None
+81,16,9,0,A-,2012-10-17 00:00:00,6,None
+82,16,8,0,A-,2012-10-17 00:00:00,7,None
+83,12,5,0,A,2012-10-17 00:00:00,2,None
+87,17,3,0,A-,2012-10-17 00:00:00,1,None
+88,17,5,0,A,2012-10-17 00:00:00,2,None
+89,17,4,0,A,2012-10-17 00:00:00,3,None
+90,17,7,0,A-,2012-10-17 00:00:00,4,None
+91,17,6,0,A,2012-10-17 00:00:00,5,None
+92,17,9,0,A-,2012-10-17 00:00:00,6,None
+93,17,8,0,A-,2012-10-17 00:00:00,7,None
+102,12,7,0,A,2012-10-17 00:00:00,4,None
+121,23,3,0,A-,2012-10-25 00:00:00,5,None
+122,23,5,0,A,2012-10-25 00:00:00,4,None
+123,23,4,0,A,2012-10-25 00:00:00,2,None
+124,23,7,0,A,2012-10-25 00:00:00,3,None
+125,23,6,0,A,2012-10-25 00:00:00,6,None
+126,23,8,0,A-,2012-10-25 00:00:00,7,None
+127,23,9,0,A-,2012-10-25 00:00:00,1,None
+
+
+TABLE SelectedTA
+SelectedTA.id,SelectedTA.appid,SelectedTA.cid,SelectedTA.TAtype,SelectedTA.timestamp,SelectedTA.flag
+117,5,3,quarter,2012-10-17 15:01:55,0
+122,12,3,quarter,2012-10-17 17:17:04,1
+126,16,3,quarter,2012-10-17 18:28:45,0
+130,15,9,quarter,2012-10-17 18:30:18,0
+
+
+TABLE Portaldate
+Portaldate.id,Portaldate.start_date,Portaldate.end_date
+1,2012-11-01 22:51:57,2012-11-03 22:52:01
+
+
+TABLE OfferedTo
+OfferedTo.id,OfferedTo.cid,OfferedTo.programid
+1,3,2
+2,4,1
+3,3,5
+4,5,1
+5,6,1
+6,7,2
+7,8,2
+8,9,2
+
+
+TABLE Upload
+
+
+END

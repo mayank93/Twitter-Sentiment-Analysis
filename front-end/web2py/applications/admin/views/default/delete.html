@@ -1,0 +1,9 @@
+{{extend 'layout.html'}}
+
+{{block sectionclass}}delete{{end}}
+
+<h2>{{=T('Are you sure you want to delete file "%s"?', filename)}}</h2>
+<div class="center">
+{{=dialog}}
+</div>
+

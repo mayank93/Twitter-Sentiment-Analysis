@@ -1,0 +1,132 @@
+{{extend 'layout1.html'}}
+<style>
+
+.center-text{
+	    text-align:center;
+}
+
+label{
+	margin: -15px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+label.error {
+	font-weight: bold;
+	color: red;
+	padding: 0px 0px 10px 0px;
+	margin-top: -15px;
+}
+
+</style>
+<script>
+function Toggle1(id) {
+//	var x=$('[name="Stress"]').val();
+//	console.log(x);
+	x=document.getElementById("Stress").checked;
+		if(x==true)
+			$(id).show();
+		if(x==false)
+			$(id).hide();
+}  
+
+</script>
+<div class="content">
+<form name='Profile' method="post" id="Profile">
+<div class="row-fluid" text-align:'center'>
+    <br/>
+    <br/>
+    <br/>
+    <div  class="span3">
+    </div>
+    <div  class="span6 box" style="margin:10px;padding:10px 30px 10px 30px" >
+     	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="TestName">Test Name</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="TestName" name="TestName" placeholder="Test Name">
+		</div>
+	</div>
+	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="UrlName">Webapp Name</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="UrlName" name="UrlName" value="http://">
+		</div>
+	</div>
+	<!--div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="CycleCount"><i class="icon icon-asterisk"></i>No. of cycles</label>
+		<div class="controls">
+		<input type="text" class="span6 line" id="CycleCount" name="CycleCount" placeholder="CycleCount">
+		</div>
+		</div-->
+	<div class="control-group" style="height:60px;">
+		<label class="control-label"  for="DayScholar"></i>Testing</label>
+		<div class="controls">
+			<input type="checkbox" class="line" id="Sanity" name="Sanity" value="true" >&nbsp;&nbsp;</input>Sanity Testing&nbsp;&nbsp;
+			<input type="checkbox" class="line" id="Functional" name="Functional" value="true" >&nbsp;&nbsp;</input>Functional Testing&nbsp;&nbsp;
+			<input type="checkbox" class="line" id="Stress" name="Stress" value="true" onclick="Toggle1('#StressTesting');">&nbsp;&nbsp;</input>Stress Testing
+		</div>
+	 </div>
+	<div style="display:none" id="StressTesting">
+	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="CycleUser">User per cycle(seperated by commas)</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="CycleUser" name="CycleUser" value="5,10">
+		</div>
+	</div>
+	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="CycleDuration">Cycle Duration(in sec)</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="CycleDuration" name="CycleDuration" value="5">
+		</div>
+	</div>
+	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="RequestPerUser">Request Per User</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="RequestPerUser" name="RequestPerUser" value="5">
+		</div>
+	</div>
+	<div class="control-group" style="height:120px;">
+		<label class="control-label" for="Description">Test Description</label>
+		<div class="controls">
+			<textarea class="span10 line" rows="3" id="Description" name="Description">Sample Test</textarea>
+		</div>
+	</div>
+	</div>
+	<div class="action center-text">
+	        <button type="submit" class="btn btn-primary" value="Submit" name="Submit" name="Submit" >Submit</button>
+	</div>
+
+    </div>
+</div>
+</form>
+<script type="text/javascript">
+$(document).ready(function(){
+		$('#Profile').validate({
+		rules: {
+			UrlName: {
+				required: true,
+				url:true
+			},
+			TestName: {
+				required: true
+			},
+			CycleUser: {
+				required: true
+			},
+			CycleDuration: {
+				required: true
+			},
+			RequestPerUser: {
+				required: true
+			}
+		},
+		highlight: function(element) {
+			$(element).closest('.control-group').removeClass('success').addClass('error');
+		},
+		success: function(element) {
+			$(element).closest('.control-group').removeClass('error').addClass('success');
+		}
+	});
+}); 
+
+</script>										     
+</div>

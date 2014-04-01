@@ -1,0 +1,5 @@
+For 500 tweets sample :
+Run Command:  python main.py tokenizeddata.txt tokenizeddata1.txt
+
+For whole sample(7000 approx which might not work):
+Run Command:  python main.py tokenizedData.txt tokenizedData1.txt

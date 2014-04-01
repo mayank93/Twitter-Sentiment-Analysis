@@ -28,8 +28,9 @@ def removeNonEnglishWords(tweet,token):
     for i in range(len(tweet)):
         chk=re.match(r'([a-zA-z0-9 \+\?\.\*\^\$\(\)\[\]\{\}\|\\/:;\'\"><,.#@!~`%&-_=])+$',tweet[i])
         if chk:
-            newTweet.append(tweet[i])
-            newToken.append(token[i])
+            if tweet[i]!='':
+                newTweet.append(tweet[i])
+                newToken.append(token[i])
     return newTweet, newToken
 
 

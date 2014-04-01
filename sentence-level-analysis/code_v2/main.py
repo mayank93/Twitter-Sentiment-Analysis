@@ -118,6 +118,7 @@ if __name__ == '__main__':
     print "Feature Vectors Train Created....."
     
     """for each new tweet create a feature vector and feed it to above model to get label"""
+    
     testingLabel=[]
     data=[]
     data1=[]
@@ -152,6 +153,15 @@ if __name__ == '__main__':
                         biVector[ind]=1
                 vector=vector+biVector
 
+                triVector=[0]*len(triModel)
+                tweet=[i.strip(specialChar).lower() for i in tweet]
+                tweet=[i for i in tweet if i]
+                for i in range(len(tweet)-2):
+                    phrase=tweet[i]+' '+tweet[i+1]+' '+tweet[i+2]
+                    if word in triModel:
+                        ind=triModel.index(phrase)
+                        triVector[ind]=1
+                vector=vector+triVector
                 featureVectorsTest.append(vector)
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
@@ -170,6 +180,6 @@ if __name__ == '__main__':
     f=open('taskB.pred','w')
     f.write('\n'.join(data1))
     f.close()
-
+    
     #svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
     #naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)

@@ -71,7 +71,7 @@ if __name__ == '__main__':
             pos=uniDict[i][positive]/count
             neg=uniDict[i][negative]/count
             neu=uniDict[i][neutral]/count
-            if pos>0.80 or neg>0.80 or neu > 0.80:
+            if pos>0.7 or neg>0.7 or neu > 0.7:
                 l=[i,pos,neg,neu,count]
                 uniModel.append(l)
 

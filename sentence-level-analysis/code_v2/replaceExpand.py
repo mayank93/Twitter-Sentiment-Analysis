@@ -26,9 +26,9 @@ def removeNonEnglishWords(tweet,token):
     newTweet=[]
     newToken=[]
     for i in range(len(tweet)):
-        chk=re.match(r'([a-zA-z0-9 \+\?\.\*\^\$\(\)\[\]\{\}\|\\/:;\'\"><,.#@!~`%&-_=])+$',tweet[i])
-        if chk:
-            if tweet[i]!='':
+        if tweet[i]!='':
+            chk=re.match(r'([a-zA-z0-9 \+\?\.\*\^\$\(\)\[\]\{\}\|\\/:;\'\"><,.#@!~`%&-_=])+$',tweet[i])
+            if chk:
                 newTweet.append(tweet[i])
                 newToken.append(token[i])
     return newTweet, newToken
@@ -160,10 +160,34 @@ def removeUrl(tweet, token):
             newToken.append(token[i])
     return newTweet, newToken
 
+def removeNumbers(tweet, token):
+    """takes as input a list which contains words in tweet and return list of words in tweet after removing 
+    numbers """
+    newToken=[]
+    newTweet=[]
+    for i in range(len(tweet)):
+        if token[i]!='$':
+            newTweet.append(tweet[i])
+            newToken.append(token[i])
+    return newTweet, newToken
+
+def removeProperNoun(tweet, token):
+    """takes as input a list which contains words in tweet and return list of words in tweet after removing 
+    numbers """
+    newToken=[]
+    newTweet=[]
+    for i in range(len(tweet)):
+        if token[i]!='^' and token[i]!='Z':
+            newTweet.append(tweet[i])
+            newToken.append(token[i])
+    return newTweet, newToken
+
 def preprocesingTweet1(tweet, token, emoticonsDict, acronymDict):
     """preprocess the tweet """
     tweet,token = replaceEmoticons(emoticonsDict,tweet,token)
     tweet, token = removeNonEnglishWords(tweet, token)
+    tweet, token = removeNumbers(tweet, token)
+    tweet, token = removeProperNoun(tweet, token)
     tweet, token, count1 = expandAcronym(acronymDict,tweet,token)
     tweet, count2 = replaceRepetition(tweet)
     tweet,token = replaceHashtag (tweet, token)

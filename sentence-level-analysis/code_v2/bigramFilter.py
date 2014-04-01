@@ -72,7 +72,7 @@ if __name__ == '__main__':
             pos=biDict[i][positive]/count
             neg=biDict[i][negative]/count
             neu=biDict[i][neutral]/count
-            if pos>0.75 or neg>0.75 or neu > 0.75:
+            if pos>1.0 or neg>1.0 or neu > 1.0:
                 l=[i,pos,neg,neu,count]
                 biModel.append(l)
 

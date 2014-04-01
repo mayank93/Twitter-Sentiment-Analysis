@@ -152,6 +152,16 @@ if __name__ == '__main__':
                         biVector[ind]=1
                 vector=vector+biVector
 
+                triVector=[0]*len(triModel)
+                tweet=[i.strip(specialChar).lower() for i in tweet]
+                tweet=[i for i in tweet if i]
+                for i in range(len(tweet)-1):
+                    phrase=tweet[i]+' '+tweet[i+1]
+                    if word in triModel:
+                        ind=triModel.index(phrase)
+                        triVector[ind]=1
+                vector=vector+triVector
+
                 featureVectorsTest.append(vector)
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."

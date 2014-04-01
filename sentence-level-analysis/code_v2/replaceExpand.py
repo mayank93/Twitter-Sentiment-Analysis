@@ -171,13 +171,24 @@ def removeNumbers(tweet, token):
             newToken.append(token[i])
     return newTweet, newToken
 
-def removeProperNoun(tweet, token):
+def removeProperCommonNoun(tweet, token):
     """takes as input a list which contains words in tweet and return list of words in tweet after removing 
     numbers """
     newToken=[]
     newTweet=[]
     for i in range(len(tweet)):
-        if token[i]!='^' and token[i]!='Z':
+        if token[i]!='^' and token[i]!='Z' and token[i]!='O':
+            newTweet.append(tweet[i])
+            newToken.append(token[i])
+    return newTweet, newToken
+
+def removePreposition(tweet, token):
+    """takes as input a list which contains words in tweet and return list of words in tweet after removing 
+    numbers """
+    newToken=[]
+    newTweet=[]
+    for i in range(len(tweet)):
+        if token[i]!='P':
             newTweet.append(tweet[i])
             newToken.append(token[i])
     return newTweet, newToken
@@ -187,7 +198,8 @@ def preprocesingTweet1(tweet, token, emoticonsDict, acronymDict):
     tweet,token = replaceEmoticons(emoticonsDict,tweet,token)
     tweet, token = removeNonEnglishWords(tweet, token)
     tweet, token = removeNumbers(tweet, token)
-    tweet, token = removeProperNoun(tweet, token)
+    tweet, token = removeProperCommonNoun(tweet, token)
+    tweet, token = removePreposition(tweet, token)
     tweet, token, count1 = expandAcronym(acronymDict,tweet,token)
     tweet, count2 = replaceRepetition(tweet)
     tweet,token = replaceHashtag (tweet, token)

@@ -1,0 +1,6 @@
+log in mysql as root
+then enter following commands:-
+create database taship2012;
+create user 'adminta'@'localhost' IDENTIFIED BY 'passcode2013';
+grant usage on *.* to adminta@localhost;
+grant all privileges on taship2012.* to adminta@localhost;

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]><html class="ie ie6 ie-lte9 ie-lte8 ie-lte7 no-js" lang="{{=T.accepted_language or 'en'}}"> <![endif]-->
+<!--[if IE 7]><html class="ie ie7 ie-lte9 ie-lte8 ie-lte7 no-js" lang="{{=T.accepted_language or 'en'}}"> <![endif]-->
+<!--[if IE 8]><html class="ie ie8 ie-lte9 ie-lte8 no-js" lang="{{=T.accepted_language or 'en'}}"> <![endif]-->
+<!--[if IE 9]><html class="ie9 ie-lte9 no-js" lang="{{=T.accepted_language or 'en'}}"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="{{=T.accepted_language or 'en'}}"> <!--<![endif]-->
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- http://dev.w3.org/html5/markup/meta.name.html -->
+  <meta name="application-name" content="{{=request.application}}" />
+  
+  <!-- Speaking of Google, don't forget to set your site up:
+       http://google.com/webmasters -->
+  <meta name="google-site-verification" content="" />
+  
+  <!--  Mobile Viewport Fix
+	j.mp/mobileviewport & davidbcalhoun.com/2010/viewport-metatag
+	device-width: Occupy full width of the screen in its current orientation
+	initial-scale = 1.0 retains dimensions instead of zooming out if page height > device height
+	user-scalable = yes allows the user to zoom in -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{=response.title or request.application}}</title>
+  <link rel="shortcut icon" href="{{=URL('static','images/favicon.ico')}}" type="image/x-icon">
+  <link rel="apple-touch-icon" href="{{=URL('static','images/favicon.png')}}">
+  
+  <!-- All JavaScript at the bottom, except for Modernizr which enables 
+       HTML5 elements & feature detects -->
+  <script src="{{=URL('static','js/modernizr.custom.js')}}"></script>   
+  
+  <!-- include stylesheets -->
+  {{
+	
+    response.files.append(URL('static',"css/bootstrap/bootstrap.css"))
+    response.files.append(URL('static',"css/bootstrap/bootstrap-responsive.css"))
+    response.files.append(URL('static','css/web2py.css'))
+    response.files.append(URL('static','css/web2py_bootstrap.css'))
+    response.files.append(URL('static',"css/bootstrap/bootstrap-overrides.css"))
+
+    response.files.append(URL('static',"css/lib/jquery-ui-1.10.2.custom.css"))
+    response.files.append(URL('static',"css/lib/font-awesome.css"))
+    response.files.append(URL('static',"css/layout.css"))
+    response.files.append(URL('static',"css/elements.css"))
+    response.files.append(URL('static',"css/icons.css"))
+    response.files.append(URL('static',"css/compiled/signin.css"))
+    response.files.append(URL('static',"css/css5c84.css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"))
+
+    response.files.append(URL('static',"css/cssef21.css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic"))
+  
+  }}
+
+  {{include 'web2py_ajax.html'}}
+  
+  {{
+  # using sidebars need to know what sidebar you want to use
+  left_sidebar_enabled = globals().get('left_sidebar_enabled',False)
+  right_sidebar_enabled = globals().get('right_sidebar_enabled',False)
+  middle_columns = {0:'span12',1:'span9',2:'span6'}[
+    (left_sidebar_enabled and 1 or 0)+(right_sidebar_enabled and 1 or 0)]
+  }}
+
+  <noscript><link href="{{=URL('static', 'css/web2py_bootstrap_nojs.css')}}" rel="stylesheet" type="text/css" /></noscript>
+<style>
+.login-bg {
+  background: url("{{=URL('static','img/background.jpg')}}") no-repeat center center fixed;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="{{=URL('static','img/background.jpg')}}", sizingMethod='scale');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+}
+
+body{
+    background-repeat: no-repeat;
+}
+</style >
+  <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+
+<body class="login-bg">
+	<div>
+		<div class="flash">{{=response.flash or ''}}</div>
+    		<div class="row-fluid login-wrapper">
+        		<a href="index.html">
+            			<img class="logo" src="{{=URL('static','img/Cloud.png')}}">
+        		</a>
+        		<div class="span4 box">
+            			<div class="content-wrap">
+		  			{{include}}
+            			</div>
+			</div>
+    		
+    
+    		<!-- Footer ================================================== -->
+    		<footer class="footer" id="footer">
+      			{{block footer}} <!-- this is default footer -->
+      			<div class="footer-content">
+				<div class="copyright pull-left">{{=T('Copyright')}} &#169; {{=request.now.year}}</div>
+				<div id="poweredBy" class="pull-right">
+	  				{{=T('Powered by')}}
+	  				<a href="http://www.web2py.com/">web2py</a>
+				</div>
+      			</div>
+      			{{end}}
+    		</footer>
+</div>
+	</div> <!-- /container -->
+  
+  <!-- The javascript =============================================
+       (Placed at the end of the document so the pages load faster) -->
+  <script>
+    // this code improves bootstrap menus and adds dropdown support
+    jQuery(function(){
+      jQuery('.nav>li>a').each(function(){	        
+        if(jQuery(this).parent().find('ul').length)
+          jQuery(this).attr({'class':'dropdown-toggle','data-toggle':'dropdown'}).append('<b class="caret"></b>');
+      });
+      jQuery('.nav li li').each(function(){	        
+        if(jQuery(this).find('ul').length)
+          jQuery(this).children('a').contents().before('<i class="chevron-right"></i>'); 
+      });
+      if(jQuery(document).width()>=980) {
+        jQuery('ul.nav li.dropdown').hover(function() {
+          jQuery(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(); 
+        }, function() {
+          jQuery(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(); 
+        });
+      }
+      jQuery('ul.nav li.dropdown a').click(function(){window.location=jQuery(this).attr('href');});
+    });
+  </script>  
+  <script src="{{=URL('static','js/bootstrap.min.js')}}"></script>  
+  <!--[if lt IE 7 ]>
+      <script src="{{=URL('static','js/dd_belatedpng.js')}}"></script>
+      <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+      <![endif]-->
+  {{if response.google_analytics_id:}}<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', '{{=response.google_analytics_id}}']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script> {{pass}}
+  <script src="{{=URL('static','js/share.js',vars=dict(static=URL('static','images')))}}"></script>  
+</body>
+</html>

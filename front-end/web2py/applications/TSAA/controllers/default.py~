@@ -34,8 +34,11 @@ def test():
 		details=db(db.SentTestDetails.id == tid).select()[0]
 	else:
 		details=db(db.PhraseTestDetails.id == tid).select()[0]
+		
+	if request.vars.Submit:
+		print request.vars
 	print details
-        return dict(details=details)
+        return dict(details=details,testType=testType)
 
 @auth.requires_login()
 def testDetails():
@@ -61,7 +64,7 @@ def addTest():
 		print TestType
 		print Phrase
 
-		if TestType='Sentence':
+		if TestType=='Sentence':
 			tid=db.SentTestDetails.insert(TestName=TestName,UserEmail=session.email,Tweet=Tweet)
 		else:
 			tid=db.PhraseTestDetails.insert(TestName=TestName,UserEmail=session.email,Tweet=Tweet,Phrase=Phrase)

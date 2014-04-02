@@ -40,7 +40,7 @@
 				{{print i}}
                                 <tr>
                                     <td>
-                                        <a href="{{=URL(r = request, f = 'test' ,args=[i.id])}}">{{=i.TestName}}</a>
+                                        <a href="{{=URL(r = request, f = 'test' ,args=[i.id,'Sentence'])}}">{{=i.TestName}}</a>
                                     </td>
                                     <td class="description">
 					{{=i.Tweet}}
@@ -64,7 +64,7 @@
 				{{print i}}
                                 <tr>
                                     <td>
-                                        <a href="{{=URL(r = request, f = 'test' ,args=[i.id])}}">{{=i.TestName}}</a>
+                                        <a href="{{=URL(r = request, f = 'test' ,args=[i.id,'Phrase'])}}">{{=i.TestName}}</a>
                                     </td>
                                     <td class="description">
 					{{=i.Tweet}}

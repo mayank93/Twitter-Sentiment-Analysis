@@ -34,7 +34,7 @@ function Toggle1(id) {
 </script>
 
 <div class="content">
- <form name="Test" method="post" id="Test">
+ <form name='Test' method="post" id="Test">
   <br/>
   <br/>
   <br/>

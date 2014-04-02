@@ -40,7 +40,7 @@
     response.files.append(URL('static','css/web2py.css'))
     response.files.append(URL('static','css/web2py_bootstrap.css'))
     response.files.append(URL('static',"css/bootstrap/bootstrap-overrides.css"))
-
+    response.files.append(URL('static',"css/lib/uniform.default.css"))
     response.files.append(URL('static',"css/lib/jquery-ui-1.10.2.custom.css"))
     response.files.append(URL('static',"css/lib/font-awesome.css"))
     response.files.append(URL('static',"css/layout.css"))
@@ -288,6 +288,7 @@ background-color: #f7f7f7;
     <!-- knob -->
     <script src="{{=URL('static','js/jquery.knob.js')}}"></script>
     <!-- flot charts -->
+    <script src="{{=URL('static','js/jquery.uniform.min.js')}}"></script>
     <script src="{{=URL('static','js/jquery.flot.js')}}"></script>
     <script src="{{=URL('static','js/jquery.flot.stack.js')}}"></script>
     <script src="{{=URL('static','js/jquery.flot.resize.js')}}"></script>

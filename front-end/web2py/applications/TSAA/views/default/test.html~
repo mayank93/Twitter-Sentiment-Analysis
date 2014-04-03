@@ -1,128 +1,143 @@
 {{extend 'layout1.html'}}
-<script>
-function toggle(a,b,c){
-	$(a).show();
-	$(b).hide();
-	$(c).hide();
-}
-</script>
 <style>
- .line.blue {
-background-color: #30a1ec;
-height: 3px;
-width: 25px;
-display: inline-block;
-margin-right: 10px;
-}
-</style>
-<div class="content">
-    <div class="span10" style="margin:10px">
-        {{if details.SanityFlag=='true':}}
-        <div class="span3">
-            <a class="btn btn-success" type="button" data-toggle="collapse" href="#add-skills" onclick='toggle("#SanityTesting","#FunctionalTesting","#StressTesting")'>Sanity Result</a>
-        </div>
-        {{pass}}
-        {{if details.FunctionalFlag=='true':}}
-        <div class="span3">
-            <a class="btn btn-success" type="button" data-toggle="collapse" href="#add-skills" onclick='toggle("#FunctionalTesting","#SanityTesting","#StressTesting")'>Functional Result</a>
-        </div>
-        {{pass}}
-        {{if details.StressFlag=='true':}}
-        <div class="span3">
-		<a class="btn btn-success" type="button" data-toggle="collapse" href="#add-skills" onclick='toggle("#StressTesting","#SanityTesting","#FunctionalTesting")'>Stress Result</a>
-        </div>
-        {{pass}}
-        <br/>
-        <br/>
-        <br/>
 
-	</div>
-	<div class="span10" id="SanityTesting" style="display:none">
-        <h3>Sanity Result</h3>
-        <br/>
-		<div class='span6 ' style="margin:10px;padding:10px 30px 10px 30px">
-            {{if details.Sanity=='true':}}
-            <p style="color:#448A03;font-size:15px">
-            <i class="icon icon-ok" ></i>
-            <b>   Given url is online and responsive</b>
-            </p>
-            {{else:}}
-            <p style="color:red;font-size:15px">
-            <i class="icon icon-remove"></i>
-            <b>   Given url is not responding</b>
-            </p>
-            {{pass}}
+.center-text{
+	    text-align:center;
+}
+
+label{
+	margin: -15px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+label.error {
+	font-weight: bold;
+	color: red;
+	padding: 0px 0px 10px 0px;
+	margin-top: -15px;
+}
+
+</style>
+<script>
+
+function Toggle1(id) {
+	var x=$('[name="TestType"]:checked').val();
+	console.log(x);
+	x=document.getElementById("optionsRadios2").checked;
+	console.log(x);
+		if(x==true)
+			$(id).show();
+		if(x==false)
+			$(id).hide();
+}
+
+</script>
+
+<div class="content">
+ <form name="Test" method="post" id="Test">
+  <br/>
+  <br/>
+  <br/>
+  <div class="row-fluid" text-align:'center'>
+    <div  class="span3">
+    </div>
+    <div  class="span6 box" style="margin:10px;padding:10px 30px 10px 30px" >
+     	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="TestName">Test Name</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="TestName" name="TestName" value={{=details.TestName}}"" readonly>
 		</div>
 	</div>
-	<div class="span10" id="FunctionalTesting" style="display:none">
-		<h3>Functional Result</h3>
-        <br/>
-			<div class="span5 knobs">
-                        	<div class="knob-wrapper">
-                            		<input type="text" value="{{=details.Functional}}" class="knob" data-thickness=".3" data-inputColor="#333" data-fgColor="#30a1ec" data-bgColor="#d4ecfd" data-width="150">
-                            		<div class="info">
-                            		</div>
-                        	</div>
-                        </div>   
-			<div class="span2"> 
-                        	<div class="param">
-                                <span class="line blue"></span>
-                                <h4>% of Active Urls</h4>
-                            </div>
-           </div>
-                        <!-- table sample -->
-                        <!-- the script for the toggle all checkboxes from header is located in js/theme.js -->
-                        <div class="table-products section">
-                            <div class="row-fluid head">
-                                <div class="span12">
-                                    <h4>Tests <small>Status</small></h4>
-                                </div>
-                            </div>
-                            <div class="row-fluid">
-                                <table class="table table-hover">
-                                    <thead>
-                                        <tr>
-                                            <th class="span3">
-                                                Url Name
-                                            </th>
-                                            <th class="span3">
-                                                <span class="line"></span>
-                                                Status
-                                            </th>
-                                        </tr>
-                                    </thead>
-                                    {{details=[1,2,3]}}
-                                    <tbody>
-                                        <!-- row -->
-                                        {{for i in functionalDetails:}}
-                                        {{print i}}
-                                        <tr>
-                                            <td>
-                                                <a href="{{=i.Url}}">{{=i.Url}}</a>
-                                            </td>
-                                            <td class="description" {{if i.Status=='False':}}style="color:red;"{{else:}}style="color:#448A03;"{{pass}}>
-                                                {{=i.Status}}
-                                            </td>
-                                        </tr>
-                                        {{pass}}
-                                        <!-- row -->
-                                    </tbody>
-                                </table>
-
-
-	        </div>
-	    </div>
+	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="Tweet">Tweet</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="Tweet" name="Tweet" value={{=details.Tweet}} readonly>
+		</div>
+	</div>	
+	<div class="control-group" style="height:60px;width:100%">
+ 		<label class="control-label" for="TestType">TestType</label>
+	        <div class="controls">
+			<input type="text" class="span10 line" id="TestType" name="TestType" value={{=testType}} readonly>
+        	</div>
 	</div>
-
-	<div class="span10" id="StressTesting" style="display:none">
-		<h3>Stress Result</h3>
-        <br/>
-        <iframe style="height:1000px;width:100%" src="{{=URL('static',stressDetails)}}"></iframe>
+	{{if testType=='Phrase':}}
+	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="Phrase">Phrase</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="Phrase" name="Phrase" value={{=details.Phrase}} readonly>
+		</div>
 	</div>
+	{{pass}}
+
+
+	{{if details.Status=='0':
+		PredictedLabel='Processing'
+		ActualLabel='N/A'
+	elif details.Status=='1':
+		PredictedLabel=details.PredictedLabel
+		if not PredictedLabel:
+			PredictedLabel='N/A'
+		pass
+		ActualLabel='N/A'
+	elif details.Status=='2':
+		PredictedLabel=details.PredictedLabel
+		if not PredictedLabel:
+			PredictedLabel='N/A'
+		pass
+		ActualLabel=details.ActualLabel
+		if not ActualLabel:
+			ActualLabel='N/A'
+		pass
+	else:
+		PredictedLabel='Processing'
+		ActualLabel='N/A'	
+	pass}}
+
+	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="PredictedLabel">PredictedLabel</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="PredictedLabel" name="PredictedLabel" value={{=PredictedLabel}} readonly>
+		</div>
+	</div>	
+
+	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="ActualLabel">ActualLabel</label>
+		<div class="controls">
+			<input type="text" class="span10 line" id="ActualLabel" name="ActualLabel" value={{=ActualLabel}} {{if details.Status!='1':}} readonly {{pass}}>
+		</div>
+	</div>	
+
+	{{if details.Status=='1':}}
+    	<div class="action center-text">
+    		<button type="submit" class="btn btn-primary" value="Submit" name="Submit" name="Submit" >Submit</button>
+   	</div>
+	{{pass}}
+    </div>  
+  </div>        
+ </form>
 </div>
- <script type="text/javascript">
- $(function () {
-       // jQuery Knobs
-       $(".knob").knob();
-});
-</script>
+<script type="text/javascript">
+$(function () {
+
+            // add uniform plugin styles to html elements
+            $("input:checkbox, input:radio").uniform();
+
+        });
+
+$(document).ready(function(){
+		$('#Test').validate({
+		rules: {
+			ActualLabel: {
+				required: true
+			}
+		},
+		highlight: function(element) {
+			$(element).closest('.control-group').removeClass('success').addClass('error');
+		},
+		success: function(element) {
+			$(element).closest('.control-group').removeClass('error').addClass('success');
+		}
+	});
+}); 
+
+</script>										     

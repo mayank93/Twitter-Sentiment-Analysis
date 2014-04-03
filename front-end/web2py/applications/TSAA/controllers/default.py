@@ -34,8 +34,11 @@ def test():
 		details=db(db.SentTestDetails.id == tid).select()[0]
 	else:
 		details=db(db.PhraseTestDetails.id == tid).select()[0]
+		
+	if request.vars.Submit:
+		print request.vars
 	print details
-        return dict(details=details)
+        return dict(details=details,testType=testType)
 
 @auth.requires_login()
 def testDetails():

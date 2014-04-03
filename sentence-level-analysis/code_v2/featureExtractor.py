@@ -225,16 +225,16 @@ def findFeatures(tweet, token, polarityDictionary, stopWords, emoticonsDict, acr
     tweet,token,count1,count2 = preprocesingTweet1(tweet, token, emoticonsDict, acronymDict) 
     score,polarityDictionary = calculateScore(tweet, polarityDictionary)
     featureVector=[]
-    featureVector.extend(findTotalScore(score))
+    #featureVector.extend(findTotalScore(score))
     tweet,token=preprocesingTweet2(tweet, token, stopWords)
-    featureVector.extend(findCapitalised( tweet, token, score))
-    featureVector.extend(findHashtag( tweet, token, score))
-    featureVector.extend(findEmoticons(tweet, token))
-    featureVector.extend(findNegation(tweet))
-    featureVector.extend(findPositiveNegativeWords(tweet,token, score))
-    featureVector.extend(findUrl(tweet,token))
-#    featureVector.extend([count1])  # number of acronym
-#    featureVector.extend([count2])  # number of words which had repetion
-    featureVector.extend(countSpecialChar(tweet,score))  # number of  special char
-    featureVector.extend(countPosTag(tweet,token,score))
+    #featureVector.extend(findCapitalised( tweet, token, score))
+    #featureVector.extend(findHashtag( tweet, token, score))
+    #featureVector.extend(findEmoticons(tweet, token))
+    #featureVector.extend(findNegation(tweet))
+    #featureVector.extend(findPositiveNegativeWords(tweet,token, score))
+   # #featureVector.extend(findUrl(tweet,token))
+#   # featureVector.extend([count1])  # number of acronym
+#    #featureVector.extend([count2])  # number of words which had repetion
+    #featureVector.extend(countSpecialChar(tweet,score))  # number of  special char
+    #featureVector.extend(countPosTag(tweet,token,score))
     return featureVector, polarityDictionary

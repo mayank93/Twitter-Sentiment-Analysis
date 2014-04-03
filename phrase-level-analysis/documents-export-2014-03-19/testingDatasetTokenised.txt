@@ -1,0 +1,3014 @@
+Excuse	V	0.7803	Excuse
+LOVE	N	0.5519	LOVE
+might win	V V	0.9709 0.9964	might win
+award !	N ,	0.9343 0.9988	award!
+available ?	A ,	0.8895 0.9963	available?
+missing	V	0.9442	missing
+interesting	A	0.7778	interesting
+no deals	D N	0.8542 0.9987	no deals
+suspended	V	0.8915	suspended
+W . O . W	G , ! , G	0.3215 0.9534 0.4067 0.9916 0.4313	W.O.W
+toughness	N	0.9935	toughness
+set it on fire	V O P N	0.9741 0.9874 0.8655 0.7938	set it on fire
+appreciate	V	0.9290	appreciate
+Join	V	0.9101	Join
+@JustOneHit :	@ ~	0.9977 0.7994	@JustOneHit:
+have me	V O	0.9991 0.9974	have me
+revelation	N	0.9912	revelation
+se	G	0.6109	se
+con miembros del Bundestag	N N N N	0.3958 0.2998 0.6124 0.8506	con miembros del Bundestag
+can't wait !!!	V V ,	0.9982 0.9986 0.9945	can't wait!!!
+hate	V	0.9340	hate
+who im talkin	O L V	0.9750 0.9618 0.7566	who im talkin
+can	V	0.9763	can
+found	V	0.9652	found
+condemned	V	0.9617	condemned
+cheap .	A ,	0.9104 0.9983	cheap.
+much better	R A	0.6832 0.9698	much better
+shitting on him	V P O	0.9244 0.9502 0.9914	shitting on him
+fuck	!	0.5770	fuck
+true ,	A ,	0.9099 0.9982	true,
+agrrrrrrrrrrrrrr	G	0.3711	agrrrrrrrrrrrrrr
+rescue incarcerated	V V	0.7401 0.9478	rescue incarcerated
+win	V	0.8692	win
+Definitely wish	R V	0.9992 0.9797	Definitely wish
+wins	V	0.5929	wins
+forced	A	0.5745	forced
+:D	E	0.9898	:D
+suspended	V	0.8915	suspended
+love	N	0.6603	love
+:)	E	0.9959	:)
+brag	V	0.9348	brag
+heartbreaking	A	0.8733	heartbreaking
+can't wait	V V	0.9982 0.9984	can't wait
+sick happy	A A	0.9343 0.9797	sick happy
+don't	V	0.9973	don't
+no big deal	D A N	0.7443 0.8594 0.9980	no big deal
+fucks	N	0.5803	fucks
+martyred	V	0.5319	martyred
+@PhotogenicAri	@	0.9990	@PhotogenicAri
+Nurin much sir . " @pchiorlu :	^ A N , , @ ~	0.3314 0.9055 0.9759 0.9980 0.9639 0.9933 0.8695	Nurin much sir."@pchiorlu:
+shining	V	0.9573	shining
+crossed	V	0.9605	crossed
+:)	E	0.9959	:)
+match	N	0.8842	match
+Happy	A	0.9011	Happy
+happy	A	0.9389	happy
+Can't wait	V V	0.9982 0.9978	Can't wait
+fighting	V	0.9965	fighting
+@frisbie14 :	@ ~	0.9950 0.7994	@frisbie14:
+forget	V	0.9696	forget
+missed	V	0.9844	missed
+so	R	0.5317	 so
+this	O	0.5028	this
+Cannot wait	V V	0.8881 0.9975	Cannot wait
+Happy	A	0.9011	Happy
+no worse	D A	0.5911 0.8762	no worse
+Hopefully	R	0.9653	Hopefully
+shut down	V T	0.9529 0.8804	shut down
+cool ,	A ,	0.7508 0.9982	cool,
+great	A	0.9426	great
+wore me out	V O T	0.9975 0.9992 0.9641	wore me out
+OMG !!!!!!!	! ,	0.9956 0.9732	OMG!!!!!!!
+:D	E	0.9898	:D
+you're my inspiration ! :)	L D N , E	0.9741 0.9957 0.9997 0.9985 0.9977	you're my inspiration ! :)
+must not be too happy	V R V R A	0.9784 0.9929 0.9946 0.9952 0.9889	must not be too happy
+removed	V	0.8847	removed
+victory	N	0.9859	victory
+Excited	A	0.4833	Excited
+love ,	N ,	0.6684 0.9956	love,
+:)	E	0.9959	:)
+thanks	N	0.7675	thanks
+dare	V	0.8844	dare
+shitfaced	A	0.6316	shitfaced
+fighting	V	0.9965	fighting
+explosion	N	0.9830	explosion
+@komumichi : だいごくんたちも、体大事にしてほしい … ！日本の未来を担うのは、貴方たちです !! @_daigo_1202	@ ~ N , ^ , @	0.9976 0.8590 0.2251 0.9058 0.1844 0.9844 0.9963	@komumichi: だいごくんたちも、体大事にしてほしい…！日本の未来を担うのは、貴方たちです!!@_daigo_1202
+must be really good .	V V R A ,	0.9812 0.9990 0.9998 0.9986 0.9985	must be really good.
+celebrate	V	0.7749	celebrate
+may be saved	V V V	0.8197 0.9992 0.8446	may be saved
+may not make	V R V	0.7784 0.9927 0.9568	may not make
+Should probably	V R	0.9895 0.9974	Should probably
+:)	E	0.9959	:)
+No break	D N	0.5874 0.9034	No break
+begins : Who will	V , O V	0.8931 0.9797 0.9877 0.9972	begins: Who will
+I	O	0.9937	I
+injured	V	0.8627	injured
+OK :	! ,	0.8952 0.9243	OK:
+didn't	V	0.9947	didn't
+listado Amor	^ ^	0.3984 0.8942	listado Amor
+septiembre listados	^ ^	0.3240 0.6352	septiembre listados
+hilarity .	N ,	0.9901 0.9985	hilarity.
+朱花の双子の姉考案なう	!	0.3127	朱花の双子の姉考案なう
+WTF !	! ,	0.9931 0.9972	WTF!
+died !	V ,	0.9303 0.9980	died!
+hell	!	0.6992	hell
+brutal	A	0.9759	brutal
+LOVED IT !!	V O ,	0.9990 0.9883 0.9957	LOVED IT!!
+want more	V A	0.9919 0.8076	want more
+hopes	V	0.9543	hopes
+miss	V	0.6716	miss
+#bestteacherever	#	0.9374	#bestteacherever
+Fuck	!	0.4899	Fuck
+hahaha	!	0.9987	hahaha
+jail	N	0.8705	jail
+big announcement .	A N ,	0.9147 0.9996 0.9984	big announcement.
+Impressed	A	0.4784	Impressed
+Place to be !	N P V ,	0.8660 0.9979 0.9977 0.9979	Place to be!
+improvements	N	0.9147	improvements
+interesting .	A ,	0.8426 0.9983	interesting.
+не	!	0.3246	не
+ever	R	0.9297	ever
+;)	E	0.9900	;)
+kinda salty	R A	0.9443 0.9995	kinda salty
+smh ... would of been tight	G , V P V A	0.9955 0.9276 0.9902 0.8121 0.9282 0.8882	smh...would of been tight
+:)	E	0.9959	:)
+pretty good ,	R A ,	0.9814 0.9996 0.9980	pretty good,
+Excited	A	0.4833	Excited
+not make	R V	0.9903 0.9623	not make
+kiridah , eu	^ , ^	0.4490 0.9934 0.6733	kiridah, eu
+to veto	P V	0.9739 0.5916	to veto
+Can't wait	V V	0.9982 0.9978	Can't wait
+:-)	E	0.9904	:-)
+Lucky Break	A N	0.9595 0.9776	Lucky Break
+work cut out for it	N N T P O	0.8816 0.7297 0.4717 0.9997 0.9978	work cut out for it
+hates	V	0.9833	hates
+love to know	V P V	0.6219 0.9858 0.9976	love to know
+BRILLIANT	A	0.8876	BRILLIANT
+smiled ]	V ,	0.9596 0.9903	smiled]
+may not	V R	0.7784 0.9892	may not
+arrested	V	0.9715	arrested
+Some good stuff	D A N	0.9533 0.9996 0.9990	Some good stuff
+terrible , ready	A , A	0.9588 0.9985 0.9797	terrible, ready
+smacked us	V O	0.9982 0.9849	smacked us
+right	!	0.8610	right
+already happened	R V	0.9913 0.9948	already happened
+hope	V	0.6059	hope
+top scorer :	A N ,	0.8119 0.9858 0.9541	top scorer:
+big surprise .	A N ,	0.8239 0.9893 0.9980	big surprise.
+continuing	V	0.9348	continuing
+Happy	A	0.9011	Happy
+celebrating	V	0.9729	celebrating
+Great Day !	A N ,	0.9493 0.9954 0.9991	Great Day!
+best	A	0.9236	best
+please go	V V	0.9432 0.9697	please go
+LOL !!	! ,	0.9986 0.9406	LOL!!
+normally	R	0.9717	normally
+might want	V V	0.9602 0.9991	might want
+http://t.co/QCCdYQ5F	U	0.9940	http://t.co/QCCdYQ5F
+hand embarrassment	N N	0.9399 0.9801	hand embarrassment
+you too omg	O R !	0.9829 0.9808 0.9584	you too omg
+should go	V V	0.9873 0.9949	should go
+snarky statement	A N	0.5856 0.9982	snarky statement
+Sorry	A	0.4911	Sorry
+late	A	0.8833	late
+haha :D	! E	0.9988 0.9950	haha :D
+happy	A	0.9389	happy
+James	^	0.9984	James
+probably wait !	R V ,	0.9984 0.9905 0.9976	probably wait!
+bermudas	^	0.5146	bermudas
+#siriwantstokillme	#	0.9237	#siriwantstokillme
+dead	A	0.8854	dead
+don't think	V V	0.9994 0.9995	don't think
+Looking forward	V R	0.9960 0.7077	Looking forward
+fantastic	A	0.9790	fantastic
+blow up	N T	0.5675 0.8871	blow up
+seemed ok .	V ! ,	0.9081 0.7566 0.9978	seemed ok.
+Lack of	N P	0.9605 0.9911	Lack of
+flop :	N ,	0.9871 0.8897	flop:
+may	V	0.6055	may
+may	V	0.6055	may
+kmusta	!	0.3986	kmusta
+urges	V	0.7051	urges
+inspiration . "	N , ,	0.9920 0.9977 0.9762	inspiration."
+famous	A	0.9770	famous
+:D	E	0.9898	:D
+crazy , crazy , crazy	A , A , A	0.9918 0.9983 0.9938 0.9982 0.9931	crazy,crazy,crazy
+didn't make it	V V O	0.9983 0.9998 0.8538	didn't make it
+keep you in shape .	V O P N ,	0.9890 0.9989 0.8794 0.9951 0.9979	keep you in shape.
+No	!	0.8845	No
+Thank .	V ,	0.5083 0.9973	Thank.
+But	&	0.9845	But
+fucked	V	0.6009	fucked
+resurgence	N	0.9834	resurgence
+never	R	0.9752	never
+isnt even smarter	V R A	0.7073 0.9985 0.6741	isnt even smarter
+worthy	A	0.9636	worthy
+Honest	A	0.9606	Honest
+deserves	V	0.9866	deserves
+Can't wait !	V V ,	0.9982 0.9974 0.9976	Can't wait!
+/ /	, ,	0.7339 0.7925	　　/　/  　
+A big day	D A N	0.9898 0.9930 0.9986	A big day
+survived	V	0.9809	survived
+#HappyBirthdayRemusLupin	#	0.9662	#HappyBirthdayRemusLupin
+please	V	0.8246	please
+#happybirthday	!	0.5281	#happybirthday
+I love you	O V O	0.9967 0.9994 0.9990	I love you
+odor	N	0.8544	odor
+funny	A	0.9910	funny
+joking	V	0.9081	joking
+#fail	#	0.7991	#fail
+can't believe	V V	0.9937 0.9989	can't believe
+wtf ?	! ,	0.9898 0.9970	wtf?
+has not done it .... oh okay	V R V O , ! !	0.9814 0.9943 0.9987 0.9581 0.9959 0.9909 0.9745	has not done it....oh okay
+r cursed ... " @evansilva :	V V , , @ ~	0.7906 0.9470 0.7415 0.9862 0.9946 0.8849	r cursed..."@evansilva:
+may be over	V V P	0.8197 0.9997 0.4595	may be over
+injury "	N ,	0.8805 0.9962	injury"
+mofuckas failed	N V	0.9163 0.8003	mofuckas failed
+can't confirm	V V	0.9954 0.9976	can't confirm
+great	A	0.9426	great
+Managed to	V P	0.9877 0.9497	Managed to
+interesting .	A ,	0.8426 0.9983	interesting.
+hopefully	R	0.9460	hopefully
+Make sure	V A	0.9789 0.9865	Make sure
+▽	G	0.2573	▽
+That's a long day .	L D A N ,	0.9939 0.9864 0.9976 0.9995 0.9990	That's a long day.
+about to be hype !	P P V N ,	0.8735 0.9862 0.9979 0.9848 0.9992	about to be hype!
+proud !	A ,	0.9565 0.9979	proud!
+;)	E	0.9900	;)
+cry	V	0.6868	cry
+my youth :P	D N E	0.9920 0.9855 0.9937	my youth :P
+against	P	0.9607	against
+great	A	0.9426	great
+great start !	A N ,	0.9442 0.8494 0.9978	great start!
+Clip	N	0.9405	Clip
+never been ,	R V ,	0.9568 0.9874 0.9977	never been,
+hope ,	V ,	0.5794 0.9959	hope,
+psyched	A	0.3203	psyched
+on WorldStarHipHop !	P ^ ,	0.9709 0.9563 0.9969	on WorldStarHipHop!
+so excited	R A	0.7095 0.9329	so excited
+:)	E	0.9959	:)
+leave	V	0.8730	leave
+restricted	V	0.7491	restricted
+Happy	A	0.9011	Happy
+first class	A N	0.9087 0.9983	first class
+@RamataSweetyIAm :	@ ~	0.9977 0.7994	@RamataSweetyIAm:
+#CrushSoHard	#	0.9516	#CrushSoHard
+não	!	0.6817	não
+edge	N	0.9439	edge
+honestly	R	0.9817	honestly
+nicest	A	0.9282	nicest
+@mizTreen -	@ ,	0.9984 0.8089	@mizTreen -
+http://t.co/qj560QS5	U	0.9940	http://t.co/qj560QS5
+#cantwaitt	#	0.8492	#cantwaitt
+ready	A	0.9553	ready
+20%	$	0.9372	20%
+may really enjoy	V R V	0.7402 0.9966 0.9937	may really enjoy
+Ohhhh	!	0.9976	Ohhhh
+:)	E	0.9959	:)
+@Floratrimp	@	0.9990	@Floratrimp
+Wish me luck !	V O N ,	0.9860 0.9610 0.9307 0.9990	Wish me luck!
+You rock !	O V ,	0.9894 0.7302 0.9969	You rock!
+hurt like crazayyy !	V P A ,	0.9652 0.7495 0.6006 0.9987	hurt like crazayyy!
+lose	V	0.8854	lose
+true	A	0.9009	true
+strict	A	0.9524	strict
+No regrets .	D N ,	0.8277 0.9960 0.9991	No regrets.
+Need	V	0.9096	Need
+critical	A	0.9197	critical
+#dying	#	0.6899	#dying
+helping '	V ,	0.9860 0.9643	helping'
+can't conclude	V V	0.9954 0.9975	can't conclude
+can't wait	V V	0.9982 0.9984	can't wait
+Love	N	0.6118	Love
+babe :) I LOVE YOU !!!	N E O V O ,	0.8361 0.9880 0.9934 0.9990 0.9975 0.9983	babe:) I LOVE YOU!!!
+weird	A	0.9596	weird
+steal	V	0.6494	steal
+nominated	V	0.9157	nominated
+best	A	0.9236	best
+exclusive	A	0.9362	exclusive
+como cuando	! !	0.4183 0.7401	como cuando
+empeño	!	0.4188	empeño
+la	^	0.6695	la
+jaja .	! ,	0.9984 0.9967	jaja.
+celebrating	V	0.9729	celebrating
+said NO	V !	0.9705 0.9773	said NO
+SEAS	N	0.9525	SEAS
+* llora	, ^	0.9249 0.5694	*llora
+win	V	0.8692	win
+May not be accurate-I'm	V R V A	0.5319 0.9912 0.9950 0.9625	May not be accurate-I'm
+haven't heard back .	V V R ,	0.7817 0.9980 0.5452 0.9986	haven't heard back.
+didn't exist yet !	V V R ,	0.9985 0.9994 0.9312 0.9987	didn't exist yet!
+may be wrong ,	V V A ,	0.8175 0.9994 0.9719 0.9989	may be wrong,
+sure :)	A E	0.8762 0.9957	sure :)
+sexiest	A	0.6510	sexiest
+Good	A	0.9544	Good
+정답을	!	0.3127	정답을
+stud	N	0.9583	stud
+earned	V	0.9878	earned
+some	D	0.7045	some
+#CowboysNation	#	0.9888	#CowboysNation
+missed	V	0.9844	missed
+will NOT play ,	V R V ,	0.9770 0.9942 0.9716 0.9985	will NOT play,
+hope to see	V P V	0.8643 0.9924 0.9934	hope to see
+@EntreBipolares :	@ ~	0.9977 0.7994	@EntreBipolares:
+ganas	!	0.3571	ganas
+may	V	0.6055	may
+วันเวลาจะพิสูจน์	!	0.3127	วันเวลาจะพิสูจน์
+only	R	0.7668	only
+wrong	A	0.7814	wrong
+hehe	!	0.9982	hehe
+FYEAH .	! ,	0.9861 0.9962	FYEAH.
+hope to see	V P V	0.8643 0.9924 0.9934	hope to see
+lose	V	0.8854	lose
+loses	V	0.8620	loses
+Don't let this happen .	V V O V ,	0.9913 0.9998 0.8761 0.9825 0.9984	Don't let this happen.
+oMG ))	! ,	0.9888 0.8361	oMG))
+no thnx .	! N ,	0.8725 0.9937 0.9981	no thnx.
+may also be vulnerable	V R V A	0.7442 0.9876 0.9967 0.9898	may also be vulnerable
+terrible/generic	A	0.8921	terrible/generic
+cancelled	V	0.9111	cancelled
+Can't wait	V V	0.9982 0.9978	Can't wait
+awesome ! Lol	A , !	0.6195 0.9987 0.9979	awesome! Lol
+Looking forward	V R	0.9960 0.7077	Looking forward
+luxurious	A	0.9467	luxurious
+may not have gone	V R V V	0.7880 0.9918 0.9981 0.5616	may not have gone
+#ilovefood	#	0.9009	#ilovefood
+unconstitutional :	A ,	0.9545 0.9431	unconstitutional:
+" unconstitutional "	, A ,	0.9870 0.9939 0.9972	"unconstitutional"
+well slit my wrists	! V D N	0.8392 0.8650 0.9981 0.9981	well slit my wrists
+@Sweet_Haze thanks	@ N	0.9988 0.8421	@Sweet_Haze thanks
+may have to	V V P	0.6996 0.9994 0.9548	may have to
+Great progression	A N	0.9295 0.9988	Great progression
+well done !	! V ,	0.5908 0.7636 0.9987	well done!
+exclusive	A	0.9362	exclusive
+weekend for me !	N P O ,	0.9032 0.9998 0.9979 0.9987	weekend for me!
+don't	V	0.9973	don't
+may be ok	V V !	0.8197 0.9977 0.5029	may be ok
+@JessMejica	@	0.9990	@JessMejica
+closed	V	0.6843	closed
+pathological gamblers	A N	0.9854 0.9977	pathological gamblers
+rules out ban	N P N	0.6826 0.7708 0.9426	rules out ban
+was not	V R	0.9865 0.9969	was not
+liked	V	0.9821	liked
+hah trust	! N	0.9974 0.5470	hah trust
+worried	A	0.3540	worried
+Perfect	A	0.9144	Perfect
+sale -	N ,	0.9170 0.8708	sale -
+liv ...	G ~	0.7839 0.8176	liv...
+didn't think	V V	0.9989 0.9991	didn't think
+Rough	A	0.8300	Rough
+it	O	0.9694	it
+Boom !	! ,	0.5828 0.9962	Boom!
+xxx	E	0.8437	xxx
+Can't wait to	V V P	0.9982 0.9995 0.8808	Can't wait to
+extraordinary .	A ,	0.9206 0.9982	extraordinary.
+nobody	N	0.8478	nobody
+can't beat	V V	0.9962 0.9971	can't beat
+couldn't even	V R	0.9969 0.9844	couldn't even
+best	A	0.9236	best
+great	A	0.9426	great
+right !!!	! ,	0.7227 0.9935	right!!!
+support	N	0.5090	support
+oppose	V	0.9292	oppose
+continue	V	0.9193	continue
+oppose	V	0.9292	oppose
+accuse us of disrespectful	V O P A	0.9993 0.9757 0.9497 0.7543	accuse us of disrespectful
+Вишневое	!	0.2630	Вишневое
+o . k	! , G	0.7874 0.9843 0.4257	o.k
+Lol	!	0.9992	Lol
+perfect day	A N	0.9984 0.9972	perfect day
+lovely	A	0.9738	lovely
+should be a breeze	V V D N	0.9924 0.9998 0.9908 0.9970	should be a breeze
+Yes ,	! ,	0.9945 0.9969	Yes,
+wanted to see you	V P V O	0.9866 0.9930 0.9997 0.9886	wanted to see you
+amazing	A	0.8119	amazing
+supports	V	0.9345	supports
+secure	A	0.5961	secure
+goodnight	!	0.9842	goodnight
+rejoin	V	0.9817	rejoin
+would do almost	V V R	0.9938 0.9998 0.9858	would do almost
+lame	A	0.9707	lame
+:/	E	0.9663	:/
+win	V	0.8692	win
+really excited	R A	0.9993 0.5265	really excited
+Hope	V	0.5281	Hope
+$215000	!	0.2218	$215000
+do	V	0.9687	do
+someone extremely	N R	0.9456 0.9964	someone extremely
+special	A	0.8693	special
+funny .	A ,	0.9936 0.9983	funny.
+I	O	0.9937	I
+don't sound too bad .	V V R A ,	0.9988 0.9915 0.9984 0.9942 0.9982	don't sound too bad.
+upset	A	0.7274	upset
+HAPPY	A	0.8935	HAPPY
+دنيـآك .	! ,	0.2555 0.9969	دنيـآك .
+:D	E	0.9898	:D
+wanted to	V P	0.9880 0.9497	wanted to
+happiness	N	0.9910	happiness
+@muhdatiq1 @didasyuhada	@ @	0.9990 0.9985	@muhdatiq1 @didasyuhada
+officially done	R V	0.9668 0.9429	officially done
+hope	V	0.6059	hope
+don't have to retake	V V P V	0.9990 0.9998 0.9930 0.9598	don't have to retake
+looking forward to it , not	V R P O , R	0.9922 0.8692 0.9970 0.9948 0.9991 0.9906	looking forward to it, not
+complimented	V	0.9797	complimented
+Lol	!	0.9992	Lol
+:/	E	0.9663	:/
+Still	R	0.9895	Still
+unanswered ,	A ,	0.9853 0.9982	unanswered,
+saving	V	0.9821	saving
+Great	A	0.8430	Great
+Completely divine ...	R A ,	0.9990 0.9986 0.7648	Completely divine...
+@_AhGuyaneseGyal if	@ P	0.9988 0.9745	@_AhGuyaneseGyal if
+and	&	0.9981	and
+Come along	V T	0.9951 0.4013	Come along
+may not dump	V R V	0.7784 0.9957 0.8185	may not dump
+rotten	A	0.7500	rotten
+defend	V	0.9790	defend
+;)	E	0.9900	;)
+READY !	A ,	0.7925 0.9980	READY!
+why the fuck	R D N	0.8310 0.9854 0.9832	why the fuck
+Samsung Display ends	^ N N	0.9841 0.8018 0.5665	Samsung Display ends
+new	A	0.9552	new
+hope u r well ,	V O V R ,	0.9760 0.9977 0.9298 0.7226 0.9976	hope u r well,
+lovely	A	0.9738	lovely
+done	V	0.8666	done
+have	V	0.9703	have
+great	A	0.9426	great
+#canttouchthis	#	0.9187	#canttouchthis
+Luv	N	0.3113	Luv
+Come down	V T	0.9964 0.8031	Come down
+laugh	V	0.7009	laugh
+crazy	A	0.9821	crazy
+org	!	0.3971	org
+may like	V V	0.9026 0.7452	may like
+good luck	A N	0.9936 0.9917	good luck
+supporting	V	0.9425	supporting
+Dikeroyok http://t.co/kn12F1qA	^ U	0.2457 0.9976	Dikeroyok http://t.co/kn12F1qA
+like	P	0.7012	like
+exciting .	A ,	0.6638 0.9983	exciting.
+even	R	0.9851	even
+able	A	0.9036	able
+do it for me , pls	V O P O , V	0.9989 0.9951 0.9981 0.9974 0.9987 0.6629	do it for me, pls
+win	V	0.8692	win
+a Swansea para	D ^ G	0.9521 0.9646 0.4011	a Swansea para
+buen	^	0.5391	buen
+aplicaciones	!	0.1777	aplicaciones
+LOL !	! ,	0.9996 0.9958	LOL!
+Don't think so ! xDDD	V V R , E	0.9943 0.9996 0.9145 0.9955 0.9442	Don't think so! xDDD
+Great	A	0.8430	Great
+laughed	V	0.9019	laughed
+good	A	0.9644	good
+weakest nigga	A N	0.9819 0.9800	weakest nigga
+lame	A	0.9707	lame
+cuts	N	0.5833	cuts
+eliminations	N	0.9784	eliminations
+Hottest ticket	A N	0.9895 0.9974	Hottest ticket
+Happy	A	0.9011	Happy
+いくら年をとり、知識を積んでも、人間には、人間本来の迷いの火ダネが、白骨になるまでは、なくならないものらしい。	!	0.3127	いくら年をとり、知識を積んでも、人間には、人間本来の迷いの火ダネが、白骨になるまでは、なくならないものらしい。
+garbage .	N ,	0.9400 0.9985	garbage.
+tore them up	V O T	0.9974 0.9884 0.9647	tore them up
+upset	A	0.7274	upset
+(:	E	0.9899	(:
+crazy !!!	A ,	0.9890 0.9959	crazy!!!
+love you	V O	0.9543 0.9986	love you
+\(^o^)/	E	0.8847	\(^o^)/
+just sad .	R A ,	0.9999 0.9992 0.9988	just sad.
+Shiiiiit	N	0.6808	Shiiiiit
+going to fail . : c	V P V , , G	0.9979 0.9887 0.8891 0.9940 0.5328 0.3734	going to fail. :c
+laughing	V	0.9384	laughing
+@natashaspak :	@ ~	0.9976 0.7994	@natashaspak:
+lmfaooo	!	0.9976	lmfaooo
+Didnt	V	0.9208	Didnt
+I Dont	O V	0.9950 0.9984	I Dont
+amazing ,	A ,	0.8731 0.9982	amazing,
+incredible	A	0.9612	incredible
+" Bridging	, V	0.9899 0.9869	"Bridging
+muthafuckin	!	0.5682	muthafuckin
+best	A	0.9236	best
+Good news :	A N ,	0.9662 0.9989 0.8857	Good news:
+Bad news :	A N ,	0.9893 0.9976 0.8857	Bad news:
+just trying	R V	0.9996 0.9950	just trying
+ranked	V	0.8987	ranked
+lost	V	0.4600	lost
+underrated .	A ,	0.7994 0.9985	underrated.
+super dry	R A	0.8746 0.9935	super dry
+super lame !!!	R A ,	0.9391 0.9997 0.9972	super lame!!!
+too old	R A	0.9867 0.9991	too old
+shit	N	0.6894	shit
+@fzas_2012 : قمة الإهانه	@ ~ N N	0.9971 0.8636 0.2481 0.3465	@fzas_2012: قمة الإهانه
+dont like	V V	0.9841 0.8817	dont like
+entertaining .	A ,	0.6113 0.9983	entertaining.
+at	P	0.9712	at
+better	A	0.6680	better
+like	P	0.7012	like
+cheated	V	0.9226	cheated
+dumping	V	0.9776	dumping
+super cheap is your #1	R A V D $	0.8660 0.9866 0.9929 0.9877 0.5794	super cheap is your #1
+Been waiting for this	V V P O	0.9627 0.9986 0.9991 0.6274	Been waiting for this
+dear	!	0.7693	dear
+forgotten	V	0.9681	forgotten
+weren't memorible .	V A ,	0.8861 0.4822 0.9970	weren't memorible.
+deaf ears	A N	0.9797 0.9960	deaf ears
+responsible	A	0.8035	responsible
+@BrianPMarion : Have	@ ~ V	0.9977 0.8801 0.9800	@BrianPMarion: Have
+fucking heart .	A N ,	0.5694 0.9937 0.9985	fucking heart.
+interruption .	N ,	0.9963 0.9981	interruption.
+toast :	N ,	0.9956 0.9254	toast:
+:)	E	0.9959	:)
+new version	A N	0.9912 0.9974	new version
+@KamaMagomedova это	@ !	0.9992 0.3340	@KamaMagomedova это
+catches	V	0.9848	catches
+free	A	0.9309	free
+just dying	R V	0.9993 0.9993	just dying
+opened fire	V N	0.9479 0.7602	opened fire
+beautiful	A	0.9675	beautiful
+will complete	V A	0.9804 0.7172	will complete
+Wish you were coming	V O V V	0.9847 0.9990 0.9985 0.9340	Wish you were coming
+nice !!	A ,	0.9657 0.9927	nice!!
+like	P	0.7012	like
+miss	V	0.6716	miss
+fail ,	N ,	0.4959 0.9985	fail,
+forget exists ,	V V ,	0.9912 0.9159 0.9989	forget exists,
+always lovely	R A	0.9980 0.9984	always lovely
+can't wait	V V	0.9982 0.9984	can't wait
+wavy	A	0.9218	wavy
+fuck up !	V T ,	0.9306 0.9790 0.9975	fuck up!
+Interested	A	0.7405	Interested
+hopefully	R	0.9460	hopefully
+should be good .	V V A ,	0.9924 0.9994 0.9932 0.9984	should be good.
+arguing	V	0.9950	arguing
+real	A	0.7729	real
+cannot wait	V V	0.8934 0.9975	cannot wait
+Girls	N	0.9612	Girls
+are not	V R	0.9887 0.9850	are not
+York	!	0.3104	York
+Join us	V O	0.9972 0.9827	Join us
+@kawamura0206 : 絵描くの好きな人RT http://t.co/DCHnkpTT	@ ~ ~ U	0.9974 0.8636 0.4025 0.9969	@kawamura0206: 絵描くの好きな人RT http://t.co/DCHnkpTT
+Power out	N P	0.7538 0.4563	Power out
+back up and running	R T & V	0.6629 0.4373 0.9975 0.9948	back up and running
+Recognizes	V	0.9884	Recognizes
+Never	R	0.9634	Never
+support	N	0.5090	support
+illegal for them to kill you :	A P O P V O ,	0.9648 0.9998 0.9851 0.9934 0.9999 0.9968 0.9805	illegal for them to kill you:
+addressing	V	0.9670	addressing
+so glad	R A	0.9038 0.9962	so glad
+#thankyoubitch	#	0.9624	#thankyoubitch
+may not work	V R N	0.7784 0.9915 0.8478	may not work
+always the same .	R D A ,	0.9644 0.9982 0.8764 0.9986	always the same.
+fuck	!	0.5770	fuck
+hahaha	!	0.9987	hahaha
+thank god	V ^	0.6768 0.6207	thank god
+:)	E	0.9959	:)
+don't get	V V	0.9984 0.9996	don't get
+criticism .	N ,	0.9796 0.9985	criticism.
+Won	!	0.2989	Won
+had no sniff	V D N	0.9954 0.7733 0.7453	had no sniff
+love	N	0.6603	love
+ousted	V	0.9683	ousted
+didn't iPOOP	V ^	0.9960 0.7196	didn't iPOOP
+IJUNK	!	0.1940	IJUNK
+CAN NOT	V R	0.9911 0.9894	CAN NOT
+yelling	V	0.9746	yelling
+wouldn't	V	0.8013	wouldn't
+Great	A	0.8430	Great
+Beautiful	A	0.9818	Beautiful
+powerful	A	0.9092	powerful
+free	A	0.9309	free
+ready	A	0.9553	ready
+Lamar	^	0.9839	Lamar
+love	N	0.6603	love
+shitloads	N	0.3979	shitloads
+lol .	! ,	0.9994 0.9933	lol.
+paint	V	0.5863	paint
+ta ?	P ,	0.7983 0.9965	ta?
+#1Love	#	0.8261	#1Love
+God bless	^ V	0.9794 0.6174	God bless
+Dealing with anxieties , addictions , abuse , hurts ...	V P N , N , N , V ,	0.9978 0.9916 0.9907 0.9984 0.9191 0.9980 0.8809 0.9973 0.9678 0.8696	Dealing with anxieties, addictions, abuse, hurts...
+your	D	0.5467	your
+@_GiovannaVeras you could possibly	@ O V R	0.9990 0.9963 0.9995 0.9955	@_GiovannaVeras you could possibly
+;) Happy	E A	0.9817 0.9664	;) Happy
+omg	!	0.9978	omg
+@uGoTTaTAsteJAY :	@ ~	0.9977 0.7994	@uGoTTaTAsteJAY:
+da	D	0.7177	da
+#smartdaughter #sillydad	# #	0.7818 0.9752	#smartdaughter #sillydad
+Great day	A N	0.9645 0.9980	Great day
+death	N	0.9716	death
+dislocated	A	0.7244	dislocated
+suffered	V	0.9355	suffered
+spookiest	A	0.5725	spookiest
+dead	A	0.8854	dead
+pure brilliance , Merseyside	A N , ^	0.7266 0.9993 0.9970 0.9916	pure brilliance,Merseyside
+LEGEND	N	0.9531	LEGEND
+right	!	0.8610	right
+best ,	A ,	0.9327 0.9977	best,
+gratitude	N	0.9608	gratitude
+strengthen	V	0.9742	strengthen
+Good Morning	A N	0.9850 0.9914	Good Morning
+hope	V	0.6059	hope
+enjoyed	V	0.9740	enjoyed
+better	A	0.6680	better
+burning	V	0.9607	burning
+MAD	A	0.8351	MAD
+wants	V	0.9897	wants
+avoid .	V ,	0.8996 0.9977	avoid.
+always	R	0.9795	always
+best .. like	A , V	0.8893 0.9956 0.3437	best.. like
+want	V	0.9638	want
+worried	A	0.3540	worried
+:/	E	0.9663	:/
+i'm so tight	L R A	0.9951 0.9218 0.9122	i'm so tight
+gonna miss some of my classes .	V V D P D N ,	0.9804 0.9989 0.8361 0.9966 0.9991 0.9993 0.9986	gonna miss some of my classes.
+i	O	0.9651	i
+RT @combiemohtar :	~ @ ~	0.9976 0.9991 0.9431	RT @combiemohtar:
+memang	!	0.5269	memang
+lmaoo "	! ,	0.9947 0.9921	lmaoo"
+can't find	V V	0.9956 0.9989	can't find
+shot	N	0.9777	shot
+blockbuster	N	0.9462	blockbuster
+sure	A	0.8345	sure
+big surprise .	A N ,	0.8239 0.9893 0.9980	big surprise.
+spontaneously	R	0.9851	spontaneously
+dumped it .	V O ,	0.9984 0.9757 0.9987	dumped it.
+;)	E	0.9900	;)
+may not	V R	0.7784 0.9892	may not
+was quite good	V R A	0.9761 0.9967 0.9989	was quite good
+glad	A	0.8941	glad
+: -*	, G	0.6637 0.4892	:-*
+notava	!	0.6350	notava
+best	A	0.9236	best
+phone	N	0.9893	phone
+don't know	V V	0.9988 0.9991	don't know
+smile	N	0.5438	smile
+support ,	N ,	0.5912 0.9978	support,
+FREE	A	0.8821	FREE
+with	P	0.9671	with
+wasn't great ,	V A ,	0.9124 0.9992 0.9983	wasn't great,
+tinted	V	0.3384	tinted
+only available	R A	0.9644 0.9612	only available
+good	A	0.9644	good
+@Ian_LFC_Higgins	@	0.9990	@Ian_LFC_Higgins
+seemed to be	V P V	0.9866 0.9867 0.9983	seemed to be
+Great	A	0.8430	Great
+unay ,	! ,	0.4238 0.9965	unay ,
+Good to see	A P V	0.9535 0.9966 0.9934	Good to see
+supporting	V	0.9425	supporting
+Haha	!	0.9991	Haha
+wish	V	0.7214	wish
+meet you	V O	0.9970 0.9976	meet you
+:)	E	0.9959	:)
+heehee	!	0.9977	heehee
+<3	E	0.9698	&lt;3
+es 😇	^ ^	0.2196 0.4319	es 😇
+Join us !	V O ,	0.9972 0.9719 0.9982	Join us!
+heaven , sunny	^ , A	0.8888 0.9945 0.9698	heaven, sunny
+hell ,	! ,	0.5590 0.9971	hell,
+no sun ,	D N ,	0.7564 0.9943 0.9989	no sun,
+Didn't	V	0.9480	Didn't
+deep relationships	A N	0.9842 0.9969	deep relationships
+knowledge	N	0.9654	knowledge
+may not	V R	0.7784 0.9892	may not
+usually don't watch	R V V	0.9945 0.9999 0.9974	usually don't watch
+may have	V V	0.6996 0.9980	may have
+make	V	0.8257	make
+exception	N	0.9830	exception
+;)	E	0.9900	;)
+" unconstitutional "	, A ,	0.9870 0.9939 0.9972	"unconstitutional"
+hilarious	A	0.9133	hilarious
+;-)	E	0.9878	;-)
+wen	R	0.5830	wen
+All welcome .	D A ,	0.8158 0.8804 0.9976	All welcome.
+great	A	0.9426	great
+luxury ...	N ,	0.7205 0.9408	luxury...
+I love	O V	0.9967 0.9787	I love
+didn't	V	0.9947	didn't
+he was breathing	O V V	0.9953 0.9997 0.9033	he was breathing
+Take care	V N	0.9638 0.6542	Take care
+blessings ,	N ,	0.9634 0.9978	blessings,
+enjoy !	V ,	0.8182 0.9974	enjoy!
+celebration	N	0.9803	celebration
+Yes	!	0.9939	Yes
+Top scorers	A N	0.9304 0.9601	Top scorers
+WINNER	N	0.9559	WINNER
+awarded	V	0.9555	awarded
+sadly	R	0.9873	sadly
+affecting	V	0.6395	affecting
+SUPER	R	0.4976	SUPER
+over the top .	P D N ,	0.9715 0.9994 0.8630 0.9990	over the top.
+Lucky	A	0.9492	Lucky
+love ,	N ,	0.6684 0.9956	love,
+High fashion [;	A N E	0.5479 0.9954 0.9694	High fashion [;
+sick	A	0.9401	sick
+like	P	0.7012	like
+Happy	A	0.9011	Happy
+qualified	A	0.7682	qualified
+Yeaa	!	0.9990	Yeaa
+Glad	A	0.9362	Glad
+joking !	V ,	0.8549 0.9979	joking!
+Good to see	A P V	0.9535 0.9966 0.9934	Good to see
+praying	V	0.9802	praying
+give you	V O	0.9977 0.9980	give you
+special	A	0.8693	special
+love ,	N ,	0.6684 0.9956	love,
+@DJiLIPZ : #MIAMIHEATNATION	@ ~ #	0.9977 0.8636 0.9280	@DJiLIPZ: #MIAMIHEATNATION
+!!! WE	, O	0.9795 0.9578	!!! WE
+معـﻫ	!	0.3127	معـﻫ
+Wrong	A	0.8244	Wrong
+love	N	0.6603	love
+wrong .	A ,	0.8440 0.9986	wrong.
+hope	V	0.6059	hope
+love you	V O	0.9543 0.9986	love you
+still	R	0.9849	still
+best	A	0.9236	best
+best moment	A N	0.9934 0.9953	best moment
+like	P	0.7012	like
+restoration	N	0.9893	restoration
+damaged	V	0.7530	damaged
+exempt .. LOL	V , !	0.6070 0.9969 0.9985	exempt..LOL
+forget	V	0.9696	forget
+don't be babies	V V N	0.9992 0.9991 0.9818	don't be babies
+having a great time	V D A N	0.9980 0.9967 0.9995 0.9990	having a great time
+really good ,	R A ,	0.9996 0.9992 0.9980	really good,
+jail	N	0.8705	jail
+dropped explosive	V A	0.9959 0.9899	dropped explosive
+#AllTheUglyPeopleBeQuiet !!!	# ,	0.7843 0.9843	#AllTheUglyPeopleBeQuiet!!!
+good	A	0.9644	good
+guys #bestfansever	N #	0.9829 0.8644	guys #bestfansever
+Happy	A	0.9011	Happy
+:-)	E	0.9904	:-)
+Can't wait to	V V P	0.9982 0.9995 0.8808	Can't wait to
+#toomuchexcitement	#	0.9600	#toomuchexcitement
+open	V	0.5185	open
+dismal	A	0.9220	dismal
+goes into effect	V P N	0.9875 0.9821 0.9559	goes into effect
+leading	V	0.9713	leading
+Best	A	0.9759	Best
+Keep voting	V V	0.9383 0.9923	Keep voting
+applaud you !	V O ,	0.9967 0.9919 0.9995	applaud you!
+Screw	N	0.4939	Screw
+yeah	!	0.9988	yeah
+nice ,	A ,	0.9633 0.9983	nice,
+good	A	0.9644	good
+rocked !	V ,	0.9353 0.9980	rocked!
+Whoa .	! ,	0.9988 0.9961	Whoa.
+Passionate	A	0.9921	Passionate
+strong .	A ,	0.9526 0.9983	strong.
+to	P	0.9511	to
+end of your bullshit ... #ItsaNewDay	N P D N , #	0.9649 0.9988 0.9844 0.9901 0.9906 0.9163	end of your bullshit... #ItsaNewDay
+may have left	V V V	0.6996 0.9994 0.5800	may have left
+hasn't stopped	V V	0.9553 0.9889	hasn't stopped
+cool	A	0.6273	cool
+be interesting ,	V A ,	0.9846 0.9884 0.9984	be interesting,
+Wow	!	0.9963	Wow
+Hoping	V	0.9305	Hoping
+Sad	A	0.9857	Sad
+it :)	O E	0.9847 0.9930	it:)
+ill make	L V	0.9785 0.9891	ill make
+famous	A	0.9770	famous
+win	V	0.8692	win
+be sad	V A	0.9823 0.9986	be sad
+seriously needs	R V	0.9905 0.9950	seriously needs
+won	V	0.5339	won
+want this so bad	V O R A	0.9974 0.7507 0.9595 0.9823	want this so bad
+happier	A	0.9584	happier
+beat them	V O	0.9954 0.9350	beat them
+Great	A	0.8430	Great
+Don't forget	V V	0.9839 0.9995	Don't forget
+iPOOP	^	0.6416	iPOOP
+IJUNK	!	0.1940	IJUNK
+CAN NOT compete	V R V	0.9911 0.9938 0.9958	CAN NOT compete
+very much liked	R A V	0.9978 0.9834 0.9369	very much liked
+haha	!	0.9993	haha
+:(	E	0.9836	:(
+:-)	E	0.9904	:-)
+convicted	V	0.4749	convicted
+murders	N	0.7944	murders
+maybe	R	0.9308	maybe
+you guilty	O A	0.9887 0.9944	you guilty
+believes	V	0.9792	believes
+quite happy	R A	0.9525 0.9987	quite happy
+I can be	O V V	0.9977 0.9999 0.9989	I can be
+thanks	N	0.7675	thanks
+Mad respect	A N	0.8586 0.8511	Mad respect
+comforting	V	0.5728	comforting
+bless	!	0.6622	bless
+Good	A	0.9544	Good
+darling	N	0.9134	darling
+happy ... no	A , !	0.9626 0.9750 0.9074	happy...no
+don't mind	V V	0.9984 0.7653	don't mind
+chance	N	0.8172	chance
+lose	V	0.8854	lose
+sluttiest	A	0.5437	sluttiest
+don't think	V V	0.9994 0.9995	don't think
+koh yonk	^ !	0.9301 0.4781	koh yonk
+here omfg	R !	0.8855 0.9858	here omfg
+is	V	0.9892	is
+want	V	0.9638	want
+issues	N	0.8644	issues
+good	A	0.9644	good
+knackered .	A ,	0.7885 0.9975	knackered.
+DO NOT agree	V R V	0.8350 0.9880 0.9948	DO NOT agree
+:)	E	0.9959	:)
+might even	V R	0.9598 0.9859	might even
+looks great .	V A ,	0.9727 0.9984 0.9984	looks great.
+really want to	R V P	0.9968 0.9995 0.9383	really want to
+should come	V V	0.9880 0.9990	should come
+awarded	V	0.9555	awarded
+Never	R	0.9634	Never
+alone	R	0.5001	alone
+Good deal	A N	0.9796 0.9980	Good deal
+Can't wait	V V	0.9982 0.9978	Can't wait
+haha of course !	! P N ,	0.9955 0.9590 0.9927 0.9990	haha of course!
+Not	R	0.9761	Not
+looking forward	V R	0.9915 0.7477	looking forward
+EXCLUSIVO	!	0.4073	EXCLUSIVO
+doubt	N	0.7398	doubt
+haha ok	! !	0.9988 0.9884	haha ok
+be known-	V V	0.9868 0.7207	be known-
+eat pussy	V N	0.8424 0.9886	eat pussy
+break ya neck	V D N	0.9854 0.8591 0.9944	break ya neck
+loll	!	0.9979	loll
+Dig it !	V O ,	0.9972 0.9754 0.9990	Dig it!
+were going	V V	0.9614 0.9209	were going
+may or may not	V & V R	0.6720 0.9815 0.9132 0.9949	may or may not
+Loved	V	0.9877	Loved
+awesome	A	0.7052	awesome
+inspiring !	A ,	0.7826 0.9985	inspiring!
+cheer	N	0.4871	cheer
+support	N	0.5090	support
+realest	A	0.9637	realest
+Jerzday	^	0.3367	Jerzday
+increase	N	0.5569	increase
+Home from	N P	0.9535 0.9948	Home from
+of	P	0.8953	of
+strong	A	0.9370	strong
+not liars	R N	0.9689 0.9713	not liars
+maximum	A	0.5267	maximum
+Sata	^	0.8917	Sata
+RT	~	0.7475	RT
+StellyCheJell	!	0.2476	StellyCheJell
+Worst	A	0.9216	Worst
+#awkward	#	0.8767	#awkward
+can't wait !!	V V ,	0.9982 0.9988 0.9898	can't wait!!
+love it	V O	0.9434 0.9949	love it
+too big	R A	0.9871 0.9906	too big
+could	V	0.9712	could
+much like	R P	0.6322 0.7918	much like
+calor dos	G G	0.4983 0.5724	calor dos
+finally	R	0.9936	finally
+leads	V	0.7016	leads
+not comin back	R V R	0.9934 0.9984 0.5791	not comin back
+23	$	0.9488	23
+;)	E	0.9900	;)
+booted out	V T	0.8121 0.9239	booted out
+lol	!	0.9995	lol
+Unreal	A	0.9698	Unreal
+liked	V	0.9821	liked
+So excited	R A	0.5441 0.9165	So excited
+promoted	V	0.9537	promoted
+real nigga w/ balls .	A N P N ,	0.9213 0.9913 0.9194 0.9977 0.9988	real nigga w/ balls.
+Mind ... Blown ...	N , V ,	0.4179 0.9934 0.7571 0.9598	Mind...Blown...
+Congratulations	!	0.6813	Congratulations
+passing	V	0.9609	passing
+cascaded	V	0.6661	cascaded
+check us out !	V O T ,	0.9914 0.9876 0.8012 0.9977	check us out!
+Don't miss	V V	0.9881 0.9941	Don't miss
+so happy	R A	0.6821 0.9946	so happy
+:)	E	0.9959	:)
+don't	V	0.9973	don't
+remind yourself	V O	0.9992 0.9919	remind yourself
+the best ! Happy	D A , A	0.9990 0.9860 0.9980 0.8578	the best! Happy
+http://t.co/n1yX0AzT	U	0.9940	http://t.co/n1yX0AzT
+استغفرالله "	G ,	0.2688 0.9826	استغفرالله "
+Foto por ahí en	^ G G G	0.6415 0.7473 0.8996 0.4707	Foto por ahí en
+Only	R	0.8217	Only
+ain't	V	0.8098	ain't
+Better ?	R ,	0.5480 0.9971	Better?
+may be late ,	V V A ,	0.8175 0.9984 0.9257 0.9985	may be late,
+grown	V	0.5308	grown
+Hopefully	R	0.9653	Hopefully
+we	O	0.9885	we
+watch	V	0.8421	watch
+episode	N	0.9773	episode
+thank you !	V O ,	0.9631 0.9970 0.9995	thank you!
+want	V	0.9638	want
+waste	N	0.8660	waste
+Special	A	0.8351	Special
+Okay !	! ,	0.9692 0.9972	Okay!
+will not be	V R V	0.9756 0.9921 0.9931	will not be
+:(	E	0.9836	:(
+arrested	V	0.9715	arrested
+fancy	A	0.9653	fancy
+good	A	0.9644	good
+much better mood .	R A N ,	0.6596 0.9976 0.9992 0.9985	much better mood.
+haha	!	0.9993	haha
+won .	V ,	0.5221 0.9977	won.
+dangerously obsessed	R V	0.9954 0.6882	dangerously obsessed
+;)	E	0.9900	;)
+like	P	0.7012	like
+:D :D :D	E E E	0.9855 0.9997 0.9997	:D :D :D
+excited	V	0.5319	excited
+favourite	!	0.3852	favourite
+grumbling , " I * KNEW *	V , , O , V ,	0.9929 0.9990 0.9908 0.9917 0.9157 0.9802 0.9852	grumbling, "I *KNEW*
+half-hearted	A	0.9690	half-hearted
+injury	N	0.7947	injury
+Wish	V	0.6616	Wish
+Great article	A N	0.9087 0.9961	Great article
+fantastic .	A ,	0.9824 0.9983	fantastic.
+Help	V	0.7698	Help
+worthy .	A ,	0.9790 0.9979	worthy.
+shouldn't have to	V V P	0.9978 0.9995 0.9548	shouldn't have to
+Gutted	V	0.5893	Gutted
+missing	V	0.9442	missing
+funny	A	0.9910	funny
+Oh yeah ..	! ! ,	0.9975 0.9996 0.9887	Oh yeah..
+estoy	!	0.3823	estoy
+Win	V	0.9210	Win
+beat	V	0.8551	beat
+full	A	0.8636	full
+bullshit .. put	N , V	0.6237 0.9952 0.7243	bullshit..put
+forget	V	0.9696	forget
+miss	V	0.6716	miss
+interested	A	0.5501	interested
+only	R	0.7668	only
+bombard	V	0.3568	bombard
+battles	N	0.5294	battles
+yr , loved	N , V	0.7845 0.9976 0.9877	yr,loved
+don't get	V V	0.9984 0.9996	don't get
+chances	N	0.9133	chances
+want to cry	V P V	0.9917 0.9944 0.9827	want to cry
+wasn't there	V R	0.9313 0.6777	wasn't there
+Wish me luck	V O N	0.9837 0.9610 0.8245	Wish me luck
+sad	A	0.9768	sad
+goodbye	!	0.9922	goodbye
+hope	V	0.6059	hope
+#dontfancyArfieldingoal	#	0.9364	#dontfancyArfieldingoal
+RT	~	0.7475	RT
+sunglasses	N	0.9806	sunglasses
+:D	E	0.9898	:D
+GREAT	A	0.8935	GREAT
+best	A	0.9236	best
+win	V	0.8692	win
+shock , horror , #applesucks	N , N , #	0.8467 0.9977 0.9647 0.9969 0.8968	shock, horror, #applesucks
+speical	A	0.2653	speical
+wondering	V	0.9019	wondering
+may have	V V	0.6996 0.9980	may have
+crazy	A	0.9821	crazy
+love	N	0.6603	love
+useless	A	0.9776	useless
+right	!	0.8610	right
+ye	!	0.4849	ye
+ye ye ye	O O O	0.6736 0.8260 0.8741	ye ye ye
+don't even feel like going	V R V P V	0.9988 0.9723 0.9981 0.9222 0.9918	don't even feel like going
+MAKE SURE TO COME	V A P V	0.9724 0.9280 0.9954 0.9908	MAKE SURE TO COME
+:)	E	0.9959	:)
+advantage	N	0.7971	advantage
+Finally ,	R ,	0.9974 0.9963	Finally,
+love	N	0.6603	love
+ignorant .	A ,	0.9924 0.9975	ignorant.
+Be sure	V A	0.9902 0.9792	Be sure
+probably win	R V	0.9984 0.9845	probably win
+Unreal .	A ,	0.9763 0.9983	Unreal.
+inactive	A	0.9818	inactive
+won't	V	0.8295	won't
+:(	E	0.9836	:(
+love	N	0.6603	love
+Grand Opening	A N	0.5477 0.9383	Grand Opening
+brilliant	A	0.9221	brilliant
+best	A	0.9236	best
+El fasoooo según Lucas	^ ^ ^ ^	0.4737 0.9737 0.4776 0.9995	El fasoooo según Lucas
+Hope	V	0.5281	Hope
+good	A	0.9644	good
+win	V	0.8692	win
+just wish	R V	0.9992 0.9832	just wish
+tense	A	0.8438	tense
+kwart	!	0.4306	kwart
+“ @f6ee6 :	, @ ~	0.9417 0.9969 0.9431	“@f6ee6:
+Indiscriminate	A	0.9600	Indiscriminate
+Wish	V	0.6616	Wish
+we	O	0.9885	we
+keluar	^	0.2788	keluar
+big thing ,	A N ,	0.9643 0.9990 0.9964	big thing,
+Poor	A	0.5575	Poor
+ended	V	0.9697	ended
+streak .	N ,	0.9912 0.9986	streak.
+lost	V	0.4600	lost
+;))	E	0.9916	;))
+pretty great ,	R A ,	0.9815 0.9997 0.9983	pretty great,
+going to	V P	0.9978 0.8922	going to
+Best	A	0.9759	Best
+wanna go	V V	0.9416 0.9911	wanna go
+am not	V R	0.9042 0.9797	am not
+state of mind	N P N	0.9837 0.9938 0.9517	state of mind
+probably won't	R V	0.9993 0.8191	probably won't
+may not	V R	0.7784 0.9892	may not
+FREE	A	0.8821	FREE
+Can't beat that .	V V O ,	0.9964 0.9992 0.9047 0.9988	Can't beat that.
+excellent	A	0.9404	excellent
+done a mistake	V D N	0.9830 0.9986 0.9983	done a mistake
+Perfect ... not sure	A , R A	0.9571 0.9895 0.9975 0.8894	Perfect...not sure
+haha ,	! ,	0.9995 0.9949	haha,
+agreed	V	0.5981	agreed
+SUPER good ) .	R A , ,	0.9337 0.9991 0.9894 0.9963	SUPER good).
+يـؤذيـنــــا بـعـمـــــق	! !	0.1804 0.3813	يـؤذيـنــــا بـعـمـــــق
+!!!	,	0.9690	!!!
+always-exciting	R	0.7221	always-exciting
+Dont miss it	V V O	0.9615 0.9997 0.9907	Dont miss it
+see you soon !	V O R ,	0.9924 0.9961 0.9301 0.9979	see you soon!
+cancellation	N	0.9898	cancellation
+Love it	V O	0.9384 0.9923	Love it
+(;	E	0.9801	(;
+miss	V	0.6716	miss
+award won	N V	0.8998 0.8098	award won
+amazing	A	0.8119	amazing
+best	A	0.9236	best
+@MustafizulR	@	0.9990	@MustafizulR
+adorable	A	0.9816	adorable
+favourite	!	0.3852	favourite
+didnt win	V V	0.9394 0.9961	didnt win
+won over my heart	V P D N	0.9487 0.9032 0.9967 0.9977	won over my heart
+2013	$	0.8923	2013
+really nice	R A	0.9996 0.9992	really nice
+interested !	A ,	0.5932 0.9980	interested!
+just love	R V	0.9949 0.8871	just love
+hilarious !	A ,	0.8912 0.9985	hilarious!
+Murder	N	0.9725	Murder
+Strongly believe	R V	0.9983 0.9266	Strongly believe
+same	A	0.9270	same
+Fantasy	N	0.5647	Fantasy
+liked	V	0.9821	liked
+celebrate	V	0.7749	celebrate
+:)	E	0.9959	:)
+whole	A	0.8267	whole
+Only	R	0.8217	Only
+burglaries	N	0.9660	burglaries
+better	A	0.6680	better
+may be over	V V P	0.8197 0.9997 0.4595	may be over
+Noo ! :(((((	! , E	0.9995 0.9969 0.9803	Noo! :(((((
+have to	V P	0.9947 0.9744	have to
+:)	E	0.9959	:)
+omg	!	0.9978	omg
+aaah !!	! ,	0.9952 0.9459	aaah!!
+getting drunk	V A	0.9969 0.9570	getting drunk
+#notlookingforwardtodennys !	# ,	0.7846 0.9957	#notlookingforwardtodennys!
+Yes ,	! ,	0.9945 0.9969	Yes,
+rather eat my left foot	R V D A N	0.9890 0.9993 0.8510 0.9082 0.9966	rather eat my left foot
+lmao	!	0.9991	lmao
+will NOT be	V R V	0.9749 0.9937 0.9949	will NOT be
+not cooperating	R V	0.9913 0.9959	not cooperating
+wanna	V	0.9079	wanna
+<3	E	0.9698	&lt;3
+Have never been happier	V R V A	0.9919 0.9345 0.9938 0.9896	Have never been happier
+:(	E	0.9836	:(
+haven't been	V V	0.7596 0.9852	haven't been
+scored	V	0.7883	scored
+cancelled	V	0.9111	cancelled
+good weather	A N	0.9921 0.9860	good weather
+celebrate	V	0.7749	celebrate
+You should come ,	O V V ,	0.9985 0.9989 0.9983 0.9983	You should come,
+too much	R A	0.9985 0.9244	too much
+sad	A	0.9768	sad
+http://t.co/ZZqkjqxt	U	0.9900	http://t.co/ZZqkjqxt
+me jeeyyzus .	O ^ ,	0.9937 0.3897 0.9934	me jeeyyzus.
+pretty	R	0.7847	pretty
+fun	N	0.6011	fun
+perfect peace .	A N ,	0.9941 0.9893 0.9981	perfect peace.
+showsssssss !!!	V ,	0.6860 0.9973	showsssssss!!!
+the best	D A	0.9990 0.9915	the best
+self important bitch	N A N	0.9248 0.9962 0.9970	self important bitch
+don't give a damn	V V D A	0.9993 0.9999 0.9959 0.6158	don't give a damn
+might just	V R	0.9561 0.9985	might just
+haha	!	0.9993	haha
+honor	N	0.6982	honor
+oneness	N	0.9577	oneness
+:D sure are !	E A V ,	0.9489 0.9848 0.8314 0.9969	:D sure are!
+:) come !!	E V ,	0.9905 0.9734 0.9940	:) come!!
+@fifiviali	@	0.9990	@fifiviali
+DIDN'T I KNOW HOLY	V O V !	0.9819 0.9995 0.9979 0.6740	DIDN'T I KNOW HOLY
+you're	L	0.9569	you're
+Don't want to go	V V P V	0.9893 0.9998 0.9670 0.9953	Don't want to go
+not going	R V	0.9932 0.9937	not going
+stuck	V	0.7765	stuck
+Who's fucking with me	L A P O	0.9721 0.4942 0.9988 0.9982	Who's fucking with me
+@one_lick_less my voice	@ D N	0.9990 0.9940 0.9991	@one_lick_less my voice
+fine ,	A ,	0.9221 0.9981	fine,
+sucks	V	0.9032	sucks
+your	D	0.5467	your
+I can say	O V V	0.9977 0.9998 0.9967	I can say
+win	V	0.8692	win
+sure we won !	A O V ,	0.8435 0.9970 0.9770 0.9984	sure we won!
+por	G	0.7595	por
+may be better	V V A	0.8197 0.9990 0.6560	may be better
+enjoyed	V	0.9740	enjoyed
+give	V	0.9362	give
+Don't miss	V V	0.9881 0.9941	Don't miss
+fooled	V	0.9648	fooled
+win	V	0.8692	win
+losing credibility	V N	0.9632 0.9969	losing credibility
+poor	A	0.5098	poor
+hard ?!	A ,	0.7300 0.9912	hard?!
+loved	V	0.9770	loved
+much needed reassurance	R A N	0.5388 0.6473 0.9989	much needed reassurance
+can be wiped by just	V V V P R	0.9924 0.9996 0.9827 0.9814 0.9972	can be wiped by just
+vulnerable	A	0.9371	vulnerable
+Happy Thursday !	A ^ ,	0.9688 0.6320 0.9954	Happy Thursday!
+as fun	P N	0.8716 0.5122	as fun
+@geonil2 itte	@ !	0.9990 0.9534	@geonil2 itte
+best	A	0.9236	best
+love to make people laugh !	V P V N V ,	0.7258 0.9951 0.9971 0.9985 0.9332 0.9964	love to make people laugh!
+gave me the idea	V O D N	0.9981 0.9979 0.9983 0.9836	gave me the idea
+wouldn't make sense	V V N	0.9248 0.9977 0.9840	wouldn't make sense
+>.<	E	0.9632	&gt;.&lt;
+best	A	0.9236	best
+better	A	0.6680	better
+deu	!	0.4092	deu
+don't want	V V	0.9989 0.9996	don't want
+hate	V	0.9340	hate
+will not support	V R V	0.9756 0.9891 0.7695	will not support
+sweaty	A	0.9841	sweaty
+available	A	0.8159	available
+best	A	0.9236	best
+top of things	N P N	0.6780 0.9936 0.9932	top of things
+liked	V	0.9821	liked
+FREE !	A ,	0.8454 0.9979	FREE!
+always FREE ,	R A ,	0.9964 0.9866 0.9976	always FREE,
+no excuses .	D N ,	0.8684 0.9998 0.9987	no excuses.
+mag-aaral dun . lool	N V , !	0.7954 0.5710 0.9959 0.9846	mag-aaral dun.lool
+ان كنتي	! !	0.1804 0.3813	ان كنتي
+جميله	!	0.3127	جميله
+Mad tired ,	A A ,	0.6402 0.9488 0.9981	Mad tired,
+lol	!	0.9995	lol
+arrested	V	0.9715	arrested
+<3	E	0.9698	&lt;3
+don't know	V V	0.9988 0.9991	don't know
+haven't	V	0.6504	haven't
+horrifying injuries	A N	0.9859 0.9937	horrifying injuries
+prayers	N	0.9585	prayers
+good recovery .	A N ,	0.9862 0.9997 0.9980	good recovery.
+Hoorah .	! ,	0.9837 0.9969	Hoorah.
+proud	A	0.9676	proud
+HOPE	V	0.6026	HOPE
+nice	A	0.9471	nice
+good	A	0.9644	good
+great fun ,	A N ,	0.9929 0.8467 0.9985	great fun,
+rockin	V	0.7299	rockin
+so honest	R A	0.9487 0.9967	so honest
+" break down "	, V T ,	0.9880 0.9726 0.8212 0.9966	"break down"
+@Manuelretana	@	0.9990	@Manuelretana
+ignoring	V	0.9770	ignoring
+Happy	A	0.9011	Happy
+good	A	0.9644	good
+Best	A	0.9759	Best
+Thanx	N	0.7035	Thanx
+=)	E	0.9913	=)
+sacked	V	0.9225	sacked
+poor start	N V	0.5097 0.7264	poor start
+winning	V	0.9242	winning
+доброе утро	^ ^	0.1770 0.4247	доброе утро
+would be waiting	V V V	0.9912 0.9997 0.9834	would be waiting
+Don't miss it !	V V O ,	0.9890 0.9998 0.9883 0.9992	Don't miss it!
+won	V	0.5339	won
+http://t.co/qrGdsTMg	U	0.9900	http://t.co/qrGdsTMg
+cheer	N	0.4871	cheer
+So many amazing	R A A	0.7848 0.8846 0.9298	So many amazing
+A great way	D A N	0.9739 0.9996 0.9789	A great way
+have to win	V P V	0.9947 0.9969 0.9940	have to win
+if	P	0.9711	if
+not	R	0.9628	not
+mucho que	A N	0.5223 0.4763	mucho que
+conmigo .	! ,	0.4621 0.9966	conmigo.
+perfect	A	0.9876	perfect
+FREE	A	0.8821	FREE
+competition	N	0.9885	competition
+nope ,	! ,	0.9958 0.9972	nope,
+Great	A	0.8430	Great
+leave	V	0.8730	leave
+( Love	, N	0.9452 0.5136	(Love
+love	N	0.6603	love
+passion	N	0.9870	passion
+great	A	0.9426	great
+daai	!	0.5333	daai
+able to come	A P V	0.9208 0.9986 0.9984	able to come
+didn't bitch	V N	0.9969 0.7468	didn't bitch
+win	V	0.8692	win
+can't pass	V V	0.9963 0.9728	can't pass
+so fucking excited !!!	P R A ,	0.6106 0.7657 0.8933 0.9970	so fucking excited!!!
+welcome	!	0.7727	welcome
+hits	V	0.4503	hits
+be waiting	V V	0.9816 0.9803	be waiting
+establece	!	0.2645	establece
+horario	!	0.6757	horario
+#OlympicGames	#	0.9520	#OlympicGames
+Great	A	0.8430	Great
+Beautiful	A	0.9818	Beautiful
+it	O	0.9694	it
+now ..	R ,	0.9729 0.9960	now..
+Despite going off	P V T	0.9240 0.9965 0.9433	Despite going off
+could be fine	V V A	0.9900 0.9966 0.9598	could be fine
+windy	A	0.9670	windy
+fault .	N ,	0.9743 0.9981	fault.
+shit	N	0.6894	shit
+fault .	N ,	0.9743 0.9981	fault.
+" YAY "	, ! ,	0.9804 0.9692 0.9943	"YAY"
+" Love	, N	0.9851 0.6171	"Love
+encouraging	V	0.9609	encouraging
+best	A	0.9236	best
+friends !!	N ,	0.8878 0.9905	friends!!
+Nothing	N	0.9856	Nothing
+pretty good	R A	0.9814 0.9996	pretty good
+cheaper	A	0.8630	cheaper
+can't afford	V V	0.9952 0.9965	can't afford
+may not be able	V R V A	0.7880 0.9927 0.9970 0.9863	may not be able
+everybody @'s me .	N V O ,	0.9424 0.3903 0.9973 0.9985	everybody @'s me.
+kik'd me	^ O	0.7638 0.9900	kik'd me
+Don't	V	0.9817	Don't
+could	V	0.9712	could
+straining	V	0.9809	straining
+More for	A P	0.8379 0.9988	More for
+haha	!	0.9993	haha
+closed	V	0.6843	closed
+appreciate	V	0.9290	appreciate
+bad bad bad	A A A	0.8013 0.9294 0.8936	bad bad bad
+no	!	0.9253	no
+won	V	0.5339	won
+opportunity	N	0.9493	opportunity
+" I'm	, L	0.9904 0.9913	"I'm
+UV	N	0.4648	UV
+greatest thing	A N	0.9967 0.9983	greatest thing
+enjoyed	V	0.9740	enjoyed
+Surprise ,	N ,	0.8384 0.9978	Surprise,
+good ?	A ,	0.9714 0.9950	good?
+that	O	0.7135	that
+not mentioned	R V	0.9873 0.9944	not mentioned
+good	A	0.9644	good
+cant go	V V	0.8114 0.9953	cant go
+didnt	V	0.8554	didnt
+opened	V	0.9516	opened
+fancy	A	0.9653	fancy
+Top	A	0.8547	Top
+RT	~	0.7475	RT
+unlikely	A	0.9724	unlikely
+failing	V	0.9205	failing
+#NotOptimal	#	0.9632	#NotOptimal
+solid	A	0.8851	solid
+even better	R A	0.9987 0.9867	even better
+e	G	0.3771	e
+Best	A	0.9759	Best
+not win	R V	0.9915 0.9748	not win
+may	V	0.6055	may
+best	A	0.9236	best
+LOL .	! ,	0.9989 0.9958	LOL.
+may not	V R	0.7784 0.9892	may not
+issue	N	0.9221	issue
+may not update	V R N	0.7784 0.9926 0.7918	may not update
+come and visit	V & V	0.9570 0.9955 0.7761	come and visit
+would love to see you :-)	V V P V O E	0.9885 0.9932 0.9913 0.9995 0.9930 0.9829	would love to see you :-)
+a little excited	D A A	0.9953 0.9614 0.8702	a little excited
+fan	N	0.9084	fan
+greats .	N ,	0.9689 0.9982	greats.
+: *	, ,	0.6701 0.8649	:*
+died	V	0.9541	died
+stopped	V	0.9851	stopped
+may have bounce ,	V V N ,	0.6856 0.9991 0.5968 0.9990	may have bounce,
+no hangtime	D N	0.5684 0.9971	no hangtime
+shot myself	N O	0.7481 0.9606	shot myself
+may like	V V	0.9026 0.7452	may like
+leaving	V	0.9745	leaving
+being	V	0.9770	being
+more	A	0.4885	more
+extra hour	A N	0.9547 0.9937	extra hour
+LOL ... Oh	! , !	0.9966 0.9194 0.9972	LOL...Oh
+I would like to	O V V P	0.9976 0.9999 0.9905 0.9390	I would like to
+is	V	0.9892	is
+in	P	0.8576	in
+get	V	0.9655	get
+protecting	V	0.9746	protecting
+haven't	V	0.6504	haven't
+don't	V	0.9973	don't
+can't	V	0.9853	can't
+Thanks !	N ,	0.8290 0.9976	Thanks!
+pride	N	0.9689	pride
+;)	E	0.9900	;)
+Come out	V T	0.9971 0.9287	Come out
+need ..	V ,	0.8771 0.9921	need..
+can't wait	V V	0.9982 0.9984	can't wait
+scums unfortunately	N R	0.8203 0.9836	scums unfortunately
+favourite	!	0.3852	favourite
+lol	!	0.9995	lol
+Wonderful	A	0.9624	Wonderful
+good luck	A N	0.9936 0.9917	good luck
+que	!	0.3404	que
+still available	R A	0.9980 0.9729	still available
+injury :	N ,	0.9638 0.9216	injury:
+Overexposed	A	0.6905	Overexposed
+Couldnt make it	V V O	0.9230 0.9998 0.8538	Couldnt make it
+might not be	V R V	0.9693 0.9932 0.9931	might not be
+whacked	V	0.9228	whacked
+RT	~	0.7475	RT
+:)	E	0.9959	:)
+Falls	V	0.5065	Falls
+Beats Expectations :	V N ,	0.9419 0.9715 0.9471	Beats Expectations:
+love	N	0.6603	love
+strength "	N ,	0.9924 0.9970	strength"
+the best players	D A N	0.9990 0.9986 0.9991	the best players
+“ @OneManStruggle @I_OwnThrone24	, @ @	0.9417 0.9989 0.9984	“@OneManStruggle @I_OwnThrone24
+look like mush mouth	V P N N	0.9688 0.8996 0.9031 0.9995	look like mush mouth
+Agree ?	V ,	0.9568 0.9967	Agree?
+bigger and better !!	A & A ,	0.9447 0.9977 0.6408 0.9956	bigger and better!!
+uffff	!	0.9927	uffff
+Happy IWD !!	A N ,	0.9238 0.2033 0.9920	Happy IWD!!
+awarded	V	0.9555	awarded
+unconstitutional	A	0.9702	unconstitutional
+" unconstitutional "	, A ,	0.9870 0.9939 0.9972	"unconstitutional"
+win Monday .... put foles in	V ^ , V N P	0.9456 0.9691 0.9892 0.8761 0.4842 0.9644	win Monday....put foles in
+be	V	0.9569	be
+may not make it	V R V O	0.7880 0.9927 0.9983 0.8532	may not make it
+expected recovery	V N	0.8285 0.9914	expected recovery
+Come along	V T	0.9951 0.4013	Come along
+abducted	V	0.7140	abducted
+orang ...	G ~	0.5665 0.5858	orang...
+fun !	N ,	0.7482 0.9987	fun!
+:)	E	0.9959	:)
+Please	V	0.7761	Please
+>.>	E	0.9645	&gt;.&gt;
+really excited	R A	0.9993 0.5265	really excited
+Should compete well	V V !	0.9914 0.9987 0.4912	Should compete well
+atmosphere is insane !	N V A ,	0.9214 0.9968 0.9993 0.9987	atmosphere is insane!
+lol	!	0.9995	lol
+love	N	0.6603	love
+so proud of	R A P	0.9038 0.9980 0.9748	so proud of
+mad	A	0.9005	mad
+not	R	0.9628	not
+liked	V	0.9821	liked
+lookin up	V T	0.9901 0.9752	lookin up
+back	R	0.5723	back
+mildly obsessed	R V	0.9962 0.6882	mildly obsessed
+good	A	0.9644	good
+good looks .	A N ,	0.9587 0.8146 0.9984	good looks.
+Great result	A N	0.9002 0.9935	Great result
+winning streak .	V N ,	0.9155 0.9961 0.9988	winning streak.
+lot of pressure	N P N	0.9390 0.9966 0.9371	lot of pressure
+betull	!	0.5035	betull
+love	N	0.6603	love
+not	R	0.9628	not
+biggest	A	0.9504	biggest
+strongest .	A ,	0.9662 0.9980	strongest.
+will miss	V V	0.9640 0.9878	will miss
+dislocating	!	0.5095	dislocating
+interesting	A	0.7778	interesting
+@muturu3 【ティラミス】僕もむつると一緒にお風呂入りたいなー ♪	@ ! ,	0.9990 0.2086 0.3428	@muturu3 【ティラミス】僕もむつると一緒にお風呂入りたいなー♪
+back fired ... and	R V , &	0.8283 0.8696 0.9697 0.9984	back fired...and
+true/proved	A	0.9636	true/proved
+troubles	N	0.9552	troubles
+love you	V O	0.9543 0.9986	love you
+Good luck	A N	0.9876 0.9931	Good luck
+ready	A	0.9553	ready
+affected	V	0.9222	affected
+cool ..	A ,	0.5628 0.9955	cool..
+Yeah C'mon!	! !	0.9973 0.9896	Yeah C'mon!
+takes	V	0.9630	takes
+reinstatement	N	0.9483	reinstatement
+Good	A	0.9544	Good
+opportunities :	N ,	0.9909 0.9165	opportunities:
+Opened fire	V N	0.9393 0.7602	Opened fire
+Me	O	0.9899	Me
+hate	V	0.9340	hate
+is	V	0.9892	is
+little guy !	A N ,	0.9836 0.9887 0.9988	little guy!
+play with	V P	0.9562 0.9821	play with
+best	A	0.9236	best
+hope	V	0.6059	hope
+(:	E	0.9899	(:
+bad news .	A N ,	0.9819 0.9971 0.9977	bad news.
+worse	A	0.8961	worse
+alright ,	! ,	0.9836 0.9971	alright,
+make	V	0.8257	make
+assassination	N	0.9903	assassination
+evil tyrant	A N	0.9397 0.9977	evil tyrant
+is everyone	V N	0.9962 0.9071	is everyone
+@cchaqueen @cyupiddead	@ @	0.9983 0.9986	@cchaqueen @cyupiddead
+카카시 선생님이 그랬다니깐 ..... " 4대	^ ^ ^ , , $	0.2257 0.6284 0.7046 0.9895 0.9929 0.1506	카카시 선생님이 그랬다니깐....."4대
+닌자였는지는	!	0.3127	닌자였는지는
+@SosaOf904	@	0.9981	@SosaOf904
+honorable	A	0.9315	honorable
+=))))))	E	0.9891	=))))))
+ahh	!	0.9966	ahh
+need	V	0.8664	need
+haha	!	0.9993	haha
+better	A	0.6680	better
+Prettiest	A	0.9864	Prettiest
+" Ah Ha "	, ! ! ,	0.9868 0.9863 0.9567 0.9956	"Ah Ha"
+the	D	0.9792	the
+of	P	0.8953	of
+Dead	A	0.6214	Dead
+find it odd	V O A	0.9976 0.9141 0.9557	find it odd
+didnt say	V V	0.9185 0.9965	didnt say
+independent	A	0.8505	independent
+do	V	0.9687	do
+Throwback	N	0.5423	Throwback
+victory	N	0.9859	victory
+straight	R	0.4414	straight
+to	P	0.9511	to
+Thank god	V ^	0.7415 0.6033	Thank god
+only	R	0.7668	only
+improving .	V ,	0.9740 0.9973	improving.
+hegui la	^ ^	0.5632 0.9256	hegui la
+ESPN	^	0.7868	ESPN
+Sport ! Jaja ..	N , ! ,	0.8824 0.9990 0.9964 0.9935	Sport! Jaja..
+Happy	A	0.9011	Happy
+would be better	V V A	0.9912 0.9997 0.6560	would be better
+revenge	N	0.9748	revenge
+worse	A	0.8961	worse
+going to be sooooo MAD	V P V R A	0.9979 0.9734 0.9989 0.9927 0.9525	going to be sooooo MAD
+bet	V	0.9021	bet
+Would welcome	V V	0.9854 0.9321	Would welcome
+Special	A	0.8351	Special
+fun !!	N ,	0.6960 0.9917	fun!!
+sucked	V	0.8953	sucked
+Brilliant	A	0.9504	Brilliant
+I'm so excited omg .	L R A ! ,	0.9959 0.7967 0.8901 0.9498 0.9972	I'm so excited omg.
+:D Lol	E !	0.9793 0.9976	:D Lol
+thanks	N	0.7675	thanks
+like	P	0.7012	like
+don't wanna	V V	0.9983 0.9987	don't wanna
+not miss	R V	0.9858 0.9342	not miss
+terrible	A	0.9540	terrible
+unreal .	A ,	0.9740 0.9983	unreal.
+Impressive .	A ,	0.9916 0.9983	Impressive.
+no clothes ... Wonder	D N , A	0.9160 0.9997 0.9825 0.4281	no clothes...Wonder
+shoeless	N	0.3504	shoeless
+Not sure	R A	0.9989 0.9735	Not sure
+Winners	N	0.9675	Winners
+have sex	V N	0.9791 0.9829	have sex
+Sigh .	V ,	0.6111 0.9964	Sigh.
+kau	!	0.4019	kau
+Thanks	N	0.8540	Thanks
+enjoy	V	0.8942	enjoy
+definitely be going	R V V	0.9987 0.9969 0.9815	definitely be going
+Not sure	R A	0.9989 0.9735	Not sure
+hard	A	0.7109	hard
+bigger and better , Thank you	A & A , V O	0.9447 0.9977 0.5027 0.9988 0.9814 0.9989	bigger and better, Thank you
+great effort	A N	0.9859 0.9972	great effort
+may not agree	V R V	0.7784 0.9911 0.9934	may not agree
+principle ... It's	N , L	0.9507 0.9944 0.9976	principle...It's
+pity	N	0.8668	pity
+cannot say	V V	0.7005 0.9967	cannot say
+may not	V R	0.7784 0.9892	may not
+whipped ?	A ,	0.4760 0.9927	whipped?
+عين ترى	! !	0.1804 0.3813	عين ترى
+وضع	!	0.3127	وضع
+" busted	, V	0.9907 0.5111	"busted
+Storm	N	0.8995	Storm
+Hope to return	V P V	0.8438 0.9843 0.9615	Hope to return
+love	N	0.6603	love
+suffer	V	0.7968	suffer
+loss	N	0.9768	loss
+blame	V	0.9090	blame
+Welcome	!	0.7244	Welcome
+Positive thinking	A V	0.6743 0.8733	Positive thinking
+win	V	0.8692	win
+" Recovery	, N	0.9824 0.9882	"Recovery
+Great	A	0.8430	Great
+Smart	A	0.7507	Smart
+Congrats	!	0.9364	Congrats
+love	N	0.6603	love
+honor	N	0.6982	honor
+Get	V	0.9846	Get
+real	A	0.7729	real
+don't	V	0.9973	don't
+a chance	D N	0.9953 0.9703	a chance
+called up	V T	0.9994 0.9804	called up
+liked	V	0.9821	liked
+doesn't kill	V V	0.9881 0.9964	doesn't kill
+makes you stronger !	V O A ,	0.9989 0.9902 0.9735 0.9987	makes you stronger!
+que	!	0.3404	que
+va	^	0.3532	va
+runs	V	0.8462	runs
+wrong	A	0.7814	wrong
+saves	V	0.9808	saves
+rescue ?	N ,	0.6693 0.9963	rescue?
+WTF !	! ,	0.9931 0.9972	WTF!
+Haven't	V	0.7167	Haven't
+great time !	A N ,	0.9965 0.9992 0.9985	great time!
+Win	V	0.9210	Win
+can't drive	V V	0.9951 0.9443	can't drive
+awesome !	A ,	0.6195 0.9985	awesome!
+awesome ! Wish	A , V	0.6195 0.9961 0.8608	awesome! Wish
+school sucks man .	N V N ,	0.9810 0.9147 0.9584 0.9980	school sucks man.
+Have a great day !	V D A N ,	0.9986 0.9975 0.9993 0.9991 0.9993	Have a great day!
+@nikkilb0918	@	0.9989	@nikkilb0918
+my own	D A	0.9966 0.7188	my own
+neat	A	0.8179	neat
+Looking forward	V R	0.9960 0.7077	Looking forward
+Congrats	!	0.9364	Congrats
+win . So happy	V , R A	0.8316 0.9986 0.6941 0.9894	win. So happy
+Hope	V	0.5281	Hope
+Win	V	0.9210	Win
+super cute	R A	0.9261 0.9995	super cute
+Best	A	0.9759	Best
+luck	N	0.8365	luck
+Check out	V T	0.9880 0.9890	Check out
+Can't sleep .	V V ,	0.9952 0.8074 0.9987	Can't sleep.
+can't	V	0.9853	can't
+really	R	0.9938	really
+dumbest	A	0.9522	dumbest
+alive ... smh	A , G	0.9723 0.9755 0.9611	alive...smh
+Available	A	0.8704	Available
+may go	V V	0.7091 0.9934	may go
+gain	V	0.7767	gain
+don't have to	V V P	0.9989 0.9998 0.9548	don't have to
+#smallvictory	#	0.9182	#smallvictory
+Nobody	N	0.8960	Nobody
+optimistic	A	0.8196	optimistic
+welcome .	! ,	0.6877 0.9973	welcome.
+cant	V	0.6921	cant
+Welcome	!	0.7244	Welcome
+Great	A	0.8430	Great
+Awesome	A	0.8466	Awesome
+So excited	R A	0.5441 0.9165	So excited
+#ifyoulovemeyouwillcome	#	0.9286	#ifyoulovemeyouwillcome
+can't get	V V	0.9930 0.9995	can't get
+looking ahead	V R	0.9773 0.7506	looking ahead
+wants	V	0.9897	wants
+http://t.co/AqeRT6Nv	U	0.9940	http://t.co/AqeRT6Nv
+happy bday	A N	0.9890 0.9250	happy bday
+well	!	0.9664	well
+never get elected .	R V V ,	0.9857 0.9988 0.8601 0.9983	never get elected.
+won't	V	0.8295	won't
+thank	V	0.6008	thank
+didn't come	V V	0.9977 0.9993	didn't come
+missed out .	V T ,	0.9990 0.9256 0.9979	missed out.
+enjoy	V	0.8942	enjoy
+want to hear	V P V	0.9917 0.9948 0.9883	want to hear
+boyss	N	0.9841	boyss
+best	A	0.9236	best
+can	V	0.9763	can
+hahahaha -	! ,	0.9964 0.9432	hahahaha -
+unusually understanding	R V	0.8824 0.8619	unusually understanding
+Come relax	V V	0.9868 0.8292	Come relax
+welcome	!	0.7727	welcome
+may need	V V	0.6990 0.9945	may need
+support ! Haha	N , !	0.7180 0.9985 0.9976	support! Haha
+Promises	V	0.8589	Promises
+cracker !	^ ,	0.5385 0.9870	cracker!
+just entered	R V	0.9993 0.9654	just entered
+* pukpuk	, V	0.9524 0.1982	*pukpuk
+didn't want	V V	0.9979 0.9993	didn't want
+troubles	N	0.9552	troubles
+Dont miss	V V	0.9615 0.9924	Dont miss
+Happy	A	0.9011	Happy
+smartest	A	0.9742	smartest
+bijna	!	0.3722	bijna
+Can't wait	V V	0.9982 0.9978	Can't wait
+may not	V R	0.7784 0.9892	may not
+omg , lol	! , !	0.9982 0.9968 0.9985	omg, lol
+free	A	0.9309	free
+' Do not	, V R	0.9240 0.9711 0.9856	'Do not
+dry	A	0.7626	dry
+good !	A ,	0.9499 0.9980	good!
+may have	V V	0.6996 0.9980	may have
+:(	E	0.9836	:(
+:(	E	0.9836	:(
+be going	V V	0.9802 0.9548	be going
+grand	A	0.7543	grand
+Yummy	A	0.4233	Yummy
+support ...	N ,	0.4978 0.9227	support...
+growing	V	0.9241	growing
+new	A	0.9552	new
+new	A	0.9552	new
+fit	V	0.5119	fit
+no te	! N	0.7990 0.7787	no te
+a las	D N	0.9908 0.7569	a las
+again ,	R ,	0.9734 0.9971	again,
+resigned	V	0.7470	resigned
+trouble	N	0.9363	trouble
+abandonment	N	0.9517	abandonment
+may be cheap	V V A	0.8197 0.9989 0.9703	may be cheap
+inferior	A	0.9880	inferior
+almost not worth it .	R R V O ,	0.9921 0.9988 0.8402 0.8611 0.9989	almost not worth it.
+demi	^	0.6651	demi
+Don't wait	V V	0.9964 0.9987	Don't wait
+regret	V	0.9383	regret
+lead	V	0.5679	lead
+didn't prepare	V V	0.9983 0.9981	didn't prepare
+tough win	A N	0.7917 0.7109	tough win
+Never been	R V	0.9200 0.9908	Never been
+Unable	A	0.9695	Unable
+To be fair ,	P V A ,	0.9911 0.9980 0.5314 0.9982	To be fair,
+wish fundraising	V V	0.9121 0.5042	wish fundraising
+loves	V	0.9579	loves
+not	R	0.9628	not
+Good luck	A N	0.9876 0.9931	Good luck
+@valeenperezl @niicocarrizo	@ @	0.9990 0.9986	@valeenperezl @niicocarrizo
+@PiluRainbow	@	0.9990	@PiluRainbow
+Cant	V	0.7701	Cant
+Fuck yes	! !	0.4160 0.9958	Fuck yes
+the best	D A	0.9990 0.9915	the best
+Don't miss	V V	0.9881 0.9941	Don't miss
+win	V	0.8692	win
+so excited	R A	0.7095 0.9329	so excited
+soo proud	R A	0.9336 0.9989	soo proud
+not sure	R A	0.9986 0.9583	not sure
+" Happy	, A	0.9890 0.9185	"Happy
+favour . "	N , ,	0.9809 0.9970 0.9762	favour."
+too excited	R A	0.9876 0.9528	too excited
+great time	A N	0.9965 0.9983	great time
+Le amamos TANTO ,	^ G ^ ,	0.7294 0.3115 0.7956 0.9960	Le amamos TANTO,
+available .	A ,	0.8770 0.9978	available.
+goal	N	0.9228	goal
+sweetest	A	0.9718	sweetest
+don't know	V V	0.9988 0.9991	don't know
+greater	A	0.9150	greater
+violating	V	0.9652	violating
+attack	N	0.5415	attack
+What a joke .	O D N ,	0.9064 0.9949 0.9977 0.9985	What a joke.
+may not be a fan	V R V D N	0.7880 0.9929 0.9990 0.9872 0.9948	may not be a fan
+amazing	A	0.8119	amazing
+may be nice ..	V V A ,	0.8175 0.9989 0.9929 0.9964	may be nice..
+may be neat ..	V V A ,	0.8175 0.9989 0.9723 0.9962	may be neat..
+patience !	N ,	0.9835 0.9988	patience!
+will come !	V V ,	0.9674 0.9981 0.9978	will come!
+Poo-Poo	N	0.3521	Poo-Poo
+:(	E	0.9836	:(
+experiencing trouble	V N	0.9941 0.9712	experiencing trouble
+apologize .	V ,	0.7591 0.9978	apologize.
+still having it	R V O	0.9920 0.9998 0.9948	still having it
+late ,	A ,	0.8977 0.9981	late,
+enjoyed meeting	V N	0.9756 0.7226	enjoyed meeting
+Love you	V O	0.9486 0.9982	Love you
+Amazing	A	0.9182	Amazing
+make sure	V A	0.9600 0.9879	make sure
+available	A	0.8159	available
+아침부터 파워멘붕	! !	0.1804 0.3813	아침부터 파워멘붕
+SAVE THE DATE !	V D N ,	0.9915 0.9988 0.9975 0.9991	SAVE THE DATE!
+a fab idea	D A N	0.9776 0.9647 0.9717	a fab idea
+luvd	V	0.5755	luvd
+still	R	0.9849	still
+available	A	0.8159	available
+sold out event !	V T N ,	0.9948 0.7720 0.9997 0.9992	sold out event!
+so good .	R A ,	0.9324 0.9992 0.9981	so good.
+amazing	A	0.8119	amazing
+fighting	V	0.9965	fighting
+I adore	O V	0.9985 0.9971	I adore
+amazing	A	0.8119	amazing
+don't	V	0.9973	don't
+#pissed	#	0.9126	#pissed
+#Fml	#	0.7509	#Fml
+Not sure why .	R A R ,	0.9991 0.9794 0.9712 0.9966	Not sure why.
+cosa en	! !	0.5187 0.2271	cosa en
+wins	V	0.5929	wins
+won	V	0.5339	won
+win	V	0.8692	win
+so tired	R A	0.6561 0.9903	so tired
+thinner	A	0.9037	thinner
+believe	V	0.9527	believe
+so glad	R A	0.9038 0.9962	so glad
+Good luck	A N	0.9876 0.9931	Good luck
+Hahaha	!	0.9985	Hahaha
+amazing	A	0.8119	amazing
+may have to	V V P	0.6996 0.9994 0.9548	may have to
+restrained .	A ,	0.5519 0.9981	restrained.
+promotes	V	0.9894	promotes
+undecided	A	0.9685	undecided
+peut etre	N G	0.2380 0.3995	peut etre
+Busy week	A N	0.9946 0.9954	Busy week
+seems nice	V A	0.9676 0.9952	seems nice
+Happy birthday	A N	0.9826 0.9940	Happy birthday
+much love	A N	0.8364 0.9732	much love
+gracious	A	0.8736	gracious
+Scania ... hope	^ , V	0.8687 0.9251 0.7242	Scania...hope
+dies	V	0.8901	dies
+tricky	A	0.9757	tricky
+hopefullycome	!	0.4299	hopefullycome
+Don't see	V V	0.9909 0.9980	Don't see
+won	V	0.5339	won
+cause some damage	P D N	0.8968 0.9822 0.9886	cause some damage
+keeps getting better	V V A	0.9644 0.9957 0.7023	keeps getting better
+can you not .	V O R ,	0.9990 0.9986 0.9969 0.9960	can you not.
+wins	V	0.5929	wins
+loose	A	0.2880	loose
+Bring	V	0.9916	Bring
+Love	N	0.6118	Love
+@tvonetv	@	0.9990	@tvonetv
+she would , kt	O V , N	0.9959 0.9982 0.9950 0.6412	she would,kt
+interesting	A	0.7778	interesting
+Not bothered	R V	0.9981 0.8140	Not bothered
+Anxious	A	0.9264	Anxious
+snazzy	A	0.9720	snazzy
+great	A	0.9426	great
+may want	V V	0.7003 0.9986	may want
+may	V	0.6055	may
+may not	V R	0.7784 0.9892	may not
+grinning	V	0.9868	grinning
+nonton kerispatihh .	^ ^ ,	0.3043 0.7774 0.9934	nonton kerispatihh.
+going back	V R	0.9975 0.3492	going back
+:)	E	0.9959	:)
+Thank god	V ^	0.7415 0.6033	Thank god
+Never knew	R V	0.9580 0.9828	Never knew
+cool artist !	A N ,	0.9392 0.9979 0.9987	cool artist!
+great	A	0.9426	great
+die	V	0.8761	die
+never	R	0.9752	never
+didn't know	V V	0.9978 0.9986	didn't know
+going !	V ,	0.9721 0.9985	going!
+does not have	V R V	0.9914 0.9850 0.9949	does not have
+corrected	V	0.9079	corrected
+wrong	A	0.7814	wrong
+suggest	V	0.9433	suggest
+sure	A	0.8345	sure
+a fun	D N	0.9959 0.6202	a fun
+S/O	!	0.3541	S/O
+Good luck	A N	0.9876 0.9931	Good luck
+Deadly	A	0.9358	Deadly
+strike ,	N ,	0.8688 0.9975	strike,
+@_HaiHannah :	@ ~	0.9977 0.7994	@_HaiHannah:
+disinergikan	!	0.4160	disinergikan
+lebih baik #YangMuda	G G #	0.4037 0.6837 0.6699	lebih baik #YangMuda
+may have lost	V V A	0.6996 0.9994 0.5079	may have lost
+least	A	0.8125	least
+Ballad Of Mona	N P ^	0.9317 0.9785 0.9982	Ballad Of Mona
+http://t.co/LyIFOOfx	U	0.9900	http://t.co/LyIFOOfx
+Shot By	N P	0.7890 0.9815	Shot By
+الا	!	0.3127	الا
+عآم	!	0.3127	عآم
+76%	$	0.8917	76%
+time , the people who	N , D N O	0.9715 0.9942 0.9988 0.9992 0.9680	time, the people who
+wasn't kidding !	V V ,	0.9267 0.9862 0.9981	wasn't kidding!
+quite GOOD !	R A ,	0.9911 0.9978 0.9983	quite GOOD!
+R you done ?	V O V ,	0.9290 0.9995 0.9836 0.9988	R you done?
+woke up	V T	0.9909 0.9840	woke up
+a free man	D A N	0.9889 0.9981 0.9837	a free man
+beat	V	0.8551	beat
+win	V	0.8692	win
+try	V	0.8716	try
+@AYY_Yo_Gorgeous	@	0.9990	@AYY_Yo_Gorgeous
+How	R	0.9684	How
+it'll be fun !	L V N ,	0.9979 0.9978 0.7427 0.9990	it'll be fun!
+I miss	O V	0.9985 0.9962	I miss
+school	N	0.9809	school
+classic ... reminds	N , V	0.5275 0.9719 0.9873	classic...reminds
+you ... don't forget	O , V V	0.9728 0.9945 0.9991 0.9994	you...don't forget
+Can't believe	V V	0.9935 0.9985	Can't believe
+Great !!	A ,	0.8134 0.9915	Great!!
+take place	V N	0.8979 0.9820	take place
+free	A	0.9309	free
+it	O	0.9694	it
+best	A	0.9236	best
+asshole	N	0.7650	asshole
+insulting	V	0.7436	insulting
+deserved to die . Stereotypical	V P V , A	0.9940 0.9932 0.9821 0.9978 0.9377	deserved to die. Stereotypical
+-_-	E	0.9719	-_-
+rage ,	N ,	0.9614 0.9975	rage,
+will appear	V V	0.9741 0.9926	will appear
+didn't want	V V	0.9979 0.9993	didn't want
+Hungry	A	0.8181	Hungry
+may buy	V V	0.7831 0.9892	may buy
+No longer	D N	0.5141 0.4867	No longer
+great	A	0.9426	great
+darling	N	0.9134	darling
+love	N	0.6603	love
+will be the main man .	V V D A N ,	0.9816 0.9998 0.9980 0.7092 0.9807 0.9973	will be the main man.
+@hudgenscute	@	0.9989	@hudgenscute
+#セシウム	#	0.9278	#セシウム
+make sure	V A	0.9600 0.9879	make sure
+greatest movie	A N	0.9961 0.9982	greatest movie
+will close	V A	0.9703 0.7451	will close
+rumored	V	0.8023	rumored
+equilavilent	!	0.3422	equilavilent
+still going strong	R V A	0.9950 0.9884 0.9837	still going strong
+comfort	N	0.7607	comfort
+happy	A	0.9389	happy
+HATE	V	0.9348	HATE
+miss	V	0.6716	miss
+Pretty excited	R A	0.7256 0.9337	Pretty excited
+fastest growing	A N	0.8388 0.5308	fastest growing
+totally thrilled !	R V ,	0.9987 0.6391 0.9981	totally thrilled!
+more " collectible . "	A , A , ,	0.6972 0.9985 0.8347 0.9974 0.9791	more "collectible."
+about to go	P P V	0.8753 0.9719 0.9972	about to go
+save	V	0.9359	save
+really going to hurt	R V P V	0.9980 0.9978 0.9466 0.9869	really going to hurt
+" Love	, N	0.9851 0.6171	"Love
+" terror "	, N ,	0.9835 0.9939 0.9965	"terror"
+super !	R ,	0.4009 0.9966	super!
+saving	V	0.9821	saving
+really want to go	R V P V	0.9969 0.9995 0.9670 0.9953	really want to go
+great	A	0.9426	great
+amazing	A	0.8119	amazing
+leyendo tweet	G V	0.2498 0.6155	leyendo tweet
+^.^	E	0.9806	^.^
+may end	V N	0.7402 0.4819	may end
+love and friendships will last 4ever	N & N V A N	0.5546 0.9976 0.9700 0.9947 0.4754 0.3259	love and friendships will last 4ever
+famous	A	0.9770	famous
+mwhahaha	!	0.9972	mwhahaha
+RT	~	0.7475	RT
+Free !	A ,	0.8717 0.9974	Free!
+cancelled	V	0.9111	cancelled
+still waiting	R V	0.9952 0.9959	still waiting
+#smartkids	#	0.9359	#smartkids
+Happy	A	0.9011	Happy
+ahead	R	0.5145	ahead
+won	V	0.5339	won
+음하하하하	!	0.3127	음하하하하
+Great	A	0.8430	Great
+awesome	A	0.7052	awesome
+Good luck	A N	0.9876 0.9931	Good luck
+wanna meet	V V	0.9679 0.9945	wanna meet
+Ladilla	!	0.4296	Ladilla
+better .	A ,	0.6547 0.9982	better.
+sure	A	0.8345	sure
+Happy	A	0.9011	Happy
+Haha	!	0.9991	Haha
+great day	A N	0.9941 0.9970	great day
+@hs6112 大福、おいしかったです。しっかりと抹茶の味 (^-^)	@ ! E	0.9979 0.2086 0.4820	@hs6112 大福、おいしかったです。しっかりと抹茶の味(^-^)
+0 sense	$ N	0.9940 0.9845	0 sense
+end up losing ,	N T V ,	0.5419 0.6017 0.9639 0.9980	end up losing,
+may cash	V N	0.7056 0.8538	may cash
+cares	V	0.9605	cares
+loses	V	0.8620	loses
+Shit	N	0.6982	Shit
+better show	A N	0.8114 0.9904	better show
+we can play	O V V	0.9966 0.9997 0.9965	we can play
+can not	V R	0.9900 0.9877	can not
+Thank you	V O	0.9723 0.9987	Thank you
+improud of	N P	0.3840 0.9744	improud of
+debates ,	N ,	0.9773 0.9980	debates,
+Good idea	A N	0.9902 0.9682	Good idea
+don't expect	V V	0.9992 0.9988	don't expect
+changes	N	0.4654	changes
+ready	A	0.9553	ready
+do a great job !	V D A N ,	0.9966 0.9962 0.9991 0.9980 0.9990	do a great job!
+like to go	V P V	0.4739 0.9663 0.9972	like to go
+died	V	0.9541	died
+nope not quite	! R R	0.9897 0.9810 0.9736	nope not quite
+happy	A	0.9389	happy
+#bestsubject	#	0.9492	#bestsubject
+so sad .	R A ,	0.9487 0.9992 0.9988	so sad.
+i	O	0.9651	i
+FANDOM	N	0.5767	FANDOM
+FOR FIVE	P $	0.9974 0.3691	FOR FIVE
+excitement	N	0.9613	excitement
+beautiful	A	0.9675	beautiful
+excited	V	0.5319	excited
+gr8 !!!	A ,	0.5130 0.9951	gr8!!!
+bad	A	0.9370	bad
+ok ! :-)	! , E	0.9921 0.9964 0.9898	ok! :-)
+make sure	V A	0.9600 0.9879	make sure
+today !	N ,	0.9947 0.9969	today!
+favorited	V	0.5153	favorited
+helped	V	0.9785	helped
+Shut down ,	V T ,	0.9638 0.7605 0.9977	Shut down,
+as well	R R	0.6334 0.4797	as well
+why not	R R	0.9496 0.9871	why not
+miss	V	0.6716	miss
+crapping	V	0.6910	crapping
+very difficult	R A	0.9926 0.9996	very difficult
+worth	A	0.3472	worth
+:)	E	0.9959	:)
+#lovely	#	0.8956	#lovely
+great day	A N	0.9941 0.9970	great day
+true fighter	A N	0.9533 0.9864	true fighter
+dnt knw	V V	0.9024 0.9549	dnt knw
+bad . #GodPunishU	A , #	0.9352 0.9971 0.9483	bad.#GodPunishU
+no	!	0.9253	no
+Holy shit no	A N !	0.6063 0.9865 0.8151	Holy shit no
+love	N	0.6603	love
+resusitados ,	^ ,	0.2978 0.9953	resusitados,
+couldn't stop laughing .	V V V ,	0.9980 0.9967 0.9079 0.9990	couldn't stop laughing.
+Thank GOD !	V ^ ,	0.7394 0.9346 0.9921	Thank GOD!
+Most Anticipated	R A	0.7365 0.9936	Most Anticipated
+@IsWhatItIz Let do	@ V V	0.9991 0.9780 0.9800	@IsWhatItIz Let do
+@punishdemall	@	0.9990	@punishdemall
+#yeahbuddy	#	0.7495	#yeahbuddy
+Extremely jealous	R A	0.9997 0.9938	Extremely jealous
+hate	V	0.9340	hate
+" Good news	, A N	0.9872 0.9341 0.9976	"Good news
+problems .	N ,	0.9910 0.9984	problems.
+only few	R A	0.8689 0.9586	only few
+cry	V	0.6868	cry
+anticipates	V	0.9892	anticipates
+fancy	A	0.9653	fancy
+video . dont forgetRT	N , V V	0.9927 0.9986 0.9839 0.4182	video.dont forgetRT
+aware	A	0.9185	aware
+just	R	0.9975	just
+getting better !	V A ,	0.9961 0.8181 0.9982	getting better!
+disqualified	V	0.9588	disqualified
+riot forced	N A	0.9773 0.6573	riot forced
+abandoned	V	0.7205	abandoned
+won't broken "	V V ,	0.9525 0.9726 0.9983	won't broken"
+inpired	!	0.1830	inpired
+kali	!	0.4395	kali
+:))))	E	0.9942	:))))
+canceled	V	0.8407	canceled
+for	P	0.9910	for
+haven't	V	0.6504	haven't
+Best Deal	A N	0.9908 0.9878	Best Deal
+never forget	R V	0.9832 0.9927	never forget
+not surprisec	R G	0.9857 0.2962	not surprisec
+should consider suing	V V V	0.9905 0.9988 0.9879	should consider suing
+didn't	V	0.9947	didn't
+appeared	V	0.9373	appeared
+best players	A N	0.9912 0.9985	best players
+Come support	V V	0.9725 0.7362	Come support
+special	A	0.8693	special
+Lets fly	L V	0.9410 0.9766	Lets fly
+all	D	0.7257	all
+risadinha	!	0.5829	risadinha
+Abreu , sobre	^ , G	0.9220 0.9953 0.2724	Abreu, sobre
+vis ...	G ~	0.8711 0.8175	vis...
+mulai nakal	G G	0.2871 0.7527	mulai nakal
+Pengeeen dk sekolaah	^ ^ ^	0.4968 0.5894 0.5877	Pengeeen dk sekolaah
+almost ready	R A	0.9964 0.9945	almost ready
+lol	!	0.9995	lol
+dont ever	V R	0.9401 0.9528	dont ever
+deciding	V	0.9206	deciding
+sekolah .	! ,	0.3396 0.9966	sekolah .
+causa	!	0.6373	causa
+Bélgica	!	0.3834	Bélgica
+mujer	G	0.2531	mujer
+arrived safely .	V R ,	0.9895 0.7448 0.9986	arrived safely.
+looking good !	V A ,	0.9896 0.9927 0.9980	looking good!
+comes out	V T	0.9974 0.9793	comes out
+try to beat	V P V	0.9579 0.9886 0.9921	try to beat
+forever ok	R !	0.9870 0.7805	forever ok
+really sad	R A	0.9997 0.9991	really sad
+not going to able	R V P A	0.9939 0.9982 0.8882 0.8511	not going to able
+This	D	0.6836	This
+aka " The	G , D	0.7855 0.9868 0.8936	aka "The
+by	P	0.9649	by
+may not	V R	0.7784 0.9892	may not
+noooo ...	! ,	0.9957 0.8898	noooo...
+really confused	R A	0.9994 0.6826	really confused
+" happy	, A	0.9881 0.9816	"happy
+out of luck	P P N	0.8043 0.9766 0.9802	out of luck
+not available .	R A ,	0.9971 0.9489 0.9980	not available.
+busy	A	0.8817	busy
+available	A	0.8159	available
+bummy	A	0.5462	bummy
+can't wait	V V	0.9982 0.9984	can't wait
+ready !!!	A ,	0.9721 0.9951	ready!!!
+what	O	0.9490	what
+will want to avoid	V V P V	0.9642 0.9997 0.9926 0.9962	will want to avoid
+Happy birthday	A N	0.9826 0.9940	Happy birthday
+soon (:	R E	0.8159 0.9886	soon (:
+funday	N	0.5864	funday
+#goodday	#	0.9148	#goodday
+Dibanding	!	0.4330	Dibanding
+lanjut	!	0.3428	lanjut
+cool	A	0.6273	cool
+the best !	D A ,	0.9990 0.9860 0.9981	the best!
+pleased	A	0.5049	pleased
+availability	N	0.9486	availability
+still	R	0.9849	still
+totally looking forward	R V R	0.9956 0.9587 0.8443	totally looking forward
+:(	E	0.9836	:(
+haha .	! ,	0.9993 0.9961	haha.
+Support	N	0.5061	Support
+Can't get enough	V V A	0.9931 0.9997 0.6004	Can't get enough
+did not increase	V R V	0.9841 0.9831 0.7072	did not increase
+absurd .	A ,	0.9903 0.9984	absurd.
+will be	V V	0.9807 0.9984	will be
+donate	V	0.9666	donate
+sacked	V	0.9225	sacked
+Don't miss	V V	0.9881 0.9941	Don't miss
+counting down	V T	0.9957 0.8229	counting down
+may	V	0.6055	may
+???.... don't kno	, V V	0.9920 0.9996 0.9856	???....don't kno
+so glad	R A	0.9038 0.9962	so glad
+threatened	V	0.9205	threatened
+not ashamed	R A	0.9986 0.9930	not ashamed
+lies	N	0.8987	lies
+That Shit	D N	0.9276 0.9847	That Shit
+Paradise is	N V	0.7165 0.9928	Paradise is
+feel asleep	V A	0.9764 0.4921	feel asleep
+#badmovie	#	0.9393	#badmovie
+( hopefully ) . Exciting	, R , , A	0.9739 0.8597 0.9859 0.9967 0.6134	(hopefully). Exciting
+good . Not so good	A , R R A	0.9734 0.9988 0.9909 0.9691 0.9963	good. Not so good
+look like	V P	0.9614 0.8201	look like
+thats freaking	L A	0.9628 0.7343	thats freaking
+Happy	A	0.9011	Happy
+love and miss you	N & V O	0.5546 0.9974 0.9942 0.9974	love and miss you
+showing more	V A	0.9861 0.8152	showing more
+warmer	A	0.9146	warmer
+#optimistic	#	0.6242	#optimistic
+need	V	0.8664	need
+want	V	0.9638	want
+should have	V V	0.9878 0.9985	should have
+renowned :	A ,	0.9792 0.9433	renowned:
+notable	A	0.7560	notable
+don't even have	V R V	0.9986 0.9744 0.9923	don't even have
+negatives outweigh the positives .	N P D N ,	0.9735 0.5110 0.9994 0.9937 0.9989	negatives outweigh the positives.
+made no major policy changes	V D N N V	0.9923 0.9405 0.5699 0.9968 0.5620	made no major policy changes
+little excited	A A	0.6376 0.9535	little excited
+aren't	V	0.7894	aren't
+more popular	R A	0.8476 0.9959	more popular
+need more cultural	V A A	0.9496 0.6532 0.6995	need more cultural
+excited	V	0.5319	excited
+@Nikki_Fabulous	@	0.9990	@Nikki_Fabulous
+question :)	N E	0.9715 0.9968	question:)
+haven't	V	0.6504	haven't
+extent	N	0.9000	extent
+damage	N	0.8444	damage
+is going to win	V V P V	0.9927 0.9673 0.9755 0.9909	is going to win
+goin back	V R	0.9940 0.7893	goin back
+suspend	V	0.9280	suspend
+thanks	N	0.7675	thanks
+Ugly ,	A ,	0.9917 0.9982	Ugly,
+loyal	A	0.9661	loyal
+haven't heard ,	V V ,	0.7625 0.9917 0.9979	haven't heard,
+don't appear	V V	0.9990 0.9973	don't appear
+missing	V	0.9442	missing
+CRASHES OUT	V T	0.8435 0.8740	CRASHES OUT
+suffered	V	0.9355	suffered
+surprise	N	0.6923	surprise
+disaster	N	0.9618	disaster
+crisis	N	0.9482	crisis
+afflicted	V	0.9037	afflicted
+more enjoyable .	R A ,	0.8476 0.9984 0.9985	more enjoyable.
+promised	V	0.8443	promised
+horrible	A	0.9756	horrible
+#ihateschool	#	0.8809	#ihateschool
+media-loving	N	0.6156	media-loving
+can't talk	V V	0.9941 0.9952	can't talk
+Absolutely crush	R N	0.9836 0.7340	Absolutely crush
+controversy .	N ,	0.9963 0.9976	controversy.
+Excited	A	0.4833	Excited
+feel like I'm playing	V P L V	0.9871 0.9600 0.9886 0.9930	feel like I'm playing
+--' RT @ramaaaraa : HAAA ~	E ~ @ ~ ! G	0.6656 0.9652 0.9979 0.9623 0.9977 0.3214	--'RT @ramaaaraa: HAAA~
+great	A	0.9426	great
+@LorenaPrzj	@	0.9990	@LorenaPrzj
+post-disaster	N	0.7768	post-disaster
+Great	A	0.8430	Great
+omg	!	0.9978	omg
+crying	V	0.9949	crying
+Good luck	A N	0.9876 0.9931	Good luck
+..	,	0.9687	..
+Come see us !	V V O ,	0.9889 0.9973 0.8475 0.9985	Come see us!
+ain't goin be to happy	V V V P A	0.9126 0.9985 0.9933 0.9618 0.9236	ain't goin be to happy
+no	!	0.9253	no
+may end	V N	0.7402 0.4819	may end
+love	N	0.6603	love
+friendships	N	0.9162	friendships
+last 4ever	A N	0.8526 0.3877	last 4ever
+@OmarionShepard OMARION !	@ ^ ,	0.9991 0.8296 0.9940	@OmarionShepard OMARION!
+immense pride	A N	0.9878 0.9971	immense pride
+fill	V	0.8288	fill
+won't judge	V V	0.9412 0.8749	won't judge
+will open	V V	0.9884 0.8856	will open
+should be allowed	V V A	0.9924 0.9993 0.5917	should be allowed
+mucho	A	0.4019	mucho
+fun	N	0.6011	fun
+may end	V N	0.7402 0.4819	may end
+friendships	N	0.9162	friendships
+4ever #LoveIsLouderthanRollingTheFinalCredits	R #	0.3175 0.9294	4ever #LoveIsLouderthanRollingTheFinalCredits
+Happy Friday !	A ^ ,	0.9654 0.5708 0.9952	Happy Friday!
+gonna be an incredible ...	V V D A ,	0.9880 0.9998 0.9598 0.9872 0.8876	gonna be an incredible...
+need	V	0.8664	need
+Don't miss	V V	0.9881 0.9941	Don't miss
+out .	T ,	0.5533 0.9977	out.
+interested ! :)	A , E	0.5932 0.9971 0.9964	interested! :)
+biggest surprise	A N	0.9729 0.9755	biggest surprise
+He	O	0.9792	He
+do well .	V ! ,	0.9736 0.6420 0.9981	do well.
+climb up	V T	0.9801 0.9775	climb up
+may not	V R	0.7784 0.9892	may not
+best	A	0.9236	best
+only	R	0.7668	only
+good	A	0.9644	good
+hope	V	0.6059	hope
+looking forward	V R	0.9915 0.7477	looking forward
+win	V	0.8692	win
+Wanted	V	0.9750	Wanted
+don't think	V V	0.9994 0.9995	don't think
+could resist	V V	0.9874 0.9764	could resist
+good	A	0.9644	good
+Hope	V	0.5281	Hope
+Not bad .	R A ,	0.9992 0.9912 0.9977	Not bad.
+may have	V V	0.6996 0.9980	may have
+stands	V	0.8128	stands
+dnt	V	0.7816	dnt
+sleep	N	0.6167	sleep
+My &	D &	0.8312 0.9883	My &amp;
+@chrisk1712 danke	@ !	0.9988 0.8271	@chrisk1712 danke
+ends	V	0.4946	ends
+susux  ƪ(◦'⌣' ◦ )Ʃ 	^ ^ ^ ^ ^ ^	0.4946 0.6675 0.6528 0.6345 0.8345 0.6357	susux ƪ(◦'⌣'◦ )Ʃ
+Best day	A N	0.9961 0.9974	Best day
+so much	R A	0.9737 0.7676	so much
+may be	V V	0.8197 0.9981	may be
+shut	V	0.7159	shut
+confused	A	0.5379	confused
+RT @LamarAlphas :	~ @ ~	0.9976 0.9991 0.9431	RT @LamarAlphas:
+not	R	0.9628	not
+deserves	V	0.9866	deserves
+look forward	V R	0.9433 0.5113	look forward
+Unfortunately ,	R ,	0.9888 0.9964	Unfortunately,
+couldn't make it .	V V O ,	0.9981 0.9997 0.7758 0.9990	couldn't make it.
+RT @brunzilla :	~ @ ~	0.9976 0.9983 0.9431	RT @brunzilla:
+talk shit	V N	0.9252 0.9384	talk shit
+FABULOUS ...	A ,	0.9798 0.9220	FABULOUS...
+limited	A	0.7561	limited
+just fine	R A	0.9999 0.9920	just fine
+CIRCUMSTANCES ; I create my own	N , O V D A	0.9397 0.9819 0.9979 0.9999 0.9985 0.5508	CIRCUMSTANCES; I create my own
+only	R	0.7668	only
+legais husahusahuashu	^ ^	0.4264 0.3866	legais husahusahuashu
+best	A	0.9236	best
+Clean	A	0.6332	Clean
+C'MON ?!	! ,	0.8410 0.9832	C'MON?!
+berupa	!	0.4184	berupa
+easy	A	0.9319	easy
+may be	V V	0.8197 0.9981	may be
+will need to shut down	V V P V T	0.9640 0.9990 0.9653 0.9963 0.8664	will need to shut down
+Luck	N	0.6442	Luck
+want to win	V P V	0.9917 0.9955 0.9940	want to win
+In tears	P N	0.9344 0.9939	In tears
+Don't know	V V	0.9879 0.9989	Don't know
+أخاف يغير رأيه إلانه	^ ^ ^ ^	0.2257 0.5315 0.6278 0.5487	أخاف يغير رأيه إلانه
+RT @elchicodelafro :	~ @ ~	0.9976 0.9991 0.9431	RT @elchicodelafro:
+pero	!	0.2530	pero
+sooo excited	R A	0.9268 0.7524	sooo excited
+love you	V O	0.9543 0.9986	love you
+may leave	V V	0.7734 0.9948	may leave
+worse off ,	A P ,	0.9357 0.4306 0.9974	worse off,
+test out	N P	0.9177 0.5644	test out
+sunny but cold	A & A	0.9515 0.9817 0.9849	sunny but cold
+LOVES	V	0.9534	LOVES
+isnt too intense .	V R A ,	0.7650 0.9951 0.9973 0.9986	isnt too intense.
+stupid	A	0.9906	stupid
+don't feel like	V V P	0.9986 0.9997 0.7563	don't feel like
+chance	N	0.8172	chance
+Happy	A	0.9011	Happy
+healthy	A	0.7722	healthy
+ok !	! ,	0.9921 0.9972	ok!
+proper goal fest	A N N	0.9842 0.9925 0.9261	proper goal fest
+Hope	V	0.5281	Hope
+Una de	^ ^	0.5881 0.2963	Una de
+don't show	V V	0.9987 0.8948	don't show
+win	V	0.8692	win
+default .	N ,	0.9896 0.9981	default.
+may have	V V	0.6996 0.9980	may have
+Wish	V	0.6616	Wish
+lucky	A	0.9811	lucky
+pretty nervous	R A	0.9934 0.9976	pretty nervous
+Ready ?	A ,	0.9781 0.9971	Ready?
+I swear	O V	0.9983 0.9984	I swear
+lead	V	0.5679	lead
+support	N	0.5090	support
+hit	V	0.7971	hit
+may not	V R	0.7784 0.9892	may not
+on	P	0.8343	on
+don't fucking	V V	0.9974 0.8849	don't fucking
+" thanks	, N	0.9812 0.9187	"thanks
+annoying	A	0.6879	annoying
+not	R	0.9628	not
+fault	N	0.9210	fault
+issues ,	N ,	0.9062 0.9983	issues,
+no way	D N	0.8365 0.9976	no way
+fired	V	0.9248	fired
+* Good " God luck	, A , ^ N	0.9605 0.9718 0.9959 0.9834 0.9168	*Good "God luck
+Stay focused	N V	0.3817 0.9411	Stay focused
+easy . "	A , ,	0.9428 0.9978 0.9762	easy."
+biggest	A	0.9504	biggest
+very informative	R A	0.9897 0.9999	very informative
+maaaaaaaaaaaaaaaaaaaaa " " vish	G , , N	0.4484 0.9414 0.9879 0.4769	maaaaaaaaaaaaaaaaaaaaa" "vish
+eux , ils	N , G	0.3522 0.9955 0.3389	eux, ils
+Encouraged	A	0.8433	Encouraged
+1492 :	$ ,	0.9716 0.8830	1492:
+Oomf	!	0.4508	Oomf
+Thank you	V O	0.9723 0.9987	Thank you
+Join us	V O	0.9972 0.9827	Join us
+welcomes	V	0.8429	welcomes
+:)	E	0.9959	:)
+actually excited	R A	0.9991 0.5943	actually excited
+only	R	0.7668	only
+Big congrats	A N	0.7153 0.6410	Big congrats
+classy	A	0.8890	classy
+Really sad	R A	0.9997 0.9990	Really sad
+have faith	V N	0.9791 0.9947	have faith
+congratulations	N	0.4996	congratulations
+Happy	A	0.9011	Happy
+الرجل	!	0.3127	الرجل
+M5	^	0.3265	M5
+ne .. RT	! , ~	0.4430 0.9094 0.6458	ne..RT
+cep ? RT	! , ~	0.4971 0.9885 0.7006	cep? RT
+premiering	V	0.9697	premiering
+thunderstorms ,	^ ,	0.4362 0.9981	thunderstorms,
+the best	D A	0.9990 0.9915	the best
+really famous	R A	0.9993 0.9991	really famous
+addressed	V	0.9789	addressed
+Can't buy	V V	0.9957 0.9934	Can't buy
+damages	N	0.9292	damages
+destroyed	V	0.9153	destroyed
+Tough	A	0.8302	Tough
+get better .	V A ,	0.9927 0.9890 0.9983	get better.
+stopped going	V V	0.9945 0.9812	stopped going
+yall fooooooli !	O N ,	0.7578 0.4386 0.9983	yall fooooooli !
+still	R	0.9849	still
+a bit weirder .	D A N ,	0.9923 0.5168 0.6933 0.9988	a bit weirder.
+not all	R D	0.9699 0.7260	not all
+smart	A	0.9686	smart
+it is	O V	0.9974 0.9990	it is
+blocked	V	0.9520	blocked
+recovers	V	0.8066	recovers
+can't wait	V V	0.9982 0.9984	can't wait
+It's	L	0.9930	It's
+perfect	A	0.9876	perfect
+selling	V	0.9715	selling
+Don't forget	V V	0.9839 0.9995	Don't forget
+biggest	A	0.9504	biggest
+adorable	A	0.9816	adorable
+: <	, ~	0.6344 0.4858	:&lt;
+rape incident	N N	0.6690 0.9903	rape incident
+Crap !	N ,	0.6525 0.9988	Crap!
+messing up	V T	0.9985 0.9747	messing up
+haven't gotten	V V	0.7603 0.9817	haven't gotten
+so bold ,	R A ,	0.8753 0.9993 0.9984	so bold,
+may NOT	V R	0.7733 0.9904	may NOT
+enjoy	V	0.8942	enjoy
+RT @farisosafios : #TeamTungguSPMSubjekAccount	~ @ ~ #	0.9979 0.9991 0.9622 0.9514	RT @farisosafios: #TeamTungguSPMSubjekAccount
+inspired	V	0.8976	inspired
+stunning	A	0.7983	stunning
+don't have	V V	0.9989 0.9994	don't have
+sucks .	V ,	0.9002 0.9987	sucks.
+Ready	A	0.9655	Ready
+100억이란다 .	$ ,	0.7174 0.9961	100억이란다.
+Celebrate	V	0.7658	Celebrate
+glad	A	0.8941	glad
+can	V	0.9763	can
+Help	V	0.7698	Help
+hope	V	0.6059	hope
+problem	N	0.9703	problem
+isn't free ,	V A ,	0.9944 0.9920 0.9976	isn't free,
+don't go	V V	0.9987 0.9978	don't go
+welcome	!	0.7727	welcome
+do not	V R	0.9889 0.9841	do not
+want	V	0.9638	want
+nobody took	N V	0.9442 0.9869	nobody took
+lure	V	0.6964	lure
+special	A	0.8693	special
+lol .	! ,	0.9994 0.9933	lol.
+would find	V V	0.9905 0.9993	would find
+should	V	0.9804	should
+can	V	0.9763	can
+doing nothing	V N	0.9975 0.9957	doing nothing
+eat crap	V N	0.8500 0.9406	eat crap
+#fat	#	0.9097	#fat
+star power	N N	0.4269 0.9852	star power
+look forward	V R	0.9433 0.5113	look forward
+#excited	#	0.6371	#excited
+┃ ┃	^ ^	0.1816 0.4877	　　┃　　　　　┃
+doesn't have	V V	0.9838 0.9989	doesn't have
+hate school	V N	0.9804 0.9892	hate school
+don't have	V V	0.9989 0.9994	don't have
+GANGNAM	!	0.3399	GANGNAM
+get punched	V V	0.9927 0.9072	get punched
+so rude .	R A ,	0.9215 0.9994 0.9985	so rude.
+@Pqlyur1 @MooseOfReason	@ @	0.9990 0.9986	@Pqlyur1 @MooseOfReason
+Container Terminal	N N	0.8602 0.6922	Container Terminal
+wanna meet	V V	0.9679 0.9945	wanna meet
+so much !!	R A ,	0.9737 0.7506 0.9954	so much!!
+shift	N	0.9633	shift
+love	N	0.6603	love
+its first	L A	0.9142 0.9374	its first
+of	P	0.8953	of
+Congratulations	!	0.6813	Congratulations
+come out of the closet .	V P P D N ,	0.9971 0.7678 0.9976 0.9993 0.9966 0.9986	come out of the closet.
+Going to watch	V P V	0.9994 0.9921 0.9922	Going to watch
+Hopefully	R	0.9653	Hopefully
+will give	V V	0.9786 0.9977	will give
+dont come	V V	0.9485 0.9994	dont come
+fight	N	0.5831	fight
+Lol	!	0.9992	Lol
+Happy	A	0.9011	Happy
+may	V	0.6055	may
+hell	!	0.6992	hell
+doesnt even work	V R N	0.9592 0.9816 0.5098	doesnt even work
+Interested	A	0.7405	Interested
+RT @m7mad_7mood1 :	~ @ ~	0.9976 0.9990 0.9431	RT @m7mad_7mood1:
+may	V	0.6055	may
+problem .	N ,	0.9908 0.9981	problem.
+closed	V	0.6843	closed
+not	R	0.9628	not
+isn't	V	0.9880	isn't
+cancel .	V ,	0.8038 0.9978	cancel.
+warning	N	0.8045	warning
+Wings fans	N N	0.8937 0.9977	Wings fans
+eliminated	V	0.9623	eliminated
+antes	!	0.2705	antes
+em	O	0.8679	em
+Fun	A	0.5400	Fun
+Beauty .	N ,	0.9215 0.9982	Beauty.
+de	P	0.2131	de
+@BocaJrsOficial	@	0.9990	@BocaJrsOficial
+want	V	0.9638	want
+avoiding	V	0.9857	avoiding
+@nawwalmn	@	0.9989	@nawwalmn
+Not sure	R A	0.9989 0.9735	Not sure
+view sublime !	V A ,	0.5241 0.6656 0.9974	view sublime!
+Interesting ..	A ,	0.8232 0.9956	Interesting..
+dont	V	0.9006	dont
+love	N	0.6603	love
+going to hurt	V P V	0.9978 0.9679 0.9922	going to hurt
+greats ,	N ,	0.9438 0.9980	greats,
+might	V	0.9268	might
+interested	A	0.5501	interested
+picks Shaker off ,	V ^ T ,	0.9135 0.4841 0.6488 0.9981	picks Shaker off,
+returns the favor ,	V D N ,	0.9635 0.9994 0.9978 0.9981	returns the favor,
+Cant sleep .	V V ,	0.8901 0.8419 0.9987	Cant sleep.
+#ThankYou	#	0.8850	#ThankYou
+almost	R	0.9694	almost
+Enjoy	V	0.9428	Enjoy
+check that out	V O T	0.9082 0.8905 0.6651	check that out
+hasnt been	V V	0.8523 0.9636	hasnt been
+dont know	V V	0.9492 0.9987	dont know
+for the first time	P D A N	0.9996 0.9994 0.9948 0.9988	for the first time
+picked up	V T	0.9987 0.9840	picked up
+Hooray .	! ,	0.9909 0.9969	Hooray.
+recommends	V	0.9815	recommends
+Hip	N	0.4027	Hip
+Good	A	0.9544	Good
+would never	V R	0.9803 0.9800	would never
+dismissed	V	0.9784	dismissed
+YES	!	0.9772	YES
+feel like	V P	0.9845 0.7891	feel like
+end	N	0.8614	end
+same	A	0.9270	same
+conservative	A	0.7343	conservative
+may come to terms .	V V P N ,	0.7226 0.9996 0.9743 0.8603 0.9986	may come to terms.
+it	O	0.9694	it
+died	V	0.9541	died
+injuries	N	0.9374	injuries
+@johnnkev	@	0.9989	@johnnkev
+<3	E	0.9698	&lt;3
+ever	R	0.9297	ever
+favor . "	N , ,	0.9759 0.9970 0.9762	favor."
+barred	V	0.9184	barred
+as she	P O	0.9748 0.9984	as she
+much !!	A ,	0.5987 0.9932	much!!
+Happy	A	0.9011	Happy
+Thank you for hearing	V O P V	0.9746 0.9993 0.9931 0.9181	Thank you for hearing
+my life with	D N P	0.9971 0.9978 0.9972	my life with
+trying	V	0.9885	trying
+stop	V	0.7591	stop
+thirsty	A	0.9625	thirsty
+losing control	V N	0.9665 0.9939	losing control
+never	R	0.9752	never
+bloody hell	A N	0.9339 0.9067	bloody hell
+have agreed	V V	0.9656 0.7143	have agreed
+Our half	D N	0.9921 0.6947	Our half
+justice	N	0.8337	justice
+best	A	0.9236	best
+win	V	0.8692	win
+September	^	0.9174	September
+luv	N	0.4096	luv
+Thanks !!	N ,	0.9298 0.9854	Thanks!!
+did not get	V R V	0.9841 0.9892 0.9958	did not get
+won't be	V V	0.9483 0.9980	won't be
+love and support	N & V	0.6692 0.9976 0.6394	love and support
+appreciated .	N ,	0.5372 0.9990	appreciated.
+way to go ,	N P V ,	0.7390 0.9968 0.9958 0.9974	way to go,
+hell	!	0.6992	hell
+Happy	A	0.9011	Happy
+rise to meet	N P V	0.6281 0.9990 0.9958	rise to meet
+always	R	0.9795	always
+can talk	V V	0.9870 0.9928	can talk
+shit	N	0.6894	shit
+lol .	! ,	0.9994 0.9933	lol.
+haha ,	! ,	0.9995 0.9949	haha,
+favorite	A	0.8214	favorite
+good music	A N	0.9853 0.9990	good music
+Messed up	V T	0.9983 0.9840	Messed up
+@jose_knox : @eli_townsend yeah I	@ ~ @ ! O	0.9976 0.9415 0.9982 0.9970 0.9971	@jose_knox: @eli_townsend yeah I
+Very entertaining	R A	0.9944 0.9880	Very entertaining
+hope	V	0.6059	hope
+goes away	V R	0.9860 0.8390	goes away
+doesn't	V	0.9705	doesn't
+cancel	V	0.8629	cancel
+say	V	0.8550	say
+Candidates	N	0.9737	Candidates
+may	V	0.6055	may
+serious "	A ,	0.9915 0.9969	serious"
+injury	N	0.7947	injury
+Come see	V V	0.9844 0.9464	Come see
+just	R	0.9975	just
+banned	V	0.9302	banned
+caught	V	0.9061	caught
+may	V	0.6055	may
+police involvement !	N N ,	0.5985 0.9963 0.9990	police involvement!
+:)	E	0.9959	:)
+sett men okej	V N G	0.5475 0.9602 0.2472	sett men okej
+Happy	A	0.9011	Happy
+:)	E	0.9959	:)
+você feliz	G G	0.3357 0.7741	você feliz
+amazing !	A ,	0.7581 0.9985	amazing!
+won	V	0.5339	won
+won	V	0.5339	won
+celebrate ...	V ,	0.8144 0.9140	celebrate...
+ffffffffffuuuuuuudddddddeeeeeerrrrrrrrr	G	0.3266	ffffffffffuuuuuuudddddddeeeeeerrrrrrrrr
+killed	V	0.9625	killed
+' stand alone '	, N A ,	0.9352 0.5364 0.5873 0.9742	'stand alone'
+Happy	A	0.9011	Happy
+peronismo	!	0.3739	peronismo
+@BossWolverine_X @CoulsondaDepre	@ @	0.9990 0.9986	@BossWolverine_X @CoulsondaDepre
+like	P	0.7012	like
+PST-	N	0.6211	PST-
+@h0tlikepayne	@	0.9989	@h0tlikepayne
+enjoy	V	0.8942	enjoy
+extra	A	0.8616	extra
+involved	V	0.9256	involved
+best	A	0.9236	best
+favorite	A	0.8214	favorite
+may	V	0.6055	may
+won't be getting	V V V	0.9483 0.9989 0.9937	won't be getting
+growing ) .	V , ,	0.8809 0.9943 0.9958	growing).
+was	V	0.9773	was
+Need	V	0.9096	Need
+(˘o˘ƪ)	!	0.2875	(˘o˘ƪ)
+fine	A	0.9079	fine
+learn more	V A	0.9838 0.8019	learn more
+affected	V	0.9222	affected
+disaster .	N ,	0.9793 0.9968	disaster.
+os	N	0.8023	os
+las	^	0.4664	las
+a blast .	D N ,	0.9922 0.9956 0.9980	a blast.
+missing	V	0.9442	missing
+@uma_coloriida	@	0.9990	@uma_coloriida
+da	D	0.7177	da
+only	R	0.7668	only
+amores , só	^ , G	0.3960 0.9928 0.5426	amores, só
+haven't	V	0.6504	haven't
+Happy	A	0.9011	Happy
+may as well save us the wait	V R R V O D N	0.8703 0.7886 0.9292 0.9959 0.9648 0.9869 0.7738	may as well save us the wait
+developed ;	V ,	0.9163 0.9763	developed;
+Oh no !	! ! ,	0.9897 0.9928 0.9991	Oh no!
+scare	V	0.6772	scare
+Prepare	V	0.9251	Prepare
+Only	R	0.8217	Only
+worse	A	0.8961	worse
+wrath	N	0.8850	wrath
+but what	& O	0.9918 0.9942	but what
+will start	V V	0.9749 0.9975	will start
+Stay	N	0.3808	Stay
+Happy	A	0.9011	Happy
+Bless	!	0.5109	Bless
+dreams come true ! Love	N V A , V	0.8641 0.9928 0.9745 0.9973 0.6912	dreams come true! Love
+Happy	A	0.9011	Happy
+ever	R	0.9297	ever
+a great effort	D A N	0.9888 0.9994 0.9984	a great effort
+Don't miss	V V	0.9881 0.9941	Don't miss
+hear	V	0.6283	hear
+in love !!	P N ,	0.9524 0.9787 0.9871	in love!!
+Lol !!!	! ,	0.9990 0.9747	Lol!!!
+better loooool	A !	0.6777 0.9574	better loooool
+will still shine	V R V	0.9688 0.9907 0.9875	will still shine
+wish	V	0.7214	wish
+Looking forward to connecting ...	V R P V ,	0.9967 0.8466 0.9891 0.9966 0.9503	Looking forward to connecting...
+might	V	0.9268	might
+hard	A	0.7109	hard
+should	V	0.9804	should
+not ,	R ,	0.9808 0.9948	not,
+usual .	A ,	0.5258 0.9995	usual.
+can't wait	V V	0.9982 0.9984	can't wait
+exactly	R	0.6621	exactly
+wins	V	0.5929	wins
+won	V	0.5339	won
+fucken	A	0.3933	fucken
+yea craZyyyyyHookups	! ^	0.9946 0.5488	yea craZyyyyyHookups
+Sounds good .	V A ,	0.9662 0.9978 0.9981	Sounds good.
+only fair	R A	0.9444 0.9255	only fair
+squashy .	A ,	0.3833 0.9973	squashy.
+great player	A N	0.9827 0.9983	great player
+play well	V !	0.8650 0.5780	play well
+CLOSED	V	0.7262	CLOSED
+aha !!! :)	! , E	0.9981 0.9814 0.9948	 aha!!! :)
+las	^	0.4664	las
+MANC , you're	^ , L	0.9869 0.9975 0.9798	MANC, you're
+blow the roof off	V D N P	0.5219 0.9992 0.9982 0.7110	blow the roof off
+win	V	0.8692	win
+won	V	0.5339	won
+need	V	0.8664	need
+Don't forget	V V	0.9839 0.9995	Don't forget
+ends	V	0.4946	ends
+10,000 Bizjets	$ ^	0.9937 0.4411	10,000 Bizjets
+insulted	V	0.8388	insulted
+idiots	N	0.9146	idiots
+good .	A ,	0.9670 0.9980	good.
+Thank you !	V O ,	0.9723 0.9970 0.9995	Thank you!
+can take a look	V V D N	0.9906 0.9998 0.9595 0.9035	can take a look
+motivation	N	0.9878	motivation
+ありがとう(TT) ♡ 早く遊びてーて。	N E E	0.6690 0.6278 0.3392	ありがとう(TT)♡早く遊びてーて。
+struck	V	0.9040	struck
+fluff yes	N !	0.8689 0.9723	fluff yes
+to	P	0.9511	to
+first thing	A N	0.9703 0.9983	first thing
+beat	V	0.8551	beat
+best	A	0.9236	best
+available	A	0.8159	available
+owes me	V O	0.9994 0.9985	owes me
+Good luck	A N	0.9876 0.9931	Good luck
+have fun !	V N ,	0.9801 0.8722 0.9989	have fun!
+nothing	N	0.9678	nothing
+cost	N	0.8272	cost
+resigned	V	0.7470	resigned
+trouble forced	N A	0.9262 0.6538	trouble forced
+abandonment	N	0.9517	abandonment
+come	V	0.9593	come
+RT	~	0.7475	RT
+روحي	!	0.3127	روحي
+wish	V	0.7214	wish
+wont see	V V	0.8502 0.9931	wont see
+Had a good time	V D A N	0.9975 0.9962 0.9989 0.9992	Had a good time
+nutella ,	N ,	0.3773 0.9984	nutella,
+helpin	V	0.5503	helpin
+hopin	V	0.5000	hopin
+best	A	0.9236	best
+miss	V	0.6716	miss
+cant wait	V V	0.9359 0.9971	cant wait
+menjadi	^	0.3198	menjadi
+Love the music	V D N	0.8778 0.9995 0.9981	Love the music
+Thanks	N	0.8540	Thanks
+Have a blast	V D N	0.9984 0.9974 0.9976	Have a blast
+love to see	V P V	0.6219 0.9937 0.9934	love to see
+can't	V	0.9853	can't
+Good luck	A N	0.9876 0.9931	Good luck
+never	R	0.9752	never
+in progress ,	P N ,	0.9589 0.9950 0.9983	in progress,
+fuck	!	0.5770	fuck
+will act	V V	0.9629 0.9752	will act
+haven't been able to enjoy	V V A P V	0.7832 0.9877 0.8777 0.9985 0.9978	haven't been able to enjoy
+want	V	0.9638	want
+hurl .	V ,	0.8302 0.9978	hurl.
+Aww poor	! A	0.9783 0.8690	Aww poor
+feel you	V O	0.9956 0.9986	feel you
+don't know	V V	0.9988 0.9991	don't know
+seems like	V P	0.9850 0.8387	seems like
+smackin .	V ,	0.9055 0.9984	smackin.
+wanted	V	0.9423	wanted
+best-kept	A	0.6082	best-kept
+............ muy	, !	0.9272 0.3964	............muy
+be treating	V V	0.9835 0.9646	be treating
+thanks	N	0.7675	thanks
+support	N	0.5090	support
+my full attention .	D A N ,	0.9938 0.9968 0.9998 0.9986	my full attention.
+may not	V R	0.7784 0.9892	may not
+Maybe	R	0.9455	Maybe
+Imagine	V	0.9490	Imagine
+γέλα αλλά	! !	0.2073 0.4139	γέλα αλλά
+love	N	0.6603	love
+want	V	0.9638	want
+awesome	A	0.7052	awesome
+look forward to seeing	V R P V	0.9534 0.6691 0.9917 0.9992	look forward to seeing
+Good	A	0.9544	Good
+HAPPY	A	0.8935	HAPPY
+love	N	0.6603	love
+bless .	! ,	0.5867 0.9979	bless.
+Hang out	V T	0.9877 0.9743	Hang out
+peinados	N	0.2559	peinados
+Awesome	A	0.8466	Awesome
+shit	N	0.6894	shit
+hell	!	0.6992	hell
+celebrated	V	0.9171	celebrated
+Entered	V	0.9434	Entered
+Nice :	A ,	0.5468 0.9341	Nice:
+Unique :	A ,	0.9417 0.9431	Unique:
+HAPPY SATURDAY	A ^	0.9764 0.8845	HAPPY SATURDAY
+don't miss	V V	0.9989 0.9952	don't miss
+LARGEST	A	0.8956	LARGEST
+Thanks	N	0.8540	Thanks
+Happy	A	0.9011	Happy
+might	V	0.9268	might
+very difficult	R A	0.9926 0.9996	very difficult
+wants	V	0.9897	wants
+much credit	A N	0.9061 0.9963	much credit
+lovely	A	0.9738	lovely
+turn your	V D	0.9956 0.9108	turn your
+best ?	A ,	0.9323 0.9944	best?
+to accomplish shit today	P V N N	0.9946 0.9976 0.9942 0.9899	to accomplish shit today
+la .. dok	^ , N	0.5618 0.9849 0.3160	la..dok
+would like	V V	0.9959 0.9467	would like
+come	V	0.9593	come
+support	N	0.5090	support
+esas cosas ,	G ^ ,	0.2555 0.3542 0.9953	esas cosas,
+good	A	0.9644	good
+loving	V	0.9319	loving
+Good luck	A N	0.9876 0.9931	Good luck
+. @JCShurburtt	, @	0.9840 0.9966	.@JCShurburtt
+ever-so-smart	R	0.8378	ever-so-smart
+Great	A	0.8430	Great
+like	P	0.7012	like
+Keep it up !	V O T ,	0.9907 0.9946 0.9853 0.9979	Keep it up!
+put tears in my eyes !!!	V N P D N ,	0.8785 0.9903 0.9971 0.9988 0.9979 0.9961	put tears in my eyes!!!
+Love	N	0.6118	Love
+Membuat	^	0.3556	Membuat
+slowly dying	R V	0.9956 0.9979	slowly dying
+Welcome	!	0.7244	Welcome
+depression .	N ,	0.9942 0.9985	depression.
+couldn't come up with	V V T P	0.9975 0.9999 0.9863 0.9928	couldn't come up with
+Unfortunately , not yet . Wanted	R , R R , V	0.9899 0.9976 0.9986 0.9901 0.9984 0.9793	Unfortunately, not yet. Wanted
+couldn't make it . Hopefully	V V O , R	0.9981 0.9998 0.7758 0.9993 0.9740	couldn't make it. Hopefully
+So happy	R A	0.5228 0.9962	So happy
+got	V	0.7838	got
+Come out ,	V T ,	0.9971 0.9111 0.9980	Come out,
+Thanks	N	0.8540	Thanks
+blocking me	V O	0.9992 0.9985	blocking me
+negativity	N	0.6398	negativity
+@Chriissay_J	@	0.9990	@Chriissay_J
+Just	R	0.9985	Just
+chemistry	N	0.8015	chemistry
+6 uur	$ N	0.9882 0.6277	6 uur
+thanks	N	0.7675	thanks
+really wanna	R V	0.9975 0.9938	really wanna
+need	V	0.8664	need
+cancel	V	0.8629	cancel
+most hated	R V	0.8605 0.8988	most hated
+frustration	N	0.9858	frustration
+Welcome	!	0.7244	Welcome
+me up !	O T ,	0.9973 0.9689 0.9975	me up!
+hate	V	0.9340	hate
+unreal	A	0.9631	unreal
+Please vote	V V	0.9205 0.9078	Please vote
+So glad	R A	0.8251 0.9962	So glad
+RT @SiriusXMNASCAR :	~ @ ~	0.9976 0.9991 0.9431	RT @SiriusXMNASCAR:
+released	V	0.9434	released
+doubtful	A	0.9634	doubtful
+can get	V V	0.9834 0.9992	can get
+do not like to hear	V R V P V	0.9916 0.9975 0.6585 0.9891 0.9918	do not like to hear
+not even	R R	0.9913 0.9951	not even
+can beat	V V	0.9917 0.9956	can beat
+may have retired	V V V	0.6996 0.9993 0.5723	may have retired
+Excited	A	0.4833	Excited
+nothing	N	0.9678	nothing
+no classes	D N	0.8684 0.9998	no classes
+happy	A	0.9389	happy
+deficits	N	0.9691	deficits
+live !!	A ,	0.4282 0.9912	live!!
+love	N	0.6603	love
+perform	V	0.9129	perform
+Dammn	!	0.9555	Dammn
+wish injuries	V N	0.9286 0.9563	wish injuries
+slow him down	A O T	0.6038 0.9826 0.6282	slow him down
+the best	D A	0.9990 0.9915	the best
+can rest easy :	V V A ,	0.9875 0.8274 0.9376 0.9436	can rest easy:
+come true !! wish	V A , V	0.9900 0.9932 0.9925 0.9743	come true!! wish
+the best	D A	0.9990 0.9915	the best
+just	R	0.9975	just
+won't be	V V	0.9483 0.9980	won't be
+FUCK YEAHHHH	! !	0.6859 0.9986	FUCK YEAHHHH
+Recording	V	0.8639	Recording
+Fragile Necklace	A N	0.9883 0.8859	Fragile Necklace
+may miss	V V	0.6959 0.9844	may miss
+Avoid	V	0.9646	Avoid
+excited	V	0.5319	excited
+kicked out	V T	0.9972 0.9333	kicked out
+throw away	V R	0.8487 0.8278	throw away
+Jarl are you	^ V O	0.8015 0.9964 0.9977	Jarl are you
+this	O	0.5028	this
+freaking thin .	V A ,	0.3239 0.9756 0.9985	freaking thin.
+choose	V	0.9125	choose
+http://t.co/KF0pjrIY ¡¡mira	U !	0.9944 0.3441	http://t.co/KF0pjrIY ¡¡mira
+goes back	V T	0.9868 0.4641	goes back
+in	P	0.8576	in
+:)	E	0.9959	:)
+succesfully	R	0.6922	succesfully
+Can't wait .	V V ,	0.9982 0.9972 0.9977	Can't wait.
+fantastic documentary ,	A N ,	0.9942 0.9990 0.9988	fantastic documentary,
+sad	A	0.9768	sad
+can't just post pone	V R V N	0.9936 0.9973 0.6076 0.4084	can't just post pone
+not on Sunday	R P ^	0.9921 0.9910 0.9628	not on Sunday
+Low ,	A ,	0.6220 0.9977	Low,
+stuck	V	0.7765	stuck
+resigned	V	0.7470	resigned
+trouble forced	N A	0.9262 0.6538	trouble forced
+abandonment	N	0.9517	abandonment
+have copies	V N	0.9702 0.9955	have copies
+haha oh yeah you're right ,	! ! ! L R ,	0.9976 0.9995 0.9992 0.9951 0.5746 0.9983	haha oh yeah you're right,
+Hope	V	0.5281	Hope
+BBC	^	0.3719	BBC
+to	P	0.9511	to
+general over ...	A P ,	0.6755 0.8603 0.6321	general over...
+Check out	V T	0.9880 0.9890	Check out
+“ @darrenbyfield : Hate giving my	, @ ~ V V D	0.9421 0.9968 0.9823 0.9506 0.9994 0.9154	“@darrenbyfield: Hate giving my
+what you mean	O O V	0.9348 0.9996 0.9559	what you mean
+hmmmm interesting ,	! A ,	0.9807 0.9670 0.9984	hmmmm interesting,
+rarely	R	0.9700	rarely
+helped	V	0.9785	helped
+improving .	V ,	0.9740 0.9973	improving.
+not making	R V	0.9893 0.9961	not making
+will miss	V V	0.9640 0.9878	will miss
+don't let	V V	0.9990 0.9986	don't let
+Win	V	0.9210	Win
+fine	A	0.9079	fine
+reliable	A	0.9628	reliable
+Confirmed	V	0.8452	Confirmed
+make my day	V D N	0.9906 0.9986 0.9994	make my day
+owe	V	0.8793	owe
+be fun !	V A ,	0.9808 0.5356 0.9987	be fun!
+welcome	!	0.7727	welcome
+welcome .	! ,	0.6877 0.9973	welcome.
+fairytales be	N V	0.8710 0.9905	fairytales be
+too nauseous	R A	0.9853 0.9744	too nauseous
+Have to	V P	0.9969 0.9668	Have to
+Big ovation	A N	0.7135 0.9769	Big ovation
+trying	V	0.9885	trying
+don't want	V V	0.9989 0.9996	don't want
+slip up	V T	0.9700 0.9775	slip up
+truth	N	0.8184	truth
+going down	V T	0.9987 0.8047	going down
+best	A	0.9236	best
+Not to be missed	R P V V	0.9948 0.9926 0.9981 0.9731	Not to be missed
+ik	!	0.5663	ik
+Can't wait	V V	0.9982 0.9978	Can't wait
+love	N	0.6603	love
+dont forget	V V	0.9341 0.9994	dont forget
+Glad you enjoyed !	A O V ,	0.6899 0.9972 0.9987 0.9980	Glad you enjoyed!
+Amaaaze !	V ,	0.8738 0.9978	Amaaaze!
+happy	A	0.9389	happy
+smartest	A	0.9742	smartest
+closed	V	0.6843	closed
+Hoping	V	0.9305	Hoping
+safe	A	0.7940	safe
+それは駆除頼んだほうがよくない？絶対近くに巣あるし。	!	0.3127	それは駆除頼んだほうがよくない？絶対近くに巣あるし。
+depois	!	0.3079	depois
+duermo	!	0.6244	duermo
+come out	V T	0.9957 0.9250	come out
+support	N	0.5090	support
+beat	V	0.8551	beat
+enter	V	0.8319	enter
+fear not	V R	0.5101 0.9910	fear not
+Holy	!	0.7845	Holy
+excited ...	V ,	0.5109 0.9254	excited...
+wasn't	V	0.7564	wasn't
+hopefully	R	0.9460	hopefully
+win	V	0.8692	win
+Blessing	N	0.8545	Blessing
+remember	V	0.9516	remember
+heaven	^	0.8091	heaven
+bad	A	0.9370	bad
+might not	V R	0.9693 0.9905	might not
+Great	A	0.8430	Great
+moo	!	0.5103	moo
+no	!	0.9253	no
+... Stupid	, A	0.7659 0.9985	...Stupid
+don't even	V R	0.9986 0.9719	don't even
+horas eternas	N N	0.6865 0.3483	horas eternas
+Excitement	N	0.9633	Excitement
+wont get	V V	0.7752 0.9988	wont get
+Best of luck	A P N	0.9621 0.9870 0.9802	Best of luck
+cant wait	V V	0.9359 0.9971	cant wait
+Brilliant	A	0.9504	Brilliant
+win	V	0.8692	win
+ended in failure	V P N	0.9899 0.9092 0.9965	ended in failure
+Fire	^	0.4715	Fire
+THANKS	N	0.7625	THANKS
+hopes	V	0.9543	hopes
+would love	V V	0.9880 0.9722	would love
+in your favor . "	P D N , ,	0.9852 0.9913 0.9989 0.9975 0.9791	in your favor."
+I love	O V	0.9967 0.9787	I love
+Welcome	!	0.7244	Welcome
+don't need	V V	0.9989 0.9983	don't need
+mana ada iri	! G G	0.5014 0.7143 0.7687	mana ada iri
+Love	N	0.6118	Love
+^___^	E	0.9806	^___^
+don't look	V V	0.9986 0.9972	don't look
+aborts	,	0.3288	aborts
+Warning	N	0.8073	Warning
+fuck off	V T	0.8124 0.9213	fuck off
+please	V	0.8246	please
+cant blieve	V V	0.8404 0.9764	cant blieve
+no more	! A	0.4113 0.7892	no more
+want	V	0.9638	want
+wants	V	0.9897	wants
+care	N	0.4306	care
+really need to stop	R V P V	0.9968 0.9958 0.9650 0.9829	really need to stop
+👍	E	0.9061	👍
+@Collidemusic	@	0.9990	@Collidemusic
+stronger and stronger	A & A	0.9560 0.9978 0.9586	stronger and stronger
+great	A	0.9426	great
+mixed	A	0.8564	mixed
+interesting . Thank you .	A , V O ,	0.8905 0.9989 0.9841 0.9988 0.9995	interesting. Thank you.
+danger	N	0.9685	danger
+got	V	0.7838	got
+sick	A	0.9401	sick
+wkwk	!	0.9980	wkwk
+wkwk ~	! G	0.9946 0.3288	wkwk~
+big	A	0.7283	big
+no	!	0.9253	no
+no life	D N	0.8279 0.9997	no life
+Strong	A	0.9585	Strong
+amazing .	A ,	0.8803 0.9983	amazing.
+Trust	N	0.6251	Trust
+harder	A	0.8231	harder
+@DanaAldick pff	@ !	0.9990 0.9326	@DanaAldick pff
+ich	!	0.4852	ich
+ned	^	0.4192	ned
+absolutely skint	R A	0.9990 0.9622	absolutely skint
+to win	P V	0.9945 0.9947	to win
+won	V	0.5339	won
+26th ! OMFG	A , !	0.3841 0.9987 0.9904	26th!OMFG
+run your mouth	V D N	0.9975 0.9951 0.9998	run your mouth
+can't ever come	V R V	0.9923 0.9610 0.9979	can't ever come
+bitch	N	0.8507	bitch
+better	A	0.6680	better
+Can't wait	V V	0.9982 0.9978	Can't wait
+Happy	A	0.9011	Happy
+loses	V	0.8620	loses
+may	V	0.6055	may
+15th time	A N	0.4979 0.9980	15th time
+will play	V V	0.9754 0.9960	will play
+ugly set	A N	0.9824 0.9339	ugly set
+back	R	0.5723	back
+Yeah ,	! ,	0.9989 0.9967	Yeah,
+not having	R V	0.9879 0.9978	not having
+Thanks	N	0.8540	Thanks
+Can't wait	V V	0.9982 0.9978	Can't wait
+#SagaLove !!!!	# ,	0.6054 0.9812	#SagaLove!!!!
+have to	V P	0.9947 0.9744	have to
+Happy Sunday !	A N ,	0.9682 0.5321 0.9985	Happy Sunday!
+love	N	0.6603	love
+don't waste	V V	0.9986 0.8709	don't waste
+MOST	R	0.8204	MOST
+Getting sick	V A	0.9969 0.9916	Getting sick
+same !	A ,	0.9055 0.9985	same!
+and	&	0.9981	and
+to their Vaseline	P D N	0.9970 0.9821 0.9017	to their Vaseline
+Make sure	V A	0.9789 0.9865	Make sure
+Girl	N	0.9121	Girl
+missed	V	0.9844	missed
+suggest	V	0.9433	suggest
+accidents	N	0.9532	accidents
+" warmth , wisdom	, N , N	0.9838 0.9966 0.9981 0.9582	"warmth, wisdom
+celebrated " .	V , ,	0.9103 0.9964 0.9958	celebrated".
+don't like	V V	0.9996 0.9187	don't like
+worry	V	0.9098	worry
+and	&	0.9981	and
+always wanted	R V	0.9914 0.9291	always wanted
+can't	V	0.9853	can't
+ok ?	! ,	0.9797 0.9969	ok?
+Hasn't Done	V V	0.9772 0.8247	Hasn't Done
+enojar	G	0.1700	enojar
+sorry	!	0.5410	sorry
+bum !	N ,	0.9626 0.9986	bum!
+good evening	A N	0.9950 0.9984	good evening
+haven't bought	V V	0.7725 0.9860	haven't bought
+injury-prone	A	0.9115	injury-prone
+couldnt get	V V	0.8726 0.9993	couldnt get
+Overrated .	A ,	0.9237 0.9986	Overrated.
+hope to see	V P V	0.8643 0.9924 0.9934	hope to see
+Hot	A	0.7816	Hot
+didn't have	V V	0.9979 0.9993	didn't have
+successfully	R	0.9740	successfully
+lamest ...	A ,	0.5686 0.9058	lamest...
+fucking	!	0.5504	fucking
+#butthurt	#	0.8875	#butthurt
+have won	V V	0.9927 0.5345	have won
+best music . Happy	A N , A	0.9893 0.9995 0.9990 0.9234	best music. Happy
+magiadohumor : http://t.co/XQad2XyX	^ , U	0.3612 0.8922 0.9965	magiadohumor: http://t.co/XQad2XyX
+fuck .	! ,	0.3940 0.9979	fuck.
+boring .	A ,	0.8742 0.9984	boring.
+drug addict idiot	N N N	0.9317 0.9861 0.9678	drug addict idiot
+best	A	0.9236	best
+can't wait	V V	0.9982 0.9984	can't wait
+love	N	0.6603	love
+better	A	0.6680	better
+WELL DONE	! V	0.5397 0.7208	WELL DONE
+May not have .	V R V ,	0.5319 0.9907 0.9900 0.9977	May not have.
+appeared to be better	V P V A	0.9891 0.9829 0.9995 0.6066	appeared to be better
+fired	V	0.9248	fired
+http://t.co/ulzq92Ek	U	0.9940	http://t.co/ulzq92Ek
+painstakingly slow	R A	0.9993 0.9958	painstakingly slow
+going in	V P	0.9962 0.5172	going in
+lucky	A	0.9811	lucky
+let me down ?	V O T ,	0.9975 0.9996 0.6697 0.9974	let me down?
+sorry	!	0.5410	sorry
+lack	N	0.7689	lack
+great illustrator	A N	0.9853 0.9945	great illustrator
+taught me more	V O R	0.9988 0.9953 0.6577	taught me more
+good	A	0.9644	good
+Can't wait	V V	0.9982 0.9978	Can't wait
+excited !!!	A ,	0.5221 0.9948	excited!!!
+recommends	V	0.9815	recommends
+Thanks	N	0.8540	Thanks
+support !!!!!!!	N ,	0.6267 0.9940	support!!!!!!!
+upping	V	0.6409	upping
+congrats	!	0.9468	congrats
+Thanks	N	0.8540	Thanks
+Not sure	R A	0.9989 0.9735	Not sure
+es	G	0.2416	es
+diet .. wish	N , V	0.9856 0.9909 0.8019	diet..wish
+luck	N	0.8365	luck
+better be	R V	0.5910 0.9655	better be
+rare	A	0.8848	rare
+Roll out !	V T ,	0.8758 0.9175 0.9973	Roll out!
+Still loving	R V	0.9977 0.9262	Still loving
+Luved	V	0.8481	Luved
+didn`t see	V V	0.9983 0.9950	didn`t see
+Oh well .	! ! ,	0.9958 0.9565 0.9981	Oh well.
+only wish	R V	0.9427 0.9785	only wish
+friendly	A	0.9739	friendly
+greatly ; shouldn't	R , V	0.9873 0.9638 0.9989	greatly; shouldn't
+also responsible	R A	0.9956 0.9551	also responsible
+unemployment	N	0.8586	unemployment
+Super	R	0.3835	Super
+Love	N	0.6118	Love
+want	V	0.9638	want
+don't	V	0.9973	don't
+available	A	0.8159	available
+WIN !!!!!	V ,	0.8647 0.9944	WIN!!!!!
+haven't	V	0.6504	haven't
+success ,	N ,	0.9929 0.9984	success,
+Madness :	N ,	0.9945 0.9342	Madness:
+wins	V	0.5929	wins
+Come support	V V	0.9725 0.7362	Come support
+special	A	0.8693	special
+creative	A	0.6034	creative
+makes	V	0.9553	makes
+Amazing	A	0.9182	Amazing
+Problems	N	0.9808	Problems
+may oppose	V V	0.7720 0.9956	may oppose
+disapointed	A	0.3058	disapointed
+@INFINITELKIM : 엄마가뭐길래	@ ~ N	0.9970 0.8636 0.2215	@INFINITELKIM: 엄마가뭐길래
+reveal	V	0.8649	reveal
+can	V	0.9763	can
+to help	P V	0.9910 0.9837	to help
+wouldn't let	V V	0.9211 0.9974	wouldn't let
+awesomeness	N	0.7976	awesomeness
+good	A	0.9644	good
+solid	A	0.8851	solid
+need "	V ,	0.8847 0.9952	need"
+Slow2	!	0.3404	Slow2
+belaja	!	0.5518	belaja
+bad	A	0.9370	bad
+good girl	A N	0.9942 0.9961	good girl
+Love	N	0.6118	Love
+wasting	V	0.9764	wasting
+will just leave it alone	V R V O R	0.9718 0.9989 0.9995 0.9931 0.6579	will just leave it alone
+BITCH	N	0.8431	BITCH
+Tell	V	0.8700	Tell
+wins	V	0.5929	wins
+everybody to come	N P V	0.9668 0.9986 0.9984	everybody to come
+support	N	0.5090	support
+had not	V R	0.9847 0.9728	had not
+One more	$ A	0.9399 0.8756	One more
+don't watch	V V	0.9991 0.9968	don't watch
+amazing .	A ,	0.8803 0.9983	amazing.
+shows	V	0.8681	shows
+love ,	N ,	0.6684 0.9956	love,
+Hoje	!	0.5278	Hoje
+da novela do	D N V	0.9668 0.9458 0.9867	da novela do
+slut	N	0.8217	slut
+not a good role model .	R D A N N ,	0.9771 0.9830 0.9964 0.9643 0.9955 0.9984	not a good role model.
+dah	!	0.4845	dah
+Hahaha damat	! !	0.9970 0.6782	Hahaha damat
+too early	R A	0.9969 0.9665	too early
+want	V	0.9638	want
+start	V	0.9113	start
+no priorities	D N	0.8278 0.9996	no priorities
+delighted	V	0.4846	delighted
+great	A	0.9426	great
+may not be incest ,	V R V N ,	0.7880 0.9929 0.9949 0.9453 0.9986	may not be incest,
+is creepy	V A	0.9910 0.9991	is creepy
+hell ......	! ,	0.6185 0.9930	hell......
+not ,	R ,	0.9808 0.9948	not,
+thanks ...	N ,	0.8454 0.9005	thanks...
+get up	V T	0.9988 0.9739	get up
+incredible ! Shame	A , N	0.9525 0.9972 0.8950	incredible! Shame
+brilliant !!!!	A ,	0.9473 0.9951	brilliant!!!!
+suspicions	N	0.9727	suspicions
+crashed	V	0.9320	crashed
+crash hard	V A	0.6053 0.9019	crash hard
+drops just	V R	0.7257 0.9987	drops just
+bad decision	A N	0.9905 0.9989	bad decision
+struggling	V	0.9711	struggling
+Let's make it happen !	L V O V ,	0.9781 0.9997 0.9088 0.9986 0.9984	Let's make it happen!
+#StandDown	#	0.9583	#StandDown
+right thing	A N	0.6541 0.9981	right thing
+may want	V V	0.7003 0.9986	may want
+cud agree	V V	0.6438 0.9980	cud agree
+criminal charges	A N	0.8971 0.9225	criminal charges
+Only	R	0.8217	Only
+Ha !	! ,	0.9967 0.9967	Ha!
+RT @E_CottonCandyyy :	~ @ ~	0.9976 0.9991 0.9431	RT @E_CottonCandyyy:
+Biggest	A	0.9674	Biggest
+in the	P D	0.9914 0.9920	in the
+Good	A	0.9544	Good
+:-)	E	0.9904	:-)
+Happy Mother's Day	A Z N	0.9666 0.8203 0.9641	Happy Mother's Day
+@eggsmaledict	@	0.9990	@eggsmaledict
+can't	V	0.9853	can't
+so HOT ! Hotter	R A , A	0.8682 0.9815 0.9982 0.8189	so HOT! Hotter
+Haha	!	0.9991	Haha
+te	^	0.2284	te
+your	D	0.5467	your
+the	D	0.9792	the
+its	L	0.9816	its
+don't know	V V	0.9988 0.9991	don't know
+hug .	N ,	0.7337 0.9978	hug.
+you're missing out	L V T	0.9887 0.9949 0.9250	you're missing out
+#wishyouwerehere	#	0.8282	#wishyouwerehere
+again	R	0.9571	again
+@hamzamisir	@	0.9990	@hamzamisir
+stay focused	V V	0.7347 0.8101	stay focused
+bitch	N	0.8507	bitch
+@HyungJun87 :	@ ~	0.9950 0.7994	@HyungJun87:
+2 .	$ ,	0.8000 0.9960	2.
+올릴려고 했는데	! !	0.1804 0.3813	올릴려고 했는데
+.. ㅠㅡㅠ	, !	0.9677 0.2578	.. ㅠㅡㅠ
+just	R	0.9975	just
+complaining .	V ,	0.9737 0.9978	complaining.
+never compromise	R V	0.9181 0.8206	never compromise
+don't have	V V	0.9989 0.9994	don't have
+Don't hide	V V	0.9909 0.9982	Don't hide
+#yum	#	0.9377	#yum
+و روادها "	! N ,	0.1804 0.2180 0.9955	و روادها"
+great	A	0.9426	great
+continue to rest in peace	V P V P N	0.9855 0.9905 0.6403 0.9825 0.8032	continue to rest in peace
+looking crazy as hell	V A P N	0.9868 0.9985 0.9732 0.9579	looking crazy as hell
+just can't	R V	0.9990 0.9992	just can't

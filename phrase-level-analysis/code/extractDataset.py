@@ -25,8 +25,9 @@ def main():
             phrase = ' '.join(string[startIndex:endIndex]).strip('\n')
            #use appropriate lines comment either of the lines
     	   #data.append(line) #with labels
-            data.append(words[0]+'\t'+words[1]+'\t'+phrase+'\t'+words[4])
-            data1.append(phrase)
+            if phrase!='':
+                data.append(words[0]+'\t'+words[1]+'\t'+phrase+'\t'+words[4])
+                data1.append(phrase)
            #data.append(words[0]+'\t'+words[3])#without labels
     f.close()
 

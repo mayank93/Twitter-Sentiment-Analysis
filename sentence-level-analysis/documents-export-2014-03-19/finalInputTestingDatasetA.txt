@@ -1,0 +1,3014 @@
+171874368908050432	Excuse	V	negative
+256010056942903296	LOVE	N	positive
+256010056942903296	might win	V V	positive
+256010056942903296	award !	N ,	positive
+261776619146985472	available ?	A ,	positive
+261776619146985472	missing	V	negative
+264088575476391936	interesting	A	positive
+264033815066984448	no deals	D N	negative
+263720820428394496	suspended	V	negative
+258639996037259264	W . O . W	G , ! , G	positive
+258639996037259264	toughness	N	positive
+250981027969896448	set it on fire	V O P N	negative
+195554987919679488	appreciate	V	positive
+260536025800142848	Join	V	positive
+263473556753620992	@JustOneHit :	@ ~	positive
+263473556753620992	have me	V O	positive
+263182075434254336	revelation	N	positive
+256514267149385728	se	G	positive
+256514267149385728	con miembros del Bundestag	N N N N	positive
+260072342905049088	can't wait !!!	V V ,	positive
+259780914509389824	hate	V	negative
+263858456455421952	who im talkin	O L V	negative
+264163993814450176	can	V	negative
+264163993814450176	found	V	negative
+246289024552148992	condemned	V	negative
+246289024552148992	cheap .	A ,	negative
+261351584410247168	much better	R A	positive
+259492614355693568	shitting on him	V P O	negative
+254429009956442112	fuck	!	negative
+263606229534912512	true ,	A ,	positive
+236923898527100928	agrrrrrrrrrrrrrr	G	positive
+260938512579309568	rescue incarcerated	V V	positive
+242693222088994816	win	V	positive
+233676168828698624	Definitely wish	R V	positive
+264167170261516288	wins	V	positive
+260806244938440704	forced	A	negative
+260806302903721984	:D	E	positive
+263737807867088896	suspended	V	negative
+263432435772051456	love	N	positive
+263432435772051456	:)	E	positive
+249900139236446208	brag	V	negative
+263828483086626816	heartbreaking	A	negative
+263828483086626816	can't wait	V V	positive
+254427164844367872	sick happy	A A	negative
+254427164844367872	don't	V	negative
+181145721716736000	no big deal	D A N	negative
+181145721716736000	fucks	N	negative
+255780352755376128	martyred	V	negative
+263797952651350016	@PhotogenicAri	@	positive
+241098015845273600	Nurin much sir . " @pchiorlu :	^ A N , , @ ~	positive
+264001674694246400	shining	V	positive
+264001674694246400	crossed	V	negative
+199739480750555136	:)	E	positive
+242897531275706368	match	N	positive
+233490936322215936	Happy	A	positive
+233490936322215936	happy	A	positive
+253157284925038592	Can't wait	V V	positive
+253157284925038592	fighting	V	negative
+263913414525583360	@frisbie14 :	@ ~	positive
+263913414525583360	forget	V	positive
+263913414525583360	missed	V	positive
+263913414525583360	so	R	positive
+263913414525583360	this	O	positive
+263138815051444224	Cannot wait	V V	positive
+242957726781698048	Happy	A	positive
+242957726781698048	no worse	D A	positive
+242957726781698048	Hopefully	R	positive
+262901069527543808	shut down	V T	negative
+262289694736392192	cool ,	A ,	positive
+193846470473039872	great	A	positive
+264136021917188096	wore me out	V O T	negative
+230361473849884672	OMG !!!!!!!	! ,	positive
+230361473849884672	:D	E	positive
+174003654238547968	you're my inspiration ! :)	L D N , E	positive
+259122713858301952	must not be too happy	V R V R A	negative
+259122713858301952	removed	V	negative
+250887102923939840	victory	N	positive
+263995618421268480	Excited	A	positive
+263995618421268480	love ,	N ,	positive
+263995618421268480	:)	E	positive
+263335900258394112	thanks	N	positive
+264042649537880064	dare	V	negative
+245564705492582400	shitfaced	A	negative
+262476631111778304	fighting	V	negative
+262476631111778304	explosion	N	negative
+217408254978961408	@komumichi : だいごくんたちも、体大事にしてほしい … ！日本の未来を担うのは、貴方たちです !! @_daigo_1202	@ ~ N , ^ , @	negative
+263019968805892096	must be really good .	V V R A ,	positive
+207909520071073792	celebrate	V	positive
+193607051891589120	may be saved	V V V	positive
+193607051891589120	may not make	V R V	negative
+263507534697099264	Should probably	V R	neutral
+263507534697099264	:)	E	positive
+246102730400227328	No break	D N	negative
+242389647173500928	begins : Who will	V , O V	negative
+169609494815457280	I	O	positive
+263876102865440768	injured	V	negative
+263876102865440768	OK :	! ,	positive
+263876102865440768	didn't	V	negative
+262264773650022400	listado Amor	^ ^	negative
+262264773650022400	septiembre listados	^ ^	negative
+252057183657803776	hilarity .	N ,	positive
+262204155827990528	朱花の双子の姉考案なう	!	positive
+235712138583363584	WTF !	! ,	negative
+235712138583363584	died !	V ,	negative
+235712138583363584	hell	!	negative
+235712138583363584	brutal	A	negative
+259129265570869248	LOVED IT !!	V O ,	positive
+259129265570869248	want more	V A	positive
+246398692679114752	hopes	V	positive
+263310009566392320	miss	V	negative
+263310009566392320	#bestteacherever	#	positive
+264169764979609600	Fuck	!	negative
+264169764979609600	hahaha	!	positive
+264236295172272128	jail	N	negative
+261969426889457664	big announcement .	A N ,	positive
+264217924728930304	Impressed	A	positive
+263503249758375936	Place to be !	N P V ,	positive
+207447080585789440	improvements	N	positive
+252576881981943808	interesting .	A ,	positive
+264086250925998080	не	!	negative
+218087200003338240	ever	R	positive
+258814894361702400	;)	E	positive
+263312450605158400	kinda salty	R A	negative
+263312450605158400	smh ... would of been tight	G , V P V A	positive
+264036919011319808	:)	E	positive
+259095865652817920	pretty good ,	R A ,	positive
+260976746462072832	Excited	A	positive
+263509017639415808	not make	R V	negative
+263406637908365312	kiridah , eu	^ , ^	negative
+259265454743363584	to veto	P V	negative
+255525306159468544	Can't wait	V V	positive
+255525306159468544	:-)	E	positive
+263682806264258560	Lucky Break	A N	positive
+263682806264258560	work cut out for it	N N T P O	negative
+260965829510840320	hates	V	negative
+260965829510840320	love to know	V P V	positive
+260965829510840320	BRILLIANT	A	positive
+249064529374371840	smiled ]	V ,	positive
+249064529374371840	may not	V R	negative
+256726415284768768	arrested	V	negative
+225033272181276672	Some good stuff	D A N	positive
+225033272181276672	terrible , ready	A , A	negative
+258591480162168832	smacked us	V O	negative
+259742833810997248	right	!	positive
+259742833810997248	already happened	R V	positive
+247736704281223168	hope	V	positive
+262922727915147264	top scorer :	A N ,	positive
+263556796004855808	big surprise .	A N ,	positive
+246365394531647488	continuing	V	positive
+197328259137015808	Happy	A	positive
+197328259137015808	celebrating	V	positive
+197328259137015808	Great Day !	A N ,	positive
+173976882000314368	best	A	positive
+256492927407239168	please go	V V	positive
+263897121302929408	LOL !!	! ,	positive
+261109626999799808	normally	R	neutral
+261109626999799808	might want	V V	neutral
+263072011083984896	http://t.co/QCCdYQ5F	U	positive
+261328176846888960	hand embarrassment	N N	negative
+264180389126483968	you too omg	O R !	positive
+264180389126483968	should go	V V	positive
+263994754017157120	snarky statement	A N	negative
+264234731720290304	Sorry	A	negative
+264234731720290304	late	A	negative
+264234731720290304	haha :D	! E	positive
+225194268011134976	happy	A	positive
+263615384811352064	James	^	positive
+263615384811352064	probably wait !	R V ,	positive
+263053946766123008	bermudas	^	positive
+264248465440272384	#siriwantstokillme	#	negative
+264248465440272384	dead	A	negative
+249317265630175232	don't think	V V	negative
+262343145843466240	Looking forward	V R	positive
+262343145843466240	fantastic	A	positive
+257816075679453184	blow up	N T	negative
+257816075679453184	seemed ok .	V ! ,	positive
+263684648192835584	Lack of	N P	negative
+263684648192835584	flop :	N ,	negative
+259438015712202752	may	V	positive
+259438015712202752	may	V	positive
+254041683078045696	kmusta	!	positive
+225534415026130944	urges	V	positive
+225534415026130944	inspiration . "	N , ,	positive
+262875597162823680	famous	A	positive
+262875597162823680	:D	E	positive
+249303363764764672	crazy , crazy , crazy	A , A , A	positive
+258624026136698880	didn't make it	V V O	negative
+251692344984875008	keep you in shape .	V O P N ,	positive
+263420162940755968	No	!	negative
+263420162940755968	Thank .	V ,	positive
+264242277285777408	But	&	positive
+249122302669758464	fucked	V	negative
+263339757508124672	resurgence	N	positive
+264016539211165696	never	R	negative
+262726878052380672	isnt even smarter	V R A	negative
+255484381811077120	worthy	A	positive
+255484381811077120	Honest	A	positive
+262298455270113280	deserves	V	positive
+261862110068350976	Can't wait !	V V ,	positive
+255925060609658880	/ /	, ,	positive
+264101441420029952	A big day	D A N	positive
+178425868341870592	survived	V	positive
+178425868341870592	#HappyBirthdayRemusLupin	#	positive
+211023490168524800	please	V	positive
+211023490168524800	#happybirthday	!	positive
+211023490168524800	I love you	O V O	positive
+258694190932836352	odor	N	negative
+256270784006328320	funny	A	positive
+256270784006328320	joking	V	positive
+260815921596223488	#fail	#	negative
+264085618638868480	can't believe	V V	positive
+264085618638868480	wtf ?	! ,	negative
+264114314070347776	has not done it .... oh okay	V R V O , ! !	negative
+257987014492839936	r cursed ... " @evansilva :	V V , , @ ~	negative
+257987014492839936	may be over	V V P	negative
+257987014492839936	injury "	N ,	negative
+253323358047989760	mofuckas failed	N V	negative
+246282909814751232	can't confirm	V V	negative
+262922845284360192	great	A	positive
+264157472518979584	Managed to	V P	positive
+264157472518979584	interesting .	A ,	positive
+264157472518979584	hopefully	R	positive
+263932238683586560	Make sure	V A	positive
+212895768242159616	▽	G	positive
+238479397873655808	That's a long day .	L D A N ,	negative
+256215997646790656	about to be hype !	P P V N ,	positive
+186739473525116928	proud !	A ,	positive
+192445297014747136	;)	E	positive
+260805278885367808	cry	V	negative
+260805278885367808	my youth :P	D N E	negative
+233671971303464960	against	P	negative
+233671971303464960	great	A	positive
+233671971303464960	great start !	A N ,	positive
+213748319053283328	Clip	N	positive
+262427324065120256	never been ,	R V ,	negative
+262427324065120256	hope ,	V ,	positive
+234011176672038912	psyched	A	positive
+234011176672038912	on WorldStarHipHop !	P ^ ,	neutral
+263476459312648192	so excited	R A	positive
+264264907137097728	:)	E	positive
+264264907137097728	leave	V	negative
+171385775416553472	restricted	V	positive
+171385775416553472	Happy	A	positive
+263189281982541824	first class	A N	positive
+250584452735062016	@RamataSweetyIAm :	@ ~	positive
+264089688468500480	#CrushSoHard	#	positive
+198453438567288832	não	!	positive
+263833340308774912	edge	N	positive
+263943235456626688	honestly	R	positive
+263943235456626688	nicest	A	positive
+264112069329166336	@mizTreen -	@ ,	positive
+264112069329166336	http://t.co/qj560QS5	U	positive
+263058979452751872	#cantwaitt	#	positive
+262068428838428672	ready	A	positive
+254640117963161600	20%	$	positive
+263245558624444416	may really enjoy	V R V	positive
+264224039801856000	Ohhhh	!	positive
+264224039801856000	:)	E	positive
+169518982519459840	@Floratrimp	@	positive
+260783447881162752	Wish me luck !	V O N ,	positive
+262224750808539136	You rock !	O V ,	positive
+263618315468042240	hurt like crazayyy !	V P A ,	negative
+248718821664362496	lose	V	negative
+253830890864648192	true	A	positive
+264159573793968128	strict	A	negative
+259560361534033920	No regrets .	D N ,	positive
+262905736680591360	Need	V	negative
+262905736680591360	critical	A	negative
+262905736680591360	#dying	#	negative
+253383191254159360	helping '	V ,	positive
+253383191254159360	can't conclude	V V	negative
+263820098601619456	can't wait	V V	positive
+263820098601619456	Love	N	positive
+252982075932688384	babe :) I LOVE YOU !!!	N E O V O ,	positive
+260149068544741376	weird	A	negative
+244522554558148608	steal	V	negative
+216836489122820096	nominated	V	positive
+216836489122820096	best	A	positive
+262907475131514880	exclusive	A	positive
+264150125063057408	como cuando	! !	positive
+264150125063057408	empeño	!	negative
+264150125063057408	la	^	negative
+264150125063057408	jaja .	! ,	negative
+262285315086090240	celebrating	V	positive
+262285315086090240	said NO	V !	negative
+215160992684965888	SEAS	N	positive
+215160992684965888	* llora	, ^	positive
+258452237490212864	win	V	positive
+259463434989604864	May not be accurate-I'm	V R V A	negative
+259877828277968896	haven't heard back .	V V R ,	negative
+261858188410880000	didn't exist yet !	V V R ,	negative
+261610614475083776	may be wrong ,	V V A ,	neutral
+261610614475083776	sure :)	A E	positive
+233363122772140032	sexiest	A	positive
+264100032041607168	Good	A	positive
+262469502254604288	정답을	!	negative
+263740586912276480	stud	N	positive
+263740586912276480	earned	V	positive
+262647787236245504	some	D	positive
+262647787236245504	#CowboysNation	#	positive
+257750740645330944	missed	V	negative
+263813178914385920	will NOT play ,	V R V ,	negative
+263813178914385920	hope to see	V P V	positive
+263713149658730496	@EntreBipolares :	@ ~	positive
+263713149658730496	ganas	!	positive
+229246522863271936	may	V	neutral
+262923248294064128	วันเวลาจะพิสูจน์	!	negative
+262585900129726464	only	R	negative
+262585900129726464	wrong	A	negative
+262585900129726464	hehe	!	positive
+194378056880754688	FYEAH .	! ,	positive
+238787902287540224	hope to see	V P V	positive
+249439289392369664	lose	V	negative
+249439289392369664	loses	V	negative
+249439289392369664	Don't let this happen .	V V O V ,	negative
+255550515700715520	oMG ))	! ,	positive
+264151411514826752	no thnx .	! N ,	negative
+250598574902099968	may also be vulnerable	V R V A	negative
+260240492422377472	terrible/generic	A	negative
+260240492422377472	cancelled	V	negative
+259134818070183936	Can't wait	V V	positive
+259134818070183936	awesome ! Lol	A , !	positive
+261009627418877952	Looking forward	V R	positive
+261009627418877952	luxurious	A	positive
+261902226384105472	may not have gone	V R V V	negative
+261902226384105472	#ilovefood	#	positive
+243266733866115072	unconstitutional :	A ,	negative
+243266733866115072	" unconstitutional "	, A ,	negative
+241873590914539520	well slit my wrists	! V D N	negative
+256567471576870912	@Sweet_Haze thanks	@ N	negative
+254817714898604032	may have to	V V P	neutral
+206536587272663040	Great progression	A N	positive
+206536587272663040	well done !	! V ,	positive
+237699756598652928	exclusive	A	positive
+260872391662637056	weekend for me !	N P O ,	negative
+236956816276353024	don't	V	negative
+236956816276353024	may be ok	V V !	positive
+168794208235298816	@JessMejica	@	positive
+263909876869259264	closed	V	negative
+263909876869259264	pathological gamblers	A N	negative
+253501935636860928	rules out ban	N P N	positive
+253501935636860928	was not	V R	negative
+159200989268807680	liked	V	positive
+260803635221512192	hah trust	! N	positive
+260803635221512192	worried	A	negative
+260803635221512192	Perfect	A	positive
+262700361779904512	sale -	N ,	positive
+262700361779904512	liv ...	G ~	positive
+264130675190398976	didn't think	V V	negative
+264130675190398976	Rough	A	negative
+264100036168781824	it	O	positive
+261760403695087616	Boom !	! ,	positive
+248659750475149312	xxx	E	negative
+240478344561446912	Can't wait to	V V P	positive
+240478344561446912	extraordinary .	A ,	positive
+263819389567135744	nobody	N	negative
+264186992110219264	can't beat	V V	negative
+264186992110219264	couldn't even	V R	negative
+264067792981078016	best	A	positive
+196296204970237952	great	A	positive
+196296204970237952	right !!!	! ,	positive
+254576335593304064	support	N	positive
+254576335593304064	oppose	V	negative
+254576335593304064	continue	V	negative
+254576335593304064	oppose	V	negative
+258505563728658432	accuse us of disrespectful	V O P A	negative
+264175297866371072	Вишневое	!	negative
+232848893753307136	o . k	! , G	positive
+232848893753307136	Lol	!	positive
+255228183727722496	perfect day	A N	positive
+255228183727722496	lovely	A	positive
+259508640694816768	should be a breeze	V V D N	positive
+262708146387169280	Yes ,	! ,	positive
+258435673340653568	wanted to see you	V P V O	positive
+258435673340653568	amazing	A	positive
+261026742016303104	supports	V	positive
+261026742016303104	secure	A	positive
+254430502981890048	goodnight	!	positive
+260803911835844608	rejoin	V	positive
+254411356592275456	would do almost	V V R	positive
+212937076499431424	lame	A	negative
+212937076499431424	:/	E	negative
+255223207047614464	win	V	positive
+263701141282516992	really excited	R A	positive
+262953594997846016	Hope	V	positive
+178301152318857216	$215000	!	positive
+251144316133711872	do	V	negative
+251144316133711872	someone extremely	N R	negative
+264254868284391424	special	A	positive
+264254868284391424	funny .	A ,	positive
+224454840242290688	I	O	negative
+257209972369281024	don't sound too bad .	V V R A ,	positive
+264185661748310016	upset	A	negative
+264080419450933248	HAPPY	A	positive
+177640329724444672	دنيـآك .	! ,	positive
+245736894145646592	:D	E	positive
+264142179809771520	wanted to	V P	positive
+262426421803241472	happiness	N	positive
+234566574315540480	@muhdatiq1 @didasyuhada	@ @	positive
+261463706238595072	officially done	R V	positive
+261463706238595072	hope	V	positive
+261463706238595072	don't have to retake	V V P V	negative
+226397097648349184	looking forward to it , not	V R P O , R	positive
+238496977212551168	complimented	V	positive
+264148362901725184	Lol	!	positive
+264148362901725184	:/	E	negative
+264114968159457280	Still	R	negative
+264114968159457280	unanswered ,	A ,	negative
+197070854759251968	saving	V	positive
+197070854759251968	Great	A	positive
+254172223345135616	Completely divine ...	R A ,	positive
+264123212386930688	@_AhGuyaneseGyal if	@ P	positive
+264143718083358720	and	&	negative
+255223204598149120	Come along	V T	positive
+248659757999734784	may not dump	V R V	positive
+253287364133261312	rotten	A	negative
+239487738146078720	defend	V	positive
+239487738146078720	;)	E	positive
+247920865075945472	READY !	A ,	positive
+253351706258182144	why the fuck	R D N	negative
+260784153648324608	Samsung Display ends	^ N N	positive
+249944615057252352	new	A	positive
+246340886546481152	hope u r well ,	V O V R ,	positive
+246340886546481152	lovely	A	positive
+246340886546481152	done	V	positive
+263581164936237056	have	V	positive
+217811697635819520	great	A	positive
+217811697635819520	#canttouchthis	#	positive
+236901908898541568	Luv	N	positive
+264075590724886528	Come down	V T	positive
+264075590724886528	laugh	V	positive
+256492742815928320	crazy	A	positive
+259938447979069440	org	!	positive
+264235477903753216	may like	V V	positive
+263197116388745216	good luck	A N	positive
+263197116388745216	supporting	V	positive
+258211929154281472	Dikeroyok http://t.co/kn12F1qA	^ U	positive
+258983149076377600	like	P	positive
+258983149076377600	exciting .	A ,	positive
+262595005363912704	even	R	positive
+262595005363912704	able	A	positive
+262595005363912704	do it for me , pls	V O P O , V	positive
+258909777395085312	win	V	positive
+259701130425167872	a Swansea para	D ^ G	positive
+259701130425167872	buen	^	positive
+263358943663902720	aplicaciones	!	negative
+262717098210500608	LOL !	! ,	positive
+262717098210500608	Don't think so ! xDDD	V V R , E	negative
+261568022798548992	Great	A	positive
+203777374666498048	laughed	V	positive
+203777374666498048	good	A	positive
+263156695436517376	weakest nigga	A N	negative
+263156695436517376	lame	A	negative
+263279440392511488	cuts	N	negative
+263279440392511488	eliminations	N	negative
+260942395179417600	Hottest ticket	A N	positive
+263641707701207040	Happy	A	positive
+263961058346164224	いくら年をとり、知識を積んでも、人間には、人間本来の迷いの火ダネが、白骨になるまでは、なくならないものらしい。	!	negative
+262717245149544448	garbage .	N ,	negative
+262717245149544448	tore them up	V O T	negative
+252165210704596992	upset	A	negative
+256627880891654144	(:	E	positive
+256004203300929536	crazy !!!	A ,	positive
+256004203300929536	love you	V O	positive
+256004203300929536	\(^o^)/	E	positive
+254715456584314880	just sad .	R A ,	negative
+264212731652079616	Shiiiiit	N	negative
+264212731652079616	going to fail . : c	V P V , , G	negative
+254093643395252224	laughing	V	positive
+229737364904366080	@natashaspak :	@ ~	positive
+236271689225367552	lmfaooo	!	positive
+201843342940717056	Didnt	V	positive
+201843342940717056	I Dont	O V	positive
+234592708520468480	amazing ,	A ,	positive
+234592708520468480	incredible	A	positive
+250079166278533120	" Bridging	, V	positive
+251059817827938304	muthafuckin	!	negative
+251059817827938304	best	A	positive
+258286214719881216	Good news :	A N ,	positive
+258286214719881216	Bad news :	A N ,	negative
+264205287374852096	just trying	R V	positive
+264017949810106368	ranked	V	positive
+264017949810106368	lost	V	negative
+264017949810106368	underrated .	A ,	negative
+247651859093934080	super dry	R A	negative
+247651859093934080	super lame !!!	R A ,	negative
+247651859093934080	too old	R A	negative
+247651859093934080	shit	N	negative
+262585958409596928	@fzas_2012 : قمة الإهانه	@ ~ N N	positive
+178000146481692672	dont like	V V	negative
+178000146481692672	entertaining .	A ,	positive
+264193350595391488	at	P	negative
+264061100444774400	better	A	positive
+215667149786710016	like	P	positive
+215667149786710016	cheated	V	negative
+215667149786710016	dumping	V	negative
+256907631199911936	super cheap is your #1	R A V D $	positive
+264196194245410816	Been waiting for this	V V P O	positive
+261880984193089536	dear	!	positive
+263958116335493120	forgotten	V	negative
+263958116335493120	weren't memorible .	V A ,	negative
+263958116335493120	deaf ears	A N	negative
+255617170699059200	responsible	A	positive
+262072527856218112	@BrianPMarion : Have	@ ~ V	positive
+262072527856218112	fucking heart .	A N ,	negative
+254182567211855872	interruption .	N ,	negative
+253250997856636928	toast :	N ,	negative
+206121346139303936	:)	E	positive
+254728242337050624	new version	A N	positive
+177382644273778688	@KamaMagomedova это	@ !	positive
+262748325105786880	catches	V	positive
+258654645579292672	free	A	positive
+258654645579292672	just dying	R V	negative
+229315683991818240	opened fire	V N	negative
+258938637469769728	beautiful	A	positive
+258938637469769728	will complete	V A	positive
+257880381406199808	Wish you were coming	V O V V	positive
+261738089288962048	nice !!	A ,	positive
+247511500158291968	like	P	positive
+251921132263985152	miss	V	negative
+251921132263985152	fail ,	N ,	negative
+261525006318727168	forget exists ,	V V ,	negative
+261525006318727168	always lovely	R A	positive
+258844627757580288	can't wait	V V	positive
+258844627757580288	wavy	A	positive
+258844627757580288	fuck up !	V T ,	negative
+227824611872616448	Interested	A	positive
+250783425835970560	hopefully	R	positive
+250783425835970560	should be good .	V V A ,	positive
+264066090894778368	arguing	V	negative
+195576847826821120	real	A	positive
+195576847826821120	cannot wait	V V	positive
+260525423191019520	Girls	N	positive
+260525423191019520	are not	V R	positive
+263040302544199680	York	!	neutral
+262159327979266048	Join us	V O	positive
+262134202017910784	@kawamura0206 : 絵描くの好きな人RT http://t.co/DCHnkpTT	@ ~ ~ U	negative
+263985896720830464	Power out	N P	negative
+263985896720830464	back up and running	R T & V	positive
+262950188770004992	Recognizes	V	positive
+263721474236481536	Never	R	negative
+263721474236481536	support	N	positive
+234275265369497600	illegal for them to kill you :	A P O P V O ,	neutral
+259746311253938176	addressing	V	positive
+264170973073375232	so glad	R A	positive
+264170973073375232	#thankyoubitch	#	positive
+262045188166402048	may not work	V R N	negative
+262045188166402048	always the same .	R D A ,	positive
+264184253695270912	fuck	!	negative
+250930638704758784	hahaha	!	positive
+250930638704758784	thank god	V ^	positive
+250930638704758784	:)	E	positive
+165194952068968448	don't get	V V	negative
+165194952068968448	criticism .	N ,	negative
+165194952068968448	Won	!	positive
+165194952068968448	had no sniff	V D N	positive
+261778309313069056	love	N	positive
+256847795963691008	ousted	V	negative
+260825612774699008	didn't iPOOP	V ^	negative
+260825612774699008	IJUNK	!	negative
+260825612774699008	CAN NOT	V R	negative
+231458875939880960	yelling	V	negative
+231458875939880960	wouldn't	V	negative
+231458875939880960	Great	A	positive
+231458875939880960	Beautiful	A	positive
+262131102137860096	powerful	A	positive
+263721545694859264	free	A	positive
+263721545694859264	ready	A	positive
+264234560160673792	Lamar	^	neutral
+259856013128249344	love	N	positive
+255757749491736576	shitloads	N	negative
+255757749491736576	lol .	! ,	positive
+262649015630442496	paint	V	negative
+260030605012639744	ta ?	P ,	negative
+258181651299958784	#1Love	#	positive
+262933456252719104	God bless	^ V	positive
+261816186130546688	Dealing with anxieties , addictions , abuse , hurts ...	V P N , N , N , V ,	positive
+233652869432242176	your	D	positive
+251769670485544960	@_GiovannaVeras you could possibly	@ O V R	positive
+250226624979668992	;) Happy	E A	positive
+260947743139315712	omg	!	positive
+259382747615866880	@uGoTTaTAsteJAY :	@ ~	positive
+259382747615866880	da	D	negative
+253900749921193984	#smartdaughter #sillydad	# #	positive
+263930523628490752	Great day	A N	positive
+248965153465446400	death	N	negative
+253560761337667584	dislocated	A	negative
+253560761337667584	suffered	V	negative
+263772250409426944	spookiest	A	negative
+263772250409426944	dead	A	negative
+262165556503908352	pure brilliance , Merseyside	A N , ^	positive
+262165556503908352	LEGEND	N	positive
+263445282879062016	right	!	positive
+261150689655418880	best ,	A ,	positive
+259996717569687552	gratitude	N	positive
+264252575879151616	strengthen	V	positive
+233812313013092352	Good Morning	A N	positive
+233812313013092352	hope	V	positive
+233812313013092352	enjoyed	V	positive
+227032521731371008	better	A	positive
+227032521731371008	burning	V	negative
+227032521731371008	MAD	A	negative
+254581658978754560	wants	V	positive
+254581658978754560	avoid .	V ,	positive
+248971180537675776	always	R	positive
+248971180537675776	best .. like	A , V	positive
+263849660425314304	want	V	positive
+263849660425314304	worried	A	negative
+263849660425314304	:/	E	negative
+253308473612316672	i'm so tight	L R A	negative
+253308473612316672	gonna miss some of my classes .	V V D P D N ,	negative
+264228238216265728	i	O	positive
+188831089345835008	RT @combiemohtar :	~ @ ~	positive
+188831089345835008	memang	!	positive
+257521488155000832	lmaoo "	! ,	positive
+243369437477101568	can't find	V V	negative
+233858297017540608	shot	N	positive
+233858297017540608	blockbuster	N	positive
+263556575996821504	sure	A	positive
+263556575996821504	big surprise .	A N ,	positive
+213805382961856512	spontaneously	R	positive
+260610098295107584	dumped it .	V O ,	negative
+252140332374978560	;)	E	positive
+259896458105475072	may not	V R	negative
+259896458105475072	was quite good	V R A	positive
+234049723751886848	glad	A	positive
+261464553542529024	: -*	, G	neutral
+264178586272026624	notava	!	negative
+251547185051742208	best	A	positive
+259293329425051648	phone	N	positive
+264180272189292544	don't know	V V	negative
+261078676584665088	smile	N	positive
+264078703443726336	support ,	N ,	positive
+250258794284711936	FREE	A	positive
+259630710162329600	with	P	positive
+258448018867630080	wasn't great ,	V A ,	negative
+263355232346583040	tinted	V	positive
+263721184561070080	only available	R A	negative
+263721184561070080	good	A	positive
+263355249346093056	@Ian_LFC_Higgins	@	positive
+258453457105731584	seemed to be	V P V	neutral
+258453457105731584	Great	A	negative
+233177931273355264	unay ,	! ,	positive
+217114783504273408	Good to see	A P V	positive
+217114783504273408	supporting	V	positive
+217114783504273408	Haha	!	positive
+250344273575309312	wish	V	positive
+250344273575309312	meet you	V O	positive
+250344273575309312	:)	E	positive
+250344273575309312	heehee	!	positive
+250344273575309312	<3	E	positive
+261140219783430144	es 😇	^ ^	positive
+263440757829038080	Join us !	V O ,	positive
+259840046180470784	heaven , sunny	^ , A	positive
+259840046180470784	hell ,	! ,	negative
+259840046180470784	no sun ,	D N ,	negative
+238354379764277248	Didn't	V	negative
+251750473722384384	deep relationships	A N	positive
+251750473722384384	knowledge	N	positive
+251750473722384384	may not	V R	negative
+235035773957722112	usually don't watch	R V V	negative
+235035773957722112	may have	V V	positive
+235035773957722112	make	V	positive
+235035773957722112	exception	N	positive
+235035773957722112	;)	E	positive
+243272464107462656	" unconstitutional "	, A ,	negative
+255028058526994432	hilarious	A	positive
+255028058526994432	;-)	E	positive
+259703280186298368	wen	R	positive
+208948133982502912	All welcome .	D A ,	positive
+259341426490494976	great	A	positive
+264128448291811328	luxury ...	N ,	positive
+262104193068855296	I love	O V	negative
+258385103582027776	didn't	V	negative
+258385103582027776	he was breathing	O V V	negative
+263005359663378432	Take care	V N	positive
+263005359663378432	blessings ,	N ,	positive
+260539696071966720	enjoy !	V ,	positive
+233138349462937600	celebration	N	positive
+227911205136773120	Yes	!	positive
+263046141178961920	Top scorers	A N	positive
+252144895064694784	WINNER	N	positive
+252144895064694784	awarded	V	positive
+263075094421716992	sadly	R	negative
+263075094421716992	affecting	V	negative
+262528700401201152	SUPER	R	positive
+263286701491884032	over the top .	P D N ,	negative
+257646277418954752	Lucky	A	positive
+234455790726033408	love ,	N ,	positive
+234455790726033408	High fashion [;	A N E	positive
+262737156013965312	sick	A	negative
+262737156013965312	like	P	negative
+236799630615126016	Happy	A	positive
+236799630615126016	qualified	A	positive
+259394650945761280	Yeaa	!	positive
+236967653519020032	Glad	A	positive
+236967653519020032	joking !	V ,	positive
+264174769778356224	Good to see	A P V	positive
+264174769778356224	praying	V	positive
+264174769778356224	give you	V O	positive
+264174769778356224	special	A	positive
+229825713790918656	love ,	N ,	positive
+216014765485600768	@DJiLIPZ : #MIAMIHEATNATION	@ ~ #	positive
+216014765485600768	!!! WE	, O	negative
+262666557375803392	معـﻫ	!	positive
+263877467079585792	Wrong	A	negative
+263877467079585792	love	N	positive
+263877467079585792	wrong .	A ,	negative
+263981029889544192	hope	V	positive
+263981029889544192	love you	V O	positive
+254495575402242048	still	R	neutral
+254495575402242048	best	A	positive
+242568952826458112	best moment	A N	positive
+245269811851046912	like	P	positive
+251195600849231872	restoration	N	positive
+251195600849231872	damaged	V	negative
+261083211629735936	exempt .. LOL	V , !	positive
+247496745951580160	forget	V	positive
+242879445344595968	don't be babies	V V N	negative
+262831491577417728	having a great time	V D A N	positive
+262831491577417728	really good ,	R A ,	positive
+264234920732401664	jail	N	negative
+260904940417986560	dropped explosive	V A	negative
+264200254071644160	#AllTheUglyPeopleBeQuiet !!!	# ,	negative
+247737719256670208	good	A	positive
+260041669385261056	guys #bestfansever	N #	negative
+177672944506503168	Happy	A	positive
+177672944506503168	:-)	E	positive
+264070796710932480	Can't wait to	V V P	positive
+264070796710932480	#toomuchexcitement	#	positive
+258309760498139136	open	V	positive
+255894130750791680	dismal	A	negative
+264063884590186496	goes into effect	V P N	positive
+262282238748667904	leading	V	positive
+262282238748667904	Best	A	positive
+262282238748667904	Keep voting	V V	positive
+254603060968562688	applaud you !	V O ,	positive
+231206871007100928	Screw	N	negative
+264096189119598592	yeah	!	positive
+264096189119598592	nice ,	A ,	positive
+264096189119598592	good	A	positive
+262245540073451520	rocked !	V ,	positive
+258428070241906688	Whoa .	! ,	positive
+170243777422827520	Passionate	A	positive
+252282596963282944	strong .	A ,	positive
+259363861377978368	to	P	negative
+259363861377978368	end of your bullshit ... #ItsaNewDay	N P D N , #	negative
+225757801992036352	may have left	V V V	negative
+225757801992036352	hasn't stopped	V V	positive
+258751674125012992	cool	A	positive
+264033191302660096	be interesting ,	V A ,	positive
+196458880648232960	Wow	!	positive
+263341450496995328	Hoping	V	positive
+261999908993769472	Sad	A	negative
+261999908993769472	it :)	O E	positive
+262875223584542720	ill make	L V	positive
+262875223584542720	famous	A	positive
+263583169037615104	win	V	positive
+258795071917420544	be sad	V A	positive
+264177402958200832	seriously needs	R V	neutral
+259845920525533184	won	V	positive
+263752563512467456	want this so bad	V O R A	positive
+263752563512467456	happier	A	positive
+263752563512467456	beat them	V O	positive
+259812613628760064	Great	A	positive
+259796936180236288	Don't forget	V V	positive
+260824635602518016	iPOOP	^	negative
+260824635602518016	IJUNK	!	negative
+260824635602518016	CAN NOT compete	V R V	negative
+263950853831024640	very much liked	R A V	positive
+263950853831024640	haha	!	positive
+249585709650944000	:(	E	negative
+264148123234992128	:-)	E	positive
+263078274178109440	convicted	V	negative
+263078274178109440	murders	N	negative
+259467389522022400	maybe	R	neutral
+255715290921463808	you guilty	O A	negative
+263334402799566848	believes	V	positive
+225869548480499712	quite happy	R A	positive
+211742226051633152	I can be	O V V	positive
+244641535990300672	thanks	N	positive
+264138643977928704	Mad respect	A N	positive
+264138643977928704	comforting	V	positive
+264138643977928704	bless	!	positive
+258262903260602368	Good	A	positive
+262678081834217472	darling	N	positive
+262678081834217472	happy ... no	A , !	positive
+262678081834217472	don't mind	V V	positive
+264193329976193024	chance	N	positive
+264193329976193024	lose	V	negative
+264222843921903616	sluttiest	A	negative
+264222843921903616	don't think	V V	negative
+250162789803491328	koh yonk	^ !	positive
+258545506043719680	here omfg	R !	positive
+264157078694813696	is	V	positive
+263287141637976064	want	V	neutral
+263287141637976064	issues	N	negative
+263359769321029632	good	A	positive
+233637896685494272	knackered .	A ,	negative
+262693961628524544	DO NOT agree	V R V	negative
+263947290786553856	:)	E	positive
+263017200225501184	might even	V R	positive
+263017200225501184	looks great .	V A ,	positive
+261088634516668416	really want to	R V P	positive
+261088634516668416	should come	V V	positive
+264038190183239680	awarded	V	positive
+263716710698344448	Never	R	negative
+263716710698344448	alone	R	negative
+261046173224280064	Good deal	A N	positive
+264084022341275648	Can't wait	V V	positive
+254875786501292032	haha of course !	! P N ,	positive
+254875786501292032	Not	R	negative
+254875786501292032	looking forward	V R	positive
+249716223372324864	EXCLUSIVO	!	positive
+264244232305385472	doubt	N	negative
+264248154826891264	haha ok	! !	positive
+243639738345598976	be known-	V V	negative
+264225920565530624	eat pussy	V N	negative
+264225920565530624	break ya neck	V D N	negative
+264225920565530624	loll	!	positive
+263515005402636288	Dig it !	V O ,	positive
+260881214964117504	were going	V V	positive
+263124508657979392	may or may not	V & V R	neutral
+213406734587408384	Loved	V	positive
+213406734587408384	awesome	A	positive
+213406734587408384	inspiring !	A ,	positive
+244089484084391936	cheer	N	positive
+244089484084391936	support	N	positive
+207633006981160960	realest	A	positive
+264195044523798528	Jerzday	^	negative
+238541137512648704	increase	N	positive
+263833978707005440	Home from	N P	positive
+263833978707005440	of	P	positive
+259590648104091648	strong	A	positive
+259590648104091648	not liars	R N	negative
+260787224658972672	maximum	A	positive
+251696313350094848	Sata	^	positive
+216908604282900480	RT	~	positive
+216908604282900480	StellyCheJell	!	positive
+234069851159818240	Worst	A	negative
+234069851159818240	#awkward	#	negative
+263943095333318656	can't wait !!	V V ,	positive
+263351004559466496	love it	V O	positive
+263351004559466496	too big	R A	negative
+263572913691705344	could	V	neutral
+263572913691705344	much like	R P	positive
+260526862130876416	calor dos	G G	negative
+251853154151432192	finally	R	positive
+251853154151432192	leads	V	positive
+264224886799622144	not comin back	R V R	negative
+251820777740066816	23	$	positive
+194896694859665408	;)	E	positive
+262576265180110848	booted out	V T	negative
+238571318495305728	lol	!	positive
+254413778379214848	Unreal	A	positive
+200985781161037824	liked	V	positive
+245250307448246272	So excited	R A	positive
+260142958182031360	promoted	V	positive
+263801945934942208	real nigga w/ balls .	A N P N ,	positive
+254715866594299904	Mind ... Blown ...	N , V ,	positive
+251299874677592064	Congratulations	!	positive
+251299874677592064	passing	V	positive
+263090210252939264	cascaded	V	negative
+263663886358675456	check us out !	V O T ,	positive
+254273844464996352	Don't miss	V V	positive
+264209652953264128	so happy	R A	positive
+264209652953264128	:)	E	positive
+257592792530956288	don't	V	negative
+177715743314542592	remind yourself	V O	positive
+177715743314542592	the best ! Happy	D A , A	positive
+224770580489060352	http://t.co/n1yX0AzT	U	positive
+260893770306961408	استغفرالله "	G ,	positive
+239923421562167296	Foto por ahí en	^ G G G	negative
+257067928615272448	Only	R	negative
+212344286803542016	ain't	V	negative
+262754280602218496	Better ?	R ,	positive
+263848743361712128	may be late ,	V V A ,	negative
+263848743361712128	grown	V	positive
+251640387511410688	Hopefully	R	positive
+262405747130900480	we	O	positive
+262405747130900480	watch	V	positive
+262405747130900480	episode	N	negative
+264228787321978880	thank you !	V O ,	positive
+264075801333477376	want	V	positive
+262681698720956416	waste	N	negative
+258460568904687616	Special	A	positive
+198537309795254272	Okay !	! ,	neutral
+263653866170621952	will not be	V R V	negative
+263653866170621952	:(	E	negative
+240354838901313536	arrested	V	negative
+260095100598759424	fancy	A	positive
+246158677717966848	good	A	positive
+246158677717966848	much better mood .	R A N ,	positive
+256039501384777728	haha	!	positive
+256039501384777728	won .	V ,	positive
+172976938464444416	dangerously obsessed	R V	negative
+260968552914354176	;)	E	positive
+213934925995458560	like	P	positive
+259181677333581824	:D :D :D	E E E	positive
+202481567044612096	excited	V	positive
+254040273603153920	favourite	!	positive
+250423790453022720	grumbling , " I * KNEW *	V , , O , V ,	negative
+250423790453022720	half-hearted	A	negative
+218791399305383936	injury	N	negative
+240057187622342656	Wish	V	positive
+225162488767975424	Great article	A N	positive
+225162488767975424	fantastic .	A ,	positive
+247130305394262016	Help	V	positive
+247130305394262016	worthy .	A ,	positive
+263010438550265856	shouldn't have to	V V P	negative
+263415168623603712	Gutted	V	negative
+263415168623603712	missing	V	negative
+213337904515256320	funny	A	positive
+175464270300069888	Oh yeah ..	! ! ,	positive
+258608462085365760	estoy	!	negative
+215574035252260864	Win	V	positive
+262950468110647296	beat	V	positive
+253697096073482240	full	A	negative
+253697096073482240	bullshit .. put	N , V	negative
+261356792687247360	forget	V	negative
+263336571762274304	miss	V	negative
+257425974487040000	interested	A	positive
+245206311946579968	only	R	negative
+216851852959031296	bombard	V	negative
+216851852959031296	battles	N	negative
+262308915415494656	yr , loved	N , V	positive
+242723087618043904	don't get	V V	negative
+242723087618043904	chances	N	positive
+262746956533727232	want to cry	V P V	negative
+262746956533727232	wasn't there	V R	negative
+262054209212514304	Wish me luck	V O N	positive
+201399348234432512	sad	A	negative
+201399348234432512	goodbye	!	negative
+155285232084467712	hope	V	positive
+155285232084467712	#dontfancyArfieldingoal	#	negative
+263317138914295808	RT	~	positive
+263317138914295808	sunglasses	N	positive
+255478858147569664	:D	E	positive
+259456808672976896	GREAT	A	positive
+264106125362860032	best	A	positive
+264106125362860032	win	V	positive
+264106125362860032	shock , horror , #applesucks	N , N , #	negative
+262926775091355648	speical	A	positive
+262345829178826752	wondering	V	positive
+262345829178826752	may have	V V	positive
+262345829178826752	crazy	A	negative
+263213549491474432	love	N	positive
+263213549491474432	useless	A	negative
+258543556472471552	right	!	positive
+262987165380775936	ye	!	positive
+262987165380775936	ye ye ye	O O O	positive
+264222962700398592	don't even feel like going	V R V P V	negative
+256108813176938496	MAKE SURE TO COME	V A P V	positive
+256108813176938496	:)	E	positive
+263067322418339840	advantage	N	positive
+255192038574788608	Finally ,	R ,	positive
+259108587614371840	love	N	positive
+259108587614371840	ignorant .	A ,	negative
+264204167386628096	Be sure	V A	positive
+262740695268339712	probably win	R V	positive
+262740695268339712	Unreal .	A ,	positive
+262586462355197952	inactive	A	negative
+251754614133772288	won't	V	negative
+251754614133772288	:(	E	negative
+251071033375866880	love	N	positive
+258961278733778944	Grand Opening	A N	positive
+261783686893142016	brilliant	A	positive
+261783686893142016	best	A	positive
+263758530815856640	El fasoooo según Lucas	^ ^ ^ ^	positive
+261079685386092544	Hope	V	positive
+261079685386092544	good	A	positive
+236402853642645504	win	V	positive
+257836106438029312	just wish	R V	positive
+229549977087639552	tense	A	negative
+264107216108417024	kwart	!	positive
+262027031087308800	“ @f6ee6 :	, @ ~	positive
+254806671312957440	Indiscriminate	A	negative
+233183221796466688	Wish	V	positive
+263948148265861120	we	O	negative
+263948148265861120	keluar	^	positive
+263496638193090560	big thing ,	A N ,	positive
+262639435785580544	Poor	A	negative
+262639435785580544	ended	V	negative
+262639435785580544	streak .	N ,	positive
+262639435785580544	lost	V	negative
+262046681216991232	;))	E	positive
+262046681216991232	pretty great ,	R A ,	positive
+263572559663079424	going to	V P	positive
+225245362208776192	Best	A	positive
+262084661818318848	wanna go	V V	positive
+262048059494629376	am not	V R	negative
+262048059494629376	state of mind	N P N	negative
+237696140517191680	probably won't	R V	negative
+237696140517191680	may not	V R	negative
+263316127684386816	FREE	A	positive
+263316127684386816	Can't beat that .	V V O ,	positive
+250913556042764288	excellent	A	positive
+262021931308568576	done a mistake	V D N	negative
+263468541196529664	Perfect ... not sure	A , R A	negative
+264117466530213888	haha ,	! ,	positive
+219121356221054976	agreed	V	positive
+260166106138959872	SUPER good ) .	R A , ,	positive
+264133580995842048	يـؤذيـنــــا بـعـمـــــق	! !	positive
+264133580995842048	!!!	,	positive
+260489134207029248	always-exciting	R	positive
+262460934918909952	Dont miss it	V V O	positive
+262460934918909952	see you soon !	V O R ,	positive
+262881665486036992	cancellation	N	negative
+262715356790005760	Love it	V O	positive
+255488989967052800	(;	E	positive
+264159593763065856	miss	V	negative
+214991541641551872	award won	N V	positive
+214991541641551872	amazing	A	positive
+214991541641551872	best	A	positive
+261190115785834496	@MustafizulR	@	positive
+226785569001324544	adorable	A	positive
+226785569001324544	favourite	!	positive
+228691714079072256	didnt win	V V	negative
+228691714079072256	won over my heart	V P D N	positive
+258945751550414848	2013	$	positive
+253272444410945536	really nice	R A	positive
+253272444410945536	interested !	A ,	positive
+259017923799154688	just love	R V	positive
+259017923799154688	hilarious !	A ,	positive
+254164179349561344	Murder	N	negative
+254164179349561344	Strongly believe	R V	positive
+254164179349561344	same	A	positive
+264100781664395264	Fantasy	N	positive
+196563231739875328	liked	V	positive
+263975686723760128	celebrate	V	positive
+263975686723760128	:)	E	positive
+219102989984612352	whole	A	positive
+247661934256746496	Only	R	positive
+247661934256746496	burglaries	N	negative
+263307878025285632	better	A	positive
+257986679086931968	may be over	V V P	negative
+257986679086931968	Noo ! :(((((	! , E	negative
+260182877751373824	have to	V P	negative
+256702681794629632	:)	E	positive
+261512027984494592	omg	!	positive
+261512027984494592	aaah !!	! ,	positive
+181181802910715904	getting drunk	V A	negative
+181181802910715904	#notlookingforwardtodennys !	# ,	negative
+262822721388433408	Yes ,	! ,	positive
+254421223084265472	rather eat my left foot	R V D A N	negative
+259733232537444352	lmao	!	positive
+262971427320365056	will NOT be	V R V	negative
+262971427320365056	not cooperating	R V	negative
+263467550992633856	wanna	V	positive
+263467550992633856	<3	E	positive
+264107182667214848	Have never been happier	V R V A	positive
+226497407280615424	:(	E	negative
+259681855975084032	haven't been	V V	negative
+259681855975084032	scored	V	positive
+263577807756607488	cancelled	V	negative
+261719228929937408	good weather	A N	positive
+264201281286074368	celebrate	V	positive
+254381801026486272	You should come ,	O V V ,	positive
+236674592721215488	too much	R A	negative
+236674592721215488	sad	A	negative
+264051214541541376	http://t.co/ZZqkjqxt	U	negative
+249379718518951936	me jeeyyzus .	O ^ ,	negative
+249624948790947840	pretty	R	positive
+249624948790947840	fun	N	positive
+246497195958878208	perfect peace .	A N ,	positive
+263388693371424768	showsssssss !!!	V ,	positive
+260213785606893568	the best	D A	positive
+260213785606893568	self important bitch	N A N	negative
+260213785606893568	don't give a damn	V V D A	negative
+264092498736062464	might just	V R	neutral
+264092498736062464	haha	!	positive
+264094090822549504	honor	N	positive
+261662956570431488	oneness	N	positive
+259468978307624960	:D sure are !	E A V ,	positive
+259468978307624960	:) come !!	E V ,	positive
+200793093480525824	@fifiviali	@	positive
+262945465883049984	DIDN'T I KNOW HOLY	V O V !	negative
+211113280478003200	you're	L	positive
+259525499087364096	Don't want to go	V V P V	negative
+259525499087364096	not going	R V	negative
+264176351320371200	stuck	V	negative
+264176351320371200	Who's fucking with me	L A P O	negative
+263448631061905408	@one_lick_less my voice	@ D N	positive
+263448631061905408	fine ,	A ,	positive
+254434713337487360	sucks	V	negative
+263659387636289536	your	D	positive
+216916166332002304	I can say	O V V	positive
+238910070786768896	win	V	positive
+238910070786768896	sure we won !	A O V ,	positive
+262160533292199936	por	G	positive
+263144580973752320	may be better	V V A	positive
+258099228100943872	enjoyed	V	positive
+263784602190098432	give	V	positive
+263638603148689408	Don't miss	V V	negative
+262060176973111296	fooled	V	negative
+262060176973111296	win	V	positive
+262060176973111296	losing credibility	V N	negative
+255605175593611264	poor	A	negative
+263464244459229184	hard ?!	A ,	negative
+259537985530376192	loved	V	positive
+263958288989839360	much needed reassurance	R A N	positive
+250595253927694336	can be wiped by just	V V V P R	negative
+250595253927694336	vulnerable	A	negative
+264025901602308096	Happy Thursday !	A ^ ,	positive
+264025901602308096	as fun	P N	positive
+259670595120287744	@geonil2 itte	@ !	positive
+264091839198556160	best	A	positive
+245071964761387008	love to make people laugh !	V P V N V ,	positive
+263745047625887744	gave me the idea	V O D N	positive
+264242722272059392	wouldn't make sense	V V N	negative
+264242722272059392	>.<	E	negative
+262932000875368448	best	A	positive
+262932000875368448	better	A	positive
+262745802961743872	deu	!	neutral
+263820158047494144	don't want	V V	negative
+263820158047494144	hate	V	negative
+211805353116049408	will not support	V R V	negative
+211805353116049408	sweaty	A	negative
+233263919425273856	available	A	positive
+254863067337330688	best	A	positive
+254863067337330688	top of things	N P N	positive
+255484502212759552	liked	V	positive
+261436778915979264	FREE !	A ,	positive
+210033327191760896	always FREE ,	R A ,	positive
+210033327191760896	no excuses .	D N ,	positive
+217603642243563520	mag-aaral dun . lool	N V , !	negative
+264142444696838144	ان كنتي	! !	positive
+264142444696838144	جميله	!	positive
+264215391474167808	Mad tired ,	A A ,	negative
+264215391474167808	lol	!	positive
+238194041035046912	arrested	V	negative
+264245270060077056	<3	E	positive
+264227638191738880	don't know	V V	negative
+264227638191738880	haven't	V	negative
+253260984507068416	horrifying injuries	A N	negative
+253260984507068416	prayers	N	positive
+253260984507068416	good recovery .	A N ,	positive
+259707681504366592	Hoorah .	! ,	positive
+210736515339390976	proud	A	positive
+210736515339390976	HOPE	V	positive
+258647935586283520	nice	A	positive
+258647935586283520	good	A	positive
+258647935586283520	great fun ,	A N ,	positive
+262897469162156032	rockin	V	positive
+252588691653001216	so honest	R A	positive
+252588691653001216	" break down "	, V T ,	negative
+181251333507133440	@Manuelretana	@	positive
+253868450873753600	ignoring	V	negative
+263534992422998016	Happy	A	positive
+263534992422998016	good	A	positive
+262473834110783488	Best	A	positive
+262473834110783488	Thanx	N	positive
+262473834110783488	=)	E	positive
+255607702259105792	sacked	V	negative
+255607702259105792	poor start	N V	negative
+249759361373712384	winning	V	positive
+262416317510995968	доброе утро	^ ^	positive
+262001406003802112	would be waiting	V V V	positive
+225048448758583296	Don't miss it !	V V O ,	positive
+191970813346463744	won	V	positive
+259397475176173568	http://t.co/qrGdsTMg	U	negative
+263417186876538880	cheer	N	positive
+255939697552019456	So many amazing	R A A	positive
+233212813227720704	A great way	D A N	positive
+160323475427430400	have to win	V P V	positive
+188895752909631488	if	P	positive
+188895752909631488	not	R	positive
+253934792507265024	mucho que	A N	negative
+253934792507265024	conmigo .	! ,	negative
+257781319134748672	perfect	A	positive
+257781319134748672	FREE	A	positive
+257781319134748672	competition	N	positive
+263610195542933504	nope ,	! ,	negative
+264211712255873024	Great	A	positive
+213884866457124864	leave	V	negative
+213884866457124864	( Love	, N	positive
+233598273993187328	love	N	positive
+233598273993187328	passion	N	positive
+263765132100898816	great	A	positive
+260795785342496768	daai	!	positive
+264189931285536768	able to come	A P V	positive
+178145657150898176	didn't bitch	V N	negative
+178145657150898176	win	V	positive
+178145657150898176	can't pass	V V	negative
+263745209463078912	so fucking excited !!!	P R A ,	positive
+263745209463078912	welcome	!	positive
+180390457765924864	hits	V	positive
+180390457765924864	be waiting	V V	positive
+228834171915743232	establece	!	positive
+228834171915743232	horario	!	positive
+228834171915743232	#OlympicGames	#	positive
+247839867483066368	Great	A	positive
+247839867483066368	Beautiful	A	positive
+262998149705113600	it	O	negative
+255089337740431360	now ..	R ,	negative
+203036784345620480	Despite going off	P V T	negative
+203036784345620480	could be fine	V V A	positive
+242922467218300928	windy	A	negative
+242922467218300928	fault .	N ,	negative
+242922467218300928	shit	N	negative
+242922467218300928	fault .	N ,	negative
+262637423517904896	" YAY "	, ! ,	positive
+262439671542460416	" Love	, N	positive
+262439671542460416	encouraging	V	positive
+262439671542460416	best	A	positive
+255136031253348352	friends !!	N ,	positive
+255752029018927104	Nothing	N	neutral
+258911898907598848	pretty good	R A	positive
+233988149242642432	cheaper	A	positive
+233988149242642432	can't afford	V V	negative
+230022389981917184	may not be able	V R V A	negative
+230022389981917184	everybody @'s me .	N V O ,	negative
+230022389981917184	kik'd me	^ O	negative
+247794238828462080	Don't	V	negative
+247096223343972352	could	V	negative
+247096223343972352	straining	V	negative
+262487722650918912	More for	A P	positive
+264160811189170176	haha	!	positive
+262620394232610816	closed	V	negative
+262620394232610816	appreciate	V	positive
+264146823369859072	bad bad bad	A A A	negative
+260812049083428864	no	!	negative
+260812049083428864	won	V	negative
+261868066290429952	opportunity	N	positive
+262045724995371008	" I'm	, L	positive
+262045724995371008	UV	N	positive
+261466575436120064	greatest thing	A N	positive
+263278278339608576	enjoyed	V	positive
+264104159387742208	Surprise ,	N ,	positive
+229505818360442880	good ?	A ,	positive
+263440309680226304	that	O	positive
+167012303043174400	not mentioned	R V	negative
+264041713746735104	good	A	positive
+260838901218947072	cant go	V V	negative
+260838901218947072	didnt	V	negative
+257646277418954752	opened	V	positive
+258521756149624832	fancy	A	positive
+222886810932609024	Top	A	positive
+173976647131856896	RT	~	positive
+251051350803234816	unlikely	A	negative
+252630572541825024	failing	V	negative
+259534867514138624	#NotOptimal	#	negative
+225796291878334464	solid	A	positive
+225796291878334464	even better	R A	positive
+244816587725606912	e	G	positive
+254326279539662848	Best	A	positive
+247359998592696320	not win	R V	negative
+264100379355140096	may	V	positive
+264100379355140096	best	A	positive
+246285941898092544	LOL .	! ,	positive
+246285941898092544	may not	V R	negative
+264240778753220608	issue	N	negative
+264240778753220608	may not update	V R N	negative
+236126012017086464	come and visit	V & V	positive
+236126012017086464	would love to see you :-)	V V P V O E	positive
+255473360258101248	a little excited	D A A	positive
+255866182266138624	fan	N	positive
+263037475205820416	greats .	N ,	positive
+211484400494456832	: *	, ,	negative
+261982171504463872	died	V	negative
+261982171504463872	stopped	V	negative
+262058401893339136	may have bounce ,	V V N ,	neutral
+262058401893339136	no hangtime	D N	negative
+247336279509975040	shot myself	N O	negative
+210682207117918208	may like	V V	positive
+256404032510386176	leaving	V	negative
+255141165060456448	being	V	positive
+261159341107838976	more	A	positive
+264067182730833920	extra hour	A N	positive
+261470450083844096	LOL ... Oh	! , !	positive
+261470450083844096	I would like to	O V V P	positive
+264157731655667712	is	V	positive
+264157731655667712	in	P	positive
+260602083600920576	get	V	positive
+197500632326864896	protecting	V	positive
+264034923017555968	haven't	V	negative
+264034923017555968	don't	V	negative
+264034923017555968	can't	V	negative
+264134618377224192	Thanks !	N ,	positive
+264134618377224192	pride	N	positive
+264134618377224192	;)	E	positive
+263793561546395648	Come out	V T	positive
+258449523427393536	need ..	V ,	positive
+258449523427393536	can't wait	V V	positive
+263497959264636928	scums unfortunately	N R	negative
+263712888177434624	favourite	!	positive
+263712888177434624	lol	!	positive
+259836035347922944	Wonderful	A	positive
+262057250145828864	good luck	A N	positive
+181155474727649280	que	!	positive
+261555103897620480	still available	R A	positive
+263399310757085184	injury :	N ,	negative
+263197199893135360	Overexposed	A	negative
+264057815734312960	Couldnt make it	V V O	negative
+262759044597567488	might not be	V R V	negative
+262759044597567488	whacked	V	negative
+264137968384630784	RT	~	positive
+174387900086091776	:)	E	positive
+240407969634848768	Falls	V	negative
+240407969634848768	Beats Expectations :	V N ,	positive
+262428458729230336	love	N	positive
+262428458729230336	strength "	N ,	positive
+262958425758126080	the best players	D A N	positive
+252951898775236608	“ @OneManStruggle @I_OwnThrone24	, @ @	positive
+252951898775236608	look like mush mouth	V P N N	positive
+253019827713740800	Agree ?	V ,	positive
+244564769636503552	bigger and better !!	A & A ,	positive
+264239367357345792	uffff	!	negative
+177677721940406272	Happy IWD !!	A N ,	positive
+264008306157309952	awarded	V	positive
+243278463400824832	unconstitutional	A	negative
+243278463400824832	" unconstitutional "	, A ,	negative
+264033740685189120	win Monday .... put foles in	V ^ , V N P	positive
+264033740685189120	be	V	positive
+193607786444226560	may not make it	V R V O	negative
+193607786444226560	expected recovery	V N	positive
+259969975442366464	Come along	V T	positive
+259969975442366464	abducted	V	negative
+250582267267805184	orang ...	G ~	negative
+259886571933818880	fun !	N ,	positive
+259886571933818880	:)	E	positive
+264127834975526912	Please	V	positive
+210696754033737728	>.>	E	positive
+264185885153710080	really excited	R A	positive
+264185885153710080	Should compete well	V V !	positive
+234796905111097344	atmosphere is insane !	N V A ,	positive
+234796905111097344	lol	!	positive
+263019276678623232	love	N	positive
+264062581063438336	so proud of	R A P	positive
+264062581063438336	mad	A	negative
+264062581063438336	not	R	negative
+238459169651429376	liked	V	positive
+251006322026348544	lookin up	V T	positive
+251006322026348544	back	R	positive
+253714398902886400	mildly obsessed	R V	positive
+253714398902886400	good	A	positive
+253714398902886400	good looks .	A N ,	positive
+262630754276753408	Great result	A N	positive
+262630754276753408	winning streak .	V N ,	positive
+262630754276753408	lot of pressure	N P N	negative
+195861647494090752	betull	!	positive
+217052088771936256	love	N	positive
+217052088771936256	not	R	negative
+217052088771936256	biggest	A	positive
+217052088771936256	strongest .	A ,	positive
+253478126091399168	will miss	V V	negative
+253478126091399168	dislocating	!	negative
+233120216731770880	interesting	A	positive
+262222146045112320	@muturu3 【ティラミス】僕もむつると一緒にお風呂入りたいなー ♪	@ ! ,	positive
+245210392685596672	back fired ... and	R V , &	negative
+245210392685596672	true/proved	A	positive
+245210392685596672	troubles	N	negative
+262651882542084096	love you	V O	positive
+257151071112282112	Good luck	A N	positive
+263786544404508672	ready	A	positive
+263786544404508672	affected	V	negative
+264197906049949696	cool ..	A ,	positive
+260125496359149568	Yeah C'mon!	! !	positive
+257102598698569728	takes	V	positive
+261012083963990016	reinstatement	N	positive
+263328169791193088	Good	A	positive
+258636322191843328	opportunities :	N ,	positive
+229123137609019392	Opened fire	V N	negative
+217704646549057536	Me	O	positive
+264221011828948992	hate	V	negative
+263800298538168320	is	V	negative
+263800298538168320	little guy !	A N ,	negative
+263800298538168320	play with	V P	negative
+264119940091629568	best	A	positive
+264203587687690240	hope	V	positive
+264203587687690240	(:	E	positive
+264091996057137152	bad news .	A N ,	negative
+264091996057137152	worse	A	negative
+254321573660590080	alright ,	! ,	positive
+254321573660590080	make	V	positive
+225470346449530880	assassination	N	negative
+225470346449530880	evil tyrant	A N	negative
+231108943936626688	is everyone	V N	positive
+262934417922740224	@cchaqueen @cyupiddead	@ @	positive
+259784549607829504	카카시 선생님이 그랬다니깐 ..... " 4대	^ ^ ^ , , $	negative
+259784549607829504	닌자였는지는	!	positive
+264133899830054912	@SosaOf904	@	positive
+250157286641762304	honorable	A	positive
+259662538139111424	=))))))	E	positive
+198810467706220544	ahh	!	positive
+198810467706220544	need	V	neutral
+198810467706220544	haha	!	positive
+246243677209497600	better	A	positive
+246243677209497600	Prettiest	A	positive
+245289932921401344	" Ah Ha "	, ! ! ,	positive
+232800013053480960	the	D	positive
+214968814524309504	of	P	positive
+214968814524309504	Dead	A	negative
+253205217473085440	find it odd	V O A	negative
+253205217473085440	didnt say	V V	negative
+244736544735375360	independent	A	positive
+246248842054488064	do	V	negative
+249739361191600128	Throwback	N	negative
+233840249099407360	victory	N	positive
+252852149288042496	straight	R	positive
+264028166954299392	to	P	positive
+216310564090159104	Thank god	V ^	positive
+225943424677855232	only	R	positive
+225943424677855232	improving .	V ,	positive
+259620269570805760	hegui la	^ ^	positive
+259620269570805760	ESPN	^	positive
+259620269570805760	Sport ! Jaja ..	N , ! ,	negative
+263938485105340416	Happy	A	positive
+219984962349305856	would be better	V V A	positive
+262610491556372480	revenge	N	negative
+264227730994888704	worse	A	negative
+264227730994888704	going to be sooooo MAD	V P V R A	negative
+199800350625107968	bet	V	positive
+248048144473006080	Would welcome	V V	positive
+181188027232681984	Special	A	positive
+181188027232681984	fun !!	N ,	positive
+256743781829853184	sucked	V	negative
+256743781829853184	Brilliant	A	positive
+263869599588687872	I'm so excited omg .	L R A ! ,	positive
+263869599588687872	:D Lol	E !	positive
+212612357157953536	thanks	N	positive
+212612357157953536	like	P	positive
+249667886887616512	don't wanna	V V	negative
+264154863812882432	not miss	R V	neutral
+262741006166937600	terrible	A	negative
+262741006166937600	unreal .	A ,	positive
+262741006166937600	Impressive .	A ,	positive
+254377766085091328	no clothes ... Wonder	D N , A	negative
+254377766085091328	shoeless	N	negative
+255053822664257536	Not sure	R A	negative
+261242782822330368	Winners	N	positive
+260082760222404608	have sex	V N	positive
+264178704530427904	Sigh .	V ,	negative
+263642345302548480	kau	!	positive
+264050098814722048	Thanks	N	positive
+230248979013722112	enjoy	V	positive
+221942915830779904	definitely be going	R V V	positive
+221942915830779904	Not sure	R A	negative
+221942915830779904	hard	A	negative
+262705593507254272	bigger and better , Thank you	A & A , V O	positive
+262705593507254272	great effort	A N	positive
+160660491574837248	may not agree	V R V	negative
+160660491574837248	principle ... It's	N , L	positive
+160660491574837248	pity	N	negative
+160660491574837248	cannot say	V V	negative
+256076206263390208	may not	V R	negative
+233140683244986368	whipped ?	A ,	negative
+261968096015818752	عين ترى	! !	negative
+210523610211819520	وضع	!	positive
+255499947200356352	" busted	, V	negative
+263293877962809344	Storm	N	negative
+230521185333571584	Hope to return	V P V	positive
+230521185333571584	love	N	positive
+264235264560488448	suffer	V	negative
+264235264560488448	loss	N	negative
+261150419965849600	blame	V	negative
+181121996313214976	Welcome	!	positive
+262601175151550464	Positive thinking	A V	positive
+262601175151550464	win	V	positive
+255843141528207360	" Recovery	, N	positive
+255843141528207360	Great	A	positive
+255843141528207360	Smart	A	positive
+262246323510718464	Congrats	!	positive
+262246323510718464	love	N	positive
+240456610059800576	honor	N	positive
+222219482393886720	Get	V	positive
+199867220229242880	real	A	positive
+263602927925616640	don't	V	negative
+263602927925616640	a chance	D N	neutral
+263602927925616640	called up	V T	neutral
+259335490719858688	liked	V	positive
+263280602688659456	doesn't kill	V V	positive
+263280602688659456	makes you stronger !	V O A ,	positive
+235740618507300864	que	!	positive
+235740618507300864	va	^	positive
+249955353020747776	runs	V	negative
+249955353020747776	wrong	A	negative
+249955353020747776	saves	V	positive
+249955353020747776	rescue ?	N ,	positive
+179076849098424320	WTF !	! ,	negative
+248468859059838976	Haven't	V	negative
+248468859059838976	great time !	A N ,	positive
+257317008088117248	Win	V	positive
+257317008088117248	can't drive	V V	negative
+260869003893952512	awesome !	A ,	positive
+260869003893952512	awesome ! Wish	A , V	positive
+260911907152740352	school sucks man .	N V N ,	negative
+180956629947265024	Have a great day !	V D A N ,	positive
+232110769381208064	@nikkilb0918	@	positive
+196230018400141312	my own	D A	positive
+201047638022434816	neat	A	positive
+263558512775413760	Looking forward	V R	positive
+262284824004415488	Congrats	!	positive
+262284824004415488	win . So happy	V , R A	positive
+262284824004415488	Hope	V	positive
+262284824004415488	Win	V	positive
+262284824004415488	super cute	R A	positive
+262284824004415488	Best	A	positive
+262284824004415488	luck	N	positive
+257145557586411520	Check out	V T	positive
+257098826651955200	Can't sleep .	V V ,	negative
+257098826651955200	can't	V	negative
+257098826651955200	really	R	neutral
+230765694877319168	dumbest	A	negative
+230765694877319168	alive ... smh	A , G	negative
+262936018557218816	Available	A	positive
+262936018557218816	may go	V V	positive
+263913239077851136	gain	V	positive
+263913239077851136	don't have to	V V P	positive
+263913239077851136	#smallvictory	#	positive
+263828764260200448	Nobody	N	negative
+263828764260200448	optimistic	A	positive
+257781560626003968	welcome .	! ,	positive
+257167540298584064	cant	V	negative
+252739722143735808	Welcome	!	positive
+252739722143735808	Great	A	positive
+233785534768631808	Awesome	A	positive
+233785534768631808	So excited	R A	positive
+233785534768631808	#ifyoulovemeyouwillcome	#	positive
+256266266002722816	can't get	V V	negative
+256266266002722816	looking ahead	V R	positive
+264095584531668992	wants	V	neutral
+221664302690615296	http://t.co/AqeRT6Nv	U	positive
+231255144879239168	happy bday	A N	positive
+259133979112923136	well	!	positive
+259255047727239168	never get elected .	R V V ,	negative
+259255047727239168	won't	V	negative
+259255047727239168	thank	V	positive
+194827826199920640	didn't come	V V	negative
+194827826199920640	missed out .	V T ,	negative
+245014014965460992	enjoy	V	positive
+258419263596003328	want to hear	V P V	positive
+249959569017683968	boyss	N	positive
+237592105546031104	best	A	positive
+194290488579338240	can	V	neutral
+250303371926458368	hahahaha -	! ,	positive
+230101171686223872	unusually understanding	R V	positive
+228951496153235456	Come relax	V V	positive
+263655896217972736	welcome	!	positive
+263655896217972736	may need	V V	positive
+263655896217972736	support ! Haha	N , !	positive
+263832308040208384	Promises	V	positive
+263832308040208384	cracker !	^ ,	positive
+242564024083030016	just entered	R V	neutral
+263757676327096320	* pukpuk	, V	positive
+263950006443208704	didn't want	V V	negative
+263950006443208704	troubles	N	negative
+221460663409709056	Dont miss	V V	positive
+249163461551091712	Happy	A	positive
+206266353441718272	smartest	A	positive
+264251423343140864	bijna	!	negative
+263547580372365312	Can't wait	V V	positive
+262822079009812480	may not	V R	negative
+262822079009812480	omg , lol	! , !	positive
+221064776820862976	free	A	neutral
+187754734453661696	' Do not	, V R	negative
+181029617761656832	dry	A	neutral
+259451896287346688	good !	A ,	positive
+259451896287346688	may have	V V	positive
+241801457827975168	:(	E	negative
+241801457827975168	:(	E	negative
+233897419757199360	be going	V V	positive
+232560677502455808	grand	A	positive
+232560677502455808	Yummy	A	positive
+232560677502455808	support ...	N ,	positive
+261709334990426112	growing	V	positive
+261709334990426112	new	A	positive
+261709334990426112	new	A	positive
+263312719535558656	fit	V	positive
+235422552917438464	no te	! N	positive
+235422552917438464	a las	D N	negative
+263258537617149952	again ,	R ,	neutral
+258947169741053952	resigned	V	negative
+258947169741053952	trouble	N	negative
+258947169741053952	abandonment	N	negative
+254147341681061888	may be cheap	V V A	positive
+254147341681061888	inferior	A	negative
+254147341681061888	almost not worth it .	R R V O ,	negative
+263151581149667328	demi	^	negative
+169871220244885504	Don't wait	V V	negative
+169871220244885504	regret	V	negative
+228189105907978240	lead	V	positive
+234216865839341568	didn't prepare	V V	negative
+179766446170189824	tough win	A N	positive
+179766446170189824	Never been	R V	negative
+256459570208202752	Unable	A	negative
+257903445200220160	To be fair ,	P V A ,	positive
+263142915960872960	wish fundraising	V V	neutral
+260133588400492544	loves	V	positive
+260133588400492544	not	R	negative
+261308316142166016	Good luck	A N	positive
+262647614439317504	@valeenperezl @niicocarrizo	@ @	neutral
+225413265243648000	@PiluRainbow	@	positive
+235045139293282304	Cant	V	negative
+260118043244498944	Fuck yes	! !	negative
+259463849252618240	the best	D A	positive
+263320855726145536	Don't miss	V V	positive
+179807656469463040	win	V	positive
+227163087147507712	so excited	R A	positive
+227163087147507712	soo proud	R A	positive
+259634242991038464	not sure	R A	negative
+260969190062710784	" Happy	, A	positive
+260969190062710784	favour . "	N , ,	positive
+248490211565252608	too excited	R A	positive
+248490211565252608	great time	A N	positive
+243500671280762880	Le amamos TANTO ,	^ G ^ ,	negative
+252018128165425152	available .	A ,	positive
+259676832645914624	goal	N	positive
+259884258322165760	sweetest	A	positive
+264072704188104704	don't know	V V	negative
+264072704188104704	greater	A	positive
+264072704188104704	violating	V	negative
+264072704188104704	attack	N	negative
+264072704188104704	What a joke .	O D N ,	negative
+264215995718184960	may not be a fan	V R V D N	negative
+264215995718184960	amazing	A	positive
+258642213762920448	may be nice ..	V V A ,	positive
+258642213762920448	may be neat ..	V V A ,	positive
+258642213762920448	patience !	N ,	positive
+258642213762920448	will come !	V V ,	positive
+262243854395248640	Poo-Poo	N	negative
+262243854395248640	:(	E	negative
+262243854395248640	experiencing trouble	V N	negative
+262243854395248640	apologize .	V ,	negative
+226156085063589888	still having it	R V O	positive
+213801436025323520	late ,	A ,	negative
+213801436025323520	enjoyed meeting	V N	positive
+213801436025323520	Love you	V O	positive
+232263315164901376	Amazing	A	positive
+218555451053326336	make sure	V A	positive
+255968505734762496	available	A	positive
+264153517382569984	아침부터 파워멘붕	! !	neutral
+195932298997276672	SAVE THE DATE !	V D N ,	positive
+264227542951682048	a fab idea	D A N	positive
+260518395320090624	luvd	V	positive
+168160079529525248	still	R	positive
+168160079529525248	available	A	positive
+168160079529525248	sold out event !	V T N ,	positive
+254852669091495936	so good .	R A ,	positive
+254852669091495936	amazing	A	positive
+257818565669969920	fighting	V	negative
+199091728362377216	I adore	O V	positive
+199091728362377216	amazing	A	positive
+264059736322891776	don't	V	negative
+264059736322891776	#pissed	#	negative
+194938068141219840	#Fml	#	negative
+263666911261388800	Not sure why .	R A R ,	negative
+261616524731756544	cosa en	! !	positive
+179802003172634624	wins	V	positive
+179802003172634624	won	V	positive
+239651233206525952	win	V	positive
+264224343826001920	so tired	R A	negative
+264224343826001920	thinner	A	negative
+264222266592739328	believe	V	positive
+263470503635857408	so glad	R A	positive
+263470503635857408	Good luck	A N	positive
+263470503635857408	Hahaha	!	positive
+260017783302152192	amazing	A	positive
+239228217628704768	may have to	V V P	positive
+239228217628704768	restrained .	A ,	positive
+237519168088444928	promotes	V	positive
+255703860679671808	undecided	A	negative
+259626804359340032	peut etre	N G	positive
+245016434613305344	Busy week	A N	neutral
+217653090130735104	seems nice	V A	positive
+259491862602211328	Happy birthday	A N	positive
+259491862602211328	much love	A N	positive
+259491862602211328	gracious	A	positive
+264107970395250688	Scania ... hope	^ , V	positive
+264107970395250688	dies	V	positive
+264107970395250688	tricky	A	negative
+263684203332390912	hopefullycome	!	positive
+263684203332390912	Don't see	V V	negative
+263873743795912704	won	V	positive
+251699097298432000	cause some damage	P D N	negative
+169558701781430272	keeps getting better	V V A	positive
+258434748232380416	can you not .	V O R ,	negative
+261691840808505344	wins	V	positive
+262029920862076928	loose	A	negative
+227056771603251200	Bring	V	positive
+242895612402606080	Love	N	positive
+261285178972983296	@tvonetv	@	positive
+261285178972983296	she would , kt	O V , N	neutral
+264136571937255424	interesting	A	positive
+214271668821041152	Not bothered	R V	negative
+258807029001515008	Anxious	A	negative
+257480638662316032	snazzy	A	positive
+235752258401341440	great	A	positive
+235752258401341440	may want	V V	positive
+259935578756354048	may	V	positive
+259935578756354048	may not	V R	negative
+259935578756354048	grinning	V	negative
+259669889818718208	nonton kerispatihh .	^ ^ ,	negative
+264052833840660480	going back	V R	positive
+264052833840660480	:)	E	positive
+195330360043765760	Thank god	V ^	positive
+197628734164045824	Never knew	R V	negative
+197628734164045824	cool artist !	A N ,	positive
+197628734164045824	great	A	positive
+197628734164045824	die	V	negative
+245752482456821760	never	R	negative
+228893727303794688	didn't know	V V	negative
+249796899769556992	going !	V ,	positive
+255821423917019136	does not have	V R V	negative
+259011639100207104	corrected	V	positive
+259011639100207104	wrong	A	negative
+259011639100207104	suggest	V	positive
+242383226822340608	sure	A	positive
+259885267341676544	a fun	D N	positive
+201125132389986304	S/O	!	positive
+201125132389986304	Good luck	A N	positive
+262463600759816192	Deadly	A	negative
+262463600759816192	strike ,	N ,	negative
+217086883996512256	@_HaiHannah :	@ ~	negative
+257141139294003200	disinergikan	!	positive
+257141139294003200	lebih baik #YangMuda	G G #	positive
+263730567714066432	may have lost	V V A	negative
+263730567714066432	least	A	positive
+192338216865628160	Ballad Of Mona	N P ^	positive
+258486023036739584	http://t.co/LyIFOOfx	U	negative
+261182036864290816	Shot By	N P	negative
+237455880663224320	الا	!	positive
+237455880663224320	عآم	!	negative
+253298143603605504	76%	$	positive
+253298143603605504	time , the people who	N , D N O	positive
+263112608209575936	wasn't kidding !	V V ,	negative
+263112608209575936	quite GOOD !	R A ,	positive
+244579933580562432	R you done ?	V O V ,	negative
+233769538565591040	woke up	V T	positive
+231873873673601024	a free man	D A N	positive
+264258491529719808	beat	V	positive
+264258491529719808	win	V	positive
+261958089236942848	try	V	positive
+264174072689225728	@AYY_Yo_Gorgeous	@	positive
+248644562942316544	How	R	positive
+250692833068085248	it'll be fun !	L V N ,	positive
+264218423544913920	I miss	O V	neutral
+264218423544913920	school	N	positive
+249358718578348032	classic ... reminds	N , V	positive
+261610326481575936	you ... don't forget	O , V V	positive
+252208291017547776	Can't believe	V V	negative
+237526931724189696	Great !!	A ,	positive
+237526931724189696	take place	V N	positive
+237526931724189696	free	A	positive
+254675221431332864	it	O	positive
+261519116542820352	best	A	positive
+264211265285660672	asshole	N	negative
+264211265285660672	insulting	V	negative
+264211265285660672	deserved to die . Stereotypical	V P V , A	negative
+264211265285660672	-_-	E	negative
+258636309625712640	rage ,	N ,	negative
+250722122056470528	will appear	V V	neutral
+263749245234974720	didn't want	V V	negative
+251009146600710144	Hungry	A	negative
+251009146600710144	may buy	V V	neutral
+251009146600710144	No longer	D N	negative
+200780243814989824	great	A	positive
+263433274725105664	darling	N	positive
+263433274725105664	love	N	positive
+263328541746270208	will be the main man .	V V D A N ,	positive
+223409508557389824	@hudgenscute	@	positive
+242474929440841728	#セシウム	#	negative
+206914455135731712	make sure	V A	positive
+206914455135731712	greatest movie	A N	positive
+233562856799485952	will close	V A	negative
+233562856799485952	rumored	V	negative
+245069131429322752	equilavilent	!	positive
+263018181369659392	still going strong	R V A	positive
+226529137081344000	comfort	N	positive
+197258374545543168	happy	A	positive
+263164050333130752	HATE	V	negative
+263164050333130752	miss	V	negative
+264067479721103360	Pretty excited	R A	positive
+261230922609852416	fastest growing	A N	positive
+261230922609852416	totally thrilled !	R V ,	positive
+179043961955041280	more " collectible . "	A , A , ,	positive
+255416647576322048	about to go	P P V	neutral
+255416647576322048	save	V	positive
+247016455227441152	really going to hurt	R V P V	negative
+262821392179949568	" Love	, N	positive
+261439794150789120	" terror "	, N ,	negative
+247271912156299264	super !	R ,	positive
+247271912156299264	saving	V	positive
+264173598640582656	really want to go	R V P V	positive
+260209658491445248	great	A	positive
+260209658491445248	amazing	A	positive
+230849786474012672	leyendo tweet	G V	negative
+264216059425472512	^.^	E	positive
+256396109679845376	may end	V N	negative
+256396109679845376	love and friendships will last 4ever	N & N V A N	positive
+209745101864435712	famous	A	positive
+263614591123206144	mwhahaha	!	positive
+223156036582907904	RT	~	negative
+250559711454306304	Free !	A ,	positive
+255682982453604352	cancelled	V	negative
+255682982453604352	still waiting	R V	negative
+261992673957781504	#smartkids	#	positive
+264141412218568704	Happy	A	positive
+264141412218568704	ahead	R	positive
+264141412218568704	won	V	positive
+264139742550040576	음하하하하	!	positive
+248719726358970368	Great	A	positive
+248719726358970368	awesome	A	positive
+205051127593574400	Good luck	A N	positive
+262355106446581760	wanna meet	V V	neutral
+234140667608199168	Ladilla	!	negative
+262250376819007488	better .	A ,	positive
+264028521758879744	sure	A	positive
+257193648813383680	Happy	A	positive
+257193648813383680	Haha	!	positive
+257193648813383680	great day	A N	positive
+206527076260515840	@hs6112 大福、おいしかったです。しっかりと抹茶の味 (^-^)	@ ! E	negative
+263444479015518208	0 sense	$ N	negative
+263444479015518208	end up losing ,	N T V ,	negative
+263444479015518208	may cash	V N	positive
+263444479015518208	cares	V	positive
+263444479015518208	loses	V	negative
+264097799996571648	Shit	N	negative
+263893667360686080	better show	A N	positive
+263146008966475776	we can play	O V V	positive
+263146008966475776	can not	V R	negative
+263365034120474624	Thank you	V O	positive
+263365034120474624	improud of	N P	positive
+260896380707553280	debates ,	N ,	negative
+260896380707553280	Good idea	A N	positive
+263160486344925184	don't expect	V V	positive
+263160486344925184	changes	N	positive
+260570888821415936	ready	A	positive
+263266052975247360	do a great job !	V D A N ,	positive
+255367898221142016	like to go	V P V	positive
+256661089301962752	died	V	negative
+212565561127874560	nope not quite	! R R	negative
+261636942213558272	happy	A	positive
+261636942213558272	#bestsubject	#	positive
+262117912075177984	so sad .	R A ,	negative
+264241514304139264	i	O	positive
+264241514304139264	FANDOM	N	positive
+264241514304139264	FOR FIVE	P $	positive
+260029569724211200	excitement	N	positive
+260029569724211200	beautiful	A	positive
+264100877986570240	excited	V	positive
+264100877986570240	gr8 !!!	A ,	positive
+264100877986570240	bad	A	negative
+263936114811891712	ok ! :-)	! , E	positive
+258783592497430528	make sure	V A	positive
+255231857094963200	today !	N ,	negative
+242762759434039296	favorited	V	positive
+242762759434039296	helped	V	positive
+234631314312138752	Shut down ,	V T ,	negative
+264060391875833856	as well	R R	positive
+261309493147746304	why not	R R	positive
+245048714719285248	miss	V	negative
+208640436686954496	crapping	V	negative
+208640436686954496	very difficult	R A	negative
+179338327709851648	worth	A	positive
+259132269535559680	:)	E	positive
+263588235400339456	#lovely	#	positive
+254210874221400064	great day	A N	positive
+254210874221400064	true fighter	A N	positive
+259789240529997824	dnt knw	V V	negative
+259789240529997824	bad . #GodPunishU	A , #	negative
+257823532409569280	no	!	negative
+263709740004163584	Holy shit no	A N !	positive
+263709740004163584	love	N	positive
+256815813758181376	resusitados ,	^ ,	positive
+211880238110613504	couldn't stop laughing .	V V V ,	positive
+260885882750525440	Thank GOD !	V ^ ,	positive
+228998933182033920	Most Anticipated	R A	positive
+262354031983329280	@IsWhatItIz Let do	@ V V	positive
+262354031983329280	@punishdemall	@	positive
+194921132615401472	#yeahbuddy	#	positive
+257265462423994368	Extremely jealous	R A	negative
+257265462423994368	hate	V	negative
+211893882332512256	" Good news	, A N	positive
+211893882332512256	problems .	N ,	negative
+263465637773471744	only few	R A	negative
+263465637773471744	cry	V	negative
+263419287698550784	anticipates	V	positive
+195591857051414528	fancy	A	positive
+234531292711112704	video . dont forgetRT	N , V V	neutral
+234531292711112704	aware	A	positive
+230104475828879360	just	R	positive
+230104475828879360	getting better !	V A ,	positive
+258307864542724096	disqualified	V	negative
+258307864542724096	riot forced	N A	negative
+258307864542724096	abandoned	V	negative
+255370239112519680	won't broken "	V V ,	negative
+247900764335382528	inpired	!	positive
+178807017329266688	kali	!	neutral
+254960634716901376	:))))	E	negative
+240464672795533312	canceled	V	negative
+250898323429548032	for	P	positive
+250898323429548032	haven't	V	negative
+179835636814061568	Best Deal	A N	positive
+223040928863100928	never forget	R V	negative
+223040928863100928	not surprisec	R G	negative
+260001335745855488	should consider suing	V V V	negative
+246221270079913984	didn't	V	negative
+250558167359049728	appeared	V	positive
+194531754521006080	best players	A N	positive
+264113909907222528	Come support	V V	positive
+264113909907222528	special	A	positive
+256290938509475840	Lets fly	L V	neutral
+259598130465607680	all	D	neutral
+250688600952422400	risadinha	!	positive
+250688600952422400	Abreu , sobre	^ , G	positive
+250688600952422400	vis ...	G ~	negative
+264135129553854464	mulai nakal	G G	negative
+264135129553854464	Pengeeen dk sekolaah	^ ^ ^	negative
+243439251230949376	almost ready	R A	positive
+262725155262963712	lol	!	positive
+234313678541950976	dont ever	V R	negative
+195886044036599808	deciding	V	neutral
+255072846215262208	sekolah .	! ,	negative
+264107068603113472	causa	!	positive
+210707552944652288	Bélgica	!	positive
+210707552944652288	mujer	G	positive
+261326810070007808	arrived safely .	V R ,	positive
+261326810070007808	looking good !	V A ,	positive
+264019252636438528	comes out	V T	positive
+264019252636438528	try to beat	V P V	positive
+264019252636438528	forever ok	R !	positive
+253914121437855744	really sad	R A	negative
+253914121437855744	not going to able	R V P A	negative
+182260808552677376	This	D	positive
+182260808552677376	aka " The	G , D	positive
+182260808552677376	by	P	positive
+264114631369441280	may not	V R	negative
+254281107493777408	noooo ...	! ,	negative
+254281107493777408	really confused	R A	negative
+254281107493777408	" happy	, A	positive
+178367147955863552	out of luck	P P N	negative
+178367147955863552	not available .	R A ,	negative
+175529298785075200	busy	A	neutral
+263722011489095680	available	A	positive
+252998087633674240	bummy	A	negative
+242462765443325952	can't wait	V V	positive
+242462765443325952	ready !!!	A ,	positive
+258568491978870784	what	O	positive
+261049256205512704	will want to avoid	V V P V	negative
+264043122328223744	Happy birthday	A N	positive
+264043122328223744	soon (:	R E	positive
+262767736541831168	funday	N	positive
+262767736541831168	#goodday	#	positive
+261994867658461184	Dibanding	!	neutral
+261994867658461184	lanjut	!	negative
+236786469145022464	cool	A	positive
+256171769080197120	the best !	D A ,	positive
+227577206833045504	pleased	A	positive
+227577206833045504	availability	N	positive
+264014682241781760	still	R	positive
+263941849096544256	totally looking forward	R V R	positive
+263941849096544256	:(	E	negative
+263941849096544256	haha .	! ,	positive
+228088593472704512	Support	N	positive
+240750102354984960	Can't get enough	V V A	positive
+264078460903886848	did not increase	V R V	negative
+264078460903886848	absurd .	A ,	negative
+264078460903886848	will be	V V	negative
+256530125502443520	donate	V	positive
+257591192684986368	sacked	V	negative
+249858762091925504	Don't miss	V V	positive
+243464693556076544	counting down	V T	positive
+227525239473586176	may	V	neutral
+264221908982185984	???.... don't kno	, V V	negative
+259332563447988224	so glad	R A	positive
+247734205994377216	threatened	V	negative
+247734205994377216	not ashamed	R A	negative
+247734205994377216	lies	N	negative
+209466713316671488	That Shit	D N	negative
+252981841299116032	Paradise is	N V	neutral
+255138095635263488	feel asleep	V A	negative
+255138095635263488	#badmovie	#	negative
+260509725194584064	( hopefully ) . Exciting	, R , , A	positive
+259953162327306240	good . Not so good	A , R R A	positive
+263506067957358592	look like	V P	negative
+224344926744358912	thats freaking	L A	negative
+263398743557169152	Happy	A	positive
+263398743557169152	love and miss you	N & V O	positive
+263478930852429824	showing more	V A	positive
+264228409721364480	warmer	A	positive
+261643399042564096	#optimistic	#	positive
+226689944389828608	need	V	positive
+260929297500499968	want	V	neutral
+262594703852187648	should have	V V	positive
+239789158044925952	renowned :	A ,	positive
+239789158044925952	notable	A	positive
+263260788616204288	don't even have	V R V	negative
+263260788616204288	negatives outweigh the positives .	N P D N ,	negative
+261172462685917184	made no major policy changes	V D N N V	positive
+254005482933596160	little excited	A A	positive
+264254499517001728	aren't	V	negative
+264254499517001728	more popular	R A	positive
+264254499517001728	need more cultural	V A A	neutral
+263426761071677440	excited	V	positive
+175064595055128576	@Nikki_Fabulous	@	positive
+175064595055128576	question :)	N E	positive
+253544402021126144	haven't	V	negative
+263096322285006848	extent	N	negative
+263096322285006848	damage	N	negative
+259135546805321728	is going to win	V V P V	positive
+249311787340681216	goin back	V R	neutral
+255270962067558400	suspend	V	negative
+262610550863839232	thanks	N	positive
+252991148417757184	Ugly ,	A ,	negative
+251692960553512960	loyal	A	positive
+263370062298218496	haven't heard ,	V V ,	negative
+264189722094624768	don't appear	V V	negative
+264189722094624768	missing	V	negative
+178776453427630080	CRASHES OUT	V T	negative
+178776453427630080	suffered	V	negative
+178776453427630080	surprise	N	positive
+250118917111033856	disaster	N	negative
+250118917111033856	crisis	N	negative
+250118917111033856	afflicted	V	negative
+258344582176202752	more enjoyable .	R A ,	positive
+241093487121035264	promised	V	positive
+260172841025159168	horrible	A	negative
+260172841025159168	#ihateschool	#	negative
+264192473545449472	media-loving	N	positive
+264192473545449472	can't talk	V V	negative
+264192473545449472	Absolutely crush	R N	negative
+264192473545449472	controversy .	N ,	negative
+198577752192978944	Excited	A	positive
+198577752192978944	feel like I'm playing	V P L V	positive
+258973167215853568	--' RT @ramaaaraa : HAAA ~	E ~ @ ~ ! G	positive
+225343488806494208	great	A	positive
+235931228950372352	@LorenaPrzj	@	positive
+258421053548797952	post-disaster	N	negative
+258421053548797952	Great	A	positive
+237960595608068096	omg	!	negative
+237960595608068096	crying	V	negative
+251703246811435008	Good luck	A N	positive
+212889477687947264	..	,	positive
+254270043179851776	Come see us !	V V O ,	positive
+246439498563592192	ain't goin be to happy	V V V P A	negative
+263762821047791616	no	!	negative
+256395936341843968	may end	V N	positive
+256395936341843968	love	N	positive
+256395936341843968	friendships	N	positive
+256395936341843968	last 4ever	A N	positive
+259432779136237568	@OmarionShepard OMARION !	@ ^ ,	positive
+258968711493455872	immense pride	A N	positive
+215146970791153664	fill	V	positive
+256601844497907712	won't judge	V V	negative
+263690553139539968	will open	V V	neutral
+263690553139539968	should be allowed	V V A	neutral
+252166642849697792	mucho	A	positive
+259678641733128192	fun	N	positive
+256395065021313024	may end	V N	negative
+256395065021313024	friendships	N	positive
+256395065021313024	4ever #LoveIsLouderthanRollingTheFinalCredits	R #	positive
+261846418719899648	Happy Friday !	A ^ ,	positive
+252946764913586176	gonna be an incredible ...	V V D A ,	positive
+212238627655266304	need	V	positive
+212238627655266304	Don't miss	V V	positive
+263955901621366784	out .	T ,	positive
+263495083209412608	interested ! :)	A , E	positive
+179167439861452800	biggest surprise	A N	positive
+258960892874592256	He	O	positive
+263245325916053504	do well .	V ! ,	positive
+263245325916053504	climb up	V T	positive
+247456172611878912	may not	V R	negative
+247456172611878912	best	A	positive
+251813665039319040	only	R	negative
+251813665039319040	good	A	positive
+264211117188997120	hope	V	positive
+264211117188997120	looking forward	V R	positive
+170691632474226688	win	V	positive
+239687972264497152	Wanted	V	positive
+239687972264497152	don't think	V V	negative
+239687972264497152	could resist	V V	positive
+253009360740036608	good	A	positive
+253009360740036608	Hope	V	positive
+263341156774076416	Not bad .	R A ,	positive
+255122786543104000	may have	V V	neutral
+261187380755709952	stands	V	neutral
+195256962114535424	dnt	V	negative
+195256962114535424	sleep	N	negative
+261916862286270464	My &	D &	positive
+264066347426783232	@chrisk1712 danke	@ !	positive
+179865542201589760	ends	V	negative
+241180362359832576	susux  ƪ(◦'⌣' ◦ )Ʃ 	^ ^ ^ ^ ^ ^	positive
+263466896869961728	Best day	A N	positive
+263466896869961728	so much	R A	positive
+259137659031666688	may be	V V	positive
+259137659031666688	shut	V	negative
+259137659031666688	confused	A	negative
+264202159170678784	RT @LamarAlphas :	~ @ ~	positive
+256086536033038336	not	R	negative
+262513350515257344	deserves	V	neutral
+262513350515257344	look forward	V R	positive
+200419730752942080	Unfortunately ,	R ,	negative
+200419730752942080	couldn't make it .	V V O ,	negative
+261531757491388416	RT @brunzilla :	~ @ ~	positive
+241390505039106048	talk shit	V N	negative
+205337365919703040	FABULOUS ...	A ,	positive
+260498827394568192	limited	A	negative
+260498827394568192	just fine	R A	positive
+212221558020767744	CIRCUMSTANCES ; I create my own	N , O V D A	neutral
+174367489134837760	only	R	negative
+207139528790642688	legais husahusahuashu	^ ^	positive
+257048341148471296	best	A	positive
+222941852117118976	Clean	A	positive
+222941852117118976	C'MON ?!	! ,	negative
+243397992319680512	berupa	!	negative
+250383700158717952	easy	A	positive
+250383700158717952	may be	V V	positive
+261814118976208896	will need to shut down	V V P V T	negative
+261814118976208896	Luck	N	positive
+261814118976208896	want to win	V P V	positive
+254795714629079040	In tears	P N	negative
+263651258202718208	Don't know	V V	negative
+263620148789915648	أخاف يغير رأيه إلانه	^ ^ ^ ^	positive
+230847362854187008	RT @elchicodelafro :	~ @ ~	negative
+230847362854187008	pero	!	positive
+240456722743963648	sooo excited	R A	positive
+240456722743963648	love you	V O	positive
+263222914009137152	may leave	V V	negative
+263222914009137152	worse off ,	A P ,	negative
+264150015008731136	test out	N P	positive
+264150015008731136	sunny but cold	A & A	positive
+257495077822279680	LOVES	V	positive
+257495077822279680	isnt too intense .	V R A ,	negative
+245719010132520960	stupid	A	negative
+245719010132520960	don't feel like	V V P	negative
+240450477618241536	chance	N	positive
+254079508762722304	Happy	A	positive
+254079508762722304	healthy	A	positive
+259976463594438656	ok !	! ,	positive
+262562626251411456	proper goal fest	A N N	positive
+262562626251411456	Hope	V	positive
+264114715138088960	Una de	^ ^	positive
+263197176807698432	don't show	V V	negative
+263197176807698432	win	V	positive
+263197176807698432	default .	N ,	positive
+258890516303847424	may have	V V	positive
+253355361875152896	Wish	V	positive
+253355361875152896	lucky	A	positive
+253355361875152896	pretty nervous	R A	negative
+258864855094816768	Ready ?	A ,	positive
+264123850759995392	I swear	O V	positive
+257273463838998528	lead	V	positive
+216057788940562432	support	N	positive
+216057788940562432	hit	V	negative
+264158486601027584	may not	V R	negative
+263491751610822656	on	P	neutral
+264113768181673984	don't fucking	V V	negative
+264113768181673984	" thanks	, N	positive
+264113768181673984	annoying	A	negative
+175080776684146688	not	R	negative
+175080776684146688	fault	N	negative
+175080776684146688	issues ,	N ,	negative
+175080776684146688	no way	D N	negative
+175080776684146688	fired	V	negative
+260561971915677696	* Good " God luck	, A , ^ N	positive
+260561971915677696	Stay focused	N V	positive
+260561971915677696	easy . "	A , ,	positive
+258419434794921984	biggest	A	positive
+205169085959516160	very informative	R A	positive
+263431559502258176	maaaaaaaaaaaaaaaaaaaaa " " vish	G , , N	negative
+260122270058557440	eux , ils	N , G	positive
+262410701782536192	Encouraged	A	positive
+264078638700453888	1492 :	$ ,	positive
+263955929043701760	Oomf	!	positive
+262027039350087680	Thank you	V O	positive
+227724360281096192	Join us	V O	positive
+261797127146045440	welcomes	V	positive
+247638834337165312	:)	E	positive
+262779035522826240	actually excited	R A	positive
+251397920497209344	only	R	negative
+263627206788534272	Big congrats	A N	positive
+263627206788534272	classy	A	positive
+256964870631731200	Really sad	R A	negative
+256964870631731200	have faith	V N	positive
+264117081400815616	congratulations	N	positive
+257145673034641408	Happy	A	positive
+251850228347584512	الرجل	!	negative
+258913337759371264	M5	^	positive
+197141194252353536	ne .. RT	! , ~	positive
+197141194252353536	cep ? RT	! , ~	positive
+221699346972950528	premiering	V	neutral
+233154705755353088	thunderstorms ,	^ ,	negative
+264245426000105472	the best	D A	positive
+264245426000105472	really famous	R A	positive
+243824441753227264	addressed	V	positive
+261399021292240896	Can't buy	V V	negative
+263578125298987008	damages	N	negative
+263578125298987008	destroyed	V	negative
+242002398585962496	Tough	A	negative
+242002398585962496	get better .	V A ,	positive
+230769604874616832	stopped going	V V	negative
+230769604874616832	yall fooooooli !	O N ,	negative
+253318350518767616	still	R	neutral
+249352939091685376	a bit weirder .	D A N ,	negative
+199910966492807168	not all	R D	negative
+199910966492807168	smart	A	positive
+263099080866156544	it is	O V	negative
+245381563423014912	blocked	V	negative
+245381563423014912	recovers	V	positive
+248933386050215936	can't wait	V V	negative
+261230593856118784	It's	L	positive
+221631305480290304	perfect	A	positive
+251224246146187264	selling	V	neutral
+241202993930833920	Don't forget	V V	positive
+241202993930833920	biggest	A	positive
+262222967126241280	adorable	A	positive
+262222967126241280	: <	, ~	positive
+258513552128749568	rape incident	N N	negative
+264231876171005952	Crap !	N ,	negative
+264231876171005952	messing up	V T	negative
+253612794468003840	haven't gotten	V V	negative
+260916486527401984	so bold ,	R A ,	positive
+261179231831207936	may NOT	V R	negative
+263875124753747968	enjoy	V	positive
+216504024030126080	RT @farisosafios : #TeamTungguSPMSubjekAccount	~ @ ~ #	positive
+260169704772083712	inspired	V	positive
+260169704772083712	stunning	A	positive
+242093943746097152	don't have	V V	negative
+263431916538195968	sucks .	V ,	negative
+262985294838636544	Ready	A	positive
+263350580762775552	100억이란다 .	$ ,	positive
+247068524433002496	Celebrate	V	positive
+242997658963288064	glad	A	positive
+231135683538976768	can	V	positive
+264111658237063168	Help	V	positive
+257658587327897600	hope	V	positive
+257658587327897600	problem	N	negative
+263737823675424768	isn't free ,	V A ,	negative
+263737823675424768	don't go	V V	negative
+205802461628334080	welcome	!	positive
+205802461628334080	do not	V R	negative
+264210412881448960	want	V	positive
+258611550464643072	nobody took	N V	negative
+258611550464643072	lure	V	positive
+263602106282414080	special	A	positive
+264220319554863104	lol .	! ,	positive
+257328789493805056	would find	V V	neutral
+257328789493805056	should	V	neutral
+253151259312394240	can	V	positive
+253151259312394240	doing nothing	V N	negative
+253151259312394240	eat crap	V N	negative
+253151259312394240	#fat	#	negative
+264140817789251584	star power	N N	positive
+262043995574784000	look forward	V R	positive
+262043995574784000	#excited	#	positive
+260598412427288576	┃ ┃	^ ^	negative
+263320951679242240	doesn't have	V V	negative
+263320951679242240	hate school	V N	negative
+263320951679242240	don't have	V V	negative
+262093093774434304	GANGNAM	!	positive
+264235457620103168	get punched	V V	negative
+262670809334693888	so rude .	R A ,	negative
+179424226816692224	@Pqlyur1 @MooseOfReason	@ @	positive
+205765642517872640	Container Terminal	N N	positive
+263445259026067456	wanna meet	V V	positive
+263445259026067456	so much !!	R A ,	positive
+262228914116648960	shift	N	positive
+262386992250236928	love	N	positive
+263411629444714496	its first	L A	neutral
+263411629444714496	of	P	neutral
+253822809522987008	Congratulations	!	positive
+253822809522987008	come out of the closet .	V P P D N ,	positive
+239938198816563200	Going to watch	V P V	positive
+250047971478077440	Hopefully	R	positive
+263238299907416064	will give	V V	positive
+246481389929783296	dont come	V V	negative
+246481389929783296	fight	N	negative
+263848091600449536	Lol	!	positive
+240116188225630208	Happy	A	positive
+198273277158883328	may	V	neutral
+230475184715472896	hell	!	negative
+230475184715472896	doesnt even work	V R N	negative
+259457772800847872	Interested	A	positive
+264226393213247488	RT @m7mad_7mood1 :	~ @ ~	positive
+207884768862412800	may	V	neutral
+207884768862412800	problem .	N ,	negative
+263731985728557056	closed	V	negative
+263731985728557056	not	R	negative
+263731985728557056	isn't	V	negative
+263731985728557056	cancel .	V ,	negative
+259588712948699136	warning	N	negative
+256097672975495168	Wings fans	N N	neutral
+263172633108049920	eliminated	V	negative
+264226168377602048	antes	!	positive
+264226168377602048	em	O	negative
+210748996162035712	Fun	A	positive
+210748996162035712	Beauty .	N ,	positive
+252206961377046528	de	P	negative
+215774431329529856	@BocaJrsOficial	@	positive
+241746135558017024	want	V	neutral
+240445889779470336	avoiding	V	negative
+202077075572666368	@nawwalmn	@	negative
+262403804618715136	Not sure	R A	negative
+263250014619435008	view sublime !	V A ,	positive
+218928426894102528	Interesting ..	A ,	positive
+250135531130851328	dont	V	negative
+247020791894515712	love	N	positive
+247020791894515712	going to hurt	V P V	negative
+256621332207394816	greats ,	N ,	positive
+263000967782490112	might	V	neutral
+263000967782490112	interested	A	neutral
+256916162733027328	picks Shaker off ,	V ^ T ,	negative
+256916162733027328	returns the favor ,	V D N ,	neutral
+199019532088647680	Cant sleep .	V V ,	negative
+263770610461720576	#ThankYou	#	positive
+263371904814022656	almost	R	positive
+263371904814022656	Enjoy	V	positive
+208246258681393152	check that out	V O T	positive
+225213999069925376	hasnt been	V V	negative
+225213999069925376	dont know	V V	negative
+257181175087509504	for the first time	P D A N	neutral
+242530389007155200	picked up	V T	positive
+242530389007155200	Hooray .	! ,	positive
+254689318109593600	recommends	V	positive
+261115825791049728	Hip	N	positive
+261103497796268032	Good	A	positive
+229923387307331584	would never	V R	negative
+229923387307331584	dismissed	V	negative
+241898137818632192	YES	!	positive
+264181161767620608	feel like	V P	neutral
+264181161767620608	end	N	negative
+264181161767620608	same	A	positive
+262829398372282368	conservative	A	positive
+262829398372282368	may come to terms .	V V P N ,	neutral
+262829398372282368	it	O	neutral
+261718259752120320	died	V	negative
+261718259752120320	injuries	N	negative
+250920615190605824	@johnnkev	@	positive
+233010424759603200	<3	E	positive
+263029015667933184	ever	R	positive
+263029015667933184	favor . "	N , ,	positive
+259322810621648896	barred	V	negative
+262248053069737984	as she	P O	positive
+262248053069737984	much !!	A ,	negative
+249162650829877248	Happy	A	positive
+224840517530292224	Thank you for hearing	V O P V	positive
+224840517530292224	my life with	D N P	positive
+231168579674980352	trying	V	positive
+231168579674980352	stop	V	negative
+231168579674980352	thirsty	A	negative
+174964364414173184	losing control	V N	negative
+262512093750771712	never	R	negative
+262512093750771712	bloody hell	A N	negative
+262100818604474368	have agreed	V V	positive
+236538984388513792	Our half	D N	positive
+262533413750308864	justice	N	positive
+262533413750308864	best	A	positive
+262533413750308864	win	V	positive
+242261976762417152	September	^	negative
+257626148035493888	luv	N	positive
+257626148035493888	Thanks !!	N ,	positive
+263140790174371840	did not get	V R V	negative
+263140790174371840	won't be	V V	negative
+257800259189743616	love and support	N & V	positive
+257800259189743616	appreciated .	N ,	positive
+262029928038551552	way to go ,	N P V ,	positive
+262029928038551552	hell	!	negative
+264081752442691584	Happy	A	positive
+264081752442691584	rise to meet	N P V	positive
+264081752442691584	always	R	positive
+264109103482294272	can talk	V V	neutral
+264109103482294272	shit	N	negative
+222574647181451264	lol .	! ,	positive
+194661048354222080	haha ,	! ,	positive
+194661048354222080	favorite	A	positive
+194661048354222080	good music	A N	positive
+263932059184136192	Messed up	V T	negative
+250971764753051648	@jose_knox : @eli_townsend yeah I	@ ~ @ ! O	positive
+262559299769880576	Very entertaining	R A	positive
+263476628133408768	hope	V	positive
+263476628133408768	goes away	V R	positive
+263476628133408768	doesn't	V	negative
+263476628133408768	cancel	V	negative
+264058302416183296	say	V	positive
+262390127706374144	Candidates	N	positive
+247951136068366336	may	V	neutral
+229205632266407936	serious "	A ,	positive
+254147696837931008	injury	N	negative
+244481871407370240	Come see	V V	positive
+247641407072903168	just	R	negative
+247641407072903168	banned	V	negative
+247641407072903168	caught	V	negative
+247641407072903168	may	V	neutral
+247641407072903168	police involvement !	N N ,	negative
+250803769565126656	:)	E	positive
+248141828598140928	sett men okej	V N G	positive
+234521427942989824	Happy	A	positive
+234521427942989824	:)	E	positive
+254694884722757632	você feliz	G G	positive
+262785375305625600	amazing !	A ,	positive
+262785375305625600	won	V	positive
+262785375305625600	won	V	positive
+231563276499173376	celebrate ...	V ,	positive
+258002655153102848	ffffffffffuuuuuuudddddddeeeeeerrrrrrrrr	G	positive
+232254678535122944	killed	V	positive
+232254678535122944	' stand alone '	, N A ,	positive
+232254678535122944	Happy	A	positive
+264151093280395264	peronismo	!	negative
+239168212342816768	@BossWolverine_X @CoulsondaDepre	@ @	negative
+241717002929053696	like	P	positive
+262406653293514752	PST-	N	positive
+262406653293514752	@h0tlikepayne	@	negative
+264141789856948224	enjoy	V	positive
+264141789856948224	extra	A	positive
+250458662118764544	involved	V	neutral
+250458662118764544	best	A	positive
+223732716615639040	favorite	A	positive
+207477127879204864	may	V	positive
+207477127879204864	won't be getting	V V V	negative
+207477127879204864	growing ) .	V , ,	positive
+244574989406326784	was	V	positive
+239691474579623936	Need	V	neutral
+264231423626592256	(˘o˘ƪ)	!	positive
+260499692239085568	fine	A	positive
+247188496316497920	learn more	V A	positive
+247188496316497920	affected	V	negative
+247188496316497920	disaster .	N ,	negative
+260588132968325120	os	N	positive
+260588132968325120	las	^	negative
+236396852818374656	a blast .	D N ,	positive
+236396852818374656	missing	V	negative
+208905325695336448	@uma_coloriida	@	neutral
+208905325695336448	da	D	negative
+241205049202724864	only	R	negative
+235514364692676608	amores , só	^ , G	positive
+241414682647343104	haven't	V	negative
+230323522675810304	Happy	A	positive
+238583598389800960	may as well save us the wait	V R R V O D N	negative
+262176939131944960	developed ;	V ,	positive
+249937241579851776	Oh no !	! ! ,	negative
+249937241579851776	scare	V	negative
+187857532629430272	Prepare	V	positive
+263628445219688448	Only	R	negative
+263628445219688448	worse	A	negative
+263628445219688448	wrath	N	negative
+263668919041142784	but what	& O	negative
+239490797102321664	will start	V V	positive
+239490797102321664	Stay	N	positive
+257131267882119168	Happy	A	positive
+257131267882119168	Bless	!	positive
+257131267882119168	dreams come true ! Love	N V A , V	positive
+257131267882119168	Happy	A	positive
+261190673640878080	ever	R	neutral
+247113968613732352	a great effort	D A N	positive
+238621588570898432	Don't miss	V V	positive
+200677260951420928	hear	V	positive
+260110606798032896	in love !!	P N ,	positive
+260110606798032896	Lol !!!	! ,	positive
+241636396341813248	better loooool	A !	positive
+254458124222738432	will still shine	V R V	positive
+218398677159522304	wish	V	positive
+261475995817750528	Looking forward to connecting ...	V R P V ,	positive
+263503290313105408	might	V	positive
+263503290313105408	hard	A	negative
+199730333225189376	should	V	positive
+199730333225189376	not ,	R ,	negative
+199730333225189376	usual .	A ,	negative
+264184689235984384	can't wait	V V	positive
+264184689235984384	exactly	R	positive
+179801851049410560	wins	V	positive
+179801851049410560	won	V	positive
+263557862314356736	fucken	A	negative
+263557862314356736	yea craZyyyyyHookups	! ^	positive
+263164280046747648	Sounds good .	V A ,	positive
+263164280046747648	only fair	R A	positive
+220915133923344384	squashy .	A ,	negative
+177566983741648896	great player	A N	positive
+177566983741648896	play well	V !	positive
+262961110150430720	CLOSED	V	negative
+256024347850973184	aha !!! :)	! , E	negative
+217020218852122624	las	^	positive
+263129221768044544	MANC , you're	^ , L	positive
+253772028434341888	blow the roof off	V D N P	positive
+179807719388229632	win	V	positive
+179807719388229632	won	V	positive
+264256616872955904	need	V	neutral
+263740575453417472	Don't forget	V V	neutral
+263740575453417472	ends	V	neutral
+263109554794033152	10,000 Bizjets	$ ^	positive
+252095615750766592	insulted	V	negative
+252095615750766592	idiots	N	negative
+250553510767255552	good .	A ,	positive
+250553510767255552	Thank you !	V O ,	positive
+264075037437489152	can take a look	V V D N	positive
+264075037437489152	motivation	N	positive
+263970153765691392	ありがとう(TT) ♡ 早く遊びてーて。	N E E	negative
+263957336287232000	struck	V	negative
+244161975771340800	fluff yes	N !	positive
+233645250516766720	to	P	positive
+233645250516766720	first thing	A N	negative
+254580043181858816	beat	V	positive
+254580043181858816	best	A	positive
+246736931965263872	available	A	positive
+246736931965263872	owes me	V O	positive
+256344087299497984	Good luck	A N	positive
+256344087299497984	have fun !	V N ,	positive
+260620016712560640	nothing	N	negative
+260620016712560640	cost	N	positive
+258980712319946752	resigned	V	negative
+258980712319946752	trouble forced	N A	negative
+258980712319946752	abandonment	N	negative
+258819156424683520	come	V	positive
+262701893174845440	RT	~	negative
+262701893174845440	روحي	!	positive
+232617917378879488	wish	V	positive
+232617917378879488	wont see	V V	negative
+256640461249323008	Had a good time	V D A N	positive
+236403074346938368	nutella ,	N ,	positive
+200075552940498944	helpin	V	positive
+200075552940498944	hopin	V	positive
+200075552940498944	best	A	positive
+245822505594523648	miss	V	negative
+245822505594523648	cant wait	V V	positive
+263950956763422720	menjadi	^	neutral
+214298562262077440	Love the music	V D N	positive
+251272579057328128	Thanks	N	positive
+263544055038869504	Have a blast	V D N	positive
+263544055038869504	love to see	V P V	positive
+263544055038869504	can't	V	negative
+263544055038869504	Good luck	A N	positive
+253331546201800704	never	R	negative
+253331546201800704	in progress ,	P N ,	positive
+253331546201800704	fuck	!	negative
+209289483173101568	will act	V V	positive
+264005589074599936	haven't been able to enjoy	V V A P V	negative
+264005589074599936	want	V	negative
+264005589074599936	hurl .	V ,	negative
+235923790901682176	Aww poor	! A	negative
+235923790901682176	feel you	V O	positive
+235923790901682176	don't know	V V	negative
+208216093968437248	seems like	V P	positive
+208216093968437248	smackin .	V ,	positive
+214300610563022848	wanted	V	neutral
+258533180271890432	best-kept	A	positive
+264066933924708352	............ muy	, !	positive
+259685519745769472	be treating	V V	positive
+263121831819628544	thanks	N	positive
+263121831819628544	support	N	positive
+264227438467375104	my full attention .	D A N ,	positive
+264194621616291840	may not	V R	negative
+264194621616291840	Maybe	R	neutral
+264240248219914240	Imagine	V	positive
+263611306999967744	γέλα αλλά	! !	positive
+263692553461846016	love	N	positive
+257690918205935616	want	V	positive
+236913676190371840	awesome	A	positive
+236913676190371840	look forward to seeing	V R P V	positive
+236913676190371840	Good	A	positive
+264154678307209216	HAPPY	A	positive
+264154678307209216	love	N	positive
+264154678307209216	bless .	! ,	positive
+261569461121843200	Hang out	V T	positive
+244535525845893120	peinados	N	positive
+251475729940901888	Awesome	A	positive
+227324219019653120	shit	N	negative
+227324219019653120	hell	!	negative
+263621146111524864	celebrated	V	positive
+241896569887141888	Entered	V	neutral
+208386839227285504	Nice :	A ,	positive
+208386839227285504	Unique :	A ,	positive
+262162781619486720	HAPPY SATURDAY	A ^	positive
+262162781619486720	don't miss	V V	positive
+262162781619486720	LARGEST	A	positive
+222363787473321984	Thanks	N	positive
+263392598176194560	Happy	A	positive
+263392598176194560	might	V	positive
+261535689445875712	very difficult	R A	negative
+178035726770909184	wants	V	neutral
+190593980432515072	much credit	A N	positive
+264056859458158592	lovely	A	positive
+258932266707865600	turn your	V D	positive
+258084583361376256	best ?	A ,	positive
+250796409551482880	to accomplish shit today	P V N N	positive
+262843835191795712	la .. dok	^ , N	positive
+261347870639284224	would like	V V	positive
+261347870639284224	come	V	positive
+261347870639284224	support	N	positive
+248485283144818688	esas cosas ,	G ^ ,	neutral
+264232750658228224	good	A	positive
+264232750658228224	loving	V	positive
+261927847470456832	Good luck	A N	positive
+258911295166889984	. @JCShurburtt	, @	positive
+260894525369769984	ever-so-smart	R	positive
+260894525369769984	Great	A	positive
+260894525369769984	like	P	positive
+260894525369769984	Keep it up !	V O T ,	positive
+259695900354555904	put tears in my eyes !!!	V N P D N ,	negative
+249463124778946560	Love	N	positive
+246039375195037696	Membuat	^	positive
+258609617200885760	slowly dying	R V	negative
+263500681510518784	Welcome	!	positive
+263500681510518784	depression .	N ,	negative
+247508799240413184	couldn't come up with	V V T P	negative
+197853863989088256	Unfortunately , not yet . Wanted	R , R R , V	negative
+197853863989088256	couldn't make it . Hopefully	V V O , R	negative
+197853863989088256	So happy	R A	positive
+248288069378244608	got	V	positive
+264100879953711104	Come out ,	V T ,	positive
+263138159414616064	Thanks	N	positive
+263138159414616064	blocking me	V O	negative
+263138159414616064	negativity	N	negative
+262246160683651072	@Chriissay_J	@	negative
+221602074088054784	Just	R	negative
+221602074088054784	chemistry	N	positive
+177519407940124672	6 uur	$ N	positive
+264209602533543936	thanks	N	positive
+261961692559327232	really wanna	R V	positive
+261961692559327232	need	V	neutral
+263689404923645952	cancel	V	negative
+264079889966186496	most hated	R V	negative
+264079889966186496	frustration	N	negative
+264079889966186496	Welcome	!	positive
+195646293895430144	me up !	O T ,	positive
+262559680985972736	hate	V	negative
+262559680985972736	unreal	A	negative
+212420480429338624	Please vote	V V	positive
+194817289714012160	So glad	R A	positive
+258195192945979392	RT @SiriusXMNASCAR :	~ @ ~	positive
+262817026458939392	released	V	positive
+262817026458939392	doubtful	A	negative
+262817026458939392	can get	V V	positive
+256338649422106624	do not like to hear	V R V P V	negative
+264088907682025472	not even	R R	negative
+264088907682025472	can beat	V V	positive
+211173489913245696	may have retired	V V V	negative
+261665766087213056	Excited	A	positive
+261665766087213056	nothing	N	negative
+261665766087213056	no classes	D N	negative
+226791256871821312	happy	A	positive
+263660270948319232	deficits	N	negative
+256447256201396224	live !!	A ,	positive
+256447256201396224	love	N	positive
+233071672670945280	perform	V	neutral
+256098432509440000	Dammn	!	negative
+256098432509440000	wish injuries	V N	positive
+256098432509440000	slow him down	A O T	negative
+256098432509440000	the best	D A	positive
+261614129993883648	can rest easy :	V V A ,	positive
+254150540395679744	come true !! wish	V A , V	positive
+254150540395679744	the best	D A	positive
+263078518341136384	just	R	negative
+263078518341136384	won't be	V V	negative
+263078518341136384	FUCK YEAHHHH	! !	negative
+264053467008602112	Recording	V	neutral
+263077564820631552	Fragile Necklace	A N	negative
+254927948199645184	may miss	V V	negative
+254772289864880128	Avoid	V	negative
+241223693974507520	excited	V	positive
+229975946122387456	kicked out	V T	negative
+229975946122387456	throw away	V R	negative
+258262836927684608	Jarl are you	^ V O	negative
+258262836927684608	this	O	negative
+260796055795408896	freaking thin .	V A ,	positive
+260796055795408896	choose	V	positive
+264185204875337728	http://t.co/KF0pjrIY ¡¡mira	U !	negative
+214268298609704960	goes back	V T	negative
+261873494944518144	in	P	positive
+240169740478345216	:)	E	positive
+195571668654104576	succesfully	R	positive
+213045022067671040	Can't wait .	V V ,	positive
+251171324863602688	fantastic documentary ,	A N ,	positive
+251171324863602688	sad	A	negative
+263139075316400128	can't just post pone	V R V N	negative
+263139075316400128	not on Sunday	R P ^	negative
+261173963957358592	Low ,	A ,	negative
+261173963957358592	stuck	V	positive
+259253042573099008	resigned	V	negative
+259253042573099008	trouble forced	N A	negative
+259253042573099008	abandonment	N	negative
+248236225935327232	have copies	V N	positive
+264133803260383232	haha oh yeah you're right ,	! ! ! L R ,	positive
+263799954999492608	Hope	V	positive
+254196072027664384	BBC	^	positive
+254196072027664384	to	P	positive
+254196072027664384	general over ...	A P ,	positive
+192446069135777792	Check out	V T	positive
+264097221790806016	“ @darrenbyfield : Hate giving my	, @ ~ V V D	negative
+264097221790806016	what you mean	O O V	positive
+264097409020329984	hmmmm interesting ,	! A ,	positive
+264097409020329984	rarely	R	negative
+227785415334174720	helped	V	positive
+262132504973148160	improving .	V ,	positive
+261891017643544576	not making	R V	negative
+261891017643544576	will miss	V V	negative
+261758932199014400	don't let	V V	negative
+257774332019875840	Win	V	positive
+257774332019875840	fine	A	positive
+263532615712251904	reliable	A	positive
+263532615712251904	Confirmed	V	negative
+231173730754236416	make my day	V D N	positive
+227905550023806976	owe	V	positive
+249905772325126144	be fun !	V A ,	positive
+256053490269421568	welcome	!	positive
+256053490269421568	welcome .	! ,	positive
+255357185171791872	fairytales be	N V	negative
+259057488798822400	too nauseous	R A	negative
+259057488798822400	Have to	V P	negative
+262288238004277248	Big ovation	A N	positive
+233791454064033792	trying	V	positive
+244736288647950336	don't want	V V	negative
+244736288647950336	slip up	V T	negative
+244736288647950336	truth	N	positive
+220824312880439296	going down	V T	positive
+220824312880439296	best	A	positive
+220824312880439296	Not to be missed	R P V V	positive
+210471808401555456	ik	!	positive
+259366054000750592	Can't wait	V V	positive
+263433616003039232	love	N	positive
+263433616003039232	dont forget	V V	positive
+259429908428771328	Glad you enjoyed !	A O V ,	positive
+259429908428771328	Amaaaze !	V ,	positive
+232491088743628800	happy	A	positive
+214953718561521664	smartest	A	positive
+263284523872161792	closed	V	negative
+263284523872161792	Hoping	V	positive
+263284523872161792	safe	A	positive
+250971042967875584	それは駆除頼んだほうがよくない？絶対近くに巣あるし。	!	positive
+198497983409561600	depois	!	positive
+261287847565328384	duermo	!	negative
+260205201494011904	come out	V T	positive
+260205201494011904	support	N	positive
+260205201494011904	beat	V	negative
+242897681213698048	enter	V	positive
+182407579836743680	fear not	V R	negative
+233451020078960640	Holy	!	positive
+233451020078960640	excited ...	V ,	positive
+262795768266629120	wasn't	V	negative
+262795768266629120	hopefully	R	positive
+262795768266629120	win	V	positive
+232180800983019520	Blessing	N	positive
+255671724174094336	remember	V	positive
+255671724174094336	heaven	^	positive
+232805770536833024	bad	A	negative
+232805770536833024	might not	V R	negative
+264211712255873024	Great	A	positive
+250144046020960256	moo	!	positive
+250144046020960256	no	!	positive
+195191635871662080	... Stupid	, A	negative
+195191635871662080	don't even	V R	negative
+263640704935399424	horas eternas	N N	negative
+259422669689208832	Excitement	N	positive
+248767230563721216	wont get	V V	negative
+248767230563721216	Best of luck	A P N	positive
+248767230563721216	cant wait	V V	positive
+249636896429457408	Brilliant	A	positive
+249636896429457408	win	V	positive
+249636896429457408	ended in failure	V P N	negative
+263503678017769472	Fire	^	negative
+246687724004835328	THANKS	N	positive
+233646741415661568	hopes	V	positive
+178271037396492288	would love	V V	positive
+262387306621722624	in your favor . "	P D N , ,	positive
+179657043358130176	I love	O V	positive
+179657043358130176	Welcome	!	positive
+179657043358130176	don't need	V V	negative
+261316364655030272	mana ada iri	! G G	positive
+234329650170568704	Love	N	positive
+234329650170568704	^___^	E	positive
+234010710445809664	don't look	V V	negative
+257729302639026176	aborts	,	negative
+262901948401995776	Warning	N	negative
+262901948401995776	fuck off	V T	negative
+241178819183140864	please	V	positive
+241178819183140864	cant blieve	V V	negative
+241178819183140864	no more	! A	negative
+258727026360467456	want	V	positive
+258727026360467456	wants	V	positive
+255957425155358720	care	N	positive
+255957425155358720	really need to stop	R V P V	positive
+262289262978949120	👍	E	positive
+212193808883003392	@Collidemusic	@	negative
+213176189530025984	stronger and stronger	A & A	positive
+259641255837970432	great	A	positive
+259641255837970432	mixed	A	negative
+259641255837970432	interesting . Thank you .	A , V O ,	positive
+261810025629102080	danger	N	negative
+264257216004120576	got	V	negative
+264257216004120576	sick	A	negative
+262829151394877440	wkwk	!	positive
+262829151394877440	wkwk ~	! G	negative
+179469502935875584	big	A	positive
+179469502935875584	no	!	negative
+179469502935875584	no life	D N	negative
+251509910318247936	Strong	A	positive
+227913736076267520	amazing .	A ,	positive
+247549865633140736	Trust	N	neutral
+247549865633140736	harder	A	negative
+202459775311675392	@DanaAldick pff	@ !	positive
+263513689448136704	ich	!	negative
+263513689448136704	ned	^	positive
+245902635880820736	absolutely skint	R A	negative
+179817055959257088	to win	P V	positive
+179817055959257088	won	V	positive
+259980235519426560	26th ! OMFG	A , !	positive
+207250417711714304	run your mouth	V D N	negative
+207250417711714304	can't ever come	V R V	negative
+207250417711714304	bitch	N	negative
+262809189921980416	better	A	positive
+262809189921980416	Can't wait	V V	positive
+256988828479406080	Happy	A	positive
+227022303781875712	loses	V	negative
+227022303781875712	may	V	neutral
+213816770627239936	15th time	A N	neutral
+179144028426735616	will play	V V	positive
+237258792142766080	ugly set	A N	negative
+237258792142766080	back	R	negative
+264235401902960640	Yeah ,	! ,	positive
+264235401902960640	not having	R V	negative
+253319324054474752	Thanks	N	positive
+253319324054474752	Can't wait	V V	positive
+253319324054474752	#SagaLove !!!!	# ,	positive
+253018166643552256	have to	V P	negative
+257413945088937984	Happy Sunday !	A N ,	positive
+221211087805231104	love	N	positive
+221211087805231104	don't waste	V V	negative
+221211087805231104	MOST	R	positive
+264143484951343104	Getting sick	V A	negative
+250193358620868608	same !	A ,	positive
+263995095458643968	and	&	negative
+263995095458643968	to their Vaseline	P D N	negative
+251262286105300992	Make sure	V A	positive
+246123196330422272	Girl	N	negative
+260113366536835072	missed	V	negative
+213657428045217792	suggest	V	positive
+253773227988512768	accidents	N	negative
+255199494252134400	" warmth , wisdom	, N , N	positive
+255199494252134400	celebrated " .	V , ,	positive
+195028861434605568	don't like	V V	negative
+195028861434605568	worry	V	negative
+246749718204526592	and	&	positive
+261392794726326272	always wanted	R V	positive
+263375495993913344	can't	V	negative
+263375495993913344	ok ?	! ,	positive
+258466469057269760	Hasn't Done	V V	negative
+263764441605218304	enojar	G	negative
+254262329259212800	sorry	!	negative
+254262329259212800	bum !	N ,	negative
+254262329259212800	good evening	A N	positive
+263098239190974464	haven't bought	V V	negative
+263463357003231232	injury-prone	A	negative
+263463357003231232	couldnt get	V V	negative
+263463357003231232	Overrated .	A ,	negative
+264219157082542080	hope to see	V P V	positive
+229801522073067520	Hot	A	positive
+259673329659699200	didn't have	V V	negative
+249375357956927488	successfully	R	positive
+249375357956927488	lamest ...	A ,	negative
+263495251581341696	fucking	!	negative
+260260606567931904	#butthurt	#	positive
+259335221567160320	have won	V V	positive
+242124106441584640	best music . Happy	A N , A	positive
+245617486333100032	magiadohumor : http://t.co/XQad2XyX	^ , U	positive
+210514810511687680	fuck .	! ,	negative
+210514810511687680	boring .	A ,	negative
+210514810511687680	drug addict idiot	N N N	negative
+231357783910522880	best	A	positive
+264142939503079424	can't wait	V V	positive
+264142939503079424	love	N	positive
+263275304787787776	better	A	positive
+249484019257966592	WELL DONE	! V	positive
+264049522685140992	May not have .	V R V ,	negative
+264049522685140992	appeared to be better	V P V A	positive
+264049522685140992	fired	V	negative
+262898939337007104	http://t.co/ulzq92Ek	U	positive
+264048492513738752	painstakingly slow	R A	negative
+243102834231496704	going in	V P	positive
+179590186261422080	lucky	A	positive
+179590186261422080	let me down ?	V O T ,	positive
+179883340512505856	sorry	!	negative
+179883340512505856	lack	N	negative
+179883340512505856	great illustrator	A N	positive
+218838038107783168	taught me more	V O R	positive
+262068527043858432	good	A	positive
+259296806951870464	Can't wait	V V	positive
+259296806951870464	excited !!!	A ,	positive
+261654751610023936	recommends	V	positive
+260489275982901248	Thanks	N	positive
+260489275982901248	support !!!!!!!	N ,	positive
+254977571723296768	upping	V	positive
+227296722861309952	congrats	!	positive
+227296722861309952	Thanks	N	positive
+227296722861309952	Not sure	R A	negative
+254336380510035968	es	G	positive
+242299504710258688	diet .. wish	N , V	positive
+242299504710258688	luck	N	positive
+226023960268140544	better be	R V	positive
+263305701328289792	rare	A	positive
+255687931937824768	Roll out !	V T ,	positive
+249898272888598528	Still loving	R V	positive
+249898272888598528	Luved	V	positive
+262532221833969664	didn`t see	V V	negative
+177325387649531904	Oh well .	! ! ,	positive
+244553592994938880	only wish	R V	positive
+263072074086641664	friendly	A	positive
+195489687182381056	greatly ; shouldn't	R , V	positive
+253235076115070976	also responsible	R A	positive
+253235076115070976	unemployment	N	negative
+262555851527712768	Super	R	positive
+262555851527712768	Love	N	positive
+244926348798337024	want	V	negative
+261360355077398528	don't	V	negative
+263955285507452928	available	A	positive
+264216096687656960	WIN !!!!!	V ,	positive
+232926562868133888	haven't	V	negative
+248387208917164032	success ,	N ,	positive
+176609365422387200	Madness :	N ,	negative
+176609365422387200	wins	V	positive
+264093295473479680	Come support	V V	positive
+264093295473479680	special	A	positive
+262053411980193792	creative	A	positive
+253719256317952000	makes	V	neutral
+262419885328576512	Amazing	A	positive
+256074478390505472	Problems	N	negative
+256074478390505472	may oppose	V V	negative
+257894610402148352	disapointed	A	negative
+255611441862819840	@INFINITELKIM : 엄마가뭐길래	@ ~ N	positive
+263186262914134016	reveal	V	positive
+256708675895427072	can	V	neutral
+263648724587261952	to help	P V	positive
+263648724587261952	wouldn't let	V V	negative
+255339501998731264	awesomeness	N	positive
+263454410036875264	good	A	positive
+263454410036875264	solid	A	positive
+259105159949451264	need "	V ,	neutral
+242678669523427328	Slow2	!	positive
+242678669523427328	belaja	!	positive
+247760973656633344	bad	A	negative
+247760973656633344	good girl	A N	positive
+211964110735290368	Love	N	positive
+233525409336147968	wasting	V	negative
+233525409336147968	will just leave it alone	V R V O R	negative
+233525409336147968	BITCH	N	negative
+255309153449414656	Tell	V	positive
+209960820539523072	wins	V	positive
+251855105975005184	everybody to come	N P V	positive
+251855105975005184	support	N	positive
+261626013740580864	had not	V R	negative
+263172943876603904	One more	$ A	positive
+229427795724484608	don't watch	V V	negative
+229427795724484608	amazing .	A ,	positive
+194562014352379904	shows	V	positive
+194562014352379904	love ,	N ,	positive
+254390866876174336	Hoje	!	negative
+254390866876174336	da novela do	D N V	negative
+226012236978745344	slut	N	negative
+226012236978745344	not a good role model .	R D A N N ,	negative
+261782616448045056	dah	!	negative
+261782616448045056	Hahaha damat	! !	positive
+247354734435000320	too early	R A	negative
+223088839042928640	want	V	positive
+262148028478136320	start	V	neutral
+262148028478136320	no priorities	D N	negative
+213597789890949120	delighted	V	positive
+213597789890949120	great	A	positive
+262116587132301312	may not be incest ,	V R V N ,	negative
+262116587132301312	is creepy	V A	negative
+262116587132301312	hell ......	! ,	negative
+264007773921083392	not ,	R ,	negative
+253805669138960384	thanks ...	N ,	positive
+258272202653302784	get up	V T	positive
+248907893846446080	incredible ! Shame	A , N	positive
+248907893846446080	brilliant !!!!	A ,	positive
+195194783856205824	suspicions	N	negative
+257131299230318592	crashed	V	negative
+257865471758581760	crash hard	V A	negative
+257865471758581760	drops just	V R	negative
+257294815895629824	bad decision	A N	negative
+257294815895629824	struggling	V	negative
+261607355660242944	Let's make it happen !	L V O V ,	positive
+262030204791296000	#StandDown	#	positive
+262030204791296000	right thing	A N	positive
+260585033646084096	may want	V V	positive
+263944381592113152	cud agree	V V	positive
+263944381592113152	criminal charges	A N	negative
+231211230428270592	Only	R	negative
+231211230428270592	Ha !	! ,	positive
+264011170271346688	RT @E_CottonCandyyy :	~ @ ~	positive
+264011170271346688	Biggest	A	positive
+264011170271346688	in the	P D	positive
+234452126334590976	Good	A	positive
+234452126334590976	:-)	E	positive
+234452126334590976	Happy Mother's Day	A Z N	positive
+253641810524647424	@eggsmaledict	@	positive
+261767351840686080	can't	V	negative
+261767351840686080	so HOT ! Hotter	R A , A	positive
+228427843456073728	Haha	!	positive
+262961764612861952	te	^	neutral
+263438103048515584	your	D	positive
+263438103048515584	the	D	negative
+263438103048515584	its	L	negative
+263592976704479232	don't know	V V	negative
+263592976704479232	hug .	N ,	positive
+262273399479476224	you're missing out	L V T	negative
+262273399479476224	#wishyouwerehere	#	positive
+250481942682808320	again	R	neutral
+242725967695585280	@hamzamisir	@	positive
+261271905087131648	stay focused	V V	positive
+261271905087131648	bitch	N	negative
+178100186453786624	@HyungJun87 :	@ ~	positive
+178100186453786624	2 .	$ ,	positive
+178100186453786624	올릴려고 했는데	! !	positive
+178100186453786624	.. ㅠㅡㅠ	, !	positive
+214754321554874368	just	R	negative
+214754321554874368	complaining .	V ,	negative
+264233437060288512	never compromise	R V	negative
+250744453831213056	don't have	V V	negative
+258679974591090688	Don't hide	V V	positive
+258679974591090688	#yum	#	positive
+243018372453916672	و روادها "	! N ,	positive
+255133615783034880	great	A	positive
+255133615783034880	continue to rest in peace	V P V P N	positive
+255133615783034880	looking crazy as hell	V A P N	negative
+255133615783034880	just can't	R V	negative

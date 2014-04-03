@@ -1,0 +1,15 @@
+Add accuracy model
+
+
+Add test to train
+Add user based model
+Add features chooser
+
+
+
+
+
+applications/TSAA/private/preprocessing.py
+
+applications/TSAA/private/trainModel.py
+applications/TSAA/private/predictLabel.py

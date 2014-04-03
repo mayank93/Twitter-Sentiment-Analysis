@@ -70,27 +70,19 @@ function Toggle1(id) {
 	{{pass}}
 
 
-	{{if details.Status=='0':
-		PredictedLabel='Processing'
-		ActualLabel='N/A'
-	elif details.Status=='1':
-		PredictedLabel=details.PredictedLabel
-		if not PredictedLabel:
-			PredictedLabel='N/A'
-		pass
-		ActualLabel='N/A'
-	elif details.Status=='2':
-		PredictedLabel=details.PredictedLabel
-		if not PredictedLabel:
-			PredictedLabel='N/A'
-		pass
+	{{PredictedLabel='Processing'
+	ActualLabel='N/A'
+	if details.ActualStatus=='1':
 		ActualLabel=details.ActualLabel
 		if not ActualLabel:
 			ActualLabel='N/A'
 		pass
-	else:
-		PredictedLabel='Processing'
-		ActualLabel='N/A'	
+	pass
+	if details.PredictedStatus=='1':
+		PredictedLabel=details.PredictedLabel
+		if not PredictedLabel:
+			PredictedLabel='N/A'
+		pass
 	pass}}
 
 	<div class="control-group" style="height:60px;width:100%">
@@ -103,11 +95,11 @@ function Toggle1(id) {
 	<div class="control-group" style="height:60px;width:100%">
 		<label class="control-label" for="ActualLabel">ActualLabel</label>
 		<div class="controls">
-			<input type="text" class="span10 line" id="ActualLabel" name="ActualLabel" value={{=ActualLabel}} {{if details.Status!='1':}} readonly {{pass}}>
+			<input type="text" class="span10 line" id="ActualLabel" name="ActualLabel" value={{=ActualLabel}} {{if details.ActualStatus=='1' :}} readonly {{pass}}>
 		</div>
 	</div>	
 
-	{{if details.Status=='1':}}
+	{{if details.ActualStatus=='0':}}
     	<div class="action center-text">
     		<button type="submit" class="btn btn-primary" value="Submit" name="Submit" name="Submit" >Submit</button>
    	</div>

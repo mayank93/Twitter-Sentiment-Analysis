@@ -1,0 +1,81 @@
+{{extend 'layout1.html'}}
+<style>
+
+.center-text{
+	    text-align:center;
+}
+
+label{
+	margin: -15px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+label.error {
+	font-weight: bold;
+	color: red;
+	padding: 0px 0px 10px 0px;
+	margin-top: -15px;
+}
+
+</style>
+
+<div class="content">
+ <form action="" enctype="multipart/form-data" name="Test" method="post" id="Test">
+  <br/>
+  <br/>
+  <br/>
+  <div class="row-fluid" text-align:'center'>
+    <div  class="span3">
+    </div>
+    <div  class="span6 box" style="margin:10px;padding:10px 30px 10px 30px" >
+     	<div class="control-group" style="height:60px;width:100%">
+		<label class="control-label" for="dataFile">File</label>
+		<div class="controls">
+			<input type="file" class="span10 line" id="dataFile" name="dataFile">
+		</div>
+	</div>
+	<div class="control-group" style="height:60px;">
+ 		<label class="control-label" for="DataType">DataType</label>
+	        <div class="controls">
+			<label class="radio">
+                        <input type="radio" name="DataType" id="optionsRadios1" value="Train" checked>
+                        	Train	
+			</label>
+			<label class="radio">
+                        <input type="radio" name="DataType" id="optionsRadios2" value="Test" >
+                        	Test
+			</label>
+        	</div>
+	</div>
+	
+	<div class="control-group" style="height:60px;">
+ 		<label class="control-label" for="TestType">TestType</label>
+	        <div class="controls">
+			<label class="radio">
+                        <input type="radio" name="TestType" id="optionsRadios1" value="Sentence" checked>
+                        	Sentence	
+			</label>
+			<label class="radio">
+                        <input type="radio" name="TestType" id="optionsRadios2" value="Phrase" >
+                        	Phrase
+			</label>
+        	</div>
+	</div>
+	
+    	<div class="action center-text">
+    		<button type="submit" class="btn btn-primary" value="Submit" name="Submit" name="Submit" >Submit</button>
+   	</div>
+    </div>  
+  </div>        
+ </form>
+</div>
+<script type="text/javascript">
+$(function () {
+
+            // add uniform plugin styles to html elements
+            $("input:checkbox, input:radio").uniform();
+
+        });
+
+
+</script>										     

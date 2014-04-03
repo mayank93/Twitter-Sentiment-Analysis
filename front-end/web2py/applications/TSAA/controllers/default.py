@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # this file is released under public domain and you can use without limitations
 import os
+from settings import *
 #########################################################################
 ## This is a samples controller
 ## - index is the default action of any application
@@ -18,6 +19,7 @@ def error():
 #-----------------------Home Page------------------------------------
 @auth.requires_login()
 def index():
+	
     	session.email=auth.user.email
     	print session.email
     	return dict()
@@ -36,7 +38,13 @@ def test():
 		details=db(db.PhraseTestDetails.id == tid).select()[0]
 		
 	if request.vars.Submit:
+		if testType=='Sentence':
+			db(db.SentTestDetails.id==tid).update(ActualStatus='1', ActualLabel=request.vars.ActualLabel)
+		else:
+			db(db.SentTestDetails.id==tid).update(ActualStatus='1', ActualLabel=request.vars.ActualLabel)
+		
 		print request.vars
+	db.commit()
 	print details
         return dict(details=details,testType=testType)
 
@@ -71,6 +79,19 @@ def addTest():
 		db.commit()
 		redirect(URL(r=request, f='testDetails'))
 	return dict()
+
+@auth.requires_login()
+def upload():
+    print request.vars
+
+    if request.vars.Submit:
+	dataFile=db.Upload.File.store(request.vars.DataFile.file, request.vars.DataFile.filename)	
+	print dataFile
+	response.flash = 'file uploaded'
+#	id = db.upload.insert(DataType=request.vars.DataType,TestType=request.vars.TestType,UserEmail=session.email,file=dataFile)
+	db.commit()
+    return dict()
+
 
 def user():
     """

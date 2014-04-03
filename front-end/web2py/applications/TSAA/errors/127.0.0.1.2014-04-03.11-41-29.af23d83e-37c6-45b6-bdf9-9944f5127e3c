@@ -1,0 +1,384 @@
+(dp1
+S'output'
+p2
+S'missing "pass" in view'
+p3
+sS'layer'
+p4
+S'ParserContainer'
+p5
+sS'code'
+p6
+S'response.write(\'<!DOCTYPE html>\\r\\n<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->\\r\\n<!--[if lt IE 7]><html class="ie ie6 ie-lte9 ie-lte8 ie-lte7 no-js" lang="\', escape=False)\nresponse.write(T.accepted_language or \'en\')\nresponse.write(\'"> <![endif]-->\\r\\n<!--[if IE 7]><html class="ie ie7 ie-lte9 ie-lte8 ie-lte7 no-js" lang="\', escape=False)\nresponse.write(T.accepted_language or \'en\')\nresponse.write(\'"> <![endif]-->\\r\\n<!--[if IE 8]><html class="ie ie8 ie-lte9 ie-lte8 no-js" lang="\', escape=False)\nresponse.write(T.accepted_language or \'en\')\nresponse.write(\'"> <![endif]-->\\r\\n<!--[if IE 9]><html class="ie9 ie-lte9 no-js" lang="\', escape=False)\nresponse.write(T.accepted_language or \'en\')\nresponse.write(\'"> <![endif]-->\\r\\n<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="\', escape=False)\nresponse.write(T.accepted_language or \'en\')\nresponse.write(\'"> <!--<![endif]-->\\r\\n<html>\\r\\n<head>\\r\\n    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">\\r\\n\\t<meta name="viewport" content="width=device-width, initial-scale=1.0">\\r\\n  \\r\\n  <!-- http://dev.w3.org/html5/markup/meta.name.html -->\\r\\n  <meta name="application-name" content="\', escape=False)\nresponse.write(request.application)\nresponse.write(\'" />\\r\\n  \\r\\n  <!-- Speaking of Google, don\\\'t forget to set your site up:\\r\\n       http://google.com/webmasters -->\\r\\n  <meta name="google-site-verification" content="" />\\r\\n  \\r\\n  <!--  Mobile Viewport Fix\\r\\n\\tj.mp/mobileviewport & davidbcalhoun.com/2010/viewport-metatag\\r\\n\\tdevice-width: Occupy full width of the screen in its current orientation\\r\\n\\tinitial-scale = 1.0 retains dimensions instead of zooming out if page height > device height\\r\\n\\tuser-scalable = yes allows the user to zoom in -->\\r\\n  <meta name="viewport" content="width=device-width, initial-scale=1.0">\\r\\n  <title>\', escape=False)\nresponse.write(response.title or request.application)\nresponse.write(\'</title>\\r\\n  <link rel="shortcut icon" href="\', escape=False)\nresponse.write(URL(\'static\',\'images/favicon.ico\'))\nresponse.write(\'" type="image/x-icon">\\r\\n  <link rel="apple-touch-icon" href="\', escape=False)\nresponse.write(URL(\'static\',\'images/favicon.png\'))\nresponse.write(\'">\\r\\n  \\r\\n  <!-- All JavaScript at the bottom, except for Modernizr which enables \\r\\n\\r\\n       HTML5 elements & feature detects -->\\r\\n  <script src="\', escape=False)\nresponse.write(URL(\'static\',\'js/modernizr.custom.js\'))\nresponse.write(\'"></script>   \\r\\n  \\r\\n  <!-- include stylesheets -->\\r\\n  \', escape=False)\nresponse.files.append(URL(\'static\',"css/bootstrap/bootstrap.css"))\nresponse.files.append(URL(\'static\',"css/bootstrap/bootstrap-responsive.css"))\nresponse.files.append(URL(\'static\',\'css/web2py.css\'))\nresponse.files.append(URL(\'static\',\'css/web2py_bootstrap.css\'))\nresponse.files.append(URL(\'static\',"css/bootstrap/bootstrap-overrides.css"))\nresponse.files.append(URL(\'static\',"css/lib/uniform.default.css"))\nresponse.files.append(URL(\'static\',"css/lib/jquery-ui-1.10.2.custom.css"))\nresponse.files.append(URL(\'static\',"css/lib/font-awesome.css"))\nresponse.files.append(URL(\'static\',"css/layout.css"))\nresponse.files.append(URL(\'static\',"css/elements.css"))\nresponse.files.append(URL(\'static\',"css/icons.css"))\nresponse.files.append(URL(\'static\',"css/compiled/index.css"))\nresponse.files.append(URL(\'static\',"css/css5c84.css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"))\nresponse.files.append(URL(\'static\',"css/cssef21.css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic"))\nresponse.write(\'\\r\\n\\r\\n  \', escape=False)\nresponse.write(\'<script type="text/javascript"><!--\\n    // These variables are used by the web2py_ajax_init function in web2py_ajax.js (which is loaded below).\\n    var w2p_ajax_confirm_message = "\', escape=False)\nresponse.write(T(\'Are you sure you want to delete this object?\'))\nresponse.write(\'";\\n    var w2p_ajax_date_format = "\', escape=False)\nresponse.write(T(\'%Y-%m-%d\'))\nresponse.write(\'";\\n    var w2p_ajax_datetime_format = "\', escape=False)\nresponse.write(T(\'%Y-%m-%d %H:%M:%S\'))\nresponse.write(\'";\\n    //--></script>\\n\', escape=False)\nresponse.files.insert(0,URL(\'static\',\'js/jquery.js\'))\nresponse.files.insert(1,URL(\'static\',\'css/calendar.css\'))\nresponse.files.insert(2,URL(\'static\',\'js/calendar.js\'))\nresponse.files.insert(3,URL(\'static\',\'js/web2py.js\'))\nresponse.include_meta()\nresponse.include_files()\nresponse.write(\'\\n\', escape=False)\nresponse.write(\'\\r\\n  \\r\\n  \', escape=False)\n# using sidebars need to know what sidebar you want to use\nleft_sidebar_enabled = globals().get(\'left_sidebar_enabled\',False)\nright_sidebar_enabled = globals().get(\'right_sidebar_enabled\',False)\nmiddle_columns = {0:\'span12\',1:\'span9\',2:\'span6\'}[\n(left_sidebar_enabled and 1 or 0)+(right_sidebar_enabled and 1 or 0)]\nresponse.write(\'\\r\\n\\r\\n  <noscript><link href="\', escape=False)\nresponse.write(URL(\'static\', \'css/web2py_bootstrap_nojs.css\'))\nresponse.write(\'" rel="stylesheet" type="text/css" /></noscript>\\r\\n  \', escape=False)\nresponse.write(\'\\r\\n  \\r\\n  <!--[if lt IE 9]>\\r\\n      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>\\r\\n    <![endif]-->\\r\\n   <style>\\r\\n   .box {\\r\\nmargin: 0 auto;\\r\\npadding: 35px 0 30px;\\r\\nfloat: none;\\r\\nwidth: 700px;\\r\\nborder-radius: 5px;\\r\\nbackground-color: #f7f7f7;\\r\\n   }\\r\\n   </style>\\r\\n</head>\\r\\n<body>\\r\\n  <!-- navbar -->\\r\\n    <div class="navbar navbar-inverse">\\r\\n        <div class="navbar-inner">\\r\\n            <button type="button" class="btn btn-navbar visible-phone" id="menu-toggler">\\r\\n                <span class="icon-bar"></span>\\r\\n                <span class="icon-bar"></span>\\r\\n                <span class="icon-bar"></span>\\r\\n            </button>\\r\\n            \\r\\n            <a class="brand" href="index.html">\', escape=False)\nresponse.write(response.title or request.application)\nresponse.write(\'</a>\\r\\n\\t\\t\', escape=False)\nurl=request.url.split(\'/\')[-1]\nresponse.write(\'\\r\\n            <ul class="nav pull-right">        \\r\\n\\t    \\t<!--\\r\\n                <li class="hidden-phone">\\r\\n                    <input class="search" type="text" />\\r\\n                </li>\\r\\n                <li class="notification-dropdown hidden-phone">\\r\\n                    <a href="#" class="trigger">\\r\\n                        <i class="icon-warning-sign"></i>\\r\\n                        <span class="count">8</span>\\r\\n                    </a>\\r\\n                    <div class="pop-dialog">\\r\\n                        <div class="pointer right">\\r\\n                            <div class="arrow"></div>\\r\\n                            <div class="arrow_border"></div>\\r\\n                        </div>\\r\\n                        <div class="body">\\r\\n                            <a href="#" class="close-icon"><i class="icon-remove-sign"></i></a>\\r\\n                            <div class="notifications">\\r\\n                                <h3>You have 6 new notifications</h3>\\r\\n                                <a href="#" class="item">\\r\\n                                    <i class="icon-signin"></i> New user registration\\r\\n                                    <span class="time"><i class="icon-time"></i> 13 min.</span>\\r\\n                                </a>\\r\\n                                <a href="#" class="item">\\r\\n                                    <i class="icon-signin"></i> New user registration\\r\\n                                    <span class="time"><i class="icon-time"></i> 18 min.</span>\\r\\n                                </a>\\r\\n                                <a href="#" class="item">\\r\\n                                    <i class="icon-envelope-alt"></i> New message from Alejandra\\r\\n                                    <span class="time"><i class="icon-time"></i> 28 min.</span>\\r\\n                                </a>\\r\\n                                <a href="#" class="item">\\r\\n                                    <i class="icon-signin"></i> New user registration\\r\\n                                    <span class="time"><i class="icon-time"></i> 49 min.</span>\\r\\n                                </a>\\r\\n                                <a href="#" class="item">\\r\\n                                    <i class="icon-download-alt"></i> New order placed\\r\\n                                    <span class="time"><i class="icon-time"></i> 1 day.</span>\\r\\n                                </a>\\r\\n                                <div class="footer">\\r\\n                                    <a href="#" class="logout">View all notifications</a>\\r\\n                                </div>\\r\\n                            </div>\\r\\n                        </div>\\r\\n                    </div>\\r\\n                </li>\\r\\n                <li class="notification-dropdown hidden-phone">\\r\\n                    <a href="#" class="trigger">\\r\\n                        <i class="icon-envelope-alt"></i>\\r\\n                    </a>\\r\\n                    <div class="pop-dialog">\\r\\n                        <div class="pointer right">\\r\\n                            <div class="arrow"></div>\\r\\n                            <div class="arrow_border"></div>\\r\\n                        </div>\\r\\n                        <div class="body">\\r\\n                            <a href="#" class="close-icon"><i class="icon-remove-sign"></i></a>\\r\\n                            <div class="messages">\\r\\n                                <a href="#" class="item">\\r\\n                                    <img src="img/contact-img.png" class="display" />\\r\\n                                    <div class="name">Alejandra Galv\\xc3\\xa1n</div>\\r\\n                                    <div class="msg">\\r\\n                                        There are many variations of available, but the majority have suffered alterations.\\r\\n                                    </div>\\r\\n                                    <span class="time"><i class="icon-time"></i> 13 min.</span>\\r\\n                                </a>\\r\\n                                <a href="#" class="item">\\r\\n                                    <img src="img/contact-img2.png" class="display" />\\r\\n                                    <div class="name">Alejandra Galv\\xc3\\xa1n</div>\\r\\n                                    <div class="msg">\\r\\n                                        There are many variations of available, have suffered alterations.\\r\\n                                    </div>\\r\\n                                    <span class="time"><i class="icon-time"></i> 26 min.</span>\\r\\n                                </a>\\r\\n                                <a href="#" class="item last">\\r\\n                                    <img src="img/contact-img.png" class="display" />\\r\\n                                    <div class="name">Alejandra Galv\\xc3\\xa1n</div>\\r\\n                                    <div class="msg">\\r\\n                                        There are many variations of available, but the majority have suffered alterations.\\r\\n                                    </div>\\r\\n                                    <span class="time"><i class="icon-time"></i> 48 min.</span>\\r\\n                                </a>\\r\\n                                <div class="footer">\\r\\n                                    <a href="#" class="logout">View all messages</a>\\r\\n                                </div>\\r\\n                            </div>\\r\\n                        </div>\\r\\n                    </div>\\r\\n                </li>\\r\\n\\t\\t\\t-->\\r\\n                <li class="dropdown">\\r\\n                    <a href="#" class="dropdown-toggle hidden-phone" data-toggle="dropdown">\\r\\n\\t\\t\\t\', escape=False)\nresponse.write(auth.user.first_name+\' \'+auth.user.last_name)\nresponse.write(\'\\r\\n                        <b class="caret"></b>\\r\\n                    </a>\\r\\n                    <ul class="dropdown-menu">\\r\\n                        <li><a href="\', escape=False)\nresponse.write(URL(r = request, f = \'user\' ,args=\'logout\'))\nresponse.write(\'">SignOut</a></li>\\r\\n                        <li><a href="#">About</a></li>\\r\\n                    </ul>\\r\\n                </li>\\r\\n                <li class="settings hidden-phone">\\r\\n                    <a href="\', escape=False)\nresponse.write(URL(r = request, f = \'user\' ,args=\'login\'))\nresponse.write(\'" role="button">\\r\\n                        <i class="icon-share-alt"></i>\\r\\n                    </a>\\r\\n                </li>\\r\\n            </ul>            \\r\\n        </div>\\r\\n    </div>\\r\\n    <!-- end navbar -->\\r\\n\\r\\n    <!-- sidebar -->\\r\\n    <div id="sidebar-nav">\\r\\n        <ul id="dashboard-menu">\\r\\n\\t\\t\', escape=False)\nprint url\nresponse.write(\'\\r\\n            <li \', escape=False)\nif url==\'index\' :\n    response.write(\'class="active"\', escape=False)\n    pass\nresponse.write(\'>\\r\\n\\t    \\t\', escape=False)\nif url==\'index\' :\n    response.write(\'\\r\\n                <div class="pointer">\\r\\n                    <div class="arrow"></div>\\r\\n                    <div class="arrow_border"></div>\\r\\n                </div>\\r\\n\\t\\t\', escape=False)\n    pass\nresponse.write(\'\\r\\n                <a href="\', escape=False)\nresponse.write(URL(r = request, f = \'index\'))\nresponse.write(\'">\\r\\n                    <i class="icon-home"></i>\\r\\n                    <span>Home</span>\\r\\n                </a>\\r\\n            </li>            \\r\\n            <li \', escape=False)\nif url==\'addTest\' :\n    response.write(\'class="active"\', escape=False)\n    pass\nresponse.write(\'>\\r\\n\\t    \\t\', escape=False)\nif url==\'addTest\' :\n    response.write(\'\\r\\n                <div class="pointer">\\r\\n                    <div class="arrow"></div>\\r\\n                    <div class="arrow_border"></div>\\r\\n                </div>\\r\\n\\t\\t\', escape=False)\n    pass\nresponse.write(\'\\r\\n                <a href="\', escape=False)\nresponse.write(URL(r = request, f = \'addTest\'))\nresponse.write(\'">\\r\\n                    <i class="icon-edit"></i>\\r\\n                    <span>AddTest</span>\\r\\n                </a>\\r\\n            </li>\\r\\n            <li \', escape=False)\nif url==\'testDetails\' :\n    response.write(\'class="active"\', escape=False)\n    pass\nresponse.write(\'>\\r\\n\\t    \\t\', escape=False)\nif url==\'testDetails\' :\n    response.write(\'\\r\\n                <div class="pointer">\\r\\n                    <div class="arrow"></div>\\r\\n                    <div class="arrow_border"></div>\\r\\n                </div>\\r\\n\\t\\t\', escape=False)\n    pass\nresponse.write(\'\\r\\n                <a href="\', escape=False)\nresponse.write(URL(r = request, f = \'testDetails\'))\nresponse.write(\'">\\r\\n                    <i class="icon-signal"></i>\\r\\n                    <span>Show Test Details</span>\\r\\n                </a>\\r\\n                </li>\\r\\n                <li>\\r\\n                <a class="dropdown-toggle" href="#">\\r\\n                    <i class="icon-group"></i>\\r\\n                    <span>Developers</span>\\r\\n                    <i class="icon-chevron-down"></i>\\r\\n                </a>\\r\\n                <ul class="submenu">\\r\\n                    <li><a href=\\\'https://github.com/mayank93\\\'>Mayank Gupta</a></li>\\r\\n                    <li><a href=\\\'#\\\'>Ayushi Dalmia</a></li>\\r\\n                    <li><a href=\\\'#\\\'>Arpit Jaiswal</a></li>\\r\\n                    <li><a href=\\\'#\\\'>Chinthala Tharun Reddy</a></li>\\r\\n\\r\\n                </ul>\\r\\n                </li>\\r\\n        </ul>\\r\\n    </div>\\r\\n    <!-- end sidebar -->\\r\\n  \\r\\n  <div >\\r\\n    <div class="flash">\', escape=False)\nresponse.write(response.flash or \'\')\nresponse.write(\'</div>\\r\\n\\r\\n   \\t  \', escape=False)\nresponse.write(\'\\n<style>\\n\\n.center-text{\\n\\t    text-align:center;\\n}\\n\\nlabel{\\n\\tmargin: -15px 0px 0px 0px;\\n\\tpadding: 0px 0px 0px 0px;\\n}\\n\\nlabel.error {\\n\\tfont-weight: bold;\\n\\tcolor: red;\\n\\tpadding: 0px 0px 10px 0px;\\n\\tmargin-top: -15px;\\n}\\n\\n</style>\\n<script>\\n\\nfunction Toggle1(id) {\\n\\tvar x=$(\\\'[name="TestType"]:checked\\\').val();\\n\\tconsole.log(x);\\n\\tx=document.getElementById("optionsRadios2").checked;\\n\\tconsole.log(x);\\n\\t\\tif(x==true)\\n\\t\\t\\t$(id).show();\\n\\t\\tif(x==false)\\n\\t\\t\\t$(id).hide();\\n}\\n\\n</script>\\n\\n<div class="content">\\n <form name="Test" method="post" id="Test">\\n  <br/>\\n  <br/>\\n  <br/>\\n  <div class="row-fluid" text-align:\\\'center\\\'>\\n    <div  class="span3">\\n    </div>\\n    <div  class="span6 box" style="margin:10px;padding:10px 30px 10px 30px" >\\n     \\t<div class="control-group" style="height:60px;width:100%">\\n\\t\\t<label class="control-label" for="TestName">Test Name</label>\\n\\t\\t<div class="controls">\\n\\t\\t\\t<input type="text" class="span10 line" id="TestName" name="TestName" value=\', escape=False)\nresponse.write(details.TestName)\nresponse.write(\' readonly>\\n\\t\\t</div>\\n\\t</div>\\n\\t<div class="control-group" style="height:60px;width:100%">\\n\\t\\t<label class="control-label" for="Tweet">Tweet</label>\\n\\t\\t<div class="controls">\\n\\t\\t\\t<input type="text" class="span10 line" id="Tweet" name="Tweet" value=\', escape=False)\nresponse.write(details.Tweet)\nresponse.write(\' readonly>\\n\\t\\t</div>\\n\\t</div>\\t\\n\\t<div class="control-group" style="height:60px;width:100%">\\n \\t\\t<label class="control-label" for="TestType">TestType</label>\\n\\t        <div class="controls">\\n\\t\\t\\t<input type="text" class="span10 line" id="TestType" name="TestType" value=\', escape=False)\nresponse.write(testType)\nresponse.write(\' readonly>\\n        \\t</div>\\n\\t</div>\\n\\t\', escape=False)\nif testType==\'Phrase\':\n    response.write(\'\\n\\t<div class="control-group" style="height:60px;width:100%">\\n\\t\\t<label class="control-label" for="Phrase">Phrase</label>\\n\\t\\t<div class="controls">\\n\\t\\t\\t<input type="text" class="span10 line" id="Phrase" name="Phrase" value=\', escape=False)\n    response.write(details.Phrase)\n    response.write(\' readonly>\\n\\t\\t</div>\\n\\t</div>\\n\\t\', escape=False)\n    pass\nresponse.write(\'\\n\\n\\n\\t\', escape=False)\nPredictedLabel=\'Processing\'\nActualLabel=\'N/A\'\nif details.PredictedLabelStatus==\'1\':\n    ActualLabel=details.ActualLabel\n    if not ActualLabel:\n        ActualLabel=\'N/A\'\n        pass\n    if details.ActualStatus==\'1\':\n        PredictedLabel=details.PredictedLabel\n        if not PredictedLabel:\n            PredictedLabel=\'N/A\'\n            pass\n        pass\n    response.write(\'\\n\\n\\t<div class="control-group" style="height:60px;width:100%">\\n\\t\\t<label class="control-label" for="PredictedLabel">PredictedLabel</label>\\n\\t\\t<div class="controls">\\n\\t\\t\\t<input type="text" class="span10 line" id="PredictedLabel" name="PredictedLabel" value=\', escape=False)\n    response.write(PredictedLabel)\n    response.write(\' readonly>\\n\\t\\t</div>\\n\\t</div>\\t\\n\\n\\t<div class="control-group" style="height:60px;width:100%">\\n\\t\\t<label class="control-label" for="ActualLabel">ActualLabel</label>\\n\\t\\t<div class="controls">\\n\\t\\t\\t<input type="text" class="span10 line" id="ActualLabel" name="ActualLabel" value=\', escape=False)\n    response.write(ActualLabel)\n    response.write(\' \', escape=False)\n    if details.PredictedStatus==\'1\' :\n        response.write(\' readonly \', escape=False)\n        pass\n    response.write(\'>\\n\\t\\t</div>\\n\\t</div>\\t\\n\\n\\t\', escape=False)\n    if details.PredictedStatus==\'0\':\n        response.write(\'\\n    \\t<div class="action center-text">\\n    \\t\\t<button type="submit" class="btn btn-primary" value="Submit" name="Submit" name="Submit" >Submit</button>\\n   \\t</div>\\n\\t\', escape=False)\n        pass\n    response.write(\'\\n    </div>  \\n  </div>        \\n </form>\\n</div>\\n<script type="text/javascript">\\n$(function () {\\n\\n            // add uniform plugin styles to html elements\\n            $("input:checkbox, input:radio").uniform();\\n\\n        });\\n\\n$(document).ready(function(){\\n\\t\\t$(\\\'#Test\\\').validate({\\n\\t\\trules: {\\n\\t\\t\\tActualLabel: {\\n\\t\\t\\t\\trequired: true\\n\\t\\t\\t}\\n\\t\\t},\\n\\t\\thighlight: function(element) {\\n\\t\\t\\t$(element).closest(\\\'.control-group\\\').removeClass(\\\'success\\\').addClass(\\\'error\\\');\\n\\t\\t},\\n\\t\\tsuccess: function(element) {\\n\\t\\t\\t$(element).closest(\\\'.control-group\\\').removeClass(\\\'error\\\').addClass(\\\'success\\\');\\n\\t\\t}\\n\\t});\\n}); \\n\\n</script>\\t\\t\\t\\t\\t\\t\\t\\t\\t\\t     \\n\', escape=False)\n    response.write(\'\\r\\n \\r\\n    <!-- Footer ================================================== -->\\r\\n    <footer class="footer" id="footer">\\r\\n      \', escape=False)\n    response.write(\' <!-- this is default footer -->\\r\\n      <div class="footer-content">\\r\\n\\t<div class="copyright pull-left">\', escape=False)\n    response.write(T(\'Copyright\'))\n    response.write(\' &#169; \', escape=False)\n    response.write(request.now.year)\n    response.write(\'</div>\\r\\n\\t<div id="poweredBy" class="pull-right">\\r\\n\\t  \', escape=False)\n    response.write(T(\'Powered by\'))\n    response.write(\'\\r\\n\\t  <a href="http://www.web2py.com/">web2py</a>\\r\\n\\t</div>\\r\\n      </div>\\r\\n      \', escape=False)\n    response.write(\'\\r\\n    </footer>\\r\\n    \\r\\n  </div> <!-- /container -->\\r\\n\\r\\n\\r\\n\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/jquery-latest.js\'))\n    response.write(\'"></script>\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/bootstrap.min.js\'))\n    response.write(\'"></script>\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/jquery-ui-1.10.2.custom.min.js\'))\n    response.write(\'"></script>\\r\\n    <!-- knob -->\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/jquery.knob.js\'))\n    response.write(\'"></script>\\r\\n    <!-- flot charts -->\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/jquery.uniform.min.js\'))\n    response.write(\'"></script>\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/jquery.flot.js\'))\n    response.write(\'"></script>\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/jquery.flot.stack.js\'))\n    response.write(\'"></script>\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/jquery.flot.resize.js\'))\n    response.write(\'"></script>\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/theme.js\'))\n    response.write(\'"></script>\\r\\n    <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/jquery.validate.min.js\'))\n    response.write(\'"></script>\\r\\n  <!--[if lt IE 7 ]>\\r\\n      <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/dd_belatedpng.js\'))\n    response.write(\'"></script>\\r\\n      <script> DD_belatedPNG.fix(\\\'img, .png_bg\\\'); //fix any <img> or .png_bg background-images </script>\\r\\n      <![endif]-->\\r\\n  \', escape=False)\n    if response.google_analytics_id:\n        response.write(\'<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push([\\\'_setAccount\\\', \\\'\', escape=False)\n        response.write(response.google_analytics_id)\n        response.write("\']); _gaq.push([\'_trackPageview\']); (function() { var ga = document.createElement(\'script\'); ga.type = \'text/javascript\'; ga.async = true; ga.src = (\'https:\' == document.location.protocol ? \'https://ssl\' : \'http://www\') + \'.google-analytics.com/ga.js\'; var s = document.getElementsByTagName(\'script\')[0]; s.parentNode.insertBefore(ga, s); })(); </script> ", escape=False)\n        pass\n    response.write(\'\\r\\n  <script src="\', escape=False)\n    response.write(URL(\'static\',\'js/share.js\',vars=dict(static=URL(\'static\',\'images\'))))\n    response.write(\'"></script>  \\r\\n</body>\\r\\n</html>\\r\\n\', escape=False)'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__module__'
+p12
+S"'gluon.rocket'"
+p13
+sS'__getslice__'
+p14
+S"<method-wrapper '__getslice__' of SocketTimeout object>"
+p15
+sS'__str__'
+p16
+S"<method-wrapper '__str__' of SocketTimeout object>"
+p17
+sS'__reduce__'
+p18
+S'<built-in method __reduce__ of SocketTimeout object>'
+p19
+sS'__dict__'
+p20
+S'{}'
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of SocketTimeout object>'
+p23
+sS'__weakref__'
+p24
+S'None'
+p25
+sS'__init__'
+p26
+S"<method-wrapper '__init__' of SocketTimeout object>"
+p27
+sS'__setattr__'
+p28
+S"<method-wrapper '__setattr__' of SocketTimeout object>"
+p29
+sS'__reduce_ex__'
+p30
+S'<built-in method __reduce_ex__ of SocketTimeout object>'
+p31
+sS'__new__'
+p32
+S'<built-in method __new__ of type object>'
+p33
+sS'__format__'
+p34
+S'<built-in method __format__ of SocketTimeout object>'
+p35
+sS'__class__'
+p36
+S"<class 'gluon.rocket.SocketTimeout'>"
+p37
+sS'__doc__'
+p38
+S"'Exception for when a socket times out between requests.'"
+p39
+sS'__getitem__'
+p40
+S"<method-wrapper '__getitem__' of SocketTimeout object>"
+p41
+sS'__setstate__'
+p42
+S'<built-in method __setstate__ of SocketTimeout object>'
+p43
+sS'__getattribute__'
+p44
+S"<method-wrapper '__getattribute__' of SocketTimeout object>"
+p45
+sS'args'
+p46
+S"('Socket timed out before request.',)"
+p47
+sS'__subclasshook__'
+p48
+S'<built-in method __subclasshook__ of type object>'
+p49
+sS'__unicode__'
+p50
+S'<built-in method __unicode__ of SocketTimeout object>'
+p51
+sS'__delattr__'
+p52
+S"<method-wrapper '__delattr__' of SocketTimeout object>"
+p53
+sS'__repr__'
+p54
+S"<method-wrapper '__repr__' of SocketTimeout object>"
+p55
+sS'__hash__'
+p56
+S"<method-wrapper '__hash__' of SocketTimeout object>"
+p57
+ssS'evalue'
+p58
+S'Socket timed out before request.'
+p59
+sS'frames'
+p60
+(lp61
+(dp62
+S'file'
+p63
+S'/home/mayank/gitrepo/Twitter-Sentiment-Analysis/front-end/web2py/gluon/rocket.py'
+p64
+sS'dump'
+p65
+(dp66
+S'self'
+p67
+S'<WSGIWorker(Thread-8, started daemon 140220439701248)>'
+p68
+sS'conn'
+p69
+S'<gluon.rocket.Connection object>'
+p70
+sS'self.run_app'
+p71
+S'<bound method WSGIWorker.run_app of <WSGIWorker(Thread-8, started daemon 140220439701248)>>'
+p72
+ssS'lnum'
+p73
+I1302
+sS'lines'
+p74
+(dp75
+I1297
+S'            # Enter connection serve loop'
+p76
+sI1298
+S'            while True:'
+p77
+sI1299
+S'                if __debug__:'
+p78
+sI1300
+S"                    self.err_log.debug('Serving a request')"
+p79
+sI1301
+S'                try:'
+p80
+sI1302
+S'                    self.run_app(conn)'
+p81
+sI1303
+S'                    log_info = dict(client_ip = conn.client_addr,'
+p82
+sI1304
+S"                                    time = datetime.now().strftime('%c'),"
+p83
+sI1305
+S"                                    status = self.status.split(' ')[0],"
+p84
+sI1306
+S'                                    size = self.size,'
+p85
+ssS'call'
+p86
+S'(self=<WSGIWorker(Thread-8, started daemon 140220439701248)>)'
+p87
+sS'func'
+p88
+S'run'
+p89
+sa(dp90
+g63
+S'/home/mayank/gitrepo/Twitter-Sentiment-Analysis/front-end/web2py/gluon/rocket.py'
+p91
+sg65
+(dp92
+S'self'
+p93
+S'<WSGIWorker(Thread-8, started daemon 140220439701248)>'
+p94
+sS'self.environ'
+p95
+S"{'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'HTTP_ACCEPT_ENCODING': 'gzip,deflate,sdch', 'HTTP_ACCEPT_LANGUAGE': 'en-US,en;q=0.8', 'HTTP_CONNECTION': 'keep-alive', 'HTTP_COOKIE': 'session_id_seminar=127.0.0.1-775135e2-7293-4b61-...aa=127.0.0.1-bfc8c8e4-324c-4089-8db1-78f978a67ea6', 'HTTP_HOST': '127.0.0.1:8000', 'HTTP_REFERER': 'http://127.0.0.1:8000/TSAA/default/testDetails', 'HTTP_USER_AGENT': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537....ML, like Gecko) Chrome/31.0.1650.63 Safari/537.36', 'PATH_INFO': '/TSAA/default/test/1/Phrase', 'QUERY_STRING': '', ...}"
+p96
+sS'sock_file'
+p97
+S'<socket._fileobject object>'
+p98
+sS'environ'
+p99
+S'undefined'
+p100
+sS'self.build_environ'
+p101
+S'<bound method WSGIWorker.build_environ of <WSGIWorker(Thread-8, started daemon 140220439701248)>>'
+p102
+sS'conn'
+p103
+S'<gluon.rocket.Connection object>'
+p104
+ssg73
+I1995
+sg74
+(dp105
+I1990
+S'        else:'
+p106
+sI1991
+S'            sock_file = conn.makefile(BUF_SIZE)'
+p107
+sI1992
+S''
+sI1993
+S'        try:'
+p108
+sI1994
+S'            # Read the headers and build our WSGI environment'
+p109
+sI1995
+S'            self.environ = environ = self.build_environ(sock_file, conn)'
+p110
+sI1996
+S''
+sI1997
+S'            # Handle 100 Continue'
+p111
+sI1998
+S"            if environ.get('HTTP_EXPECT', '') == '100-continue':"
+p112
+sI1999
+S"                res = environ['SERVER_PROTOCOL'] + ' 100 Continue\\r\\n\\r\\n'"
+p113
+ssg86
+S'(self=<WSGIWorker(Thread-8, started daemon 140220439701248)>, conn=<gluon.rocket.Connection object>)'
+p114
+sg88
+S'run_app'
+p115
+sa(dp116
+g63
+S'/home/mayank/gitrepo/Twitter-Sentiment-Analysis/front-end/web2py/gluon/rocket.py'
+p117
+sg65
+(dp118
+S'sock_file'
+p119
+S'<socket._fileobject object>'
+p120
+sS'self.read_request_line'
+p121
+S'<bound method WSGIWorker.read_request_line of <W...orker(Thread-8, started daemon 140220439701248)>>'
+p122
+sS'self'
+p123
+S'<WSGIWorker(Thread-8, started daemon 140220439701248)>'
+p124
+sS'request'
+p125
+g100
+ssg73
+I1816
+sg74
+(dp126
+I1811
+S'                                      "wsgiorg.futures": executor.futures})'
+p127
+sI1812
+S''
+sI1813
+S'    def build_environ(self, sock_file, conn):'
+p128
+sI1814
+S'        """ Build the execution environment. """'
+p129
+sI1815
+S'        # Grab the request line'
+p130
+sI1816
+S'        request = self.read_request_line(sock_file)'
+p131
+sI1817
+S''
+sI1818
+S'        # Copy the Base Environment'
+p132
+sI1819
+S'        environ = self.base_environ.copy()'
+p133
+sI1820
+S''
+ssg86
+S'(self=<WSGIWorker(Thread-8, started daemon 140220439701248)>, sock_file=<socket._fileobject object>, conn=<gluon.rocket.Connection object>)'
+p134
+sg88
+S'build_environ'
+p135
+sa(dp136
+g63
+S'/home/mayank/gitrepo/Twitter-Sentiment-Analysis/front-end/web2py/gluon/rocket.py'
+p137
+sg65
+(dp138
+S'global SocketTimeout'
+p139
+S"<class 'gluon.rocket.SocketTimeout'>"
+p140
+ssg73
+I1382
+sg74
+(dp141
+I1377
+S''
+sI1378
+S'                d = sock_file.readline()'
+p142
+sI1379
+S'                if PY3K:'
+p143
+sI1380
+S"                    d = d.decode('ISO-8859-1')"
+p144
+sI1381
+S'        except socket.timeout:'
+p145
+sI1382
+S'            raise SocketTimeout("Socket timed out before request.")'
+p146
+sI1383
+S'        except TypeError:'
+p147
+sI1384
+S'            raise SocketClosed("ssl bug caused closer of socket, upgrade to python 2.7")'
+p148
+sI1385
+S''
+sI1386
+S'        d = d.strip()'
+p149
+ssg86
+S'(self=<WSGIWorker(Thread-8, started daemon 140220439701248)>, sock_file=<socket._fileobject object>)'
+p150
+sg88
+S'read_request_line'
+p151
+sasS'pyver'
+p152
+S'Python 2.7.4: /usr/bin/python'
+p153
+sS'etype'
+p154
+S"<class 'gluon.rocket.SocketTimeout'>"
+p155
+sS'date'
+p156
+S'Thu Apr  3 11:41:29 2014'
+p157
+sS'locals'
+p158
+(dp159
+S'sock_file'
+p160
+S'<socket._fileobject object>'
+p161
+sS'self'
+p162
+S'<WSGIWorker(Thread-8, started daemon 140220439701248)>'
+p163
+sssS'traceback'
+p164
+S'Traceback (most recent call last):\n  File "/home/mayank/gitrepo/Twitter-Sentiment-Analysis/front-end/web2py/gluon/rocket.py", line 1302, in run\n    self.run_app(conn)\n  File "/home/mayank/gitrepo/Twitter-Sentiment-Analysis/front-end/web2py/gluon/rocket.py", line 1995, in run_app\n    self.environ = environ = self.build_environ(sock_file, conn)\n  File "/home/mayank/gitrepo/Twitter-Sentiment-Analysis/front-end/web2py/gluon/rocket.py", line 1816, in build_environ\n    request = self.read_request_line(sock_file)\n  File "/home/mayank/gitrepo/Twitter-Sentiment-Analysis/front-end/web2py/gluon/rocket.py", line 1382, in read_request_line\n    raise SocketTimeout("Socket timed out before request.")\nSocketTimeout: Socket timed out before request.\n'
+p165
+s.

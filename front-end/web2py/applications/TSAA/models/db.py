@@ -7,8 +7,7 @@
 ## if SSL/HTTPS is properly configured and you want all HTTP requests to
 ## be redirected to HTTPS, uncomment the line below:
 # request.requires_https()
-
-host="127.0.0.1:8000"
+from settings import *
 
 if not request.env.web2py_runtime_gae:
     ## if NOT running on Google App Engine use SQLite or other DB
@@ -83,11 +82,11 @@ use_janrain(auth,filename='private/janrain.key')
 ## >>> for row in rows: print row.id, row.myfield
 #########################################################################
 
-
 db.define_table(
 	'SentTrainDetails',
 	Field('Tweet','text',required=True),
 	Field('Label','string',required=True),
+	Field('UserEmail','string',required=True),
 	Field('Token','text',required=True)
 	)
 
@@ -99,13 +98,17 @@ db.define_table(
 	Field('ActualLabel','string'),
 	Field('Token','text'),
 	Field('UserEmail','string',required=True),
-	Field('Status','string',default='0')
+	Field('TrainStatus','string',default='0'),
+	Field('PredictedStatus','string',default='0'),
+	Field('ActualStatus','string',default='0')
 	)
+
 db.define_table(
 	'PhraseTrainDetails',
 	Field('Tweet','text',required=True),
 	Field('Phrase','text',required=True),
 	Field('Label','string',required=True),
+	Field('UserEmail','string',required=True),
 	Field('Token','text',required=True)
 	)
 
@@ -118,8 +121,19 @@ db.define_table(
 	Field('ActualLabel','string'),
 	Field('Token','text'),
 	Field('UserEmail','string',required=True),
-	Field('Status','string',default='0')
+	Field('TrainStatus','string',default='0'),
+	Field('PredictedStatus','string',default='0'),
+	Field('ActualStatus','string',default='0')
 	)
+
+db.define_table(
+      'Upload',
+      Field('DataType','string',required=True),
+      Field('TestType','string',required=True),
+      Field('UserEmail','string',required=True),
+      Field('ProcessedStatus','string',default='0'),
+      Field('File','upload'),
+      format = '%(title)s')
 
 ## after defining tables, uncomment below to enable auditing
 # auth.enable_record_versioning(db)

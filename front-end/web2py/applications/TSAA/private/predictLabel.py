@@ -1,7 +1,7 @@
 import time
 while True:
     """sentence level"""
-    rows = db(db.SentTestDetails.Status=='0').select()
+    rows = db(db.SentTestDetails.PredictedStatus=='0').select()
     print rows
     for row in rows:
 	tweet=row.Tweet
@@ -11,11 +11,11 @@ while True:
 	token=''
 	"""predict label"""
 	predictedLabel=''
-        row.update_record(Token=token, PredictedLabel=predictedLabel, Status='1')
+        row.update_record(Token=token, PredictedLabel=predictedLabel, PredictedStatus='1')
         db.commit()
 
     """phrase level"""
-    rows = db(db.PhraseTestDetails.Status=='0').select()
+    rows = db(db.PhraseTestDetails.PredictedStatus=='0').select()
     print rows
     for row in rows:
 	tweet=row.Tweet
@@ -27,7 +27,7 @@ while True:
 	token=''
 	"""predict label"""
 	predictedLabel=''
-        row.update_record(Token=token, PredictedLabel=predictedLabel, Status='1')
+        row.update_record(Token=token, PredictedLabel=predictedLabel, PredictedStatus='1')
         db.commit()
     time.sleep(60) # check every minute
     db.commit()

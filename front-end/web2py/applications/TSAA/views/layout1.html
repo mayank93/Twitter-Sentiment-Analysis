@@ -230,6 +230,18 @@ background-color: #f7f7f7;
                     <span>AddTest</span>
                 </a>
             </li>
+	    <li {{if url=='upload' :}}class="active"{{pass}}>
+	    	{{if url=='upload' :}}
+                <div class="pointer">
+                    <div class="arrow"></div>
+                    <div class="arrow_border"></div>
+                </div>
+		{{pass}}
+                <a href="{{=URL(r = request, f = 'upload')}}">
+                    <i class="icon-upload-alt"></i>
+                    <span>UploadData</span>
+                </a>
+            </li>
             <li {{if url=='testDetails' :}}class="active"{{pass}}>
 	    	{{if url=='testDetails' :}}
                 <div class="pointer">

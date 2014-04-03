@@ -1,4 +1,5 @@
 from tokenizer import *
+import time
 
 while True:
     rows = db(db.Upload.ProcessedStatus=='0').select()
@@ -8,7 +9,7 @@ while True:
 
     for row in rows:
         cwd=os.getcwd()
-        fileName = os.path.join(appPath, 'uploads', row.file)
+        fileName = os.path.join(appPath, 'uploads', row.File)
         f=open(fileName,'r')
         if row.TestType=='Sentence':
             for line in f:
@@ -22,14 +23,17 @@ while True:
                     data=data.split('\t')
                     tokenizedTweet=data[0]
                     token=data[1]
-                    if row.DataType='Train':
+                    print label
+                    if row.DataType=='Train':
                         if label:
-                            tid=db.SentTrainDetails.insert(Tweet=tweet, Token=token, Label=label)
+                            tid=db.SentTrainDetails.insert(Tweet=tokenizedTweet, Token=token, Label=label,UserEmail=row.UserEmail)
                     else:
                         if label:
-                            tid=db.SentTestDetails.insert(Tweet=tweet, Token=token, ActualLabel=label, ActualStatus='1')
+                            tid=db.SentTestDetails.insert(TestName='N/A',Tweet=tokenizedTweet, Token=token, ActualLabel=label, ActualStatus='1',UserEmail=row.UserEmail)
                         else:
-                            tid=db.SentTestDetails.insert(Tweet=tweet, Token=token)
+                            tid=db.SentTestDetails.insert(TestName='N/A',Tweet=tokenizedTweet, Token=token,UserEmail=row.UserEmail)
+                    print tid
+                    db.commit()
                     
         else:
             for line in f:
@@ -44,15 +48,15 @@ while True:
                     data=data.split('\t')
                     tokenizedTweet=data[0]
                     token=data[1]
-                    if row.DataType='Train':
+                    if row.DataType=='Train':
                         if label:
-                            tid=db.PhraseTrainDetails.insert(Tweet=tweet, Token=token, Label=label,Phrase=phrase)
+                            tid=db.PhraseTrainDetails.insert(Tweet=tokenizedTweet, Token=token, Label=label,Phrase=phrase,UserEmail=row.UserEmail)
                     else:
                         if label:
-                            tid=db.PhraseTestDetails.insert(Tweet=tweet, Token=token, ActualLabel=label, ActualStatus='1',Phrase=phrase)
+                            tid=db.PhraseTestDetails.insert(Tweet=tokenizedTweet, Token=token, ActualLabel=label, ActualStatus='1',Phrase=phrase,UserEmail=row.UserEmail)
                         else:
-                            tid=db.PhraseTestDetails.insert(Tweet=tweet, Token=token, Phrase=phrase)
-        db.commit()
+                            tid=db.PhraseTestDetails.insert(Tweet=tokenizedTweet, Token=token, Phrase=phrase,UserEmail=row.UserEmail)
+                    db.commit()
         row.update_record(ProcessedStatus='1')
         db.commit()
     time.sleep(60) # check every minute

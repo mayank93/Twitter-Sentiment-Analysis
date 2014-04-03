@@ -5,11 +5,10 @@ S'/TSAA/default/index'
 p3
 sS'flash'
 p4
-S''
-sS'auth'
+NsS'auth'
 p5
 NsS'_formkey[login]'
 p6
-S'e61f4384-ac35-4c78-a286-d9c12e8c8543'
+S'26de2317-8e6c-4f8b-843a-04c3778b3b1e'
 p7
 s.

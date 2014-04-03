@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # this file is released under public domain and you can use without limitations
 import os
-import settings
+from settings import *
 #########################################################################
 ## This is a samples controller
 ## - index is the default action of any application
@@ -88,7 +88,7 @@ def upload():
 	dataFile=db.Upload.File.store(request.vars.DataFile.file, request.vars.DataFile.filename)	
 	print dataFile
 	response.flash = 'file uploaded'
-#	id = db.upload.insert(DataType=request.vars.DataType,TestType=request.vars.TestType,UserEmail=session.email,file=dataFile)
+	id = db.Upload.insert(DataType=request.vars.DataType,TestType=request.vars.TestType,UserEmail=session.email,file=dataFile)
 	db.commit()
     return dict()
 

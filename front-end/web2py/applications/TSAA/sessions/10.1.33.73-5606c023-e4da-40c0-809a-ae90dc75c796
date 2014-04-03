@@ -3,7 +3,7 @@ S'_auth_next'
 p2
 NsS'_formkey[login]'
 p3
-S'3571c2f7-16a0-484e-be36-b8326b6908c5'
+S'182a0fee-7f17-4d49-9cc7-adef657b1ee5'
 p4
 sS'flash'
 p5
@@ -25,7 +25,7 @@ p11
 (dp12
 S'hmac_key'
 p13
-S'4111eed3-3791-478c-9ac8-09f32c27a62d'
+S'bc5e5aec-c7bd-4539-b1c8-a2a055151f58'
 p14
 sS'remember'
 p15
@@ -35,7 +35,7 @@ p16
 cdatetime
 datetime
 p17
-(S'\x07\xde\x04\x03\x120;\r\x82A'
+(S'\x07\xde\x04\x03\x15"\x1d\x07iV'
 tRp18
 sS'user'
 p19

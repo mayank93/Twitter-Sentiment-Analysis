@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 # this file is released under public domain and you can use without limitations
 import os
+from tokenizer import *
 from settings import *
+
 #########################################################################
 ## This is a samples controller
 ## - index is the default action of any application
@@ -71,11 +73,15 @@ def addTest():
 		print Tweet
 		print TestType
 		print Phrase
-
+		# tokenizing tweet
+		data=tokenize(Tweet)
+		data=data.split('\t')
+		TokenizedTweet=data[0]
+		Token=data[1]
 		if TestType=='Sentence':
-			tid=db.SentTestDetails.insert(TestName=TestName,UserEmail=session.email,Tweet=Tweet)
+			tid=db.SentTestDetails.insert(TestName=TestName,UserEmail=session.email,Tweet=TokenizedTweet,Token=Token)
 		else:
-			tid=db.PhraseTestDetails.insert(TestName=TestName,UserEmail=session.email,Tweet=Tweet,Phrase=Phrase)
+			tid=db.PhraseTestDetails.insert(TestName=TestName,UserEmail=session.email,Tweet=TokenizedTweet,Phrase=Phrase,Token=Token)
 		db.commit()
 		redirect(URL(r=request, f='testDetails'))
 	return dict()
@@ -88,7 +94,7 @@ def upload():
 	dataFile=db.Upload.File.store(request.vars.DataFile.file, request.vars.DataFile.filename)	
 	print dataFile
 	response.flash = 'file uploaded'
-#	id = db.upload.insert(DataType=request.vars.DataType,TestType=request.vars.TestType,UserEmail=session.email,file=dataFile)
+	id = db.Upload.insert(DataType=request.vars.DataType,TestType=request.vars.TestType,UserEmail=session.email,File=dataFile)
 	db.commit()
     return dict()
 

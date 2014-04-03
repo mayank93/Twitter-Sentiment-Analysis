@@ -1,0 +1,1 @@
+I've narrowed it down to Sophos and Chrome crapping out on chrome ! SetPrinterInfo+0xcfc . Detours may make this very difficult to figure out .

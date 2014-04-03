@@ -1,4 +1,4 @@
-timestamp: 2014-04-01T23:06:17.930021
+timestamp: 2014-04-03T21:07:10.513543
 CREATE TABLE auth_user(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     first_name CHAR(128),
@@ -10,21 +10,21 @@ CREATE TABLE auth_user(
     registration_id CHAR(512)
 );
 success!
-timestamp: 2014-04-01T23:06:18.059798
+timestamp: 2014-04-03T21:07:10.639515
 CREATE TABLE auth_group(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     role CHAR(512),
     description TEXT
 );
 success!
-timestamp: 2014-04-01T23:06:18.172307
+timestamp: 2014-04-03T21:07:10.763222
 CREATE TABLE auth_membership(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     user_id INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
     group_id INTEGER REFERENCES auth_group (id) ON DELETE CASCADE
 );
 success!
-timestamp: 2014-04-01T23:06:18.284557
+timestamp: 2014-04-03T21:07:10.919678
 CREATE TABLE auth_permission(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     group_id INTEGER REFERENCES auth_group (id) ON DELETE CASCADE,
@@ -33,7 +33,7 @@ CREATE TABLE auth_permission(
     record_id INTEGER
 );
 success!
-timestamp: 2014-04-01T23:06:18.396977
+timestamp: 2014-04-03T21:07:11.043926
 CREATE TABLE auth_event(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     time_stamp TIMESTAMP,
@@ -43,7 +43,7 @@ CREATE TABLE auth_event(
     description TEXT
 );
 success!
-timestamp: 2014-04-01T23:06:18.520224
+timestamp: 2014-04-03T21:07:11.167249
 CREATE TABLE auth_cas(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     user_id INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
@@ -53,15 +53,16 @@ CREATE TABLE auth_cas(
     renew CHAR(1)
 );
 success!
-timestamp: 2014-04-01T23:07:07.902562
+timestamp: 2014-04-03T21:07:11.290703
 CREATE TABLE SentTrainDetails(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     Tweet TEXT,
     Label CHAR(512),
+    UserEmail CHAR(512),
     Token TEXT
 );
 success!
-timestamp: 2014-04-01T23:07:08.030485
+timestamp: 2014-04-03T21:07:11.600080
 CREATE TABLE SentTestDetails(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     TestName CHAR(512),
@@ -70,19 +71,22 @@ CREATE TABLE SentTestDetails(
     ActualLabel CHAR(512),
     Token TEXT,
     UserEmail CHAR(512),
-    Status CHAR(512)
+    TrainStatus CHAR(512),
+    PredictedStatus CHAR(512),
+    ActualStatus CHAR(512)
 );
 success!
-timestamp: 2014-04-01T23:07:08.153898
+timestamp: 2014-04-03T21:07:11.738856
 CREATE TABLE PhraseTrainDetails(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     Tweet TEXT,
     Phrase TEXT,
     Label CHAR(512),
+    UserEmail CHAR(512),
     Token TEXT
 );
 success!
-timestamp: 2014-04-01T23:07:08.277299
+timestamp: 2014-04-03T21:07:11.874980
 CREATE TABLE PhraseTestDetails(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     TestName CHAR(512),
@@ -92,36 +96,18 @@ CREATE TABLE PhraseTestDetails(
     ActualLabel CHAR(512),
     Token TEXT,
     UserEmail CHAR(512),
-    Status CHAR(512)
+    TrainStatus CHAR(512),
+    PredictedStatus CHAR(512),
+    ActualStatus CHAR(512)
 );
 success!
-timestamp: 2014-04-03T11:01:47.768097
-ALTER TABLE SentTrainDetails ADD useremail CHAR(512);
-timestamp: 2014-04-03T11:01:47.922256
-ALTER TABLE SentTestDetails ADD actualstatus CHAR(512);
-timestamp: 2014-04-03T11:01:48.045317
-ALTER TABLE SentTestDetails ADD predictedstatus CHAR(512);
-timestamp: 2014-04-03T11:01:48.178282
-ALTER TABLE SentTestDetails ADD trainstatus CHAR(512);
-timestamp: 2014-04-03T11:01:48.303329
-ALTER TABLE PhraseTrainDetails ADD useremail CHAR(512);
-timestamp: 2014-04-03T11:01:48.430451
-ALTER TABLE PhraseTestDetails ADD actualstatus CHAR(512);
-timestamp: 2014-04-03T11:01:48.574835
-ALTER TABLE PhraseTestDetails ADD predictedstatus CHAR(512);
-timestamp: 2014-04-03T11:01:48.718453
-ALTER TABLE PhraseTestDetails ADD trainstatus CHAR(512);
-timestamp: 2014-04-03T11:01:48.898103
+timestamp: 2014-04-03T21:07:12.020012
 CREATE TABLE Upload(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    file CHAR(512)
+    DataType CHAR(512),
+    TestType CHAR(512),
+    UserEmail CHAR(512),
+    ProcessedStatus CHAR(512),
+    File CHAR(512)
 );
 success!
-timestamp: 2014-04-03T11:24:17.003461
-ALTER TABLE Upload ADD useremail CHAR(512);
-timestamp: 2014-04-03T13:21:21.709740
-ALTER TABLE Upload ADD datatype CHAR(512);
-timestamp: 2014-04-03T13:21:21.878200
-ALTER TABLE Upload ADD processedstatus CHAR(512);
-timestamp: 2014-04-03T13:21:22.013144
-ALTER TABLE Upload ADD testtype CHAR(512);

@@ -132,8 +132,8 @@ db.define_table(
       Field('TestType','string',required=True),
       Field('UserEmail','string',required=True),
       Field('ProcessedStatus','string',default='0'),
-      Field('File','upload'),
-      format = '%(title)s')
+      Field('File','upload')
+      )
 
 ## after defining tables, uncomment below to enable auditing
 # auth.enable_record_versioning(db)

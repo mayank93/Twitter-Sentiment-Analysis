@@ -3,6 +3,7 @@ about
 above
 after
 again
+against
 all
 am
 an
@@ -70,6 +71,9 @@ more
 most
 my
 myself
+no
+nor
+not
 of
 off
 on

@@ -1757,8 +1757,12 @@ hy hell yeah	^ ! !	0.5328 0.5915 0.9974	hy hell yeah
 hyb how you been	! R O V	0.3284 0.9695 0.9998 0.9941	hyb how you been
 hyg here you go	! R O V	0.2197 0.9105 0.9997 0.9907	hyg here you go
 hyk how you know	! R O V	0.3629 0.9824 0.9998 0.9957	hyk how you know
+i I love you	O O V O	0.9368 0.9979 0.9993 0.9988	i  I love you
+i c i see	O V O V	0.9082 0.7792 0.9952 0.9971	i c i see
 i8 alright	L !	0.4108 0.8450	i8 alright
 i8u i hate you	$ O V O	0.2320 0.9907 1.0000 0.9957	i8u i hate you
+i i love you	O O V O	0.9583 0.9585 0.9995 0.9988	i i love you
+i I love you	O O V O	0.9368 0.9979 0.9993 0.9988	i I love you
 iab I Am Bored	^ O V A	0.6511 0.9908 0.9964 0.9343	iab I Am Bored
 iafh I Am f**king Hot	L O V A A	0.1750 0.9940 0.9880 0.3990 0.8783	iafh I Am f**king Hot
 iafi I am from India	L O V P ^	0.1627 0.9974 0.9984 0.9977 0.9980	iafi I am from India
@@ -1789,6 +1793,7 @@ ibs Internet b***h Slap	^ N N N	0.8062 0.8794 0.9971 0.4961	ibs Internet b***h S
 ibt I'll be there	G L V R	0.1940 0.9905 0.9995 0.9375	ibt I'll be there
 ibtl In Before The Lock	L P P D N	0.2193 0.8549 0.9559 0.9762 0.8848	ibtl In Before The Lock
 ibw I'll be waiting	L L V V	0.2315 0.9867 0.9993 0.9734	ibw I'll be waiting
+ic I see	G O V	0.3805 0.9977 0.9986	ic I see
 icb I can't believe	G O V V	0.5314 0.9976 0.9999 0.9987	icb I can't believe
 icbi i can't believe it	^ O V V O	0.1735 0.9722 0.9999 0.9999 0.9884	icbi i can't believe it
 icbiwoop I chuckled , but it was out of pity .	! O V , & O V P P N ,	0.1285 0.9987 0.9988 0.9990 0.9969 0.9988 0.9998 0.5231 0.9809 0.9661 0.9987	icbiwoop I chuckled, but it was out of pity.

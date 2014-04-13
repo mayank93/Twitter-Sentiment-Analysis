@@ -1,9 +1,7 @@
 This project aims sentiment analysis at two levels:
 
-Sub Task A: Sentiment Analysis of the tweet as a whole
-Sub Task B: Sentiment Analysis of the tweet considering sub phrases
+
+Sub Task A: Sentiment Analysis of the tweet considering sub phrases
+Sub Task B: Sentiment Analysis of the tweet as a whole
 
 Look into the ReadMe files of the respective folder to learn more
-
-Documentation Available at:
-WebPage: 

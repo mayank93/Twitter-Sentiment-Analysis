@@ -6,11 +6,19 @@
             <div id="pad-wrapper">
 
                 <!-- table sample -->
-                <!-- the script for the toggle all checkboxes from header is located in js/theme.js -->
+		<!-- the script for the toggle all checkboxes from header is located in js/theme.js -->
                 <div class="table-products section">
                     <div class="row-fluid head">
                         <div class="span12">
-                            <h4>Tests <small>Status</small></h4>
+				<h4>
+					<b>Sentence Level</b><br/>
+					Total Tweet :{{=accuracySent[1]}} &nbsp;&nbsp; Correct Prediction:{{=accuracySent[0]}} &nbsp;&nbsp; Accuracy:{{=accuracySent[2]}}<br/>
+				</h4>
+				<br/>
+				<h4>
+					<b>Phrase Level</b><br/>
+					Total Tweet :{{=accuracyPhrase[1]}} &nbsp;&nbsp; Correct Prediction:{{=accuracyPhrase[0]}} &nbsp;&nbsp; Accuracy:{{=accuracyPhrase[2]}}<br/>
+				</h4>
                         </div>
                     </div>
                     <div class="row-fluid">
@@ -18,19 +26,19 @@
                             <thead>
                                 <tr>
                                     <th class="span3">
-                                        Test Name
+                                        Tweet
                                     </th>
-                                    <th class="span3">
-                                        <span class="line"></span>Tweet
-                                    </th>
-                                    <th class="span3">
+                                    <th class="span2">
                                         <span class="line"></span>Status
                                     </th>
-                                    <th class="span3">
+                                    <th class="span2">
                                         <span class="line"></span>Type
                                     </th>
-                                    <th class="span3">
+                                    <th class="span2">
                                         <span class="line"></span>Phrase
+                                    </th>
+                                    <th class="span3">
+                                        <span class="line"></span>PredictedLabel
                                     </th>
                                 </tr>
                             </thead>
@@ -39,21 +47,23 @@
 				{{for i in sentDetails:}}
 				{{print i}}
                                 <tr>
-                                    <td>
-                                        <a href="{{=URL(r = request, f = 'test' ,args=[i.id,'Sentence'])}}">{{=i.TestName}}</a>
-                                    </td>
                                     <td class="description">
-					{{=i.Tweet}}
+					   {{=i.Tweet}}
                                     </td>
                                     <td>
-				    	<span class="label label-info">N/A</span>
+				    	<span class="label label-info">
+						<a href="{{=URL(r = request, f = 'test' ,args=[i.id,'Sentence'])}}">Click</a>
+					</span>
 				    	<!--span class="label label-success">Complete</span-->
                                     </td>
                                     <td>
 					<span class="label label-info">Sentence</span>
                                     </td>
+                                    <td class="description">
+				   	N/A
+                                    </td>
                                     <td>
-				    	<span class="label label-info">N/A</span>
+					    <span class="label label-info">{{=i.PredictedLabel}}</span>
                                     </td>
                                 </tr>
 				{{pass}}
@@ -63,21 +73,23 @@
 				{{for i in phraseDetails:}}
 				{{print i}}
                                 <tr>
-                                    <td>
-                                        <a href="{{=URL(r = request, f = 'test' ,args=[i.id,'Phrase'])}}">{{=i.TestName}}</a>
-                                    </td>
                                     <td class="description">
 					{{=i.Tweet}}
                                     </td>
                                     <td>
-				    	<span class="label label-info">N/A</span>
+				    	<span class="label label-info">
+						<a href="{{=URL(r = request, f = 'test' ,args=[i.id,'Sentence'])}}">Click</a>
+					</span>
 				    	<!--span class="label label-success">Complete</span-->
                                     </td>
                                     <td>
 					<span class="label label-info">Phrase</span>
                                     </td>
+                                    <td class="description">
+					    {{=i.Phrase}}
+                                    </td>
                                     <td>
-				    	<span class="label label-info">{{=i.Phrase}}</span>
+					    <span class="label label-info">{{=i.PredictedLabel}}</span>
                                     </td>
                                 </tr>
 				{{pass}}

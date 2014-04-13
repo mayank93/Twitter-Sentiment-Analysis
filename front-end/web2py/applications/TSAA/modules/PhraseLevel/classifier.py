@@ -1,8 +1,6 @@
 from svmutil import *
-#from sklearn import naive_bayes
-#from sklearn.externals import joblib
 
-def svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest):
+def svmClassifierModel(trainingLabel, featureVectorsTrain, modelPath):
     
     """Feed the feature vector to svm to create model"""
     print "Creating SVM Model"
@@ -10,8 +8,15 @@ def svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsT
     print "Model created. Saving..."
 
     """Save model"""
-    svm_save_model('.//code//sentimentAnalysisSVM.model', model)
+    svm_save_model(modelPath, model)
     print "Model Saved. Proceed to test..."
+    return
+
+def svmLabelPredicter(testingLabel,featureVectorsTest,modelPath):
+    
+    """Load Model"""
+    print "Loading Model"
+    model= svm_load_model(modelPath)
 
     predictedLabel, predictedAcc, predictedValue = svm_predict(testingLabel, featureVectorsTest, model)
     print "Finished. The accuracy is:"

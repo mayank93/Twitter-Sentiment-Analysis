@@ -2,9 +2,9 @@ negation wait
 laugh loud
 looking forward
 goodnite luck
-negation miss
 cant wait
 love !
+negation miss
 goodnite morning
 negation going
 anytime great
@@ -13,12 +13,13 @@ negation like
 goodnite !
 negation know
 excited !
-happy birthday
 big day
 negation goodnite
-! positive
 wait !
+happy birthday
+day !
 negation make
+! positive
 really goodnite
 great day
 wait eyes

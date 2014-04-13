@@ -1,9 +1,9 @@
 from replaceExpand import *
 from collections import defaultdict
 
-def loadDictionary():
+def loadDictionary(emoticonsFile, acronymFile, stopWordsFile):
     """create emoticons dictionary"""
-    f=open(".//code//emoticonsWithPolarity.txt",'r')
+    f=open(emoticonsFile,'r')
     data=f.read().split('\n')
     emoticonsDict={}
     for i in data:
@@ -18,7 +18,7 @@ def loadDictionary():
     #print emoticonsDict
 
     """create acronym dictionary"""
-    f=open(".//code//acronym_tokenised.txt",'r')
+    f=open(acronymFile,'r')
     data=f.read().split('\n')
     acronymDict={}
     for i in data:
@@ -35,7 +35,7 @@ def loadDictionary():
 
     """create stopWords dictionary"""
     stopWords=defaultdict(int)
-    f=open(".//code//stopWords.txt", "r")
+    f=open(stopWordsFile,'r')
     for line in f:
         if line:
             line=line.strip(specialChar).lower()

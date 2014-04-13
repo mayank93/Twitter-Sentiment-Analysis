@@ -5,7 +5,7 @@ from collections import defaultdict
 if __name__ == '__main__':
 
     """create emoticons dictionary"""
-    f=open("emoticonsWithPolarity.txt",'r')
+    f=open(sys.argv[1],'r')
     data=f.read().split('\n')
     emoticonsDict={}
     for i in data:
@@ -20,7 +20,7 @@ if __name__ == '__main__':
     #print emoticonsDict
 
     """create acronym dictionary"""
-    f=open("acronym_tokenised.txt",'r')
+    f=open(sys.argv[2],'r')
     data=f.read().split('\n')
     acronymDict={}
     for i in data:
@@ -37,22 +37,23 @@ if __name__ == '__main__':
 
     """create stopWords dictionary"""
     stopWords=defaultdict(int)
-    f=open("stopWords.txt", "r")
+    f=open(sys.argv[3], "r")
     for line in f:
         if line:
             line=line.strip(specialChar).lower()
             stopWords[line]=1
     f.close()
-
     uniDict={}
  
-    f=open(sys.argv[1],'r')
+    f=open(sys.argv[4],'r')
     for i in f:
         if i:
             i=i.split('\t')
-            tweet=i[1].split()
+            tweet=i[1]
             token=i[2].split()
-            label=i[3].strip()
+	    phrase=i[3].split()
+            label=i[4].strip()
+	    tweet=phrase
             if tweet:
                 tweet, token, count1, count2 = preprocesingTweet1(tweet, token, emoticonsDict, acronymDict)
                 tweet,token=preprocesingTweet2(tweet, token, stopWords)

@@ -42,16 +42,10 @@ function Toggle1(id) {
     <div  class="span3">
     </div>
     <div  class="span6 box" style="margin:10px;padding:10px 30px 10px 30px" >
-     	<div class="control-group" style="height:60px;width:100%">
-		<label class="control-label" for="TestName">Test Name</label>
-		<div class="controls">
-			<input type="text" class="span10 line" id="TestName" name="TestName" value={{=details.TestName}} readonly>
-		</div>
-	</div>
-	<div class="control-group" style="height:60px;width:100%">
+	<div class="control-group" style="height:80px;width:100%">
 		<label class="control-label" for="Tweet">Tweet</label>
 		<div class="controls">
-			<input type="text" class="span10 line" id="Tweet" name="Tweet" value={{=details.Tweet}} readonly>
+			<textarea class="span10 line" id="Tweet" name="Tweet" readonly>{{=details.Tweet}}</textarea>
 		</div>
 	</div>	
 	<div class="control-group" style="height:60px;width:100%">

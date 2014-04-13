@@ -130,6 +130,7 @@
 'Recipes': 'Recipes',
 'Record %(id)s created': 'Record %(id)s created',
 'Record Created': 'Record Created',
+'record does not exist': 'record does not exist',
 'Record ID': 'Record ID',
 'Record id': 'Record id',
 'Register': 'Register',

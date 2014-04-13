@@ -55,17 +55,35 @@ def testDetails():
     	session.email=auth.user.email
     	print session.email
 	sentDetails=db(db.SentTestDetails.UserEmail == session.email).select()
+	total=0
+	correct=0
+	for row in sentDetails:
+		if(row.PredictedLabel==row.ActualLabel):
+			correct+=1
+		total+=1
+	if total==0:
+		total=1
+	accuracySent=[correct,total,(correct*100.0)/total]
 	phraseDetails=db(db.PhraseTestDetails.UserEmail == session.email).select() 
+	total=0
+	correct=0
+	for row in phraseDetails:
+		if(row.PredictedLabel==row.ActualLabel):
+			correct+=1
+		total+=1
+	if total==0:
+		total=1
+	accuracyPhrase=[correct,total,(correct*100.0)/total]
 	print sentDetails
 	print phraseDetails
-	return dict(sentDetails=sentDetails,phraseDetails=phraseDetails)
+	return dict(sentDetails=sentDetails,phraseDetails=phraseDetails,accuracySent=accuracySent,accuracyPhrase=accuracyPhrase)
 
 @auth.requires_login()
 def addTest():
     	session.email=auth.user.email
     	print session.email
 	if request.vars.Submit=='Submit' :
-		TestName=request.vars.TestName
+		TestName='N/A'
 		Tweet=request.vars.Tweet
 		TestType=request.vars.TestType
 		Phrase=request.vars.Phrase
@@ -81,7 +99,11 @@ def addTest():
 		if TestType=='Sentence':
 			tid=db.SentTestDetails.insert(TestName=TestName,UserEmail=session.email,Tweet=TokenizedTweet,Token=Token)
 		else:
-			tid=db.PhraseTestDetails.insert(TestName=TestName,UserEmail=session.email,Tweet=TokenizedTweet,Phrase=Phrase,Token=Token)
+			data=tokenize(Phrase)
+			data=data.split('\t')
+			TokenizedPhrase=data[0]
+			Token=data[1]
+			tid=db.PhraseTestDetails.insert(TestName=TestName,UserEmail=session.email,Tweet=TokenizedTweet,Phrase=TokenizedPhrase,Token=Token)
 		db.commit()
 		redirect(URL(r=request, f='testDetails'))
 	return dict()

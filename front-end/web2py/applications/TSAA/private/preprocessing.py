@@ -36,27 +36,37 @@ while True:
                     db.commit()
                     
         else:
+	    ii=0
             for line in f:
                 if line:
                     line=line.split('\t')
                     tweet=line[0].strip('\r\t\n ')
+		    tweet=tweet.split()
                     phrase=tweet[int(line[1]):int(line[2])+1]
+		    tweet=' '.join(tweet)
+		    phrase=' '.join(phrase)
                     label=''
                     if len(line)>3:
                         label=line[3].strip('\r\t\n ')
-                    data=tokenize(tweet)
-                    data=data.split('\t')
-                    tokenizedTweet=data[0]
-                    token=data[1]
-                    if row.DataType=='Train':
-                        if label:
-                            tid=db.PhraseTrainDetails.insert(Tweet=tokenizedTweet, Token=token, Label=label,Phrase=phrase,UserEmail=row.UserEmail)
-                    else:
-                        if label:
-                            tid=db.PhraseTestDetails.insert(Tweet=tokenizedTweet, Token=token, ActualLabel=label, ActualStatus='1',Phrase=phrase,UserEmail=row.UserEmail)
-                        else:
-                            tid=db.PhraseTestDetails.insert(Tweet=tokenizedTweet, Token=token, Phrase=phrase,UserEmail=row.UserEmail)
-                    db.commit()
+		    print tweet
+		    print"-----------"
+		    print phrase
+		    print"-----------"
+		    if phrase:
+                    	data=tokenize(phrase)
+                    	data=data.split('\t')
+                    	tokenizedTweet=data[0]
+                    	token=data[1]
+		    	print token
+                    	if row.DataType=='Train':
+                        	if label:
+                            		tid=db.PhraseTrainDetails.insert(Tweet=tweet, Token=token, Label=label,Phrase=tokenizedTweet,UserEmail=row.UserEmail)
+                    	else:
+                        	if label:
+                            		tid=db.PhraseTestDetails.insert(TestName='N/A',Tweet=tweet, Token=token, ActualLabel=label, ActualStatus='1',Phrase=tokenizedTweet,UserEmail=row.UserEmail)
+                        	else:
+                            		tid=db.PhraseTestDetails.insert(TestName='N/A',Tweet=tweet, Token=token, Phrase=tokenizedTweet,UserEmail=row.UserEmail)
+                    	db.commit()
         row.update_record(ProcessedStatus='1')
         db.commit()
     time.sleep(60) # check every minute

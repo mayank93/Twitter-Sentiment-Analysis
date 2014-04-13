@@ -1,0 +1,40 @@
+Sub Task A: Contextual Polarity Disambiguation
+
+Given a message containing a marked instance of a word or phrase, determine whether that instance is positive, negative or neutral in that context.
+
+
+Prerequisites:
+
+ 1)Python 2.6 or higher
+ 2)NLTK 2.0     http://www.nltk.org 
+ 3)NumPy        http://numpy.scipy.org
+ 4)SentiWordNet http://sentiwordnet.isti.cnr.it
+ 5)Sentiment_classifier 0.5 https://pypi.python.org/pypi/sentiment_classifier
+ 6)sklearn
+ 7)LIBSVM :https://github.com/cjlin1/libsvm
+
+ Run Commands:
+
+ 1)python ./code/extractDataset.py ./dataset/trainingDatasetComplete.txt ./dataset/trainingDatasetProcessed.txt /dataset/example_tweets.txt
+
+
+ 2) ./ark-tweet-nlp/runTagger.sh ./dataset/example_tweets.txt > ./dataset/trainingTokenised.txt
+
+
+ 3)python ./code/combine.py ./dataset/trainingDatasetProcessed.txt ./dataset/trainingTokenised.txt ./dataset/finalTrainingInput.txt
+
+
+ 4)python ./code/extractDataset.py ./dataset/testingDatasetComplete.txt ./dataset/testingDatasetProcessed.txt ./dataset/example_tweets.txt
+
+
+ 5) ./ark-tweet-nlp/runTagger.sh ./dataset/example_tweets.txt > ./dataset/testingTokenised.txt
+
+
+ 6)python ./code/combine.py ./dataset/testingDatasetProcessed.txt ./dataset/testingTokenised.txt /dataset/finalTestingInput.txt
+
+
+ 7)python ./code/main.py ./dataset/finalTrainingInput.txt ./dataset/finalTestingInput.txt
+  
+
+    
+

@@ -34,6 +34,10 @@ Prerequisites:
 
 
  7)python ./code/main.py ./dataset/finalTrainingInput.txt ./dataset/finalTestingInput.txt
+
+
+ 8)python ./code/findf1.py ./code/taskA.gs ./code/taskA.pred
+  
   
 
     

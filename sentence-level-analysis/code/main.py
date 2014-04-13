@@ -170,25 +170,25 @@ if __name__ == '__main__':
     f.close()
     print "Feature Vectors of test input created. Calculating Accuracy..."
 
-    #predictedLabel = svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+    predictedLabel = svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
 
-    '''for i in range(len(predictedLabel)):
+    for i in range(len(predictedLabel)):
         givenLabel = predictedLabel[i]
         label = encode.keys()[encode.values().index(givenLabel)]
         data1.append(label)
 
-    f=open('taskB.gs','w')
+    f=open('./code/taskB.gs','w')
     f.write('\n'.join(data))
     f.close()
 
-    f=open('taskB.pred','w')
+    f=open('./code/taskB.pred','w')
     f.write('\n'.join(data1))
-    f.close()'''
+    f.close()
     
     #print len(featureVectorsTest)
     #print len(testingLabel)
     #print len(featureVectorsTrain)
     #print len(trainingLabel)
 
-    svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
-    naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+    #svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)
+    #naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest)

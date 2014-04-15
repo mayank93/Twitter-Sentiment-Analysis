@@ -1,6 +1,4 @@
 from svmutil import *
-from sklearn import naive_bayes
-from sklearn.externals import joblib
 
 def svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest):
     
@@ -17,14 +15,3 @@ def svmClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsT
     print "Finished. The accuracy is:"
     print predictedAcc[0]
     return predictedLabel
-
-def naiveBayesClassifier(trainingLabel,testingLabel,featureVectorsTrain,featureVectorsTest):
-    """Feed the feature vector to svm to create model"""
-    print "Creating Naive Bayes Model"
-    mnb = naive_bayes.GaussianNB()
-    mnb.fit(featureVectorsTrain,trainingLabel)
-    print "Model created. Saving..."
-    
-    """Save model"""
-    joblib.dump(mnb, './/code//sentimentAnalysisNaiveBayes.pkl', compress=9)
-    print mnb.score(featureVectorsTest,testingLabel)

@@ -1,0 +1,15 @@
+How to run:
+
+cd web2py
+
+check ur ip
+update the ip in applications/TSAA/modules/settings.py
+
+python web2py.py -i 0.0.0.0
+
+python web2py.py -S TSAA -M -N -R applications/TSAA/private/preprocessing.py
+
+python web2py.py -S TSAA -M -N -R applications/TSAA/private/predictLabel.py
+
+run this command when ever u want to retrain the SVMmodel
+python web2py.py -S TSAA -M -N -R applications/TSAA/private/trainModel.py

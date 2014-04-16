@@ -28,6 +28,7 @@
 'Click on the link %(link)s to verify your email': 'Click on the link %(link)s to verify your email',
 'Click on the link /FunkLoad/default/user/verify_email/%(key)s to verify your email': 'Click on the link /FunkLoad/default/user/verify_email/%(key)s to verify your email',
 'Click on the link 10.1.33.73:8000/TSAA/default/user/verify_email/%(key)s to verify your email': 'Click on the link 10.1.33.73:8000/TSAA/default/user/verify_email/%(key)s to verify your email',
+'Click on the link 10.2.4.49:8000/TSAA/default/user/verify_email/%(key)s to verify your email': 'Click on the link 10.2.4.49:8000/TSAA/default/user/verify_email/%(key)s to verify your email',
 'Click on the link 127.0.0.1/FunkLoad/default/user/verify_email/%(key)s to verify your email': 'Click on the link 127.0.0.1/FunkLoad/default/user/verify_email/%(key)s to verify your email',
 'Click on the link 127.0.0.1:8000/TSAA/default/user/verify_email/%(key)s to verify your email': 'Click on the link 127.0.0.1:8000/TSAA/default/user/verify_email/%(key)s to verify your email',
 'Click on the link http://10.1.33.107:8000//FunkLoad/default/user/verify_email/%(key)s to verify your email': 'Click on the link http://10.1.33.107:8000//FunkLoad/default/user/verify_email/%(key)s to verify your email',

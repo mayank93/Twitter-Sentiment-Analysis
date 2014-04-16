@@ -3,9 +3,10 @@ import time
 
 while True:
     rows = db(db.Upload.ProcessedStatus=='0').select()
-    """for phraseLevel file format is 'tweet\tphraseIndexStartingFrom0\tlabel"""
+    """for phraseLevel file format is 'tweet\tphraseIndexStarting\tphraseIndexEnging\tlabel"""
     """for sentenceLevel file format is 'tweet\tlabel"""
     """label in optional for test data"""
+    """indexing from 0"""
 
     for row in rows:
         cwd=os.getcwd()

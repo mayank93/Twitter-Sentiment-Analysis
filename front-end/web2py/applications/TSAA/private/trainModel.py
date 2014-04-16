@@ -5,8 +5,9 @@ from settings import *
 from collections import defaultdict
 from SentenceLevel import featureExtractor as sentenceFeatureExtractor, probablityModel as sentenceProbablityModel, classifier as sentenceClassifier, prepare as sentencePrepare , replaceExpand as sentenceReplaceExpand
 from PhraseLevel import featureExtractor as phraseFeatureExtractor, probablityModel as phraseProbablityModel, classifier as phraseClassifier, prepare as phrasePrepare , replaceExpand as phraseReplaceExpand
+import time
 
-if __name__ == '__main__':
+while True:
 
 	""" sentence level model """
    	rows = db(db.SentTrainDetails.id>0).select()
@@ -43,7 +44,6 @@ if __name__ == '__main__':
 
 	affinFile=os.path.join(appPath,'modules','SentenceLevel','AFINN-111.txt')
     	priorScore=dict(map(lambda (k,v): (frozenset(reduce( lambda x,y:x+y,[[i] if i not in acronymDict else acronymDict[i][0] for i in k.split()])),int(v)),[ line.split('\t') for line in open(affinFile,'r') ]))
-
 	"""create Unigram Model"""
     	print "Creating Unigram Model......."
     	uniModel=[]
@@ -77,7 +77,6 @@ if __name__ == '__main__':
     	print "Trigram Model Created"
     	""" polarity dictionary combines prior score """
     	polarityDictionary = sentenceProbablityModel.probTraining(priorScore)
-		
     
     	"""Create a feature vector of training set """
     	print "Creating Feature Vectors....."
@@ -88,6 +87,7 @@ if __name__ == '__main__':
     	featureVectorsTrain=[]
     	for i in f:
         	if i:
+		    print "hello"
         	    i=i.split('\t')
         	    tweet=i[1].split()
         	    token=i[2].split()
@@ -130,10 +130,9 @@ if __name__ == '__main__':
     	f.close()
     	print "Feature Vectors Train Created....."
 	print trainingLabel
-	modelPath=os.path.join(appPath,'modules','SentenceLevel','sentimentAnalysisSVM.model')    
+	modelPath=os.path.join(appPath,'modules','SentenceLevel','sentimentAnalysisSVM.model')
 	"""feed feature vector to svm to get model save it"""
 	sentenceClassifier.svmClassifierModel(trainingLabel, featureVectorsTrain, modelPath)
-
 	
 	
 	
@@ -271,8 +270,4 @@ if __name__ == '__main__':
 
 	"""feed feature vector to svm to get model save it"""
 	phraseClassifier.svmClassifierModel(trainingLabel, featureVectorsTrain, modelPath)
-
-
-	"""for each row extract the tweet,phrase,token,label and do preprocesing and create a feature vector"""
-	
-	"""feed feature vector to svm to get model"""
+	time.sleep(86400)

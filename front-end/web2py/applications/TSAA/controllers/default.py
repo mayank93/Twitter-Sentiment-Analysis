@@ -62,8 +62,9 @@ def testDetails():
 			correct+=1
 		total+=1
 	if total==0:
-		total=1
-	accuracySent=[correct,total,(correct*100.0)/total]
+		accuracySent=[0.0,0.0,0.0]
+	else:
+		accuracySent=[correct,total,(correct*100.0)/total]
 	phraseDetails=db(db.PhraseTestDetails.UserEmail == session.email).select() 
 	total=0
 	correct=0
@@ -72,8 +73,9 @@ def testDetails():
 			correct+=1
 		total+=1
 	if total==0:
-		total=1
-	accuracyPhrase=[correct,total,(correct*100.0)/total]
+		accuracyPhrase=[0.0,0.0,0.0]
+	else:
+		accuracyPhrase=[correct,total,(correct*100.0)/total]
 	print sentDetails
 	print phraseDetails
 	return dict(sentDetails=sentDetails,phraseDetails=phraseDetails,accuracySent=accuracySent,accuracyPhrase=accuracyPhrase)

@@ -2,17 +2,6 @@ Sub Task A: Contextual Polarity Disambiguation
 
 Given a message containing a marked instance of a word or phrase, determine whether that instance is positive, negative or neutral in that context.
 
-
-Prerequisites:
-
- 1)Python 2.6 or higher
- 2)NLTK 2.0     http://www.nltk.org 
- 3)NumPy        http://numpy.scipy.org
- 4)SentiWordNet http://sentiwordnet.isti.cnr.it
- 5)Sentiment_classifier 0.5 https://pypi.python.org/pypi/sentiment_classifier
- 6)sklearn
- 7)LIBSVM :https://github.com/cjlin1/libsvm
-
  Run Commands:
 
  1)python ./code/extractDataset.py ./dataset/trainingDatasetComplete.txt ./dataset/trainingDatasetProcessed.txt /dataset/example_tweets.txt

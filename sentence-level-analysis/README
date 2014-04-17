@@ -2,16 +2,6 @@ Sub Task B: Message Polarity Classification
 Given a message, classify whether the message is of positive, negative, or neutral sentiment. For messages conveying both a positive and negative sentiment, whichever is the stronger sentiment should be chosen.
 
 
-Prerequisites:
-
- 1)Python 2.6 or higher
- 2)NLTK 2.0     http://www.nltk.org 
- 3)NumPy        http://numpy.scipy.org
- 4)SentiWordNet http://sentiwordnet.isti.cnr.it
- 5)Sentiment_classifier 0.5 https://pypi.python.org/pypi/sentiment_classifier
- 6)sklearn
- 7)LIBSVM :https://github.com/cjlin1/libsvm
-
  Run Commands:
 
  1)python ./code/extractDataset.py ./dataset/trainingDatasetComplete.txt ./dataset/trainingDatasetProcessed.txt /dataset/example_tweets.txt

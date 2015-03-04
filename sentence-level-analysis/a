@@ -1,0 +1,442 @@
+{frozenset(['squelched']): -1, frozenset(['survived']): 2, frozenset(['attraction']): 2, frozenset(['f**king', 'a**', 'my', 'laughing', 'off']): 4, frozenset(['sarcastic']): -2, frozenset(['wealthy']): 2, frozenset(['perplexed']): -2, frozenset(['alarmist']): -2, frozenset(['laugh']): 1, frozenset(['attacking']): -1, frozenset(['scandalous']): -3, frozenset(['appreciation']): 2, frozenset(['snubbing']): -2, frozenset(['asset']): 2, frozenset(['woohoo']): 3, frozenset(['tits']): -2, frozenset(['lovelies']): 3, frozenset(['boosts']): 1, frozenset(['anti']): -1, frozenset(['missed']): -2, frozenset(['survivor']): 2, frozenset(['unacceptable']): -2, frozenset(['mistaken']): -2, frozenset(['merry']): 3, frozenset(['humiliated']): -3, frozenset(['heartbroken']): -3, frozenset(['apeshit']): -3, frozenset(['slashes']): -2, frozenset(['resolved']): 2, frozenset(['remarkable']): 2, frozenset(['opportunity']): 2, frozenset(['exonerating']): 2, frozenset(['peace']): 2, frozenset(['failures']): -2, frozenset(['overload']): -1, frozenset(['expels']): -2, frozenset(['mature']): 2, frozenset(['exaggerating']): -2, frozenset(['starving']): -2, frozenset(['blockbuster']): 3, frozenset(['fondness']): 2, frozenset(['enlightening']): 2, frozenset(['endorsed']): 2, frozenset(['successful']): 3, frozenset(['aggressive']): -2, frozenset(['exhilarates']): 3, frozenset(['selfish']): -3, frozenset(['verdict']): -1, frozenset(['dragged']): -1, frozenset(['faggots']): -3, frozenset(['reject']): -1, frozenset(['loathing']): -3, frozenset(['prblms']): -2, frozenset(['lost']): -3, frozenset(['threatened']): -2, frozenset(['visioning']): 1, frozenset(['irony']): -1, frozenset(['scream']): -2, frozenset(['upsets']): -2, frozenset(['sobering']): 1, frozenset(['petrified']): -2, frozenset(['luck']): 3, frozenset(['powerful']): 2, frozenset(['popular']): 3, frozenset(['festive']): 2, frozenset(['detain']): -2, frozenset(['idiot']): -3, frozenset(['vindicate']): 2, frozenset(['sadly']): -2, frozenset(['bless']): 2, frozenset(['cleaner']): 2, frozenset(['hysteria']): -3, frozenset(['miss']): -2, frozenset(['celebrate']): 3, frozenset(['refused']): -2, frozenset(['safe']): 1, frozenset(['innovate']): 1, frozenset(['motivated']): 2, frozenset(['resigns']): -1, frozenset(['terrorizes']): -3, frozenset(['tortured']): -4, frozenset(['fine']): 2, frozenset(['attracted']): 1, frozenset(['revered']): 2, frozenset(['discounted']): -1, frozenset(['penalty']): -2, frozenset(['lurk']): -1, frozenset(['swindling']): -3, frozenset(['nervous']): -2, frozenset(['empathetic']): 2, frozenset(['agreement']): 1, frozenset(['keen']): 1, frozenset(['yucky']): -2, frozenset(['commitment']): 2, frozenset(['stupid']): -2, frozenset(['appease']): 2, frozenset(['inconsiderate']): -2, frozenset(['favorites']): 2, frozenset(['trauma']): -3, frozenset(['banned']): -2, frozenset(['ranters']): -3, frozenset(['celebrated']): 3, frozenset(['Extremely-Negative']): -5, frozenset(['obliterated']): -2, frozenset(['exonerate']): 2, frozenset(['fraud']): -4, frozenset(['farce']): -1, frozenset(['encourage']): 2, frozenset(['perpetrators']): -2, frozenset(['terrified']): -3, frozenset(['uselessness']): -2, frozenset(['substantial']): 1, frozenset(['cheerful']): 2, frozenset(['nice']): 3, frozenset(['attractions']): 2, frozenset(['hysterics']): -3, frozenset(['abusive']): -3, frozenset(['anguish']): -3, frozenset(['brooding']): -2, frozenset(['enjoys']): 2, frozenset(['excluded']): -2, frozenset(['reach']): 1, frozenset(['protects']): 1, frozenset(['infuriating']): -2, frozenset(['death']): -2, frozenset(['unemployment']): -2, frozenset(['disgrace']): -2, frozenset(['cutting']): -1, frozenset(['gray']): -1, frozenset(['laughting']): 1, frozenset(['faking']): -3, frozenset(['dissatisfied']): -2, frozenset(['collapse']): -2, frozenset(['disappointed']): -2, frozenset(['negative']): -2, frozenset(['critic']): -2, frozenset(['suave']): 2, frozenset(['desirous']): 2, frozenset(['swear']): -2, frozenset(['oppressed']): -2, frozenset(['bullshit']): -4, frozenset(['nervously']): -2, frozenset(['selfishness']): -3, frozenset(['boycotting']): -2, frozenset(['convinces']): 1, frozenset(['goodnite']): 3, frozenset(['haplessness']): -2, frozenset(['bore']): -2, frozenset(['brilliant']): 4, frozenset(['dreadful']): -3, frozenset(['appalled']): -2, frozenset(['racists']): -3, frozenset(['resolving']): 2, frozenset(['exhilarating']): 3, frozenset(['goddamn']): -3, frozenset(['dipshit']): -3, frozenset(['virulent']): -2, frozenset(['advantage']): 2, frozenset(['worried']): -3, frozenset(['deceives']): -3, frozenset(['disconsolation']): -2, frozenset(['benefits']): 2, frozenset(['bothers']): -2, frozenset(['destructive']): -3, frozenset(['mindless']): -2, frozenset(['piteous']): -2, frozenset(['strikers']): -2, frozenset(['exhausted']): -2, frozenset(['hating']): -3, frozenset(['brightest']): 2, frozenset(['mourned']): -2, frozenset(['relaxed']): 2, frozenset(['falsify']): -3, frozenset(['confidence']): 2, frozenset(['prevents']): -1, frozenset(['lethargic']): -2, frozenset(['attacked']): -1, frozenset(['avert']): -1, frozenset(['walkouts']): -2, frozenset(['widowed']): -1, frozenset(['hilarious']): 2, frozenset(['cashing', 'into']): -2, frozenset(['deceit']): -3, frozenset(['bereave']): -2, frozenset(['praise']): 3, frozenset(['droopy']): -2, frozenset(['envying']): -1, frozenset(['disregards']): -2, frozenset(['joy']): 3, frozenset(['elation']): 3, frozenset(['resigning']): -1, frozenset(['rewarded']): 2, frozenset(['huge']): 1, frozenset(['fresh']): 1, frozenset(['proactive']): 2, frozenset(['walkout']): -2, frozenset(['terribly']): -3, frozenset(['', 'often', 'anytime', 'son', 'anywhere', 'bitch', 'anyplace']): -5, frozenset(['abuses']): -3, frozenset(['weak']): -2, frozenset(['sentencing']): -2, frozenset(['vulnerable']): -2, frozenset(['youthful']): 2, frozenset(['fascinated']): 3, frozenset(['alas']): -1, frozenset(['apologised']): -1, frozenset(['oversell']): -2, frozenset(['excited']): 3, frozenset(['gains']): 2, frozenset(['recommends']): 2, frozenset(['brainwashing']): -3, frozenset(['needy']): -2, frozenset(['constrained']): -2, frozenset(['yummy']): 3, frozenset(['encouraged']): 2, frozenset(['clarity']): 2, frozenset(['ignorant']): -2, frozenset(['dream']): 1, frozenset(['pileup']): -1, frozenset(['spammer']): -3, frozenset(['excellent']): 3, frozenset(['devastate']): -2, frozenset(['gallantry']): 3, frozenset(['exposes']): -1, frozenset(['threatening']): -2, frozenset(['neglect']): -2, frozenset(['kind']): 2, frozenset(['outrage']): -3, frozenset(['sinful']): -3, frozenset(['unhealthy']): -2, frozenset(['retarded']): -2, frozenset(['promotes']): 1, frozenset(['yeees']): 2, frozenset(['steadfast']): 2, frozenset(['apologizing']): -1, frozenset(['masturbater']): -3, frozenset(['enslaves']): -2, frozenset(['relieves']): 1, frozenset(['misrepresentation']): -2, frozenset(['astonished']): 2, frozenset(['exploited']): -2, frozenset(['newbie']): -2, frozenset(['forgiving']): 1, frozenset(['smiled']): 2, frozenset(['favorite']): 2, frozenset(['harming']): -2, frozenset(['conflict']): -2, frozenset(['absentees']): -1, frozenset(['apocalyptic']): -2, frozenset(['fight']): -1, frozenset(['lawsuit']): -2, frozenset(['unbiased']): 2, frozenset(['shocked']): -2, frozenset(['dehumanize']): -2, frozenset(['absentee']): -1, frozenset(['foreclosures']): -2, frozenset(['stingy']): -2, frozenset(['helpful']): 2, frozenset(['libelous']): -2, frozenset(['regretful']): -2, frozenset(['pain']): -2, frozenset(['obstacle']): -2, frozenset(['congratulate']): 2, frozenset(['wowww']): 4, frozenset(['jackass']): -4, frozenset(['exploration']): 1, frozenset(['illness']): -2, frozenset(['barrier']): -2, frozenset(['tolerant']): 2, frozenset(['chance']): 2, frozenset(['endorses']): 2, frozenset(['exaggerated']): -2, frozenset(['averts']): -1, frozenset(['startled']): -2, frozenset(['unapproved']): -2, frozenset(['overweight']): -1, frozenset(['defenders']): 2, frozenset(['liked']): 2, frozenset(['dithering']): -2, frozenset(['pesky']): -2, frozenset(['dirtiest']): -2, frozenset(['incensed']): -2, frozenset(['heroes']): 2, frozenset(['misbehaving']): -2, frozenset(['imbecile']): -3, frozenset(['growing']): 1, frozenset(['felony']): -3, frozenset(['misinformed']): -2, frozenset(['traumatic']): -3, frozenset(['oversimplifies']): -2, frozenset(['monopolizes']): -2, frozenset(['flagship']): 2, frozenset(['ardent']): 1, frozenset(['robber']): -2, frozenset(['cautious']): -1, frozenset(['eager']): 2, frozenset(['working']): 3, frozenset(['disgusted']): -3, frozenset(['intimidation']): -2, frozenset(['washing', 'green']): -3, frozenset(['dearly']): 3, frozenset(['helpless']): -2, frozenset(['antagonistic']): -2, frozenset(['superior']): 2, frozenset(['scold']): -2, frozenset(['abhor']): -3, frozenset(['disturb']): -2, frozenset(['outstanding']): 5, frozenset(['ensure']): 1, frozenset(['inspire']): 2, frozenset(['contending']): -1, frozenset(['admonish']): -2, frozenset(['abandons']): -2, frozenset(['amaze']): 2, frozenset(['obstacles']): -2, frozenset(['improved']): 2, frozenset(['applauded']): 2, frozenset(['bailout']): -2, frozenset(['woeful']): -3, frozenset(['apologise']): -1, frozenset(['convivial']): 2, frozenset(['lawsuits']): -2, frozenset(['noble']): 2, frozenset(['perfect']): 3, frozenset(['cuts']): -1, frozenset(['important']): 2, frozenset(['poisoned']): -2, frozenset(['restoring']): 1, frozenset(['vested']): 1, frozenset(['stunned']): -2, frozenset(['responsible']): 2, frozenset(['honoring']): 2, frozenset(['horrible']): -3, frozenset(['paradox']): -1, frozenset(['dirty']): -2, frozenset(['disillusioned']): -2, frozenset(['tumor']): -2, frozenset(['dysfunction']): -2, frozenset(['violating']): -2, frozenset(['annoying']): -2, frozenset(['battle']): -1, frozenset(['restores']): 1, frozenset(['fearsome']): -2, frozenset(['rescued']): 2, frozenset(['disappointing']): -2, frozenset(['lame']): -2, frozenset(['stimulated']): 1, frozenset(['despondent']): -3, frozenset(['outmaneuvered']): -2, frozenset(['nuts']): -3, frozenset(['heavenly']): 4, frozenset(['unresearched']): -2, frozenset(['criticism']): -2, frozenset(['embarrassment']): -2, frozenset(['amused']): 3, frozenset(['gun']): -1, frozenset(['sparkling']): 3, frozenset(['not', 'ca', 'stand']): -3, frozenset(['impresses']): 3, frozenset(['exultantly']): 3, frozenset(['cocksucker']): -5, frozenset(['god']): 1, frozenset(['grant']): 1, frozenset(['deceiving']): -3, frozenset(['criminals']): -3, frozenset(['haunt']): -1, frozenset(['hard']): -1, frozenset(['jewels']): 1, frozenset(['distorted']): -2, frozenset(['exhilarated']): 3, frozenset(['enlightened']): 2, frozenset(['somber']): -2, frozenset(['friendly']): 2, frozenset(['comprehensive']): 2, frozenset(['increased']): 1, frozenset(['diamond']): 1, frozenset(['highlight']): 2, frozenset(['deception']): -3, frozenset(['hopeless']): -2, frozenset(['threat']): -2, frozenset(['irresistible']): 2, frozenset(['blocking']): -1, frozenset(['trust']): 1, frozenset(['glamourous']): 3, frozenset(['warm']): 1, frozenset(['shamed']): -2, frozenset(['straight']): 1, frozenset(['mourning']): -2, frozenset(['attack']): -1, frozenset(['favored']): 2, frozenset(['chic']): 2, frozenset(['vitality']): 3, frozenset(['slashed']): -2, frozenset(['likes']): 2, frozenset(['ashame']): -2, frozenset(['dud']): -2, frozenset(['dehumanizing']): -2, frozenset(['tired']): -2, frozenset(['distress']): -2, frozenset(['insane']): -2, frozenset(['axe']): -1, frozenset(['overjoyed']): 4, frozenset(['ruined']): -2, frozenset(['hate']): -3, frozenset(['stampede']): -2, frozenset(['natural']): 1, frozenset(['poised']): -2, frozenset(['falsified']): -3, frozenset(['pensive']): -1, frozenset(['ruin']): -2, frozenset(['dismayed']): -2, frozenset(['fraudulent']): -4, frozenset(['tragic']): -2, frozenset(['reaches']): 1, frozenset(['mad']): -3, frozenset(['worse']): -3, frozenset(['inability']): -2, frozenset(['unequaled']): 2, frozenset(['reckless']): -2, frozenset(['interests']): 1, frozenset(['arrests']): -2, frozenset(['super']): 3, frozenset(['screwed', 'up']): -3, frozenset(['hugs']): 2, frozenset(['monopolize']): -2, frozenset(['swindles']): -3, frozenset(['liars']): -3, frozenset(['useless']): -2, frozenset(['drained']): -2, frozenset(['scandals']): -3, frozenset(['await']): -1, frozenset(['scandal']): -3, frozenset(['greedy']): -2, frozenset(['bizarre']): -2, frozenset(['rapist']): -4, frozenset(['unsecured']): -2, frozenset(['disorganized']): -2, frozenset(['sentence']): -2, frozenset(['extend']): 1, frozenset(['attract']): 1, frozenset(['wrong']): -2, frozenset(['misinformation']): -2, frozenset(['distressed']): -2, frozenset(['waste']): -1, frozenset(['betray']): -3, frozenset(['disparaged']): -2, frozenset(['controversially']): -2, frozenset(['disgust']): -3, frozenset(['astounding']): 3, frozenset(['amusement']): 3, frozenset(['obsolete']): -2, frozenset(['pessimism']): -2, frozenset(['rapture']): 2, frozenset(['regret']): -2, frozenset(['colliding']): -1, frozenset(['disrespect']): -2, frozenset(['stolen']): -2, frozenset(['indestructible']): 2, frozenset(['mocked']): -2, frozenset(['calmed']): 2, frozenset(['recommend']): 2, frozenset(['apologising']): -1, frozenset(['spirited']): 2, frozenset(['ignored']): -2, frozenset(['benefitted']): 2, frozenset(['substantially']): 1, frozenset(['warned']): -2, frozenset(['colluding']): -3, frozenset(['haunted']): -2, frozenset(['splendid']): 3, frozenset(['engage']): 1, frozenset(['shoot']): -1, frozenset(['denounce']): -2, frozenset(['tears']): -2, frozenset(['bitches']): -5, frozenset(['slash']): -2, frozenset(['imperfect']): -2, frozenset(['unmatched']): 1, frozenset(['troubles']): -2, frozenset(['pessimistic']): -2, frozenset(['disruption']): -2, frozenset(['worthless']): -2, frozenset(['frisky']): 2, frozenset(['tremulous']): -2, frozenset(['condemned']): -2, frozenset(['afraid']): -2, frozenset(['litigation']): -1, frozenset(['joyfully']): 3, frozenset(['smiles']): 2, frozenset(['contender']): -1, frozenset(['woebegone']): -2, frozenset(['dilemma']): -1, frozenset(['noisy']): -1, frozenset(['dire']): -3, frozenset(['thankful']): 2, frozenset(['cried']): -2, frozenset(['medal']): 3, frozenset(['undermining']): -2, frozenset(['pray']): 1, frozenset(['denied']): -2, frozenset(['perpetrator']): -2, frozenset(['doubting']): -1, frozenset(['provoke']): -1, frozenset(['pleased']): 3, frozenset(['touts']): -2, frozenset(['disappointments']): -2, frozenset(['hell']): -4, frozenset(['disputed']): -2, frozenset(['derided']): -2, frozenset(['piss']): -4, frozenset(['propaganda']): -2, frozenset(['scorn']): -2, frozenset(['suicide']): -2, frozenset(['embarrasses']): -2, frozenset(['dehumanized']): -2, frozenset(['blind']): -1, frozenset(['touting']): -2, frozenset(['solved']): 1, frozenset(['stupidly']): -2, frozenset(['relishing']): 2, frozenset(['struggling']): -2, frozenset(['alarmists']): -2, frozenset(['weeping']): -2, frozenset(['overstatement']): -2, frozenset(['haters']): -3, frozenset(['catastrophe']): -3, frozenset(['rageful']): -2, frozenset(['dubious']): -2, frozenset(['mandatory']): -1, frozenset(['delighting']): 3, frozenset(['suing']): -2, frozenset(['accidents']): -2, frozenset(['ban']): -2, frozenset(['hates']): -3, frozenset(['authority']): 1, frozenset(['misreporting']): -2, frozenset(['scam']): -2, frozenset(['fulfill']): 2, frozenset(['retained']): -1, frozenset(['detached']): -1, frozenset(['defer']): -1, frozenset(['scams']): -2, frozenset(['censor']): -2, frozenset(['appreciated']): 2, frozenset(['saddened']): -2, frozenset(['hostile']): -2, frozenset(['rigorously']): 3, frozenset(['granting']): 1, frozenset(['weary']): -2, frozenset(['retreat']): -1, frozenset(['aggravated']): -2, frozenset(['indoctrinates']): -2, frozenset(['abilities']): 2, frozenset(['matters']): 1, frozenset(['riot']): -2, frozenset(['picturesque']): 2, frozenset(['vitamin']): 1, frozenset(['offending']): -2, frozenset(['intimidate']): -2, frozenset(['unequal']): -1, frozenset(['strange']): -1, frozenset(['crisis']): -3, frozenset(['ominous']): 3, frozenset(['interesting']): 2, frozenset(['calms']): 2, frozenset(['terrorized']): -3, frozenset(['curse']): -1, frozenset(['pseudoscience']): -3, frozenset(['felonies']): -3, frozenset(['winwin']): 3, frozenset(['bankster']): -3, frozenset(['captivated']): 3, frozenset(['flustered']): -2, frozenset(['discard']): -1, frozenset(['afflicted']): -1, frozenset(['supportive']): 2, frozenset(['freedom']): 2, frozenset(['intrigues']): 1, frozenset(['novel']): 2, frozenset(['favor']): 2, frozenset(['persecutes']): -2, frozenset(['visionary']): 3, frozenset(['undermined']): -2, frozenset(['moping']): -1, frozenset(['entitled']): 1, frozenset(['relentless']): -1, frozenset(['injury']): -2, frozenset(['cowardly']): -2, frozenset(['unaware']): -2, frozenset(['guilt']): -3, frozenset(['loathed']): -3, frozenset(['irresponsible']): 2, frozenset(['f**k', 'what', 'the']): -4, frozenset(['ranter']): -3, frozenset(['envious']): -2, frozenset(['buoyant']): 2, frozenset(['trickery']): -2, frozenset(['secured']): 2, frozenset(['dumped']): -2, frozenset(['insults']): -2, frozenset(['detained']): -2, frozenset(['costly']): -2, frozenset(['gloomy']): -2, frozenset(['blame']): -2, frozenset(['desperately']): -3, frozenset(['mistake']): -2, frozenset(['bastard']): -5, frozenset(['fun']): 4, frozenset(['extends']): 1, frozenset(['incompetence']): -2, frozenset(['dodgy']): -2, frozenset(['admire']): 3, frozenset(['trembling']): -2, frozenset(['deceive']): -3, frozenset(['cover-up']): -3, frozenset(['suck']): -3, frozenset(['darkest']): -2, frozenset(['fail']): -2, frozenset(['shy']): -1, frozenset(['redeemed']): 2, frozenset(['slavery']): -3, frozenset(['alert']): -1, frozenset(['hahahah']): 3, frozenset(['critics']): -2, frozenset(['robs']): -2, frozenset(['verdicts']): -1, frozenset(['contemptuous']): -2, frozenset(['intimidating']): -2, frozenset(['forget']): -1, frozenset(['suspend']): -1, frozenset(['myth']): -1, frozenset(['sorry']): -1, frozenset(['godsend']): 4, frozenset(['arrogant']): -2, frozenset(['greenwashers']): -3, frozenset(['rejoicing']): 4, frozenset(['agonised']): -3, frozenset(['derides']): -2, frozenset(['funky']): 2, frozenset(['chaotic']): -2, frozenset(['competitive']): 2, frozenset(['love']): 3, frozenset(['fatality']): -3, frozenset(['cynic']): -2, frozenset(['vociferous']): -1, frozenset(['despairing']): -3, frozenset(['chagrin']): -2, frozenset(['abductions']): -2, frozenset(['marvelous']): 3, frozenset(['pardon']): 2, frozenset(['cute']): 2, frozenset(['conflictive']): -2, frozenset(['justice']): 2, frozenset(['regretted']): -2, frozenset(['havoc']): -2, frozenset(['entertaining']): 2, frozenset(['carefully']): 2, frozenset(['fatigue']): -2, frozenset(['alarm']): -2, frozenset(['shrew']): -4, frozenset(['pressured']): -2, frozenset(['amazing']): 4, frozenset(['defender']): 2, frozenset(['achievable']): 1, frozenset(['burdened']): -2, frozenset(['screamed']): -2, frozenset(['troubled']): -2, frozenset(['thoughtless']): -2, frozenset(['brave']): 2, frozenset(['ecstatic']): 4, frozenset(['odd']): -2, frozenset(['irate']): -3, frozenset(['hahaha']): 3, frozenset(['futile']): 2, frozenset(['supporting']): 1, frozenset(['abhors']): -3, frozenset(['promote']): 1, frozenset(['douchebag']): -3, frozenset(['exclusion']): -1, frozenset(['punishes']): -2, frozenset(['embarrass']): -2, frozenset(['burdens']): -2, frozenset(['mercy']): 2, frozenset(['kiss']): 2, frozenset(['jailed']): -2, frozenset(['fails']): -2, frozenset(['yearning']): 1, frozenset(['disgusting']): -3, frozenset(['unworthy']): -2, frozenset(['mirth']): 3, frozenset(['fatiguing']): -2, frozenset(['neglected']): -2, frozenset(['spirit']): 1, frozenset(['grave']): -2, frozenset(['suffers']): -2, frozenset(['unwanted']): -2, frozenset(['rig']): -1, frozenset(['impressed']): 3, frozenset(['cocksuckers']): -5, frozenset(['ruining']): -2, frozenset(['secure']): 2, frozenset(['awesome']): 4, frozenset(['enjoy']): 2, frozenset(['launched']): 1, frozenset(['rejoices']): 4, frozenset(['awkward']): -2, frozenset(['interested']): 2, frozenset(['dejecting']): -2, frozenset(['gag']): -2, frozenset(['cheering']): 2, frozenset(['fakes']): -3, frozenset(['affectionate']): 3, frozenset(['success']): 2, frozenset(['obscene']): -2, frozenset(['rescue']): 2, frozenset(['crushes']): -1, frozenset(['jovial']): 2, frozenset(['faith']): 1, frozenset(['inspiring']): 3, frozenset(['furious']): -3, frozenset(['remorse']): -2, frozenset(['poor']): -2, frozenset(['lowest']): -1, frozenset(['worthy']): 2, frozenset(['beaten']): -2, frozenset(['humerous']): 3, frozenset(['murdering']): -3, frozenset(['motherfucking']): -5, frozenset(['emptiness']): -1, frozenset(['livid']): -2, frozenset(['forgive']): 1, frozenset(['blocks']): -1, frozenset(['conspiracy']): -3, frozenset(['victimize']): -3, frozenset(['limitation']): -1, frozenset(['perfectly']): 3, frozenset(['pitied']): -1, frozenset(['scoop']): 3, frozenset(['harms']): -2, frozenset(['conflicting']): -2, frozenset(['betrayal']): -3, frozenset(['perfected']): 2, frozenset(['speculative']): -2, frozenset(['giddy']): -2, frozenset(['bamboozled']): -2, frozenset(['spiritless']): -2, frozenset(['badass']): -3, frozenset(['enemy']): -2, frozenset(['arrested']): -3, frozenset(['jackasses']): -4, frozenset(['craziest']): -2, frozenset(['blah']): -2, frozenset(['fascinating']): 3, frozenset(['enrapture']): 3, frozenset(['peaceful']): 2, frozenset(['sincerest']): 2, frozenset(['excitement']): 3, frozenset(['clean']): 2, frozenset(['protesting']): -2, frozenset(['fan']): 3, frozenset(['accident']): -2, frozenset(['absolved']): 2, frozenset(['fuked']): -4, frozenset(['carefree']): 1, frozenset(['disregarding']): -2, frozenset(['soothed']): 3, frozenset(['saved']): 2, frozenset(['upset']): -2, frozenset(['short-sightedness']): -2, frozenset(['joyous']): 3, frozenset(['scared']): -2, frozenset(['beautiful']): 3, frozenset(['mocking']): -2, frozenset(['enraging']): -2, frozenset(['haunts']): -1, frozenset(['bribe']): -3, frozenset(['justified']): 2, frozenset(['not']): -3, frozenset(['zealot']): -2, frozenset(['bereaving']): -2, frozenset(['oversimplification']): -2, frozenset(['devoted']): 3, frozenset(['immortal']): 2, frozenset(['moaned']): -2, frozenset(['contemptuously']): -2, frozenset(['crazier']): -2, frozenset(['discredited']): -2, frozenset(['appreciates']): 2, frozenset(['spiteful']): -2, frozenset(['devastated']): -2, frozenset(['expose']): -1, frozenset(['contestable']): -2, frozenset(['sympathy']): 2, frozenset(['foreclosure']): -2, frozenset(['funerals']): -1, frozenset(['comfort']): 2, frozenset(['pleasure']): 3, frozenset(['paradise']): 3, frozenset(['fulfilled']): 2, frozenset(['restore']): 1, frozenset(['fatigues']): -2, frozenset(['outreach']): 2, frozenset(['hooligan']): -2, frozenset(['resign']): -1, frozenset(['accused']): -2, frozenset(['unlovable']): -2, frozenset(['desperate']): -3, frozenset(['shocks']): -2, frozenset(['thwarted']): -2, frozenset(['agreed']): 1, frozenset(['fraudster']): -4, frozenset(['unconcerned']): -2, frozenset(['fervid']): 2, frozenset(['worsening']): -3, frozenset(['wavering']): -1, frozenset(['struggled']): -2, frozenset(['praised']): 3, frozenset(['crush']): -1, frozenset(['interest']): 1, frozenset(['denying']): -2, frozenset(['doom']): -2, frozenset(['disruptions']): -2, frozenset(['honouring']): 2, frozenset(['approval']): 2, frozenset(['fatigued']): -2, frozenset(['deceived']): -3, frozenset(['joyful']): 3, frozenset(['mistaking']): -2, frozenset(['damn']): -4, frozenset(['rejoiced']): 4, frozenset(['unprofessional']): -2, frozenset(['fortunate']): 2, frozenset(['shitty']): -3, frozenset(['strongest']): 2, frozenset(['prison']): -2, frozenset(['horrified']): -3, frozenset(['raptured']): 2, frozenset(['clarifies']): 2, frozenset(['poisons']): -2, frozenset(['collapses']): -2, frozenset(['boring']): -3, frozenset(['frenzy']): -3, frozenset(['cherished']): 2, frozenset(['loser']): -3, frozenset(['tranquil']): 2, frozenset(['fearful']): -2, frozenset(['gallantly']): 3, frozenset(['inadequate']): -2, frozenset(['block']): -1, frozenset(['suffering']): -2, frozenset(['deferring']): -1, frozenset(['demanded']): -1, frozenset(['agonise']): -3, frozenset(['hacked']): -1, frozenset(['threatens']): -2, frozenset(['hated']): -3, frozenset(['disguising']): -1, frozenset(['homesick']): -2, frozenset(['adored']): 3, frozenset(['lack']): -2, frozenset(['overreaction']): -2, frozenset(['hardier']): 2, frozenset(['suicidal']): -2, frozenset(['sightedness', 'short']): -2, frozenset(['stabbed']): -2, frozenset(['depressing']): -2, frozenset(['dodging']): -2, frozenset(['accepts']): 1, frozenset(['privileged']): 2, frozenset(['demands']): -1, frozenset(['joyless']): -2, frozenset(['awarded']): 3, frozenset(['agonises']): -3, frozenset(['innovates']): 1, frozenset(['impotent']): -2, frozenset(['blocked']): -1, frozenset(['apprehensive']): -2, frozenset(['avoided']): -1, frozenset(['expand']): 1, frozenset(['vindicates']): 2, frozenset(['capable']): 1, frozenset(['disbelieve']): -2, frozenset(['frustrating']): -2, frozenset(['praising']): 3, frozenset(['bias']): -1, frozenset(['monopolized']): -2, frozenset(['smartest']): 2, frozenset(['avoids']): -1, frozenset(['repulsed']): -2, frozenset(['fearing']): -2, frozenset(['self-confident']): 2, frozenset(['disjointed']): -2, frozenset(['drag']): -1, frozenset(['zealous']): 2, frozenset(['disappoint']): -2, frozenset(['short', 'sighted']): -2, frozenset(['stalled']): -2, frozenset(['hiding']): -1, frozenset(['mischiefs']): -1, frozenset(['cheaters']): -3, frozenset(['anticipation']): 1, frozenset(['dull']): -2, frozenset(['glory']): 2, frozenset(['bitter']): -2, frozenset(['suspecting']): -1, frozenset(['courage']): 2, frozenset(['loss']): -3, frozenset(['lunatics']): -3, frozenset(['criticizing']): -2, frozenset(['affronted']): -1, frozenset(['killed']): -3, frozenset(['blames']): -2, frozenset(['euphoric']): 4, frozenset(['glee']): 3, frozenset(['clash']): -2, frozenset(['clueless']): -2, frozenset(['dirtier']): -2, frozenset(['interruption']): -2, frozenset(['inspirational']): 2, frozenset(['nasty']): -3, frozenset(['vibrant']): 3, frozenset(['die']): -3, frozenset(['positively']): 2, frozenset(['negativity']): -2, frozenset(['offender']): -2, frozenset(['astoundingly']): 3, frozenset(['commended']): 2, frozenset(['blessing']): 3, frozenset(['infatuation']): 2, frozenset(['messed']): -2, frozenset(['drowned']): -2, frozenset(['rescues']): 2, frozenset(['restored']): 1, frozenset(['warns']): -2, frozenset(['frightened']): -2, frozenset(['threaten']): -2, frozenset(['classy']): 3, frozenset(['skeptics']): -2, frozenset(['marvels']): 3, frozenset(['harm']): -2, frozenset(['cleared']): 1, frozenset(['happiness']): 3, frozenset(['infuriates']): -2, frozenset(['limits']): -1, frozenset(['lobbying']): -2, frozenset(['innovative']): 2, frozenset(['stronger']): 2, frozenset(['disparage']): -2, frozenset(['bamboozle']): -2, frozenset(['indoctrinate']): -2, frozenset(['crime']): -3, frozenset(['jocular']): 2, frozenset(['messing', 'up']): -2, frozenset(['rejecting']): -1, frozenset(['torturing']): -4, frozenset(['limited']): -1, frozenset(['blamed']): -2, frozenset(['hurting']): -2, frozenset(['bereaves']): -2, frozenset(['heroic']): 3, frozenset(['shattered']): -2, frozenset(['interrupting']): -2, frozenset(['discouraged']): -2, frozenset(['escaping']): -1, frozenset(['misunderstood']): -2, frozenset(['inaction']): -2, frozenset(['stuff', 'cool']): 3, frozenset(['smog']): -2, frozenset(['chilling']): -1, frozenset(['agog']): 2, frozenset(['oppressive']): -2, frozenset(['solution']): 1, frozenset(['inflamed']): -2, frozenset(['worry']): -3, frozenset(['cheered']): 2, frozenset(['indifference']): -2, frozenset(['thwarts']): -2, frozenset(['thwart']): -2, frozenset(['cheers']): 2, frozenset(['reward']): 2, frozenset(['disregard']): -2, frozenset(['boosted']): 1, frozenset(['complains']): -2, frozenset(['horrific']): -3, frozenset(['disabling']): -1, frozenset(['uncredited']): -1, frozenset(['distracted']): -2, frozenset(['jerk']): -3, frozenset(['rejoice']): 4, frozenset(['shameful']): -2, frozenset(['faggot']): -3, frozenset(['ignore']): -1, frozenset(['repulse']): -1, frozenset(['bothersome']): -2, frozenset(['duped']): -2, frozenset(['fad']): -2, frozenset(['accomplishes']): 2, frozenset(['disadvantaged']): -2, frozenset(['enthral']): 3, frozenset(['amusements']): 3, frozenset(['delayed']): -1, frozenset(['poverty']): -1, frozenset(['proud']): 2, frozenset(['motivating']): 2, frozenset(['cheerless']): -2, frozenset(['chastise']): -3, frozenset(['disputing']): -2, frozenset(['Positive']): 3, frozenset(['sulky']): -2, frozenset(['overlooked']): -1, frozenset(['pardoned']): 2, frozenset(['impose']): -1, frozenset(['masterpieces']): 4, frozenset(['retard', 'f**king']): -4, frozenset(['!', 'win', 'the', 'for']): 3, frozenset(['stop']): -1, frozenset(['promises']): 1, frozenset(['fatalities']): -3, frozenset(['faithful']): 3, frozenset(['strangely']): -1, frozenset(['missing']): -2, frozenset(['boycott']): -2, frozenset(['loyal']): 3, frozenset(['swiftly']): 2, frozenset(['numb']): -1, frozenset(['guilty']): -3, frozenset(['misinterpreted']): -2, frozenset(['misread']): -1, frozenset(['mock']): -2, frozenset(['energetic']): 2, frozenset(['not', 'working']): -3, frozenset(['insult']): -2, frozenset(['engrossed']): 1, frozenset(['endorsement']): 2, frozenset(['hooligans']): -2, frozenset(['impatient']): -2, frozenset(['reassure']): 1, frozenset(['positive']): 2, frozenset(['died']): -3, frozenset(['chokes']): -2, frozenset(['disheartened']): -2, frozenset(['exonerated']): 2, frozenset(['usefulness']): 2, frozenset(['warning']): -3, frozenset(['acquitting']): 2, frozenset(['disquiet']): -2, frozenset(['discord']): -2, frozenset(['restless']): -2, frozenset(['consents']): 2, frozenset(['Extremely-Positive']): 5, frozenset(['perjury']): -3, frozenset(['destroy']): -3, frozenset(['admitted']): -1, frozenset(['fitness']): 1, frozenset(['undesirable']): -2, frozenset(['terrific']): 4, frozenset(['problem']): -2, frozenset(['problems']): -2, frozenset(['frantic']): -1, frozenset(['Negative']): -3, frozenset(['silly']): -1, frozenset(['chances']): 2, frozenset(['contentious']): -2, frozenset(['underestimates']): -1, frozenset(['admits']): -1, frozenset(['incompetent']): -2, frozenset(['strengthening']): 2, frozenset(['delights']): 3, frozenset(['uneasy']): -2, frozenset(['effectively']): 2, frozenset(['methodical']): 2, frozenset(['winner']): 4, frozenset(['bitterly']): -2, frozenset(['disturbed']): -2, frozenset(['ethical']): 2, frozenset(['unloved']): -2, frozenset(['vague']): -2, frozenset(['suffer']): -2, frozenset(['annoy']): -2, frozenset(['revengeful']): -2, frozenset(['insanity']): -2, frozenset(['disappears']): -1, frozenset(['lucky']): 3, frozenset(['audacious']): 3, frozenset(['curious']): 1, frozenset(['eviction']): -1, frozenset(['respected']): 2, frozenset(['suspended']): -1, frozenset(['allergic']): -2, frozenset(['worsens']): -3, frozenset(['panicked']): -3, frozenset(['sore']): -1, frozenset(['adventures']): 2, frozenset(['discontented']): -2, frozenset(['underestimate']): -1, frozenset(['disadvantage']): -2, frozenset(['cramp']): -1, frozenset(['weep']): -2, frozenset(['aggression']): -2, frozenset(['appeased']): 2, frozenset(['distressing']): -2, frozenset(['derailed']): -2, frozenset(['strengthen']): 2, frozenset(['screams']): -2, frozenset(['exclude']): -1, frozenset(['foolish']): -2, frozenset(['big']): 1, frozenset(['absorbed']): 1, frozenset(['profiteer']): -2, frozenset(['reliant']): 2, frozenset(['fantastic']): 4, frozenset(['humourous']): 2, frozenset(['victims']): -3, frozenset(['exclusive']): 2, frozenset(['indifferent']): -2, frozenset(['wins']): 4, frozenset(['intimidates']): -2, frozenset(['blaming']): -2, frozenset(['courteous']): 2, frozenset(['debonair']): 2, frozenset(['accusation']): -2, frozenset(['funny']): 4, frozenset(['comforting']): 2, frozenset(['violent']): -3, frozenset(['rants']): -3, frozenset(['affection']): 3, frozenset(['rob']): -2, frozenset(['pressure']): -1, frozenset(['progress']): 2, frozenset(['empty']): -1, frozenset(['hooliganism']): -2, frozenset(['victimized']): -3, frozenset(['unjust']): -2, frozenset(['jealous']): -2, frozenset(['invulnerable']): 2, frozenset(['rich']): 2, frozenset(['matter']): 1, frozenset(['doubtful']): -1, frozenset(['unified']): 1, frozenset(['on', 'off', 'floor', 'a**', 'laughing', 'rolling', 'the', 'my']): 4, frozenset(['defeated']): -2, frozenset(['accuses']): -2, frozenset(['helping']): 2, frozenset(['attracting']): 2, frozenset(['menace']): -2, frozenset(['sadden']): -2, frozenset(['murderous']): -3, frozenset(['sorrow']): -2, frozenset(['escape']): -1, frozenset(['pollute']): -2, frozenset(['disparages']): -2, frozenset(['obnoxious']): -3, frozenset(['nifty']): 2, frozenset(['elegantly']): 2, frozenset(['gullible']): -2, frozenset(['worsen']): -3, frozenset(['anger']): -3, frozenset(['invincible']): 2, frozenset(['distrustful']): -3, frozenset(['confident']): 2, frozenset(['Positive', 'Extremely']): 5, frozenset(['award']): 3, frozenset(['doubts']): -1, frozenset(['swindle']): -3, frozenset(['snubbed']): -2, frozenset(['indignant']): -2, frozenset(['pity']): -2, frozenset(['earnest']): 2, frozenset(['solid']): 2, frozenset(['gleeful']): 3, frozenset(['oversimplified']): -2, frozenset(['destroyed']): -3, frozenset(['prosecute']): -1, frozenset(['prosecuted']): -2, frozenset(['crazy']): -2, frozenset(['polluters']): -2, frozenset(['bankrupt']): -3, frozenset(['errors']): -2, frozenset(['sympathetic']): 2, frozenset(['comfortable']): 2, frozenset(['thorny']): -2, frozenset(['supported']): 2, frozenset(['boost']): 1, frozenset(['disputes']): -2, frozenset(['sedition']): -2, frozenset(['secures']): 2, frozenset(['apologized']): -1, frozenset(['pique']): -2, frozenset(['lied']): -2, frozenset(['protest']): -2, frozenset(['victimizes']): -3, frozenset(['sulking']): -2, frozenset(['humor']): 2, frozenset(['misbehave']): -2, frozenset(['disqualified']): -2, frozenset(['starved']): -2, frozenset(['reassures']): 1, frozenset(['defenseless']): -2, frozenset(['supporter']): 1, frozenset(['unfocused']): -2, frozenset(['collapsing']): -2, frozenset(['fair']): 2, frozenset(['rejects']): -1, frozenset(['reached']): 1, frozenset(['annoys']): -2, frozenset(['agonizes']): -3, frozenset(['difficult']): -1, frozenset(['please']): 1, frozenset(['worrying']): -3, frozenset(['prospects']): 1, frozenset(['triumph']): 4, frozenset(['questioned']): -1, frozenset(['postpone']): -1, frozenset(['easy']): 1, frozenset(['care']): 2, frozenset(['conflicts']): -2, frozenset(['best']): 3, frozenset(['aggravate']): -2, frozenset(['exonerates']): 2, frozenset(['yeah']): 1, frozenset(['pardoning']): 2, frozenset(['allow']): 1, frozenset(['degrade']): -2, frozenset(['cheery']): 3, frozenset(['ashamed']): -2, frozenset(['loathes']): -3, frozenset(['cancelled']): -1, frozenset(['honour']): 2, frozenset(['enchanted']): 2, frozenset(['frightening']): -3, frozenset(['betrays']): -3, frozenset(['assassination']): -3, frozenset(['notorious']): -2, frozenset(['guarantee']): 1, frozenset(['fag']): -3, frozenset(['melancholy']): -2, frozenset(['incapacitated']): -2, frozenset(['rage']): -2, frozenset(['bastards']): -5, frozenset(['mess']): -2, frozenset(['manipulating']): -1, frozenset(['aggressions']): -2, frozenset(['solutions']): 1, frozenset(['soothe']): 3, frozenset(['vitriolic']): -3, frozenset(['annoyed']): -2, frozenset(['angers']): -3, frozenset(['strike']): -1, frozenset(['catastrophic']): -4, frozenset(['triumphant']): 4, frozenset(['violated']): -2, frozenset(['wronged']): -2, frozenset(['conciliates']): 2, frozenset(['emergency']): -2, frozenset(['bullied']): -2, frozenset(['luckily']): 3, frozenset(['greet']): 1, frozenset(['dislike']): -2, frozenset(['landmark']): 2, frozenset(['inquisition']): -2, frozenset(['ambitious']): 2, frozenset(['cool']): 1, frozenset(['abduction']): -2, frozenset(['irresolute']): -2, frozenset(['protesters']): -2, frozenset(['support']): 2, frozenset(['regretting']): -2, frozenset(['coerced']): -2, frozenset(['sluggish']): -2, frozenset(['backing']): 2, frozenset(['suspected']): -1, frozenset(['fascist']): -2, frozenset(['slickest']): 2, frozenset(['starves']): -2, frozenset(['lonesome']): -2, frozenset(['trapped']): -2, frozenset(['collapsed']): -2, frozenset(['expelling']): -2, frozenset(['timid']): -2, frozenset(['poison']): -2, frozenset(['endorse']): 2, frozenset(['risks']): -2, frozenset(['astounds']): 3, frozenset(['enthusiastic']): 3, frozenset(['immune']): 1, frozenset(['insulting']): -2, frozenset(['hurt']): -2, frozenset(['evil']): -3, frozenset(['sincerity']): 2, frozenset(['fear']): -2, frozenset(['wicked']): -2, frozenset(['pollutes']): -2, frozenset(['consent']): 2, frozenset(['drunk']): -2, frozenset(['excellence']): 3, frozenset(['heartfelt']): 3, frozenset(['vulnerability']): -2, frozenset(['peacefully']): 2, frozenset(['accidental']): -2, frozenset(['discarding']): -1, frozenset(['polluter']): -2, frozenset(['error']): -2, frozenset(['fools']): -2, frozenset(['unmotivated']): -2, frozenset(['greenwash']): -3, frozenset(['determined']): 2, frozenset(['contempt']): -2, frozenset(['despairs']): -3, frozenset(['new', 'is', 'someone', 'who']): -2, frozenset(['ugly']): -3, frozenset(['nigger']): -5, frozenset(['exasperated']): 2, frozenset(['honored']): 2, frozenset(['loved']): 3, frozenset(['stifled']): -1, frozenset(['opportunities']): 2, frozenset(['dumps']): -1, frozenset(['admiring']): 3, frozenset(['censored']): -2, frozenset(['unbelievable']): -1, frozenset(['ironic']): -1, frozenset(['ridiculous']): -3, frozenset(['exaggerate']): -2, frozenset(['challenge']): -1, frozenset(['optionless']): -2, frozenset(['fit']): 1, frozenset(['disappeared']): -1, frozenset(['expands']): 1, frozenset(['dreary']): -2, frozenset(['restricts']): -2, frozenset(['affected']): -1, frozenset(['victim']): -3, frozenset(['dehumanizes']): -2, frozenset(['inspires']): 2, frozenset(['spamming']): -2, frozenset(['peril']): -2, frozenset(['overstatements']): -2, frozenset(['thwarting']): -2, frozenset(['unsatisfied']): -2, frozenset(['stressor']): -2, frozenset(['firing']): -2, frozenset(['eery']): -2, frozenset(['motivation']): 1, frozenset(['debt']): -2, frozenset(['kinder']): 2, frozenset(['cocky']): -2, frozenset(['accomplish']): 2, frozenset(['disguises']): -1, frozenset(['exploits']): -2, frozenset(['downhearted']): -2, frozenset(['criticizes']): -2, frozenset(['committing']): 1, frozenset(['humour']): 2, frozenset(['damage']): -3, frozenset(['acquits']): 2, frozenset(['ratified']): 2, frozenset(['grand']): 3, frozenset(['weird']): -2, frozenset(['convince']): 1, frozenset(['funnier']): 4, frozenset(['once-in-a-lifetime']): 3, frozenset(['advantages']): 2, frozenset(['anguished']): -3, frozenset(['disconsolate']): -2, frozenset(['restful']): 2, frozenset(['slut']): -5, frozenset(['promoting']): 1, frozenset(['provoked']): -1, frozenset(['prisoners']): -2, frozenset(['cry']): -1, frozenset(['toothless']): -2, frozenset(['helps']): 2, frozenset(['harsher']): -2, frozenset(['wonderful']): 4, frozenset(['preventing']): -1, frozenset(['unfulfilled']): -2, frozenset(['satisfied']): 2, frozenset(['contend']): -1, frozenset(['hurrah']): 5, frozenset(['singleminded']): -2, frozenset(['disparaging']): -2, frozenset(['commits']): 1, frozenset(['obstinate']): -2, frozenset(['lonely']): -2, frozenset(['ass']): -4, frozenset(['shame']): -2, frozenset(['humiliation']): -3, frozenset(['superb']): 5, frozenset(['useful']): 2, frozenset(['skeptic']): -2, frozenset(['dear']): 2, frozenset(['exploiting']): -2, frozenset(['glad']): 3, frozenset(['advanced']): 1, frozenset(['mourn']): -2, frozenset(['distorts']): -2, frozenset(['prepared']): 1, frozenset(['dismal']): -2, frozenset(['shock']): -2, frozenset(['greetings']): 2, frozenset(['adopts']): 1, frozenset(['beating']): -1, frozenset(['escapes']): -1, frozenset(['tout']): -2, frozenset(['help']): 2, frozenset(['torture']): -4, frozenset(['adopt']): 1, frozenset(['legally']): 1, frozenset(['treason']): -3, frozenset(['haha']): 3, frozenset(['agrees']): 1, frozenset(['interrupt']): -2, frozenset(['illegal']): -3, frozenset(['angry']): -3, frozenset(['struggle']): -2, frozenset(['exaggerates']): -2, frozenset(['prosecution']): -1, frozenset(['weakness']): -2, frozenset(['sincerely']): 2, frozenset(['lags']): -2, frozenset(['cancels']): -1, frozenset(['defects']): -3, frozenset(['greenwashing']): -3, frozenset(['timorous']): -2, frozenset(['desirable']): 2, frozenset(['fervent']): 2, frozenset(['engages']): 1, frozenset(['vigilant']): 3, frozenset(['amazes']): 2, frozenset(['disdain']): -2, frozenset(['heaven']): 2, frozenset(['recommended']): 2, frozenset(['overreact']): -2, frozenset(['optimistic']): 2, frozenset(['yes']): 1, frozenset(['mirthfully']): 3, frozenset(['damned']): -4, frozenset(['misunderstand']): -2, frozenset(['shares']): 1, frozenset(['stopped']): -1, frozenset(['stimulate']): 1, frozenset(['disoriented']): -2, frozenset(['loomed']): -1, frozenset(['pretend']): -1, frozenset(['charges']): -2, frozenset(['shared']): 1, frozenset(['distract']): -2, frozenset(['gagged']): -2, frozenset(['imposed']): -1, frozenset(['wooo']): 4, frozenset(['destruction']): -3, frozenset(['wishes']): 1, frozenset(['stout']): 2, frozenset(['gift']): 2, frozenset(['undermines']): -2, frozenset(['unintelligent']): -2, frozenset(['accept']): 1, frozenset(['gratification']): 2, frozenset(['persecuted']): -2, frozenset(['risk']): -2, frozenset(['pretending']): -1, frozenset(['overreacts']): -2, frozenset(['expelled']): -2, frozenset(['punished']): -2, frozenset(['funeral']): -1, frozenset(['irreversible']): -1, frozenset(['abhorred']): -3, frozenset(['phobic']): -2, frozenset(['exempt']): -1, frozenset(['abducted']): -2, frozenset(['demoralized']): -2, frozenset(['awaits']): -1, frozenset(['serene']): 2, frozenset(['disrespected']): -2, frozenset(['dreams']): 1, frozenset(['coward']): -2, frozenset(['criticize']): -2, frozenset(['elated']): 3, frozenset(['upsetting']): -2, frozenset(['downside']): -2, frozenset(['grateful']): 3, frozenset(['scare']): -2, frozenset(['exposed']): -1, frozenset(['warmth']): 2, frozenset(['deficit']): -2, frozenset(['exciting']): 3, frozenset(['hopes']): 2, frozenset(['appeasing']): 2, frozenset(['stimulates']): 1, frozenset(['apology']): -1, frozenset(['greenwasher']): -3, frozenset(['virtuous']): 2, frozenset(['cheer']): 2, frozenset(['relieve']): 1, frozenset(['encourages']): 2, frozenset(['generous']): 2, frozenset(['fun', 'one', 'no']): -3, frozenset(['made-up']): -1, frozenset(['stabs']): -2, frozenset(['bright']): 1, frozenset(['strangled']): -2, frozenset(['battles']): -1, frozenset(['laughing']): 1, frozenset(['reassured']): 1, frozenset(['welcomes']): 2, frozenset(['grieved']): -2, frozenset(['revenge']): -2, frozenset(['awards']): 3, frozenset(['terrorize']): -3, frozenset(['pained']): -2, frozenset(['woo']): 3, frozenset(['welcome']): 2, frozenset(['treasure']): 2, frozenset(['deride']): -2, frozenset(['dizzy']): -1, frozenset(['prosecutes']): -1, frozenset(['admires']): 3, frozenset(['sweet']): 2, frozenset(['vision']): 1, frozenset(['adore']): 3, frozenset(['pathetic']): -2, frozenset(['bamboozles']): -2, frozenset(['bargain']): 2, frozenset(['attacks']): -1, frozenset(['looses']): -3, frozenset(['delay']): -1, frozenset(['assassinations']): -3, frozenset(['bummer']): -2, frozenset(['unconfirmed']): -1, frozenset(['tops']): 2, frozenset(['losing']): -3, frozenset(['cherishes']): 2, frozenset(['granted']): 1, frozenset(['jesus']): 1, frozenset(['disinclined']): -2, frozenset(['dead']): -3, frozenset(['disruptive']): -2, frozenset(['imposing']): -1, frozenset(['skeptical']): -2, frozenset(['lighthearted']): 1, frozenset(['dejected']): -2, frozenset(['intimidated']): -2, frozenset(['cancelling']): -1, frozenset(['stereotype']): -2, frozenset(['creative']): 2, frozenset(['screaming']): -2, frozenset(['solving']): 1, frozenset(['recession']): -2, frozenset(['trouble']): -2, frozenset(['lazy']): -1, frozenset(['moaning']): -2, frozenset(['assets']): 2, frozenset(['boycotts']): -2, frozenset(['abused']): -3, frozenset(['bothered']): -2, frozenset(['sorrowful']): -2, frozenset(['sunshine']): 2, frozenset(['applaud']): 2, frozenset(['disturbing']): -2, frozenset(['perfects']): 2, frozenset(['rolling', 'on', 'the', 'laughing', 'floor']): 4, frozenset(['validates']): 1, frozenset(['sigh']): -2, frozenset(['bereaved']): -2, frozenset(['vivacious']): 3, frozenset(['greets']): 1, frozenset(['sentenced']): -2, frozenset(['uncertain']): -1, frozenset(['litigious']): -2, frozenset(['adequate']): 1, frozenset(['stamina']): 2, frozenset(['chastised']): -3, frozenset(['distraction']): -2, frozenset(['stalling']): -2, frozenset(['betraying']): -3, frozenset(['dreading']): -2, frozenset(['daredevil']): 2, frozenset(['hesitant']): -2, frozenset(['unfair']): -2, frozenset(['boldly']): 2, frozenset(['cornered']): -2, frozenset(['absolves']): 2, frozenset(['frowning']): -1, frozenset(['distresses']): -2, frozenset(['sprightly']): 2, frozenset(['blurry']): -2, frozenset(['fame']): 1, frozenset(['meaningful']): 2, frozenset(['cheats']): -3, frozenset(['fainthearted']): -2, frozenset(['imposes']): -1, frozenset(['discards']): -1, frozenset(['insulted']): -2, frozenset(['wishing']): 1, frozenset(['lobby']): -2, frozenset(['swift']): 2, frozenset(['intricate']): 2, frozenset(['downcast']): -2, frozenset(['contagion']): -2, frozenset(['gained']): 2, frozenset(['vexation']): -2, frozenset(['loyalty']): 3, frozenset(['harshest']): -2, frozenset(['unsure']): -1, frozenset(['promised']): 1, frozenset(['growth']): 2, frozenset(['lovable']): 3, frozenset(['pretends']): -1, frozenset(['refuse']): -2, frozenset(['robing']): -2, frozenset(['hoping']): 2, frozenset(['whimsical']): 1, frozenset(['worn']): -1, frozenset(['asshole']): -4, frozenset(['derail']): -2, frozenset(['prisoner']): -2, frozenset(['disappear']): -1, frozenset(['offended']): -2, frozenset(['solves']): 1, frozenset(['dreaded']): -2, frozenset(['wasting']): -2, frozenset(['ensuring']): 1, frozenset(['delight']): 3, frozenset(['burden']): -2, frozenset(['sucks']): -3, frozenset(['flops']): -2, frozenset(['hope']): 2, frozenset(['infected']): -2, frozenset(['jaunty']): 2, frozenset(['elegant']): 2, frozenset(['provokes']): -1, frozenset(['embittered']): -2, frozenset(['rash']): -2, frozenset(['discarded']): -1, frozenset(['illnesses']): -2, frozenset(['enemies']): -2, frozenset(['illiteracy']): -2, frozenset(['spammers']): -3, frozenset(['dauntless']): 2, frozenset(['forgetful']): -2, frozenset(['manipulation']): -1, frozenset(['depressed']): -2, frozenset(['menaced']): -2, frozenset(['victimizing']): -3, frozenset(['inhibit']): -1, frozenset(['comedy']): 1, frozenset(['sincere']): 2, frozenset(['suspects']): -1, frozenset(['heavyhearted']): -2, frozenset(['cherish']): 2, frozenset(['riots']): -2, frozenset(['meditative']): 1, frozenset(['gracious']): 3, frozenset(['strong']): 2, frozenset(['penis']): -4, frozenset(['infatuated']): 2, frozenset(['stricken']): -2, frozenset(['dumbass']): -3, frozenset(['humorous']): 2, frozenset(['apologize']): -1, frozenset(['lunatic']): -3, frozenset(['disastrous']): -3, frozenset(['scary']): -2, frozenset(['charged']): -3, frozenset(['postpones']): -1, frozenset(['puzzled']): -2, frozenset(['honoured']): 2, frozenset(['seduced']): -1, frozenset(['disguise']): -1, frozenset(['prick']): -5, frozenset(['unimpressed']): -2, frozenset(['indoctrinating']): -2, frozenset(['defiant']): -1, frozenset(['significance']): 1, frozenset(['threats']): -2, frozenset(['protected']): 1, frozenset(['confuse']): -2, frozenset(['intense']): 1, frozenset(['resigned']): -1, frozenset(['cancel']): -1, frozenset(['lugubrious']): -2, frozenset(['insipid']): -2, frozenset(['collisions']): -2, frozenset(['denier']): -2, frozenset(['rewarding']): 2, frozenset(['hides']): -1, frozenset(['worshiped']): 3, frozenset(['indoctrinated']): -2, frozenset(['drags']): -1, frozenset(['fired']): -2, frozenset(['chastising']): -3, frozenset(['healthy']): 2, frozenset(['lovely']): 3, frozenset(['shortage']): -2, frozenset(['douche']): -3, frozenset(['falling']): -1, frozenset(['badly']): -3, frozenset(['pretty']): 1, frozenset(['disasters']): -2, frozenset(['perturbed']): -2, frozenset(['axed']): -1, frozenset(['alone']): -2, frozenset(['embrace']): 1, frozenset(['stunning']): 4, frozenset(['suspicious']): -2, frozenset(['agonize']): -3, frozenset(['accepting']): 1, frozenset(['gain']): 2, frozenset(['fascists']): -2, frozenset(['dishonest']): -2, frozenset(['share']): 1, frozenset(['bliss']): 3, frozenset(['collision']): -2, frozenset(['irritate']): -3, frozenset(['praises']): 3, frozenset(['strengthened']): 2, frozenset(['biased']): -2, frozenset(['piqued']): -2, frozenset(['hid']): -1, frozenset(['deject']): -2, frozenset(['safely']): 1, frozenset(['scapegoats']): -2, frozenset(['stressors']): -2, frozenset(['kind', 'someone']): 0, frozenset(['grants']): 1, frozenset(['hoax']): -2, frozenset(['enrages']): -2, frozenset(['happy']): 3, frozenset(['resolute']): 2, frozenset(['greed']): -3, frozenset(['excuse']): -1, frozenset(['stuck']): -2, frozenset(['fiasco']): -3, frozenset(['damages']): -3, frozenset(['mournful']): -2, frozenset(['beautify']): 3, frozenset(['starve']): -2, frozenset(['madly']): -3, frozenset(['prominent']): 2, frozenset(['darkness']): -1, frozenset(['woow']): 4, frozenset(['fascinates']): 3, frozenset(['validate']): 1, frozenset(['passionate']): 2, frozenset(['ability']): 2, frozenset(['improvement']): 2, frozenset(['innovation']): 1, frozenset(['restriction']): -2, frozenset(['pay']): -1, frozenset(['responsive']): 2, frozenset(['undermine']): -2, frozenset(['amuse']): 3, frozenset(['oversells']): -2, frozenset(['undeserving']): -2, frozenset(['unsupported']): -2, frozenset(['wealth']): 3, frozenset(['smiling']): 2, frozenset(['fabulous']): 4, frozenset(['boastful']): -2, frozenset(['deny']): -2, frozenset(['enjoying']): 2, frozenset(['stops']): -1, frozenset(['honor']): 2, frozenset(['nosey']): -2, frozenset(['absolve']): 2, frozenset(['optimism']): 2, frozenset(['soothing']): 3, frozenset(['clearly']): 1, frozenset(['fucked']): -4, frozenset(['casualty']): -2, frozenset(['coziness']): 2, frozenset(['violate']): -2, frozenset(['jeopardy']): -2, frozenset(['salient']): 1, frozenset(['imprisoned']): -2, frozenset(['fuck']): -4, frozenset(['distrust']): -3, frozenset(['encouragement']): 2, frozenset(['welcomed']): 2, frozenset(['', 'and', 'fear', 'uncertainty', 'doubt']): -3, frozenset(['distorting']): -2, frozenset(['hug']): 2, frozenset(['gaining']): 2, frozenset(['astounded']): 3, frozenset(['validated']): 1, frozenset(['crap']): -3, frozenset(['stubborn']): -2, frozenset(['irritated']): -3, frozenset(['hailed']): 2, frozenset(['pissed']): -4, frozenset(['frikin']): -2, frozenset(['desire']): 1, frozenset(['validating']): 1, frozenset(['poorer']): -2, frozenset(['lively']): 2, frozenset(['blissful']): 3, frozenset(['breakthrough']): 3, frozenset(['totalitarian']): -2, frozenset(['enlightens']): 2, frozenset(['terror']): -3, frozenset(['top']): 2, frozenset(['aggravates']): -2, frozenset(['solve']): 1, frozenset(['enslave']): -2, frozenset(['lifesaver']): 4, frozenset(['inconvenient']): -2, frozenset(['steal']): -2, frozenset(['wasted']): -2, frozenset(['panics']): -3, frozenset(['cares']): 2, frozenset(['disturbs']): -2, frozenset(['fond']): 2, frozenset(['damnit']): -4, frozenset(['bomb']): -1, frozenset(['interrogated']): -2, frozenset(['worth']): 2, frozenset(['significant']): 1, frozenset(['avid']): 2, frozenset(['feeling']): 1, frozenset(['looming']): -1, frozenset(['suspect']): -1, frozenset(['euphoria']): 3, frozenset(['enterprising']): 1, frozenset(['backs']): 1, frozenset(['trap']): -1, frozenset(['polluted']): -2, frozenset(['irritating']): -3, frozenset(['intact']): 2, frozenset(['smear']): -2, frozenset(['focused']): 2, frozenset(['possessive']): -2, frozenset(['spam']): -2, frozenset(['inconvenience']): -2, frozenset(['hurts']): -2, frozenset(['powerless']): -2, frozenset(['looms']): -1, frozenset(['demonstration']): -1, frozenset(['grey']): -1, frozenset(['courtesy']): 2, frozenset(['drop']): -1, frozenset(['offline']): -1, frozenset(['deniers']): -2, frozenset(['jubilant']): 3, frozenset(['violates']): -2, frozenset(['accepted']): 1, frozenset(['backed']): 1, frozenset(['wreck']): -2, frozenset(['nonsense']): -2, frozenset(['jokes']): 2, frozenset(['unstable']): -2, frozenset(['mumpish']): -2, frozenset(['robust']): 2, frozenset(['congratulation']): 2, frozenset(['manipulated']): -1, frozenset(['gloom']): -1, frozenset(['broke']): -1, frozenset(['war']): -2, frozenset(['postponed']): -1, frozenset(['stopping']): -1, frozenset(['supporters']): 1, frozenset(['avoid']): -1, frozenset(['jolly']): 2, frozenset(['unethical']): -2, frozenset(['off', 'a**', 'my', 'laughing']): 4, frozenset(['passively']): -1, frozenset(['nerves']): -1, frozenset(['greatest']): 3, frozenset(['shocking']): -2, frozenset(['alienation']): -2, frozenset(['feeble']): -2, frozenset(['tender']): 2, frozenset(['harried']): -2, frozenset(['warn']): -2, frozenset(['greeted']): 1, frozenset(['crushed']): -2, frozenset(['fuckface']): -4, frozenset(['belittle']): -2, frozenset(['beatific']): 3, frozenset(['persecuting']): -2, frozenset(['loving']): 2, frozenset(['hopeful']): 2, frozenset(['kills']): -3, frozenset(['envy']): -1, frozenset(['choke']): -2, frozenset(['agreeable']): 2, frozenset(['drowns']): -2, frozenset(['sick']): -2, frozenset(['lenient']): 1, frozenset(['awful']): -3, frozenset(['collide']): -1, frozenset(['lagged']): -2, frozenset(['resentful']): -2, frozenset(['supports']): 2, frozenset(['sleeplessness']): -2, frozenset(['swears']): -2, frozenset(['crestfallen']): -2, frozenset(['longing']): -1, frozenset(['jewel']): 1, frozenset(['miserable']): -3, frozenset(['bold']): 2, frozenset(['questionable']): -2, frozenset(['hardy']): 2, frozenset(['vile']): -3, frozenset(['wrathful']): -3, frozenset(['exploit']): -2, frozenset(['careful']): 2, frozenset(['direction', 'right']): 3, frozenset(['like']): 2, frozenset(['clear']): 1, frozenset(['envies']): -1, frozenset(['charming']): 3, frozenset(['disorder']): -2, frozenset(['restricting']): -2, frozenset(['fucker']): -4, frozenset(['na\xc3\xafve']): -2, frozenset(['degraded']): -2, frozenset(['disappoints']): -2, frozenset(['maddening']): -3, frozenset(['retard']): -2, frozenset(['criminal']): -3, frozenset(['screwed']): -2, frozenset(['stimulating']): 2, frozenset(['pardons']): 2, frozenset(['one', 'no']): -1, frozenset(['desired']): 2, frozenset(['obsessed']): 2, frozenset(['relieving']): 2, frozenset(['not', 'goodnite']): -2, frozenset(['not', 'does', 'work']): -3, frozenset(['skepticism']): -2, frozenset(['ha']): 2, frozenset(['leak']): -1, frozenset(['thank']): 2, frozenset(['childish']): -2, frozenset(['contagious']): -1, frozenset(['defect']): -3, frozenset(['crushing']): -1, frozenset(['struck']): -1, frozenset(['choked']): -2, frozenset(['drown']): -2, frozenset(['disgraced']): -2, frozenset(['combats']): -1, frozenset(['greater']): 3, frozenset(['on', 'floor', 'laughing', 'rolling', 'the', 'loud', 'out']): 4, frozenset(['dickhead']): -4, frozenset(['willingness']): 2, frozenset(['accusing']): -2, frozenset(['scornful']): -2, frozenset(['laughs']): 1, frozenset(['solemn']): -1, frozenset(['derision']): -2, frozenset(['rejected']): -1, frozenset(['accuse']): -2, frozenset(['crash']): -2, frozenset(['annoyance']): -2, frozenset(['clouded']): -1, frozenset(['glorious']): 2, frozenset(['expel']): -2, frozenset(['conciliated']): 2, frozenset(['violence']): -3, frozenset(['injustice']): -2, frozenset(['undecided']): -1, frozenset(['conciliate']): 2, frozenset(['sneaky']): -1, frozenset(['kill']): -3, frozenset(['motherfucker']): -5, frozenset(['agonising']): -3, frozenset(['delighted']): 3, frozenset(['awaited']): -1, frozenset(['diffident']): -2, frozenset(['boycotted']): -2, frozenset(['grief']): -2, frozenset(['neglects']): -2, frozenset(['murders']): -2, frozenset(['offend']): -2, frozenset(['rewards']): 2, frozenset(['underestimating']): -1, frozenset(['harmed']): -2, frozenset(['safety']): 1, frozenset(['outraged']): -3, frozenset(['on', 'off', 'floor', 'f**king', 'a**', 'laughing', 'rolling', 'the', 'my']): 4, frozenset(['struggles']): -2, frozenset(['zealots']): -2, frozenset(['hide']): -1, frozenset(['rebellion']): -2, frozenset(['underestimated']): -1, frozenset(['appreciating']): 2, frozenset(['slam']): -2, frozenset(['ill']): -2, frozenset(['ghost']): -1, frozenset(['fuming']): -2, frozenset(['wash', 'green']): -3, frozenset(['prevented']): -1, frozenset(['vindicating']): 2, frozenset(['goodness']): 3, frozenset(['derails']): -2, frozenset(['aggravating']): -2, frozenset(['subversive']): -2, frozenset(['oxymoron']): -1, frozenset(['obliterate']): -2, frozenset(['influential']): 2, frozenset(['adores']): 3, frozenset(['misunderstands']): -2, frozenset(['short-sighted']): -2, frozenset(['favorited']): 2, frozenset(['improve']): 2, frozenset(['robed']): -2, frozenset(['betrayed']): -3, frozenset(['infuriated']): -2, frozenset(['anxious']): -2, frozenset(['gallant']): 3, frozenset(['bloody']): -3, frozenset(['exuberant']): 4, frozenset(['leaked']): -1, frozenset(['applauds']): 2, frozenset(['entrusted']): 2, frozenset(['approves']): 2, frozenset(['shithead']): -4, frozenset(['cynical']): -2, frozenset(['madness']): -3, frozenset(['deluded']): -2, frozenset(['quaking']): -2, frozenset(['despair']): -3, frozenset(['prevent']): -1, frozenset(['unsophisticated']): -2, frozenset(['adventurous']): 2, frozenset(['praying']): 1, frozenset(['applause']): 2, frozenset(['niggas']): -5, frozenset(['fascinate']): 3, frozenset(['criticized']): -2, frozenset(['failed']): -2, frozenset(['misunderstanding']): -2, frozenset(['distracts']): -2, frozenset(['mischief']): -1, frozenset(['thanks']): 2, frozenset(['amazed']): 2, frozenset(['unclear']): -1, frozenset(['devastating']): -2, frozenset(['accusations']): -2, frozenset(['impress']): 3, frozenset(['like', "don't"]): -2, frozenset(['promise']): 1, frozenset(['sullen']): -2, frozenset(['disguised']): -1, frozenset(['frustrated']): -2, frozenset(['degrades']): -2, frozenset(['admit']): -1, frozenset(['worsened']): -3, frozenset(['appreciate']): 2, frozenset(['cherishing']): 2, frozenset(['condemns']): -2, frozenset(['ineffectively']): -2, frozenset(['Extremely', 'Negative']): -5, frozenset(['shortages']): -2, frozenset(['brisk']): 2, frozenset(['rant']): -3, frozenset(['winning']): 4, frozenset(['slick']): 2, frozenset(['rapturous']): 4, frozenset(['lurks']): -1, frozenset(['absolving']): 2, frozenset(['competent']): 2, frozenset(['approved']): 2, frozenset(['chagrined']): -2, frozenset(['mistakes']): -2, frozenset(['charm']): 3, frozenset(['stereotyped']): -2, frozenset(['relieved']): 2, frozenset(['murderer']): -2, frozenset(['misbehaved']): -2, frozenset(['hesitate']): -2, frozenset(['ignores']): -1, frozenset(['sceptical']): -2, frozenset(['careless']): -2, frozenset(['infuriate']): -2, frozenset(['unconvinced']): -1, frozenset(['greeting']): 1, frozenset(['work']): 3, frozenset(['calm']): 2, frozenset(['improving']): 2, frozenset(['punitive']): -2, frozenset(['wow']): 4, frozenset(['inviting']): 1, frozenset(['astound']): 3, frozenset(['whitewash']): -3, frozenset(['moans']): -2, frozenset(['treasures']): 2, frozenset(['harmful']): -2, frozenset(['indignation']): -2, frozenset(['dirt']): -2, frozenset(['insensitivity']): -2, frozenset(['snubs']): -2, frozenset(['urgent']): -1, frozenset(['true']): 2, frozenset(['destroying']): -3, frozenset(['agonized']): -3, frozenset(['animosity']): -2, frozenset(['favors']): 2, frozenset(['brightness']): 1, frozenset(['bother']): -2, frozenset(['fraudulence']): -4, frozenset(['mocks']): -2, frozenset(['cruelty']): -3, frozenset(['duplicate']): -2, frozenset(['u', 'at', 'laugh', 'you', 'loud', 'out']): 3, frozenset(['bitch']): -3, frozenset(['dolorous']): -2, frozenset(['controversial']): -2, frozenset(['fuckers']): -4, frozenset(['glamorous']): 3, frozenset(['certain']): 1, frozenset(['misery']): -2, frozenset(['prosperous']): 3, frozenset(['interrupted']): -2, frozenset(['smile']): 2, frozenset(['forgotten']): -1, frozenset(['decisive']): 1, frozenset(['passive']): -1, frozenset(['scumbag']): -4, frozenset(['harsh']): -2, frozenset(['better']): 2, frozenset(['severe']): -2, frozenset(['offends']): -2, frozenset(['cynicism']): -2, frozenset(['liar']): -3, frozenset(['marvel']): 3, frozenset(['deadlock']): -2, frozenset(['unsettled']): -1, frozenset(['demanding']): -1, frozenset(['vindicated']): 2, frozenset(['dejects']): -2, frozenset(['surviving']): 2, frozenset(['dedicated']): 2, frozenset(['isolated']): -1, frozenset(['dump']): -1, frozenset(['outcry']): -2, frozenset(['enrage']): -2, frozenset(['enraged']): -2, frozenset(['conciliating']): 2, frozenset(['restrict']): -2, frozenset(['complacent']): -2, frozenset(['cock']): -5, frozenset(['ignorance']): -2, frozenset(['fed', 'up']): -3, frozenset(['poorest']): -2, frozenset(['misgiving']): -2, frozenset(['totalitarianism']): -2, frozenset(['playful']): 2, frozenset(['gross']): -2, frozenset(['want']): 1, frozenset(['ease']): 2, frozenset(['son-of-a-bitch']): -5, frozenset(['great']): 3, frozenset(['esteemed']): 2, frozenset(['hunger']): -2, frozenset(['stall']): -2, frozenset(['honest']): 2, frozenset(['idiotic']): -3, frozenset(['revives']): 2, frozenset(['reassuring']): 2, frozenset(['panic']): -3, frozenset(['misleading']): -3, frozenset(['sparkles']): 3, frozenset(['hail']): 2, frozenset(['embarrassing']): -2, frozenset(['chastises']): -3, frozenset(['rainy']): -1, frozenset(['abandon']): -2, frozenset(['fearless']): 2, frozenset(['complain']): -2, frozenset(['revive']): 2, frozenset(['torn']): -2, frozenset(['dread']): -2, frozenset(['ineffective']): -2, frozenset(['appalling']): -2, frozenset(['incapable']): -2, frozenset(['rigorous']): 3, frozenset(['masterpiece']): 4, frozenset(['compelled']): 1, frozenset(['cheated']): -3, frozenset(['arrest']): -2, frozenset(['questioning']): -1, frozenset(['fallen']): -2, frozenset(['worst']): -3, frozenset(['resolves']): 2, frozenset(['snub']): -2, frozenset(['prospect']): 1, frozenset(['failure']): -2, frozenset(['terrible']): -3, frozenset(['failing']): -2, frozenset(['direful']): -3, frozenset(['frustrate']): -2, frozenset(['alarmed']): -2, frozenset(['detention']): -2, frozenset(['united']): 1, frozenset(['acquitted']): 2, frozenset(['adorable']): 3, frozenset(['misbehaves']): -2, frozenset(['blithe']): 2, frozenset(['committed']): 1, frozenset(['thrilled']): 5, frozenset(['apathetic']): -3, frozenset(['bully']): -2, frozenset(['doomed']): -2, frozenset(['fool']): -2, frozenset(['inquisitive']): 2, frozenset(['postponing']): -1, frozenset(['hopefully']): 2, frozenset(['visions']): 1, frozenset(['burdening']): -2, frozenset(['restricted']): -2, frozenset(['trusted']): 2, frozenset(['warfare']): -2, frozenset(['confused']): -2, frozenset(['loose']): -3, frozenset(['fire']): -2, frozenset(['hero']): 2, frozenset(['embarrassed']): -2, frozenset(['forced']): -1, frozenset(['save']): 2, frozenset(['flees']): -1, frozenset(['danger']): -2, frozenset(['erroneous']): -2, frozenset(['combat']): -1, frozenset(['benefitting']): 2, frozenset(['persecute']): -2, frozenset(['increase']): 1, frozenset(['indecisive']): -2, frozenset(['frustration']): -2, frozenset(['inspiration']): 2, frozenset(['whore']): -4, frozenset(['dumb']): -3, frozenset(['corpse']): -1, frozenset(['unappreciated']): -2, frozenset(['meaningless']): -2, frozenset(['bad']): -3, frozenset(['ache']): -2, frozenset(['sentences']): -2, frozenset(['sappy']): -1, frozenset(['mongering']): -2, frozenset(['bullying']): -2, frozenset(['flu']): -2, frozenset(['regrets']): -2, frozenset(['self-deluded']): -2, frozenset(['overselling']): -2, frozenset(['fidgety']): -2, frozenset(['racist']): -3, frozenset(['clever']): 2, frozenset(['injured']): -2, frozenset(['lurking']): -1, frozenset(['fright']): -2, frozenset(['lackadaisical']): -2, frozenset(['gullibility']): -2, frozenset(['unhappy']): -2, frozenset(['stable']): 2, frozenset(['aboard']): 1, frozenset(['ennui']): -2, frozenset(['fraudsters']): -4, frozenset(['condemnation']): -2, frozenset(['flop']): -2, frozenset(['strikes']): -1, frozenset(['insensitive']): -2, frozenset(['moan']): -2, frozenset(['overreacted']): -2, frozenset(['loom']): -1, frozenset(['insignificant']): -2, frozenset(['mourns']): -2, frozenset(['accidentally']): -2, frozenset(['abhorrent']): -3, frozenset(['banish']): -1, frozenset(['genial']): 3, frozenset(['oversimplify']): -2, frozenset(['inferior']): -2, frozenset(['calming']): 2, frozenset(['effective']): 2, frozenset(['disregarded']): -2, frozenset(['shaky']): -2, frozenset(['pushy']): -1, frozenset(['aching']): -2, frozenset(['beauties']): 3, frozenset(['adventure']): 2, frozenset(['clears']): 1, frozenset(['steals']): -2, frozenset(['cries']): -2, frozenset(['pissing']): -3, frozenset(['frustrates']): -2, frozenset(['justifiably']): 2, frozenset(['denounces']): -2, frozenset(['not', 'can', 'stand']): -3, frozenset(['blesses']): 2, frozenset(['joke']): 2, frozenset(['impressive']): 3, frozenset(['inspired']): 2, frozenset(['anxiety']): -2, frozenset(['sparkle']): 3, frozenset(['choking']): -2, frozenset(['wowow']): 4, frozenset(['lag']): -1, frozenset(['free']): 1, frozenset(['boosting']): 1, frozenset(['displeased']): -2, frozenset(['slashing']): -2, frozenset(['bored']): -2, frozenset(['refusing']): -2, frozenset(['heartbreaking']): -3, frozenset(['compassionate']): 2, frozenset(['miracle']): 4, frozenset(['join']): 1, frozenset(['tension']): -1, frozenset(['travesty']): -2, frozenset(['assfucking']): -4, frozenset(['exultant']): 3, frozenset(['active']): 1, frozenset(['seditious']): -2, frozenset(['monopolizing']): -2, frozenset(['denies']): -2, frozenset(['cheat']): -3, frozenset(['horrendous']): -3, frozenset(['vicious']): -2, frozenset(['a', 'lauging', 'loud', 'southern', 'drawl', 'with', 'out']): 3, frozenset(['pleasant']): 3, frozenset(['confusing']): -2, frozenset(['tortures']): -4, frozenset(['hypocritical']): -2, frozenset(['invite']): 1, frozenset(['jumpy']): -1, frozenset(['charmless']): -3, frozenset(['oks']): 2, frozenset(['doubted']): -1, frozenset(['proudly']): 2, frozenset(['consolable']): 2, frozenset(['kudos']): 3, frozenset(['silencing']): -1, frozenset(['distort']): -2, frozenset(['lagging']): -2, frozenset(['censors']): -2, frozenset(['slicker']): 2, frozenset(['tricked']): -2, frozenset(['apathy']): -3, frozenset(['hindrance']): -2, frozenset(['won']): 3, frozenset(['moody']): -1, frozenset(['excite']): 3, frozenset(['smarter']): 2, frozenset(['strength']): 2, frozenset(['vagina']): -5, frozenset(['celebrates']): 3, frozenset(['swearing']): -2, frozenset(['accomplished']): 2, frozenset(['aghast']): -2, frozenset(['beloved']): 3, frozenset(['protests']): -2, frozenset(['abuse']): -3, frozenset(['treasonous']): -3, frozenset(['naive']): -2, frozenset(['hardship']): -2, frozenset(['interrupts']): -2, frozenset(['chaos']): -2, frozenset(['agonizing']): -3, frozenset(['legal']): 1, frozenset(['apologises']): -1, frozenset(['explorations']): 1, frozenset(['stab']): -2, frozenset(['abandoned']): -2, frozenset(['attracts']): 1, frozenset(['resolve']): 2, frozenset(['sophisticated']): 2, frozenset(['ruins']): -2, frozenset(['vexing']): -2, frozenset(['commend']): 2, frozenset(['uncomfortable']): -2, frozenset(['agree']): 1, frozenset(['strengthens']): 2, frozenset(['provoking']): -1, frozenset(['broken']): -1, frozenset(['neglecting']): -2, frozenset(['mirthful']): 3, frozenset(['uptight']): -2, frozenset(['mope']): -1, frozenset(['admonished']): -2, frozenset(['itchy']): -2, frozenset(['contagions']): -2, frozenset(['belittled']): -2, frozenset(['destroys']): -3, frozenset(['ambivalent']): -1, frozenset(['hysterical']): -3, frozenset(['haunting']): 1, frozenset(['shit']): -4, frozenset(['eerie']): -2, frozenset(['', 'into', 'anytime', 'anywhere', 'lifetime', 'once', 'anyplace']): 3, frozenset(['benefit']): 2, frozenset(['sexy']): 3, frozenset(['beautifully']): 3, frozenset(['lethargy']): -2, frozenset(['spark']): 1, frozenset(['fuckhead']): -4, frozenset(['enslaved']): -2, frozenset(['comforts']): 2, frozenset(['smart']): 1, frozenset(['reaching']): 1, frozenset(['murder']): -2, frozenset(['celebrating']): 3, frozenset(['convinced']): 1, frozenset(['motivate']): 1, frozenset(['disappointment']): -2, frozenset(['cheater']): -3, frozenset(['leave']): -1, frozenset(['admired']): 3, frozenset(['deriding']): -2, frozenset(['deluded', 'self']): -2, frozenset(['grace']): 1, frozenset(['scapegoat']): -2, frozenset(['integrity']): 2, frozenset(['tense']): -2, frozenset(['exposing']): -1, frozenset(['deceitful']): -3, frozenset(['killing']): -3, frozenset(['rape']): -4, frozenset(['importance']): 2, frozenset(['demand']): -1, frozenset(['glum']): -2, frozenset(['dispute']): -2, frozenset(['congratulations']): 2, frozenset(['confident', 'self']): 2, frozenset(['stressed']): -2, frozenset(['rigged']): -1, frozenset(['hapless']): -2, frozenset(['parley']): -1, frozenset(['daring']): 2, frozenset(['alive']): 1, frozenset(['apologizes']): -1, frozenset(['warnings']): -3, frozenset(['sad']): -2, frozenset(['intelligent']): 2, frozenset(['prays']): 1, frozenset(['applauding']): 2, frozenset(['fake']): -3, frozenset(['punish']): -2, frozenset(['irrational']): -1, frozenset(['untarnished']): 2, frozenset(['thoughtful']): 2, frozenset(['commit']): 1, frozenset(['immobilized']): -1, frozenset(['laughed']): 1, frozenset(['enlighten']): 2, frozenset(['tragedy']): -2, frozenset(['solidarity']): 2, frozenset(['hopelessness']): -2, frozenset(['racism']): -3, frozenset(['sabotage']): -2, frozenset(['complained']): -2, frozenset(['appeases']): 2, frozenset(['infringement']): -2, frozenset(['raptures']): 2, frozenset(['wish']): 1, frozenset(['protect']): 1, frozenset(['moron']): -3, frozenset(['win']): 4, frozenset(['disaster']): -2, frozenset(['withdrawal']): -3, frozenset(['fuking']): -4, frozenset(['doubt']): -1, frozenset(['romance']): 2, frozenset(['crying']): -2, frozenset(['averted']): -1, frozenset(['breathtaking']): 5, frozenset(['collides']): -1, frozenset(['acquit']): 2, frozenset(['acrimonious']): -3, frozenset(['cigarette', 'stick']): -1, frozenset(['cruel']): -3, frozenset(['unbelieving']): -1, frozenset(['fucking']): -4, frozenset(['unstoppable']): 2, frozenset(['loathe']): -3, frozenset(['huckster']): -2, frozenset(['touted']): -2, frozenset(['promoted']): 1, frozenset(['fulfills']): 2, frozenset(['frauds']): -4, frozenset(['insecure']): -2, frozenset(['mediocrity']): -3, frozenset(['improves']): 2, frozenset(['deafening']): -1, frozenset(['condemn']): -2, frozenset(['courageous']): 2}
+Creating Unigram Model.......
+Unigram Model Created
+Creating Bigram Model.......
+Bigram Model Created
+Creating Trigram Model.......
+Trigram Model Created
+frozenset(['squelched'])
+0 0
+frozenset(['survived'])
+0 0
+frozenset(['attraction'])
+0 0
+frozenset(['f**king', 'a**', 'my', 'laughing', 'off'])
+0 0
+frozenset(['sarcastic'])
+0 0
+frozenset(['wealthy'])
+0 0
+frozenset(['perplexed'])
+0 0
+frozenset(['alarmist'])
+0 0
+frozenset(['laugh'])
+0 0
+frozenset(['attacking'])
+0 0
+frozenset(['scandalous'])
+0 0
+frozenset(['appreciation'])
+0 0
+frozenset(['snubbing'])
+0 0
+frozenset(['asset'])
+0 0
+frozenset(['woohoo'])
+0 0
+frozenset(['tits'])
+0 0
+frozenset(['lovelies'])
+0 0
+frozenset(['boosts'])
+0 0
+frozenset(['anti'])
+0 0
+frozenset(['missed'])
+0 0
+frozenset(['survivor'])
+0 0
+frozenset(['unacceptable'])
+0 0
+frozenset(['mistaken'])
+0 0
+frozenset(['merry'])
+0 0
+frozenset(['humiliated'])
+0 0
+frozenset(['heartbroken'])
+0 0
+frozenset(['apeshit'])
+0 0
+frozenset(['slashes'])
+0 0
+frozenset(['resolved'])
+0 0
+frozenset(['remarkable'])
+0 0
+frozenset(['opportunity'])
+0 0
+frozenset(['exonerating'])
+0 0
+frozenset(['peace'])
+0 0
+frozenset(['failures'])
+0 0
+frozenset(['overload'])
+0 0
+frozenset(['expels'])
+0 0
+frozenset(['mature'])
+0 0
+frozenset(['exaggerating'])
+0 0
+frozenset(['starving'])
+0 0
+frozenset(['blockbuster'])
+0 0
+frozenset(['fondness'])
+0 0
+frozenset(['enlightening'])
+0 0
+frozenset(['endorsed'])
+0 0
+frozenset(['successful'])
+0 0
+frozenset(['aggressive'])
+0 0
+frozenset(['exhilarates'])
+0 0
+frozenset(['selfish'])
+0 0
+frozenset(['verdict'])
+0 0
+frozenset(['dragged'])
+0 0
+frozenset(['faggots'])
+0 0
+frozenset(['reject'])
+0 0
+frozenset(['loathing'])
+0 0
+frozenset(['prblms'])
+0 0
+frozenset(['lost'])
+0 0
+frozenset(['threatened'])
+0 0
+frozenset(['visioning'])
+0 0
+frozenset(['irony'])
+0 0
+frozenset(['scream'])
+0 0
+frozenset(['upsets'])
+0 0
+frozenset(['sobering'])
+0 0
+frozenset(['petrified'])
+0 0
+frozenset(['luck'])
+0 0
+frozenset(['powerful'])
+0 0
+frozenset(['popular'])
+0 0
+frozenset(['festive'])
+0 0
+frozenset(['detain'])
+0 0
+frozenset(['idiot'])
+0 0
+frozenset(['vindicate'])
+0 0
+frozenset(['sadly'])
+0 0
+frozenset(['bless'])
+0 0
+frozenset(['cleaner'])
+0 0
+frozenset(['hysteria'])
+0 0
+frozenset(['miss'])
+0 0
+frozenset(['celebrate'])
+0 0
+frozenset(['refused'])
+0 0
+frozenset(['safe'])
+0 0
+frozenset(['innovate'])
+0 0
+frozenset(['motivated'])
+0 0
+frozenset(['resigns'])
+0 0
+frozenset(['terrorizes'])
+0 0
+frozenset(['tortured'])
+0 0
+frozenset(['fine'])
+0 0
+frozenset(['attracted'])
+0 0
+frozenset(['revered'])
+0 0
+frozenset(['discounted'])
+0 0
+frozenset(['penalty'])
+0 0
+frozenset(['lurk'])
+0 0
+frozenset(['swindling'])
+0 0
+frozenset(['nervous'])
+0 0
+frozenset(['empathetic'])
+0 0
+frozenset(['agreement'])
+0 0
+frozenset(['keen'])
+0 0
+frozenset(['yucky'])
+0 0
+frozenset(['commitment'])
+0 0
+frozenset(['stupid'])
+0 0
+frozenset(['appease'])
+0 0
+frozenset(['inconsiderate'])
+0 0
+frozenset(['favorites'])
+0 0
+frozenset(['trauma'])
+0 0
+frozenset(['banned'])
+0 0
+frozenset(['ranters'])
+0 0
+frozenset(['celebrated'])
+0 0
+frozenset(['Extremely-Negative'])
+0 0
+frozenset(['obliterated'])
+0 0
+frozenset(['exonerate'])
+0 0
+frozenset(['fraud'])
+0 0
+frozenset(['farce'])
+0 0
+frozenset(['encourage'])
+0 0
+frozenset(['perpetrators'])
+0 0
+frozenset(['terrified'])
+0 0
+frozenset(['uselessness'])
+0 0
+frozenset(['substantial'])
+0 0
+frozenset(['cheerful'])
+0 0
+frozenset(['nice'])
+0 0
+frozenset(['attractions'])
+0 0
+frozenset(['hysterics'])
+0 0
+frozenset(['abusive'])
+0 0
+frozenset(['anguish'])
+0 0
+frozenset(['brooding'])
+0 0
+frozenset(['enjoys'])
+0 0
+frozenset(['excluded'])
+0 0
+frozenset(['reach'])
+0 0
+frozenset(['protects'])
+0 0
+frozenset(['infuriating'])
+0 0
+frozenset(['death'])
+0 0
+frozenset(['unemployment'])
+0 0
+frozenset(['disgrace'])
+0 0
+frozenset(['cutting'])
+0 0
+frozenset(['gray'])
+0 0
+frozenset(['laughting'])
+0 0
+frozenset(['faking'])
+0 0
+frozenset(['dissatisfied'])
+0 0
+frozenset(['collapse'])
+0 0
+frozenset(['disappointed'])
+0 0
+frozenset(['negative'])
+0 0
+frozenset(['critic'])
+0 0
+frozenset(['suave'])
+0 0
+frozenset(['desirous'])
+0 0
+frozenset(['swear'])
+0 0
+frozenset(['oppressed'])
+0 0
+frozenset(['bullshit'])
+0 0
+frozenset(['nervously'])
+0 0
+frozenset(['selfishness'])
+0 0
+frozenset(['boycotting'])
+0 0
+frozenset(['convinces'])
+0 0
+frozenset(['goodnite'])
+0 0
+frozenset(['haplessness'])
+0 0
+frozenset(['bore'])
+0 0
+frozenset(['brilliant'])
+0 0
+frozenset(['dreadful'])
+0 0
+frozenset(['appalled'])
+0 0
+frozenset(['racists'])
+0 0
+frozenset(['resolving'])
+0 0
+frozenset(['exhilarating'])
+0 0
+frozenset(['goddamn'])
+0 0
+frozenset(['dipshit'])
+0 0
+frozenset(['virulent'])
+0 0
+frozenset(['advantage'])
+0 0
+frozenset(['worried'])
+0 0
+frozenset(['deceives'])
+0 0
+frozenset(['disconsolation'])
+0 0
+frozenset(['benefits'])
+0 0
+frozenset(['bothers'])
+0 0
+frozenset(['destructive'])
+0 0
+frozenset(['mindless'])
+0 0
+frozenset(['piteous'])
+0 0
+frozenset(['strikers'])
+0 0
+frozenset(['exhausted'])
+0 0
+frozenset(['hating'])
+0 0
+frozenset(['brightest'])
+0 0
+frozenset(['mourned'])
+0 0
+frozenset(['relaxed'])
+0 0
+frozenset(['falsify'])
+0 0
+frozenset(['confidence'])
+0 0
+frozenset(['prevents'])
+0 0
+frozenset(['lethargic'])
+0 0
+frozenset(['attacked'])
+0 0
+frozenset(['avert'])
+0 0
+frozenset(['walkouts'])
+0 0
+frozenset(['widowed'])
+0 0
+frozenset(['hilarious'])
+0 0
+frozenset(['cashing', 'into'])
+0 0
+frozenset(['deceit'])
+0 0
+frozenset(['bereave'])
+0 0
+frozenset(['praise'])
+0 0
+frozenset(['droopy'])
+0 0
+frozenset(['envying'])
+0 0
+frozenset(['disregards'])
+0 0
+frozenset(['joy'])
+0 0
+frozenset(['elation'])
+0 0
+frozenset(['resigning'])
+0 0
+frozenset(['rewarded'])
+0 0
+frozenset(['huge'])
+0 0
+frozenset(['fresh'])
+0 0
+frozenset(['proactive'])
+0 0
+frozenset(['walkout'])
+0 0
+frozenset(['terribly'])
+0 0
+frozenset(['', 'often', 'anytime', 'son', 'anywhere', 'bitch', 'anyplace'])
+0 0
+frozenset(['abuses'])
+0 0
+frozenset(['weak'])
+0 0
+frozenset(['sentencing'])
+0 0
+frozenset(['vulnerable'])
+0 0
+frozenset(['youthful'])
+0 0
+frozenset(['fascinated'])
+0 0
+frozenset(['alas'])
+0 0
+frozenset(['apologised'])
+0 0
+frozenset(['oversell'])
+0 0
+frozenset(['excited'])
+0 0
+frozenset(['gains'])
+0 0
+frozenset(['recommends'])
+0 0
+frozenset(['brainwashing'])
+0 0
+frozenset(['needy'])
+0 0
+frozenset(['constrained'])
+0 0
+frozenset(['yummy'])
+0 0
+frozenset(['encouraged'])
+0 0
+frozenset(['clarity'])
+0 0
+frozenset(['ignorant'])
+0 0
+frozenset(['dream'])

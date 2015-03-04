@@ -19,7 +19,6 @@ if __name__ == '__main__':
     acronymDict,stopWords,emoticonsDict = loadDictionary()
 
     priorScore=dict(map(lambda (k,v): (frozenset(reduce( lambda x,y:x+y,[[i] if i not in acronymDict else acronymDict[i][0] for i in k.split()])),int(v)),[ line.split('\t') for line in open(".//code//AFINN-111.txt") ]))
-
     
     """create Unigram Model"""
     print "Creating Unigram Model......."

@@ -9,7 +9,7 @@ def main():
 
     """check arguments"""
     if len(sys.argv)!= 4:                                                                               
-        print "Usage :: python extractData pathOfInputFileName outputFileName"
+        print "Usage :: python extractData pathOfInputFileName outputFileName tempFileToHoldTweetForNlpTagger"
         sys.exit(0)
 
     """Cherry Pick"""

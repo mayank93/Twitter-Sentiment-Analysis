@@ -1,0 +1,19 @@
+Commands to install prerequisites in ubuntu 14.04:
+
+#To install python
+$sudo apt-get install python
+
+#To install java
+$sudo apt-get install openjdk-7-jdk
+
+#To install pip
+sudo apt-get install python-pip
+
+#To install python-dev
+sudo apt-get install python-dev
+
+#To install sentiment_classifier, NLTK, Numpy, SentiWordNet
+sudo pip install sentiment_classifier
+
+#To install libsvm
+sudo apt-get install python-libsvm

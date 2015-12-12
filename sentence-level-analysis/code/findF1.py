@@ -59,7 +59,7 @@ if __name__ == '__main__':
 
     precisionPositive = truePPositive/float(countPositiveP)
     precisionNegative = truePNegative/float(countNegativeP)
-    #precisionNeutral = truePNeutral/float(countNeutralP)
+    precisionNeutral = truePNeutral/float(countNeutralP)
 
     recallPositive = truePPositive/float(countPositiveA)
     recallNegative = truePNegative/float(countNegativeA)

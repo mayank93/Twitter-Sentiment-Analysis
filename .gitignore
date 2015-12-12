@@ -1,0 +1,5 @@
+#ignore log files
+*.log
+
+#ignore swap files
+*.swp
